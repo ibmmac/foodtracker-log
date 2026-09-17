@@ -1,0 +1,36 @@
+{
+  "id": "sardines",
+  "name": "Great Value Sardines in Water",
+  "brand": "Great Value / Walmart",
+  "amount_eaten": "1 can drained",
+  "servings_eaten": 1,
+  "serving_size": "1 can drained (74g)",
+  "net_weight": "3.75 OZ (106g)",
+  "barcode": "078742237855",
+  "barcode_format": "UPC-A",
+  "photo": "sardines.jpg",
+  "nutrition_per_serving": {
+    "calories": 100,
+    "total_fat_g": 4.5,
+    "saturated_fat_g": 1.5,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 75,
+    "sodium_mg": 300,
+    "total_carbohydrate_g": 0,
+    "dietary_fiber_g": 0,
+    "total_sugars_g": 0,
+    "protein_g": 16,
+    "calcium_mg": 380,
+    "iron_mg": 1.9,
+    "potassium_mg": 110,
+    "vitamin_d_mcg": 12
+  },
+  "logged": {
+    "calories": 100,
+    "protein_g": 16,
+    "carbs_g": 0,
+    "fat_g": 4.5
+  },
+  "source": "label_lookup",
+  "ingredients": "Sardines, water, salt"
+}

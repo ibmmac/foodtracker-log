@@ -1,0 +1,239 @@
+{
+  "date": "2026-09-17",
+  "timezone": "America/New_York",
+  "totals": {
+    "calories": 1290,
+    "protein_g": 72,
+    "carbs_g": 106,
+    "fat_g": 64.5
+  },
+  "items": [
+    {
+      "id": "easy-eggs",
+      "name": "Easy Eggs Peeled Hard Cooked Eggs",
+      "brand": "Easy Eggs / Michael Foods",
+      "amount_eaten": "4 eggs",
+      "servings_eaten": 4,
+      "serving_size": "1 egg (44g)",
+      "servings_per_container": 6,
+      "net_weight": "9.3 OZ (264g)",
+      "barcode": "046025202462",
+      "barcode_format": "UPC-A",
+      "photo": "photos/easy-eggs.jpg",
+      "nutrition_per_serving": {
+        "calories": 60,
+        "total_fat_g": 4,
+        "saturated_fat_g": 1.5,
+        "trans_fat_g": 0,
+        "cholesterol_mg": 185,
+        "sodium_mg": 60,
+        "total_carbohydrate_g": 0,
+        "dietary_fiber_g": 0,
+        "total_sugars_g": 0,
+        "added_sugars_g": 0,
+        "protein_g": 6
+      },
+      "logged": {
+        "calories": 240,
+        "protein_g": 24,
+        "carbs_g": 0,
+        "fat_g": 16
+      },
+      "source": "label",
+      "ingredients": "Eggs"
+    },
+    {
+      "id": "galbani-cheese",
+      "name": "Galbani Reduced Fat Cheese Sticks",
+      "brand": "Galbani / Lactalis American Group",
+      "amount_eaten": "2 sticks",
+      "servings_eaten": 2,
+      "serving_size": "1 stick",
+      "barcode": "074030656209",
+      "barcode_format": "UPC-A",
+      "photo": "photos/galbani-cheese.jpg",
+      "nutrition_per_serving": {
+        "calories": 60,
+        "total_fat_g": 4,
+        "protein_g": 6,
+        "total_sugars_g": 0,
+        "total_carbohydrate_g": 0,
+        "calcium_mg": 175,
+        "notes": "Calories derived from label macros (4g fat + 6g protein)"
+      },
+      "logged": {
+        "calories": 120,
+        "protein_g": 12,
+        "carbs_g": 0,
+        "fat_g": 8
+      },
+      "source": "label",
+      "ingredients": "Pasteurized milk, salt, cheese cultures, enzymes, vitamin A palmitate"
+    },
+    {
+      "id": "potato-salad",
+      "name": "Wellsley Farms Homestyle Potato Salad",
+      "brand": "Wellsley Farms / BJ's Wholesale Club",
+      "amount_eaten": "1 serving",
+      "servings_eaten": 1,
+      "serving_size": "2/3 cup (140g)",
+      "servings_per_container": 10,
+      "net_weight": "48 oz (3 lb) 1.36kg",
+      "barcode": null,
+      "barcode_status": "not_visible_on_photo",
+      "photo": "photos/potato-salad.jpg",
+      "nutrition_per_serving": {
+        "calories": 190,
+        "total_fat_g": 10,
+        "saturated_fat_g": 1.5,
+        "trans_fat_g": 0,
+        "cholesterol_mg": 5,
+        "sodium_mg": 690,
+        "total_carbohydrate_g": 22,
+        "dietary_fiber_g": 3,
+        "total_sugars_g": 7,
+        "added_sugars_g": 5,
+        "protein_g": 2
+      },
+      "logged": {
+        "calories": 190,
+        "protein_g": 2,
+        "carbs_g": 22,
+        "fat_g": 10
+      },
+      "source": "label",
+      "use_by": "2026-09-27"
+    },
+    {
+      "id": "aegean-pasta",
+      "name": "Wellsley Farms Aegean Greek Pasta",
+      "brand": "Wellsley Farms / BJ's Wholesale Club",
+      "amount_eaten": "1 serving",
+      "servings_eaten": 1,
+      "serving_size": "3/4 cup (123g)",
+      "servings_per_container": 7.5,
+      "net_weight": "32 OZ (2 LB) 907g",
+      "barcode": null,
+      "barcode_status": "not_visible_on_photo",
+      "photo": "photos/aegean-pasta.jpg",
+      "nutrition_per_serving": {
+        "calories": 390,
+        "total_fat_g": 17,
+        "saturated_fat_g": 4,
+        "trans_fat_g": 0,
+        "cholesterol_mg": 10,
+        "sodium_mg": 480,
+        "total_carbohydrate_g": 49,
+        "dietary_fiber_g": 2,
+        "total_sugars_g": 4,
+        "added_sugars_g": 0,
+        "protein_g": 11
+      },
+      "logged": {
+        "calories": 390,
+        "protein_g": 11,
+        "carbs_g": 49,
+        "fat_g": 17
+      },
+      "source": "label",
+      "use_by": "2026-09-24"
+    },
+    {
+      "id": "dole-fruit",
+      "name": "Dole Fruit Bowls Snacks",
+      "brand": "Dole",
+      "amount_eaten": "2 cups",
+      "servings_eaten": 2,
+      "serving_size": "1 cup (113g)",
+      "servings_per_container": 20,
+      "barcode": null,
+      "barcode_status": "not_visible_on_photo",
+      "photo": "photos/dole-fruit.jpg",
+      "nutrition_per_serving": {
+        "calories": 70,
+        "total_fat_g": 0,
+        "cholesterol_mg": 0,
+        "sodium_mg": 0,
+        "total_carbohydrate_g": 16,
+        "dietary_fiber_g": 1,
+        "total_sugars_g": 14,
+        "added_sugars_g": 0,
+        "protein_g": 1
+      },
+      "logged": {
+        "calories": 140,
+        "protein_g": 2,
+        "carbs_g": 32,
+        "fat_g": 0
+      },
+      "source": "label"
+    },
+    {
+      "id": "sardines",
+      "name": "Great Value Sardines in Water",
+      "brand": "Great Value / Walmart",
+      "amount_eaten": "1 can drained",
+      "servings_eaten": 1,
+      "serving_size": "1 can drained (74g)",
+      "net_weight": "3.75 OZ (106g)",
+      "barcode": "078742237855",
+      "barcode_format": "UPC-A",
+      "photo": "photos/sardines.jpg",
+      "nutrition_per_serving": {
+        "calories": 100,
+        "total_fat_g": 4.5,
+        "saturated_fat_g": 1.5,
+        "trans_fat_g": 0,
+        "cholesterol_mg": 75,
+        "sodium_mg": 300,
+        "total_carbohydrate_g": 0,
+        "dietary_fiber_g": 0,
+        "total_sugars_g": 0,
+        "protein_g": 16,
+        "calcium_mg": 380,
+        "iron_mg": 1.9,
+        "potassium_mg": 110,
+        "vitamin_d_mcg": 12
+      },
+      "logged": {
+        "calories": 100,
+        "protein_g": 16,
+        "carbs_g": 0,
+        "fat_g": 4.5
+      },
+      "source": "label_lookup",
+      "ingredients": "Sardines, water, salt"
+    },
+    {
+      "id": "teriyaki-beef-stick",
+      "name": "Teriyaki beef stick",
+      "brand": "Unknown (estimated as Jack Link's Teriyaki style)",
+      "amount_eaten": "1 stick",
+      "servings_eaten": 1,
+      "serving_size": "1 stick (~0.92 oz / 26g)",
+      "barcode": null,
+      "barcode_status": "no_photo",
+      "photo": null,
+      "nutrition_per_serving": {
+        "calories": 110,
+        "total_fat_g": 9,
+        "saturated_fat_g": 4,
+        "trans_fat_g": 0,
+        "cholesterol_mg": 20,
+        "sodium_mg": 390,
+        "total_carbohydrate_g": 3,
+        "total_sugars_g": 2,
+        "added_sugars_g": 2,
+        "protein_g": 5
+      },
+      "logged": {
+        "calories": 110,
+        "protein_g": 5,
+        "carbs_g": 3,
+        "fat_g": 9
+      },
+      "source": "estimate",
+      "notes": "No package photo; values from common Jack Link's Teriyaki Beef Stick (0.92 oz)"
+    }
+  ]
+}

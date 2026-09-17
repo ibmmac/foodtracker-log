@@ -1,0 +1,28 @@
+{
+  "id": "galbani-cheese",
+  "name": "Galbani Reduced Fat Cheese Sticks",
+  "brand": "Galbani / Lactalis American Group",
+  "amount_eaten": "2 sticks",
+  "servings_eaten": 2,
+  "serving_size": "1 stick",
+  "barcode": "074030656209",
+  "barcode_format": "UPC-A",
+  "photo": "galbani-cheese.jpg",
+  "nutrition_per_serving": {
+    "calories": 60,
+    "total_fat_g": 4,
+    "protein_g": 6,
+    "total_sugars_g": 0,
+    "total_carbohydrate_g": 0,
+    "calcium_mg": 175,
+    "notes": "Calories derived from label macros (4g fat + 6g protein)"
+  },
+  "logged": {
+    "calories": 120,
+    "protein_g": 12,
+    "carbs_g": 0,
+    "fat_g": 8
+  },
+  "source": "label",
+  "ingredients": "Pasteurized milk, salt, cheese cultures, enzymes, vitamin A palmitate"
+}
