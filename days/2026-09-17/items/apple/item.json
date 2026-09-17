@@ -8,8 +8,7 @@
   "barcode": "888670053638",
   "barcode_format": "UPC-A",
   "bj_number": "100383",
-  "photo": "apple-barcode.jpg",
-  "barcode_photo": "apple-barcode.jpg",
+  "photo": "apple.jpg",
   "nutrition_per_serving": {
     "calories": 95,
     "total_fat_g": 0.3,
@@ -28,5 +27,12 @@
     "carbs_g": 25,
     "fat_g": 0.3
   },
-  "source": "usda_estimate"
+  "source": "usda_estimate",
+  "photo_credit": {
+    "source": "Wikimedia Commons / National Cancer Institute",
+    "author": "Renee Comet",
+    "license": "Public domain (U.S. federal government / NIH)",
+    "url": "https://commons.wikimedia.org/wiki/File:Apple_(1).jpg",
+    "note": "Stock photo from the internet; user package photo not used"
+  }
 }

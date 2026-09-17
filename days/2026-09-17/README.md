@@ -19,7 +19,7 @@
 | [Dole Fruit Bowls Snacks](items/dole-fruit/) | 2 cups | `038900772208` | 140 | 2 | 32 | 0 | [photo](photos/dole-fruit.jpg) |
 | [Great Value Sardines in Water](items/sardines/) | 1 can drained | `078742237855` | 100 | 16 | 0 | 4.5 | [photo](photos/sardines.jpg) |
 | [Teriyaki beef stick](items/teriyaki-beef-stick/) | 1 stick | `no_photo` | 110 | 5 | 3 | 9 | — |
-| [Apple (bagged)](items/apple/) | 1 medium apple | `888670053638` | 95 | 0.5 | 25 | 0.3 | [photo](photos/apple-barcode.jpg) |
+| [Apple (bagged)](items/apple/) | 1 medium apple | `888670053638` | 95 | 0.5 | 25 | 0.3 | [photo](photos/apple.jpg) |
 
 ## Item details
 
@@ -43,6 +43,9 @@
 | Dietary fiber | 0 g |
 | Total sugars | 0 g |
 | Sodium | 60 mg |
+| Saturated fat | 1.5 g |
+| Cholesterol | 185 mg |
+| Added sugars | 0 g |
 
 **Logged for this meal:** 240 kcal · P 24g · C 0g · F 16g
 
@@ -92,6 +95,9 @@ Machine-readable: [`items/galbani-cheese/item.json`](items/galbani-cheese/item.j
 | Dietary fiber | 3 g |
 | Total sugars | 7 g |
 | Sodium | 690 mg |
+| Saturated fat | 1.5 g |
+| Cholesterol | 5 mg |
+| Added sugars | 5 g |
 
 **Logged for this meal:** 190 kcal · P 2g · C 22g · F 10g
 
@@ -118,6 +124,9 @@ Machine-readable: [`items/potato-salad/item.json`](items/potato-salad/item.json)
 | Dietary fiber | 2 g |
 | Total sugars | 4 g |
 | Sodium | 480 mg |
+| Saturated fat | 4 g |
+| Cholesterol | 10 mg |
+| Added sugars | 0 g |
 
 **Logged for this meal:** 390 kcal · P 11g · C 49g · F 17g
 
@@ -144,6 +153,8 @@ Machine-readable: [`items/aegean-pasta/item.json`](items/aegean-pasta/item.json)
 | Dietary fiber | 1 g |
 | Total sugars | 14 g |
 | Sodium | 0 mg |
+| Cholesterol | 0 mg |
+| Added sugars | 0 g |
 
 **Logged for this meal:** 140 kcal · P 2g · C 32g · F 0g
 
@@ -169,7 +180,8 @@ Machine-readable: [`items/dole-fruit/item.json`](items/dole-fruit/item.json)
 | Dietary fiber | 0 g |
 | Total sugars | 0 g |
 | Sodium | 300 mg |
-| Potassium | 110 mg |
+| Saturated fat | 1.5 g |
+| Cholesterol | 75 mg |
 
 **Logged for this meal:** 100 kcal · P 16g · C 0g · F 4.5g
 
@@ -193,6 +205,9 @@ Machine-readable: [`items/sardines/item.json`](items/sardines/item.json)
 | Total fat | 9 g |
 | Total sugars | 2 g |
 | Sodium | 390 mg |
+| Saturated fat | 4 g |
+| Cholesterol | 20 mg |
+| Added sugars | 2 g |
 
 **Logged for this meal:** 110 kcal · P 5g · C 3g · F 9g
 
@@ -205,8 +220,8 @@ Machine-readable: [`items/teriyaki-beef-stick/item.json`](items/teriyaki-beef-st
 - **Serving size:** 1 medium apple (~182g) with skin
 - **Barcode:** `888670053638`
 - **Source:** usda_estimate
-- **Photo:** ![apple](photos/apple-barcode.jpg)
-- **Barcode photo:** same as photo above
+- **Photo:** ![apple](photos/apple.jpg)
+- **Photo credit:** Renee Comet — Wikimedia Commons / National Cancer Institute (Public domain (U.S. federal government / NIH))
 
 **Nutrition per label/reference serving**
 
@@ -219,8 +234,6 @@ Machine-readable: [`items/teriyaki-beef-stick/item.json`](items/teriyaki-beef-st
 | Dietary fiber | 4.4 g |
 | Total sugars | 18.9 g |
 | Sodium | 2 mg |
-| Potassium | 195 mg |
-| Vitamin C | 8.4 mg |
 
 **Logged for this meal:** 95 kcal · P 0.5g · C 25g · F 0.3g
 
