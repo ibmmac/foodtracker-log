@@ -2,7 +2,11 @@
 
 **Timezone:** America/New_York
 
+**Daily goal:** 1500 kcal
+
 **Daily total:** 1385 kcal · Protein 72.5g · Carbs 131g · Fat 64.8g
+
+**Left:** 115 kcal (**7.7%** of goal remaining) · 92.3% used
 
 ## Foods logged
 

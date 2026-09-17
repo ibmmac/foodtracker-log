@@ -5,7 +5,10 @@
     "calories": 1385,
     "protein_g": 72.5,
     "carbs_g": 131,
-    "fat_g": 64.8
+    "fat_g": 64.8,
+    "remaining_kcal": 115,
+    "percent_goal_remaining": 7.7,
+    "percent_goal_used": 92.3
   },
   "items": [
     {
@@ -270,5 +273,6 @@
       },
       "source": "usda_estimate"
     }
-  ]
+  ],
+  "goal_kcal": 1500
 }

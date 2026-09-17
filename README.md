@@ -11,6 +11,10 @@ Private daily food diary. Each day lives under `days/YYYY-MM-DD/` with:
 
 UPC-A barcodes are stored on each item when visible on the package photo. Missing barcodes are marked in `item.json` as `barcode_status`.
 
+## Goal
+
+Default daily calorie goal: **1500 kcal**. Each day README shows calories left and % of goal remaining.
+
 ## Latest day
 
 See [days/2026-09-17/](days/2026-09-17/).
