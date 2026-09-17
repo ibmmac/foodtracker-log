@@ -74,7 +74,7 @@ Machine-readable: [`items/galbani-cheese/item.json`](items/galbani-cheese/item.j
 - **Brand:** Wellsley Farms / BJ's Wholesale Club
 - **Amount eaten:** 1 serving
 - **Serving size:** 2/3 cup (140g)
-- **Barcode:** `038900772208`
+- **Barcode:** `not_visible_on_photo`
 - **Source:** label
 - **Photo:** ![potato-salad](photos/potato-salad.jpg)
 
@@ -130,7 +130,7 @@ Machine-readable: [`items/aegean-pasta/item.json`](items/aegean-pasta/item.json)
 - **Brand:** Dole
 - **Amount eaten:** 2 cups
 - **Serving size:** 1 cup (113g)
-- **Barcode:** `not_visible_on_photo`
+- **Barcode:** `038900772208`
 - **Source:** label
 - **Photo:** ![dole-fruit](photos/dole-fruit.jpg)
 - **Barcode photo:** ![dole-fruit-barcode](photos/dole-fruit-barcode.jpg)
