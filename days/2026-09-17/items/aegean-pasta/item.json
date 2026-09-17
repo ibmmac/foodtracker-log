@@ -7,8 +7,7 @@
   "serving_size": "3/4 cup (123g)",
   "servings_per_container": 7.5,
   "net_weight": "32 OZ (2 LB) 907g",
-  "barcode": null,
-  "barcode_status": "not_visible_on_photo",
+  "barcode": "888670012901",
   "photo": "aegean-pasta.jpg",
   "nutrition_per_serving": {
     "calories": 390,
@@ -30,5 +29,7 @@
     "fat_g": 17
   },
   "source": "label",
-  "use_by": "2026-09-24"
+  "use_by": "2026-09-24",
+  "barcode_format": "UPC-A",
+  "barcode_photo": "aegean-pasta-barcode.jpg"
 }

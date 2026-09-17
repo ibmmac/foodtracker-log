@@ -10,8 +10,8 @@
 |------|--------|---------|------|---|---|---|-------|
 | [Easy Eggs Peeled Hard Cooked Eggs](items/easy-eggs/) | 4 eggs | `046025202462` | 240 | 24 | 0 | 16 | [photo](photos/easy-eggs.jpg) |
 | [Galbani Reduced Fat Cheese Sticks](items/galbani-cheese/) | 2 sticks | `074030656209` | 120 | 12 | 0 | 8 | [photo](photos/galbani-cheese.jpg) |
-| [Wellsley Farms Homestyle Potato Salad](items/potato-salad/) | 1 serving | `not_visible_on_photo` | 190 | 2 | 22 | 10 | [photo](photos/potato-salad.jpg) |
-| [Wellsley Farms Aegean Greek Pasta](items/aegean-pasta/) | 1 serving | `not_visible_on_photo` | 390 | 11 | 49 | 17 | [photo](photos/aegean-pasta.jpg) |
+| [Wellsley Farms Homestyle Potato Salad](items/potato-salad/) | 1 serving | `888670012864` | 190 | 2 | 22 | 10 | [photo](photos/potato-salad.jpg) |
+| [Wellsley Farms Aegean Greek Pasta](items/aegean-pasta/) | 1 serving | `888670012901` | 390 | 11 | 49 | 17 | [photo](photos/aegean-pasta.jpg) |
 | [Dole Fruit Bowls Snacks](items/dole-fruit/) | 2 cups | `038900772208` | 140 | 2 | 32 | 0 | [photo](photos/dole-fruit.jpg) |
 | [Great Value Sardines in Water](items/sardines/) | 1 can drained | `078742237855` | 100 | 16 | 0 | 4.5 | [photo](photos/sardines.jpg) |
 | [Teriyaki beef stick](items/teriyaki-beef-stick/) | 1 stick | `no_photo` | 110 | 5 | 3 | 9 | — |
@@ -74,9 +74,10 @@ Machine-readable: [`items/galbani-cheese/item.json`](items/galbani-cheese/item.j
 - **Brand:** Wellsley Farms / BJ's Wholesale Club
 - **Amount eaten:** 1 serving
 - **Serving size:** 2/3 cup (140g)
-- **Barcode:** `not_visible_on_photo`
+- **Barcode:** `888670012864`
 - **Source:** label
 - **Photo:** ![potato-salad](photos/potato-salad.jpg)
+- **Barcode photo:** ![potato-salad-barcode](photos/potato-salad-barcode.jpg)
 
 **Nutrition per label serving**
 
@@ -102,9 +103,10 @@ Machine-readable: [`items/potato-salad/item.json`](items/potato-salad/item.json)
 - **Brand:** Wellsley Farms / BJ's Wholesale Club
 - **Amount eaten:** 1 serving
 - **Serving size:** 3/4 cup (123g)
-- **Barcode:** `not_visible_on_photo`
+- **Barcode:** `888670012901`
 - **Source:** label
 - **Photo:** ![aegean-pasta](photos/aegean-pasta.jpg)
+- **Barcode photo:** ![aegean-pasta-barcode](photos/aegean-pasta-barcode.jpg)
 
 **Nutrition per label serving**
 

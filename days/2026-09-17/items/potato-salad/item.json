@@ -7,8 +7,7 @@
   "serving_size": "2/3 cup (140g)",
   "servings_per_container": 10,
   "net_weight": "48 oz (3 lb) 1.36kg",
-  "barcode": null,
-  "barcode_status": "not_visible_on_photo",
+  "barcode": "888670012864",
   "photo": "potato-salad.jpg",
   "nutrition_per_serving": {
     "calories": 190,
@@ -30,5 +29,7 @@
     "fat_g": 10
   },
   "source": "label",
-  "use_by": "2026-09-27"
+  "use_by": "2026-09-27",
+  "barcode_format": "UPC-A",
+  "barcode_photo": "potato-salad-barcode.jpg"
 }
