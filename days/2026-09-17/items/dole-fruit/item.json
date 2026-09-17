@@ -27,5 +27,14 @@
   },
   "source": "label",
   "barcode_format": "UPC-A",
-  "barcode_photo": "dole-fruit-barcode.jpg"
+  "barcode_photo": "dole-fruit-barcode.jpg",
+  "photo_credit": {
+    "source": "Walmart product image CDN",
+    "retailer": "Walmart",
+    "url": "https://www.upcitemdb.com/upc/038900772208",
+    "image_url": "https://i5.walmartimages.com/asr/c8276278-b624-46a3-a6de-c7be9fc683af.31ce6d4117d48533a0f0b42152aa451b.jpeg",
+    "also_listed": "https://www.barcodelookup.com/038900772208",
+    "license": "Retailer product listing image; used for personal food log reference",
+    "note": "Dole Fruit Bowls Cherry Mixed Fruit in 100% Juice, 20 x 4 oz cups / UPC 038900772208"
+  }
 }

@@ -32,5 +32,13 @@
     "fat_g": 4.5
   },
   "source": "label_lookup",
-  "ingredients": "Sardines, water, salt"
+  "ingredients": "Sardines, water, salt",
+  "photo_credit": {
+    "source": "Walmart product SEO image CDN",
+    "retailer": "Walmart",
+    "url": "https://www.walmart.com/ip/Great-Value-Sardines-in-Water-3-75-oz/",
+    "image_url": "https://i5.walmartimages.com/seo/Great-Value-Sardines-in-Water-3-75-oz_01773f2d-c2d5-4771-9d57-9ad2a7b64d00.f4bd95695d447cfff625b8ea32f13b35.jpeg",
+    "license": "Retailer product listing image; used for personal food log reference",
+    "note": "Great Value Sardines in Water 3.75 oz / UPC 078742237855"
+  }
 }

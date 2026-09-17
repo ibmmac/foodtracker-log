@@ -24,5 +24,13 @@
     "fat_g": 8
   },
   "source": "label",
-  "ingredients": "Pasteurized milk, salt, cheese cultures, enzymes, vitamin A palmitate"
+  "ingredients": "Pasteurized milk, salt, cheese cultures, enzymes, vitamin A palmitate",
+  "photo_credit": {
+    "source": "BJ's Wholesale Club product image CDN (Scene7)",
+    "retailer": "BJ's Wholesale Club",
+    "url": "https://www.bjs.com/product/galbani-33-more-protein-reduced-fat-mozzarella-string-cheese-30-ct/3000000000001567267/",
+    "image_url": "https://bjs.scene7.com/is/image/bjs/216084",
+    "license": "Retailer product listing image; used for personal food log reference",
+    "note": "Galbani Reduced Fat Mozzarella String Cheese 30 oz / UPC 074030656209"
+  }
 }

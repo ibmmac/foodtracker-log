@@ -1,6 +1,6 @@
 {
   "id": "apple",
-  "name": "Apple (bagged)",
+  "name": "Wellsley Farms Gala Apples",
   "brand": "Wellsley Farms / BJ's Wholesale Club",
   "amount_eaten": "1 medium apple",
   "servings_eaten": 1,
@@ -29,10 +29,12 @@
   },
   "source": "usda_estimate",
   "photo_credit": {
-    "source": "Wikimedia Commons / National Cancer Institute",
-    "author": "Renee Comet",
-    "license": "Public domain (U.S. federal government / NIH)",
-    "url": "https://commons.wikimedia.org/wiki/File:Apple_(1).jpg",
-    "note": "Stock photo from the internet; user package photo not used"
+    "source": "BJ's Wholesale Club product image CDN (Scene7)",
+    "retailer": "BJ's Wholesale Club",
+    "url": "https://www.bjs.com/product/wellsley-farms-gala-apples-5-lbs/3000000000000900174/",
+    "image_url": "https://bjs.scene7.com/is/image/bjs/100383?$bjs-Zoom$",
+    "bj_number": "100383",
+    "license": "Retailer product listing image; used for personal food log reference",
+    "note": "Wellsley Farms Gala Apples 5 lbs / UPC 888670053638 (BJ# 100383)"
   }
 }

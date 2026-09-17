@@ -30,5 +30,13 @@
     "fat_g": 16
   },
   "source": "label",
-  "ingredients": "Eggs"
+  "ingredients": "Eggs",
+  "photo_credit": {
+    "source": "GFI Foods product catalog (Michael Foods Easy Eggs)",
+    "retailer": "GFI Foods",
+    "url": "https://www.gfifoods.com/202462-easy-eggs",
+    "image_url": "https://www.gfifoods.com/media/catalog/product/6/p/6pack_20250410_1626845_g633rxe1vhnchzbw.jpg",
+    "license": "Retailer/distributor product listing image; used for personal food log reference",
+    "note": "Official product package image for Easy Eggs Peeled Hard Cooked Eggs 9.3 oz / UPC 046025202462"
+  }
 }

@@ -43,7 +43,15 @@
         "fat_g": 16
       },
       "source": "label",
-      "ingredients": "Eggs"
+      "ingredients": "Eggs",
+      "photo_credit": {
+        "source": "GFI Foods product catalog (Michael Foods Easy Eggs)",
+        "retailer": "GFI Foods",
+        "url": "https://www.gfifoods.com/202462-easy-eggs",
+        "image_url": "https://www.gfifoods.com/media/catalog/product/6/p/6pack_20250410_1626845_g633rxe1vhnchzbw.jpg",
+        "license": "Retailer/distributor product listing image; used for personal food log reference",
+        "note": "Official product package image for Easy Eggs Peeled Hard Cooked Eggs 9.3 oz / UPC 046025202462"
+      }
     },
     {
       "id": "galbani-cheese",
@@ -71,7 +79,15 @@
         "fat_g": 8
       },
       "source": "label",
-      "ingredients": "Pasteurized milk, salt, cheese cultures, enzymes, vitamin A palmitate"
+      "ingredients": "Pasteurized milk, salt, cheese cultures, enzymes, vitamin A palmitate",
+      "photo_credit": {
+        "source": "BJ's Wholesale Club product image CDN (Scene7)",
+        "retailer": "BJ's Wholesale Club",
+        "url": "https://www.bjs.com/product/galbani-33-more-protein-reduced-fat-mozzarella-string-cheese-30-ct/3000000000001567267/",
+        "image_url": "https://bjs.scene7.com/is/image/bjs/216084",
+        "license": "Retailer product listing image; used for personal food log reference",
+        "note": "Galbani Reduced Fat Mozzarella String Cheese 30 oz / UPC 074030656209"
+      }
     },
     {
       "id": "potato-salad",
@@ -106,7 +122,16 @@
       "source": "label",
       "use_by": "2026-09-27",
       "barcode_format": "UPC-A",
-      "barcode_photo": "photos/potato-salad-barcode.jpg"
+      "barcode_photo": "photos/potato-salad-barcode.jpg",
+      "photo_credit": {
+        "source": "BJ's Wholesale Club product image CDN (Scene7)",
+        "retailer": "BJ's Wholesale Club",
+        "url": "https://bjs.scene7.com/is/image/bjs/23078",
+        "image_url": "https://bjs.scene7.com/is/image/bjs/23078?$bjs-Zoom$",
+        "bj_number": "23078",
+        "license": "Retailer product listing image; used for personal food log reference",
+        "note": "Wellsley Farms Homestyle Potato Salad 48 oz / UPC 888670012864 (BJ# 23078)"
+      }
     },
     {
       "id": "aegean-pasta",
@@ -141,7 +166,15 @@
       "source": "label",
       "use_by": "2026-09-24",
       "barcode_format": "UPC-A",
-      "barcode_photo": "photos/aegean-pasta-barcode.jpg"
+      "barcode_photo": "photos/aegean-pasta-barcode.jpg",
+      "photo_credit": {
+        "source": "Instacart product listing image",
+        "retailer": "Instacart / BJ's Wholesale Club",
+        "url": "https://www.instacart.com/products/2724539-wellsley-farms-aegean-greek-pasta-32-oz",
+        "image_url": "https://www.instacart.com/image-server/1200x1200/www.instacart.com/assets/domains/product-image/file/large_8167bc50-83ad-4e30-8d68-ecfb89fd8be5.jpeg",
+        "license": "Retailer/grocery delivery product listing image; used for personal food log reference",
+        "note": "Wellsley Farms Aegean Greek Pasta 32 oz / UPC 888670012901"
+      }
     },
     {
       "id": "dole-fruit",
@@ -172,7 +205,16 @@
       },
       "source": "label",
       "barcode_format": "UPC-A",
-      "barcode_photo": "photos/dole-fruit-barcode.jpg"
+      "barcode_photo": "photos/dole-fruit-barcode.jpg",
+      "photo_credit": {
+        "source": "Walmart product image CDN",
+        "retailer": "Walmart",
+        "url": "https://www.upcitemdb.com/upc/038900772208",
+        "image_url": "https://i5.walmartimages.com/asr/c8276278-b624-46a3-a6de-c7be9fc683af.31ce6d4117d48533a0f0b42152aa451b.jpeg",
+        "also_listed": "https://www.barcodelookup.com/038900772208",
+        "license": "Retailer product listing image; used for personal food log reference",
+        "note": "Dole Fruit Bowls Cherry Mixed Fruit in 100% Juice, 20 x 4 oz cups / UPC 038900772208"
+      }
     },
     {
       "id": "sardines",
@@ -208,7 +250,15 @@
         "fat_g": 4.5
       },
       "source": "label_lookup",
-      "ingredients": "Sardines, water, salt"
+      "ingredients": "Sardines, water, salt",
+      "photo_credit": {
+        "source": "Walmart product SEO image CDN",
+        "retailer": "Walmart",
+        "url": "https://www.walmart.com/ip/Great-Value-Sardines-in-Water-3-75-oz/",
+        "image_url": "https://i5.walmartimages.com/seo/Great-Value-Sardines-in-Water-3-75-oz_01773f2d-c2d5-4771-9d57-9ad2a7b64d00.f4bd95695d447cfff625b8ea32f13b35.jpeg",
+        "license": "Retailer product listing image; used for personal food log reference",
+        "note": "Great Value Sardines in Water 3.75 oz / UPC 078742237855"
+      }
     },
     {
       "id": "teriyaki-beef-stick",
@@ -243,7 +293,7 @@
     },
     {
       "id": "apple",
-      "name": "Apple (bagged)",
+      "name": "Wellsley Farms Gala Apples",
       "brand": "Wellsley Farms / BJ's Wholesale Club",
       "amount_eaten": "1 medium apple",
       "servings_eaten": 1,
@@ -272,11 +322,13 @@
       },
       "source": "usda_estimate",
       "photo_credit": {
-        "source": "Wikimedia Commons / National Cancer Institute",
-        "author": "Renee Comet",
-        "license": "Public domain (U.S. federal government / NIH)",
-        "url": "https://commons.wikimedia.org/wiki/File:Apple_(1).jpg",
-        "note": "Stock photo from the internet; user package photo not used"
+        "source": "BJ's Wholesale Club product image CDN (Scene7)",
+        "retailer": "BJ's Wholesale Club",
+        "url": "https://www.bjs.com/product/wellsley-farms-gala-apples-5-lbs/3000000000000900174/",
+        "image_url": "https://bjs.scene7.com/is/image/bjs/100383?$bjs-Zoom$",
+        "bj_number": "100383",
+        "license": "Retailer product listing image; used for personal food log reference",
+        "note": "Wellsley Farms Gala Apples 5 lbs / UPC 888670053638 (BJ# 100383)"
       }
     }
   ],

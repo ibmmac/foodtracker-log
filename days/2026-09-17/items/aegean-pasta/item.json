@@ -31,5 +31,13 @@
   "source": "label",
   "use_by": "2026-09-24",
   "barcode_format": "UPC-A",
-  "barcode_photo": "aegean-pasta-barcode.jpg"
+  "barcode_photo": "aegean-pasta-barcode.jpg",
+  "photo_credit": {
+    "source": "Instacart product listing image",
+    "retailer": "Instacart / BJ's Wholesale Club",
+    "url": "https://www.instacart.com/products/2724539-wellsley-farms-aegean-greek-pasta-32-oz",
+    "image_url": "https://www.instacart.com/image-server/1200x1200/www.instacart.com/assets/domains/product-image/file/large_8167bc50-83ad-4e30-8d68-ecfb89fd8be5.jpeg",
+    "license": "Retailer/grocery delivery product listing image; used for personal food log reference",
+    "note": "Wellsley Farms Aegean Greek Pasta 32 oz / UPC 888670012901"
+  }
 }

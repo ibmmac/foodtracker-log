@@ -31,5 +31,14 @@
   "source": "label",
   "use_by": "2026-09-27",
   "barcode_format": "UPC-A",
-  "barcode_photo": "potato-salad-barcode.jpg"
+  "barcode_photo": "potato-salad-barcode.jpg",
+  "photo_credit": {
+    "source": "BJ's Wholesale Club product image CDN (Scene7)",
+    "retailer": "BJ's Wholesale Club",
+    "url": "https://bjs.scene7.com/is/image/bjs/23078",
+    "image_url": "https://bjs.scene7.com/is/image/bjs/23078?$bjs-Zoom$",
+    "bj_number": "23078",
+    "license": "Retailer product listing image; used for personal food log reference",
+    "note": "Wellsley Farms Homestyle Potato Salad 48 oz / UPC 888670012864 (BJ# 23078)"
+  }
 }

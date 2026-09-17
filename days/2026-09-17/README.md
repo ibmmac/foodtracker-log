@@ -19,7 +19,7 @@
 | [Dole Fruit Bowls Snacks](items/dole-fruit/) | 2 cups | `038900772208` | 140 | 2 | 32 | 0 | [photo](photos/dole-fruit.jpg) |
 | [Great Value Sardines in Water](items/sardines/) | 1 can drained | `078742237855` | 100 | 16 | 0 | 4.5 | [photo](photos/sardines.jpg) |
 | [Teriyaki beef stick](items/teriyaki-beef-stick/) | 1 stick | `no_photo` | 110 | 5 | 3 | 9 | — |
-| [Apple (bagged)](items/apple/) | 1 medium apple | `888670053638` | 95 | 0.5 | 25 | 0.3 | [photo](photos/apple.jpg) |
+| [Wellsley Farms Gala Apples](items/apple/) | 1 medium apple | `888670053638` | 95 | 0.5 | 25 | 0.3 | [photo](photos/apple.jpg) |
 
 ## Item details
 
@@ -31,6 +31,9 @@
 - **Barcode:** `046025202462`
 - **Source:** label
 - **Photo:** ![easy-eggs](photos/easy-eggs.jpg)
+- **Photo credit:** [GFI Foods product catalog (Michael Foods Easy Eggs)](https://www.gfifoods.com/202462-easy-eggs)
+  - Image URL: https://www.gfifoods.com/media/catalog/product/6/p/6pack_20250410_1626845_g633rxe1vhnchzbw.jpg
+  - Retailer/distributor product listing image; used for personal food log reference
 
 **Nutrition per label/reference serving**
 
@@ -59,6 +62,9 @@ Machine-readable: [`items/easy-eggs/item.json`](items/easy-eggs/item.json)
 - **Barcode:** `074030656209`
 - **Source:** label
 - **Photo:** ![galbani-cheese](photos/galbani-cheese.jpg)
+- **Photo credit:** [BJ's Wholesale Club product image CDN (Scene7)](https://www.bjs.com/product/galbani-33-more-protein-reduced-fat-mozzarella-string-cheese-30-ct/3000000000001567267/)
+  - Image URL: https://bjs.scene7.com/is/image/bjs/216084
+  - Retailer product listing image; used for personal food log reference
 
 **Nutrition per label/reference serving**
 
@@ -82,7 +88,9 @@ Machine-readable: [`items/galbani-cheese/item.json`](items/galbani-cheese/item.j
 - **Barcode:** `888670012864`
 - **Source:** label
 - **Photo:** ![potato-salad](photos/potato-salad.jpg)
-- **Barcode photo:** ![potato-salad-barcode](photos/potato-salad-barcode.jpg)
+- **Photo credit:** [BJ's Wholesale Club product image CDN (Scene7)](https://bjs.scene7.com/is/image/bjs/23078)
+  - Image URL: https://bjs.scene7.com/is/image/bjs/23078?$bjs-Zoom$
+  - Retailer product listing image; used for personal food log reference
 
 **Nutrition per label/reference serving**
 
@@ -111,7 +119,9 @@ Machine-readable: [`items/potato-salad/item.json`](items/potato-salad/item.json)
 - **Barcode:** `888670012901`
 - **Source:** label
 - **Photo:** ![aegean-pasta](photos/aegean-pasta.jpg)
-- **Barcode photo:** ![aegean-pasta-barcode](photos/aegean-pasta-barcode.jpg)
+- **Photo credit:** [Instacart product listing image](https://www.instacart.com/products/2724539-wellsley-farms-aegean-greek-pasta-32-oz)
+  - Image URL: https://www.instacart.com/image-server/1200x1200/www.instacart.com/assets/domains/product-image/file/large_8167bc50-83ad-4e30-8d68-ecfb89fd8be5.jpeg
+  - Retailer/grocery delivery product listing image; used for personal food log reference
 
 **Nutrition per label/reference serving**
 
@@ -140,7 +150,9 @@ Machine-readable: [`items/aegean-pasta/item.json`](items/aegean-pasta/item.json)
 - **Barcode:** `038900772208`
 - **Source:** label
 - **Photo:** ![dole-fruit](photos/dole-fruit.jpg)
-- **Barcode photo:** ![dole-fruit-barcode](photos/dole-fruit-barcode.jpg)
+- **Photo credit:** [Walmart product image CDN](https://www.upcitemdb.com/upc/038900772208)
+  - Image URL: https://i5.walmartimages.com/asr/c8276278-b624-46a3-a6de-c7be9fc683af.31ce6d4117d48533a0f0b42152aa451b.jpeg
+  - Retailer product listing image; used for personal food log reference
 
 **Nutrition per label/reference serving**
 
@@ -168,6 +180,9 @@ Machine-readable: [`items/dole-fruit/item.json`](items/dole-fruit/item.json)
 - **Barcode:** `078742237855`
 - **Source:** label_lookup
 - **Photo:** ![sardines](photos/sardines.jpg)
+- **Photo credit:** [Walmart product SEO image CDN](https://www.walmart.com/ip/Great-Value-Sardines-in-Water-3-75-oz/)
+  - Image URL: https://i5.walmartimages.com/seo/Great-Value-Sardines-in-Water-3-75-oz_01773f2d-c2d5-4771-9d57-9ad2a7b64d00.f4bd95695d447cfff625b8ea32f13b35.jpeg
+  - Retailer product listing image; used for personal food log reference
 
 **Nutrition per label/reference serving**
 
@@ -192,8 +207,9 @@ Machine-readable: [`items/sardines/item.json`](items/sardines/item.json)
 - **Brand:** Unknown (estimated as Jack Link's Teriyaki style)
 - **Amount eaten:** 1 stick
 - **Serving size:** 1 stick (~0.92 oz / 26g)
-- **Barcode:** `no_photo`
+- **Barcode status:** `no_photo`
 - **Source:** estimate
+- **Photo:** none
 
 **Nutrition per label/reference serving**
 
@@ -213,7 +229,7 @@ Machine-readable: [`items/sardines/item.json`](items/sardines/item.json)
 
 Machine-readable: [`items/teriyaki-beef-stick/item.json`](items/teriyaki-beef-stick/item.json)
 
-### [Apple (bagged)](items/apple/)
+### [Wellsley Farms Gala Apples](items/apple/)
 
 - **Brand:** Wellsley Farms / BJ's Wholesale Club
 - **Amount eaten:** 1 medium apple
@@ -221,7 +237,9 @@ Machine-readable: [`items/teriyaki-beef-stick/item.json`](items/teriyaki-beef-st
 - **Barcode:** `888670053638`
 - **Source:** usda_estimate
 - **Photo:** ![apple](photos/apple.jpg)
-- **Photo credit:** Renee Comet — Wikimedia Commons / National Cancer Institute (Public domain (U.S. federal government / NIH))
+- **Photo credit:** [BJ's Wholesale Club product image CDN (Scene7)](https://www.bjs.com/product/wellsley-farms-gala-apples-5-lbs/3000000000000900174/)
+  - Image URL: https://bjs.scene7.com/is/image/bjs/100383?$bjs-Zoom$
+  - Retailer product listing image; used for personal food log reference
 
 **Nutrition per label/reference serving**
 
