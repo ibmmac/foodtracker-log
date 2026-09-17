@@ -2,7 +2,7 @@
 
 **Timezone:** America/New_York
 
-**Daily total:** 1290 kcal · Protein 72g · Carbs 106g · Fat 64.5g
+**Daily total:** 1385 kcal · Protein 72.5g · Carbs 131g · Fat 64.8g
 
 ## Foods logged
 
@@ -15,6 +15,7 @@
 | [Dole Fruit Bowls Snacks](items/dole-fruit/) | 2 cups | `038900772208` | 140 | 2 | 32 | 0 | [photo](photos/dole-fruit.jpg) |
 | [Great Value Sardines in Water](items/sardines/) | 1 can drained | `078742237855` | 100 | 16 | 0 | 4.5 | [photo](photos/sardines.jpg) |
 | [Teriyaki beef stick](items/teriyaki-beef-stick/) | 1 stick | `no_photo` | 110 | 5 | 3 | 9 | — |
+| [Apple (bagged)](items/apple/) | 1 medium apple | `888670053638` | 95 | 0.5 | 25 | 0.3 | [photo](photos/apple-barcode.jpg) |
 
 ## Item details
 
@@ -27,7 +28,7 @@
 - **Source:** label
 - **Photo:** ![easy-eggs](photos/easy-eggs.jpg)
 
-**Nutrition per label serving**
+**Nutrition per label/reference serving**
 
 | Nutrient | Amount |
 |----------|--------|
@@ -35,12 +36,9 @@
 | Protein | 6 g |
 | Total carbohydrate | 0 g |
 | Total fat | 4 g |
-| Saturated fat | 1.5 g |
-| Sodium | 60 mg |
-| Total sugars | 0 g |
-| Added sugars | 0 g |
 | Dietary fiber | 0 g |
-| Cholesterol | 185 mg |
+| Total sugars | 0 g |
+| Sodium | 60 mg |
 
 **Logged for this meal:** 240 kcal · P 24g · C 0g · F 16g
 
@@ -55,7 +53,7 @@ Machine-readable: [`items/easy-eggs/item.json`](items/easy-eggs/item.json)
 - **Source:** label
 - **Photo:** ![galbani-cheese](photos/galbani-cheese.jpg)
 
-**Nutrition per label serving**
+**Nutrition per label/reference serving**
 
 | Nutrient | Amount |
 |----------|--------|
@@ -79,7 +77,7 @@ Machine-readable: [`items/galbani-cheese/item.json`](items/galbani-cheese/item.j
 - **Photo:** ![potato-salad](photos/potato-salad.jpg)
 - **Barcode photo:** ![potato-salad-barcode](photos/potato-salad-barcode.jpg)
 
-**Nutrition per label serving**
+**Nutrition per label/reference serving**
 
 | Nutrient | Amount |
 |----------|--------|
@@ -87,12 +85,9 @@ Machine-readable: [`items/galbani-cheese/item.json`](items/galbani-cheese/item.j
 | Protein | 2 g |
 | Total carbohydrate | 22 g |
 | Total fat | 10 g |
-| Saturated fat | 1.5 g |
-| Sodium | 690 mg |
-| Total sugars | 7 g |
-| Added sugars | 5 g |
 | Dietary fiber | 3 g |
-| Cholesterol | 5 mg |
+| Total sugars | 7 g |
+| Sodium | 690 mg |
 
 **Logged for this meal:** 190 kcal · P 2g · C 22g · F 10g
 
@@ -108,7 +103,7 @@ Machine-readable: [`items/potato-salad/item.json`](items/potato-salad/item.json)
 - **Photo:** ![aegean-pasta](photos/aegean-pasta.jpg)
 - **Barcode photo:** ![aegean-pasta-barcode](photos/aegean-pasta-barcode.jpg)
 
-**Nutrition per label serving**
+**Nutrition per label/reference serving**
 
 | Nutrient | Amount |
 |----------|--------|
@@ -116,12 +111,9 @@ Machine-readable: [`items/potato-salad/item.json`](items/potato-salad/item.json)
 | Protein | 11 g |
 | Total carbohydrate | 49 g |
 | Total fat | 17 g |
-| Saturated fat | 4 g |
-| Sodium | 480 mg |
-| Total sugars | 4 g |
-| Added sugars | 0 g |
 | Dietary fiber | 2 g |
-| Cholesterol | 10 mg |
+| Total sugars | 4 g |
+| Sodium | 480 mg |
 
 **Logged for this meal:** 390 kcal · P 11g · C 49g · F 17g
 
@@ -137,7 +129,7 @@ Machine-readable: [`items/aegean-pasta/item.json`](items/aegean-pasta/item.json)
 - **Photo:** ![dole-fruit](photos/dole-fruit.jpg)
 - **Barcode photo:** ![dole-fruit-barcode](photos/dole-fruit-barcode.jpg)
 
-**Nutrition per label serving**
+**Nutrition per label/reference serving**
 
 | Nutrient | Amount |
 |----------|--------|
@@ -145,11 +137,9 @@ Machine-readable: [`items/aegean-pasta/item.json`](items/aegean-pasta/item.json)
 | Protein | 1 g |
 | Total carbohydrate | 16 g |
 | Total fat | 0 g |
-| Sodium | 0 mg |
-| Total sugars | 14 g |
-| Added sugars | 0 g |
 | Dietary fiber | 1 g |
-| Cholesterol | 0 mg |
+| Total sugars | 14 g |
+| Sodium | 0 mg |
 
 **Logged for this meal:** 140 kcal · P 2g · C 32g · F 0g
 
@@ -164,7 +154,7 @@ Machine-readable: [`items/dole-fruit/item.json`](items/dole-fruit/item.json)
 - **Source:** label_lookup
 - **Photo:** ![sardines](photos/sardines.jpg)
 
-**Nutrition per label serving**
+**Nutrition per label/reference serving**
 
 | Nutrient | Amount |
 |----------|--------|
@@ -172,11 +162,10 @@ Machine-readable: [`items/dole-fruit/item.json`](items/dole-fruit/item.json)
 | Protein | 16 g |
 | Total carbohydrate | 0 g |
 | Total fat | 4.5 g |
-| Saturated fat | 1.5 g |
-| Sodium | 300 mg |
-| Total sugars | 0 g |
 | Dietary fiber | 0 g |
-| Cholesterol | 75 mg |
+| Total sugars | 0 g |
+| Sodium | 300 mg |
+| Potassium | 110 mg |
 
 **Logged for this meal:** 100 kcal · P 16g · C 0g · F 4.5g
 
@@ -190,7 +179,7 @@ Machine-readable: [`items/sardines/item.json`](items/sardines/item.json)
 - **Barcode:** `no_photo`
 - **Source:** estimate
 
-**Nutrition per label serving**
+**Nutrition per label/reference serving**
 
 | Nutrient | Amount |
 |----------|--------|
@@ -198,13 +187,38 @@ Machine-readable: [`items/sardines/item.json`](items/sardines/item.json)
 | Protein | 5 g |
 | Total carbohydrate | 3 g |
 | Total fat | 9 g |
-| Saturated fat | 4 g |
-| Sodium | 390 mg |
 | Total sugars | 2 g |
-| Added sugars | 2 g |
-| Cholesterol | 20 mg |
+| Sodium | 390 mg |
 
 **Logged for this meal:** 110 kcal · P 5g · C 3g · F 9g
 
 Machine-readable: [`items/teriyaki-beef-stick/item.json`](items/teriyaki-beef-stick/item.json)
+
+### [Apple (bagged)](items/apple/)
+
+- **Brand:** Wellsley Farms / BJ's Wholesale Club
+- **Amount eaten:** 1 medium apple
+- **Serving size:** 1 medium apple (~182g) with skin
+- **Barcode:** `888670053638`
+- **Source:** usda_estimate
+- **Photo:** ![apple](photos/apple-barcode.jpg)
+- **Barcode photo:** same as photo above
+
+**Nutrition per label/reference serving**
+
+| Nutrient | Amount |
+|----------|--------|
+| Calories | 95 |
+| Protein | 0.5 g |
+| Total carbohydrate | 25.1 g |
+| Total fat | 0.3 g |
+| Dietary fiber | 4.4 g |
+| Total sugars | 18.9 g |
+| Sodium | 2 mg |
+| Potassium | 195 mg |
+| Vitamin C | 8.4 mg |
+
+**Logged for this meal:** 95 kcal · P 0.5g · C 25g · F 0.3g
+
+Machine-readable: [`items/apple/item.json`](items/apple/item.json)
 

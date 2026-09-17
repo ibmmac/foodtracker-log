@@ -2,10 +2,10 @@
   "date": "2026-09-17",
   "timezone": "America/New_York",
   "totals": {
-    "calories": 1290,
-    "protein_g": 72,
-    "carbs_g": 106,
-    "fat_g": 64.5
+    "calories": 1385,
+    "protein_g": 72.5,
+    "carbs_g": 131,
+    "fat_g": 64.8
   },
   "items": [
     {
@@ -237,6 +237,38 @@
       },
       "source": "estimate",
       "notes": "No package photo; values from common Jack Link's Teriyaki Beef Stick (0.92 oz)"
+    },
+    {
+      "id": "apple",
+      "name": "Apple (bagged)",
+      "brand": "Wellsley Farms / BJ's Wholesale Club",
+      "amount_eaten": "1 medium apple",
+      "servings_eaten": 1,
+      "serving_size": "1 medium apple (~182g) with skin",
+      "barcode": "888670053638",
+      "barcode_format": "UPC-A",
+      "bj_number": "100383",
+      "photo": "photos/apple-barcode.jpg",
+      "barcode_photo": "photos/apple-barcode.jpg",
+      "nutrition_per_serving": {
+        "calories": 95,
+        "total_fat_g": 0.3,
+        "total_carbohydrate_g": 25.1,
+        "dietary_fiber_g": 4.4,
+        "total_sugars_g": 18.9,
+        "protein_g": 0.5,
+        "sodium_mg": 2,
+        "potassium_mg": 195,
+        "vitamin_c_mg": 8.4,
+        "notes": "USDA medium raw apple with skin; bag label barcode recorded from photo"
+      },
+      "logged": {
+        "calories": 95,
+        "protein_g": 0.5,
+        "carbs_g": 25,
+        "fat_g": 0.3
+      },
+      "source": "usda_estimate"
     }
   ]
 }
