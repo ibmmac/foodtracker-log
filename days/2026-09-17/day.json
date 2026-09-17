@@ -146,8 +146,7 @@
       "servings_eaten": 2,
       "serving_size": "1 cup (113g)",
       "servings_per_container": 20,
-      "barcode": null,
-      "barcode_status": "not_visible_on_photo",
+      "barcode": "038900772208",
       "photo": "photos/dole-fruit.jpg",
       "nutrition_per_serving": {
         "calories": 70,
@@ -166,7 +165,9 @@
         "carbs_g": 32,
         "fat_g": 0
       },
-      "source": "label"
+      "source": "label",
+      "barcode_format": "UPC-A",
+      "barcode_photo": "photos/dole-fruit-barcode.jpg"
     },
     {
       "id": "sardines",
