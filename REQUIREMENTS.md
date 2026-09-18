@@ -36,7 +36,9 @@ When a food item has a known barcode (UPC-A / EAN-13):
 - User/package photos are only for **reading labels and barcodes during logging** (optional `barcode-label.jpg`).
 - Each catalog item with a product photo MUST include `photo_credit` with source/retailer URL and `image_url` when known.
 
-If no barcode is available, set `photo` to null and `barcode_status` to `no_photo` — do **not** invent a barcode or fake product image.
+If no barcode is available **and there is no meal photo**, set `photo` to null and `barcode_status` to `no_photo` — do **not** invent a barcode or fake product image.
+
+If Mitch provides a photo of the food with no barcode, see §7 — save that photo as `product.jpg`.
 
 ## 4. Day folder layout
 
@@ -96,3 +98,14 @@ After logging changes:
 2. Download the retailer/manufacturer product image into `catalog/items/<barcode>/product.jpg` (max width 1280 JPEG) — only if that file is not already present.
 3. Write/update `catalog/items/<barcode>/item.json` with nutrition + `photo_credit`.
 4. Append a day `entries[]` row that references `catalog_id` (no image copy into the day folder).
+
+## 7. No-barcode food photos (plates, leftovers, homemade)
+
+When Mitch sends a photo of food **with no barcode** (plate of food, leftovers, homemade meal, etc.):
+
+- Create/update `catalog/items/id-<slug>/`
+- Save the user's photo as `product.jpg` (resize max width 1280 JPEG)
+- Set `barcode` to null, `barcode_status` to `no_barcode`, and `photo` to the catalog path
+- In `photo_credit`, note `source: "user_photo"` and that this is the meal as served
+
+This is the exception to the “no user photos as primary product image” rule, which still applies when a **barcode is known** (use the online retailer product image instead).
