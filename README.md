@@ -27,4 +27,4 @@ Default daily calorie goal: **1500 kcal**. Each day README shows calories left a
 
 ## Latest day
 
-See [days/2026-09-17/](days/2026-09-17/).
+See [days/2026-09-18/](days/2026-09-18/).
