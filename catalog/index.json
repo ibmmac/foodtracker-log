@@ -1,0 +1,67 @@
+{
+  "items": [
+    {
+      "catalog_id": "038900772208",
+      "name": "Dole Fruit Bowls Snacks",
+      "barcode": "038900772208",
+      "photo": "catalog/items/038900772208/product.jpg",
+      "path": "catalog/items/038900772208/"
+    },
+    {
+      "catalog_id": "046025202462",
+      "name": "Easy Eggs Peeled Hard Cooked Eggs",
+      "barcode": "046025202462",
+      "photo": "catalog/items/046025202462/product.jpg",
+      "path": "catalog/items/046025202462/"
+    },
+    {
+      "catalog_id": "074030656209",
+      "name": "Galbani Reduced Fat Cheese Sticks",
+      "barcode": "074030656209",
+      "photo": "catalog/items/074030656209/product.jpg",
+      "path": "catalog/items/074030656209/"
+    },
+    {
+      "catalog_id": "078742237855",
+      "name": "Great Value Sardines in Water",
+      "barcode": "078742237855",
+      "photo": "catalog/items/078742237855/product.jpg",
+      "path": "catalog/items/078742237855/"
+    },
+    {
+      "catalog_id": "888670012864",
+      "name": "Wellsley Farms Homestyle Potato Salad",
+      "barcode": "888670012864",
+      "photo": "catalog/items/888670012864/product.jpg",
+      "path": "catalog/items/888670012864/"
+    },
+    {
+      "catalog_id": "888670012901",
+      "name": "Wellsley Farms Aegean Greek Pasta",
+      "barcode": "888670012901",
+      "photo": "catalog/items/888670012901/product.jpg",
+      "path": "catalog/items/888670012901/"
+    },
+    {
+      "catalog_id": "888670053638",
+      "name": "Wellsley Farms Gala Apples",
+      "barcode": "888670053638",
+      "photo": "catalog/items/888670053638/product.jpg",
+      "path": "catalog/items/888670053638/"
+    },
+    {
+      "catalog_id": "id-fasted-breakfast",
+      "name": "Fasted breakfast",
+      "barcode": null,
+      "photo": null,
+      "path": "catalog/items/id-fasted-breakfast/"
+    },
+    {
+      "catalog_id": "id-teriyaki-beef-stick",
+      "name": "Teriyaki beef stick",
+      "barcode": null,
+      "photo": null,
+      "path": "catalog/items/id-teriyaki-beef-stick/"
+    }
+  ]
+}

@@ -1,13 +1,10 @@
 {
+  "catalog_id": "id-teriyaki-beef-stick",
   "id": "teriyaki-beef-stick",
   "name": "Teriyaki beef stick",
   "brand": "Unknown (estimated as Jack Link's Teriyaki style)",
-  "amount_eaten": "1 stick",
-  "servings_eaten": 1,
-  "serving_size": "1 stick (~0.92 oz / 26g)",
-  "barcode": null,
   "barcode_status": "no_photo",
-  "photo": null,
+  "serving_size": "1 stick (~0.92 oz / 26g)",
   "nutrition_per_serving": {
     "calories": 110,
     "total_fat_g": 9,
@@ -20,12 +17,5 @@
     "added_sugars_g": 2,
     "protein_g": 5
   },
-  "logged": {
-    "calories": 110,
-    "protein_g": 5,
-    "carbs_g": 3,
-    "fat_g": 9
-  },
-  "source": "estimate",
-  "notes": "No package photo; values from common Jack Link's Teriyaki Beef Stick (0.92 oz)"
+  "source_notes": "No package photo; values from common Jack Link's Teriyaki Beef Stick (0.92 oz)"
 }

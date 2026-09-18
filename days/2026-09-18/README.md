@@ -10,20 +10,9 @@
 
 ## Foods logged
 
-| Food | Amount | Barcode | kcal | P | C | F | Photo |
-|------|--------|---------|------|---|---|---|-------|
-| [Fasted breakfast](items/fasted-breakfast/) | skipped meal | `n/a` | 0 | 0 | 0 | 0 | — |
+| Food | Amount | Catalog | Barcode | kcal | P | C | F | Photo |
+|------|--------|---------|---------|------|---|---|---|-------|
+| [Fasted breakfast](../../catalog/items/id-fasted-breakfast/) | skipped meal | [`id-fasted-breakfast`](../../catalog/items/id-fasted-breakfast/) | `n/a` | 0 | 0 | 0 | 0 | — |
 
-## Item details
+Product photos and nutrition live in [`catalog/items/`](../../catalog/items/) — days only record what was eaten.
 
-### [Fasted breakfast](items/fasted-breakfast/)
-
-- **Amount eaten:** skipped meal
-- **Meal:** breakfast
-- **Barcode:** `n/a`
-- **Source:** user
-- **Notes:** User reported fasting for breakfast
-
-**Logged for this meal:** 0 kcal · P 0g · C 0g · F 0g
-
-Machine-readable: [`items/fasted-breakfast/item.json`](items/fasted-breakfast/item.json)

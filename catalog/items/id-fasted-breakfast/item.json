@@ -1,0 +1,12 @@
+{
+  "catalog_id": "id-fasted-breakfast",
+  "id": "fasted-breakfast",
+  "name": "Fasted breakfast",
+  "barcode_status": "n/a",
+  "nutrition_per_serving": {
+    "calories": 0,
+    "protein_g": 0,
+    "total_carbohydrate_g": 0,
+    "total_fat_g": 0
+  }
+}

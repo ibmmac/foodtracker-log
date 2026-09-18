@@ -1,15 +1,14 @@
 {
+  "catalog_id": "046025202462",
   "id": "easy-eggs",
   "name": "Easy Eggs Peeled Hard Cooked Eggs",
   "brand": "Easy Eggs / Michael Foods",
-  "amount_eaten": "4 eggs",
-  "servings_eaten": 4,
+  "barcode": "046025202462",
+  "barcode_format": "UPC-A",
   "serving_size": "1 egg (44g)",
   "servings_per_container": 6,
   "net_weight": "9.3 OZ (264g)",
-  "barcode": "046025202462",
-  "barcode_format": "UPC-A",
-  "photo": "easy-eggs.jpg",
+  "ingredients": "Eggs",
   "nutrition_per_serving": {
     "calories": 60,
     "total_fat_g": 4,
@@ -23,14 +22,6 @@
     "added_sugars_g": 0,
     "protein_g": 6
   },
-  "logged": {
-    "calories": 240,
-    "protein_g": 24,
-    "carbs_g": 0,
-    "fat_g": 16
-  },
-  "source": "label",
-  "ingredients": "Eggs",
   "photo_credit": {
     "source": "GFI Foods product catalog (Michael Foods Easy Eggs)",
     "retailer": "GFI Foods",
@@ -38,5 +29,6 @@
     "image_url": "https://www.gfifoods.com/media/catalog/product/6/p/6pack_20250410_1626845_g633rxe1vhnchzbw.jpg",
     "license": "Retailer/distributor product listing image; used for personal food log reference",
     "note": "Official product package image for Easy Eggs Peeled Hard Cooked Eggs 9.3 oz / UPC 046025202462"
-  }
+  },
+  "photo": "catalog/items/046025202462/product.jpg"
 }

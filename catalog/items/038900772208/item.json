@@ -1,13 +1,12 @@
 {
+  "catalog_id": "038900772208",
   "id": "dole-fruit",
   "name": "Dole Fruit Bowls Snacks",
   "brand": "Dole",
-  "amount_eaten": "2 cups",
-  "servings_eaten": 2,
+  "barcode": "038900772208",
+  "barcode_format": "UPC-A",
   "serving_size": "1 cup (113g)",
   "servings_per_container": 20,
-  "barcode": "038900772208",
-  "photo": "dole-fruit.jpg",
   "nutrition_per_serving": {
     "calories": 70,
     "total_fat_g": 0,
@@ -19,15 +18,6 @@
     "added_sugars_g": 0,
     "protein_g": 1
   },
-  "logged": {
-    "calories": 140,
-    "protein_g": 2,
-    "carbs_g": 32,
-    "fat_g": 0
-  },
-  "source": "label",
-  "barcode_format": "UPC-A",
-  "barcode_photo": "dole-fruit-barcode.jpg",
   "photo_credit": {
     "source": "Walmart product image CDN",
     "retailer": "Walmart",
@@ -36,5 +26,7 @@
     "also_listed": "https://www.barcodelookup.com/038900772208",
     "license": "Retailer product listing image; used for personal food log reference",
     "note": "Dole Fruit Bowls Cherry Mixed Fruit in 100% Juice, 20 x 4 oz cups / UPC 038900772208"
-  }
+  },
+  "photo": "catalog/items/038900772208/product.jpg",
+  "barcode_label_photo": "catalog/items/038900772208/barcode-label.jpg"
 }

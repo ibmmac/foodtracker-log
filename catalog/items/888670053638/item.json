@@ -1,14 +1,12 @@
 {
+  "catalog_id": "888670053638",
   "id": "apple",
   "name": "Wellsley Farms Gala Apples",
   "brand": "Wellsley Farms / BJ's Wholesale Club",
-  "amount_eaten": "1 medium apple",
-  "servings_eaten": 1,
-  "serving_size": "1 medium apple (~182g) with skin",
   "barcode": "888670053638",
   "barcode_format": "UPC-A",
   "bj_number": "100383",
-  "photo": "apple.jpg",
+  "serving_size": "1 medium apple (~182g) with skin",
   "nutrition_per_serving": {
     "calories": 95,
     "total_fat_g": 0.3,
@@ -21,13 +19,6 @@
     "vitamin_c_mg": 8.4,
     "notes": "USDA medium raw apple with skin; bag label barcode recorded from photo"
   },
-  "logged": {
-    "calories": 95,
-    "protein_g": 0.5,
-    "carbs_g": 25,
-    "fat_g": 0.3
-  },
-  "source": "usda_estimate",
   "photo_credit": {
     "source": "BJ's Wholesale Club product image CDN (Scene7)",
     "retailer": "BJ's Wholesale Club",
@@ -36,5 +27,6 @@
     "bj_number": "100383",
     "license": "Retailer product listing image; used for personal food log reference",
     "note": "Wellsley Farms Gala Apples 5 lbs / UPC 888670053638 (BJ# 100383)"
-  }
+  },
+  "photo": "catalog/items/888670053638/product.jpg"
 }

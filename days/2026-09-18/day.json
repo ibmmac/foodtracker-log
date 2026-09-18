@@ -11,23 +11,14 @@
     "percent_goal_remaining": 100.0,
     "percent_goal_used": 0.0
   },
-  "items": [
+  "entries": [
     {
+      "catalog_id": "id-fasted-breakfast",
       "id": "fasted-breakfast",
       "name": "Fasted breakfast",
-      "brand": null,
       "amount_eaten": "skipped meal",
       "servings_eaten": 0,
       "meal": "breakfast",
-      "barcode": null,
-      "barcode_status": "n/a",
-      "photo": null,
-      "nutrition_per_serving": {
-        "calories": 0,
-        "protein_g": 0,
-        "total_carbohydrate_g": 0,
-        "total_fat_g": 0
-      },
       "logged": {
         "calories": 0,
         "protein_g": 0,
@@ -35,7 +26,8 @@
         "fat_g": 0
       },
       "source": "user",
-      "notes": "User reported fasting for breakfast"
+      "notes": "User reported fasting for breakfast",
+      "catalog_path": "catalog/items/id-fasted-breakfast/"
     }
   ]
 }

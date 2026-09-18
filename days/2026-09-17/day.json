@@ -1,6 +1,7 @@
 {
   "date": "2026-09-17",
   "timezone": "America/New_York",
+  "goal_kcal": 1500,
   "totals": {
     "calories": 1385,
     "protein_g": 72.5,
@@ -10,32 +11,13 @@
     "percent_goal_remaining": 7.7,
     "percent_goal_used": 92.3
   },
-  "items": [
+  "entries": [
     {
+      "catalog_id": "046025202462",
       "id": "easy-eggs",
       "name": "Easy Eggs Peeled Hard Cooked Eggs",
-      "brand": "Easy Eggs / Michael Foods",
       "amount_eaten": "4 eggs",
       "servings_eaten": 4,
-      "serving_size": "1 egg (44g)",
-      "servings_per_container": 6,
-      "net_weight": "9.3 OZ (264g)",
-      "barcode": "046025202462",
-      "barcode_format": "UPC-A",
-      "photo": "photos/easy-eggs.jpg",
-      "nutrition_per_serving": {
-        "calories": 60,
-        "total_fat_g": 4,
-        "saturated_fat_g": 1.5,
-        "trans_fat_g": 0,
-        "cholesterol_mg": 185,
-        "sodium_mg": 60,
-        "total_carbohydrate_g": 0,
-        "dietary_fiber_g": 0,
-        "total_sugars_g": 0,
-        "added_sugars_g": 0,
-        "protein_g": 6
-      },
       "logged": {
         "calories": 240,
         "protein_g": 24,
@@ -43,35 +25,14 @@
         "fat_g": 16
       },
       "source": "label",
-      "ingredients": "Eggs",
-      "photo_credit": {
-        "source": "GFI Foods product catalog (Michael Foods Easy Eggs)",
-        "retailer": "GFI Foods",
-        "url": "https://www.gfifoods.com/202462-easy-eggs",
-        "image_url": "https://www.gfifoods.com/media/catalog/product/6/p/6pack_20250410_1626845_g633rxe1vhnchzbw.jpg",
-        "license": "Retailer/distributor product listing image; used for personal food log reference",
-        "note": "Official product package image for Easy Eggs Peeled Hard Cooked Eggs 9.3 oz / UPC 046025202462"
-      }
+      "catalog_path": "catalog/items/046025202462/"
     },
     {
+      "catalog_id": "074030656209",
       "id": "galbani-cheese",
       "name": "Galbani Reduced Fat Cheese Sticks",
-      "brand": "Galbani / Lactalis American Group",
       "amount_eaten": "2 sticks",
       "servings_eaten": 2,
-      "serving_size": "1 stick",
-      "barcode": "074030656209",
-      "barcode_format": "UPC-A",
-      "photo": "photos/galbani-cheese.jpg",
-      "nutrition_per_serving": {
-        "calories": 60,
-        "total_fat_g": 4,
-        "protein_g": 6,
-        "total_sugars_g": 0,
-        "total_carbohydrate_g": 0,
-        "calcium_mg": 175,
-        "notes": "Calories derived from label macros (4g fat + 6g protein)"
-      },
       "logged": {
         "calories": 120,
         "protein_g": 12,
@@ -79,40 +40,14 @@
         "fat_g": 8
       },
       "source": "label",
-      "ingredients": "Pasteurized milk, salt, cheese cultures, enzymes, vitamin A palmitate",
-      "photo_credit": {
-        "source": "BJ's Wholesale Club product image CDN (Scene7)",
-        "retailer": "BJ's Wholesale Club",
-        "url": "https://www.bjs.com/product/galbani-33-more-protein-reduced-fat-mozzarella-string-cheese-30-ct/3000000000001567267/",
-        "image_url": "https://bjs.scene7.com/is/image/bjs/216084",
-        "license": "Retailer product listing image; used for personal food log reference",
-        "note": "Galbani Reduced Fat Mozzarella String Cheese 30 oz / UPC 074030656209"
-      }
+      "catalog_path": "catalog/items/074030656209/"
     },
     {
+      "catalog_id": "888670012864",
       "id": "potato-salad",
       "name": "Wellsley Farms Homestyle Potato Salad",
-      "brand": "Wellsley Farms / BJ's Wholesale Club",
       "amount_eaten": "1 serving",
       "servings_eaten": 1,
-      "serving_size": "2/3 cup (140g)",
-      "servings_per_container": 10,
-      "net_weight": "48 oz (3 lb) 1.36kg",
-      "barcode": "888670012864",
-      "photo": "photos/potato-salad.jpg",
-      "nutrition_per_serving": {
-        "calories": 190,
-        "total_fat_g": 10,
-        "saturated_fat_g": 1.5,
-        "trans_fat_g": 0,
-        "cholesterol_mg": 5,
-        "sodium_mg": 690,
-        "total_carbohydrate_g": 22,
-        "dietary_fiber_g": 3,
-        "total_sugars_g": 7,
-        "added_sugars_g": 5,
-        "protein_g": 2
-      },
       "logged": {
         "calories": 190,
         "protein_g": 2,
@@ -120,43 +55,14 @@
         "fat_g": 10
       },
       "source": "label",
-      "use_by": "2026-09-27",
-      "barcode_format": "UPC-A",
-      "barcode_photo": "photos/potato-salad-barcode.jpg",
-      "photo_credit": {
-        "source": "BJ's Wholesale Club product image CDN (Scene7)",
-        "retailer": "BJ's Wholesale Club",
-        "url": "https://bjs.scene7.com/is/image/bjs/23078",
-        "image_url": "https://bjs.scene7.com/is/image/bjs/23078?$bjs-Zoom$",
-        "bj_number": "23078",
-        "license": "Retailer product listing image; used for personal food log reference",
-        "note": "Wellsley Farms Homestyle Potato Salad 48 oz / UPC 888670012864 (BJ# 23078)"
-      }
+      "catalog_path": "catalog/items/888670012864/"
     },
     {
+      "catalog_id": "888670012901",
       "id": "aegean-pasta",
       "name": "Wellsley Farms Aegean Greek Pasta",
-      "brand": "Wellsley Farms / BJ's Wholesale Club",
       "amount_eaten": "1 serving",
       "servings_eaten": 1,
-      "serving_size": "3/4 cup (123g)",
-      "servings_per_container": 7.5,
-      "net_weight": "32 OZ (2 LB) 907g",
-      "barcode": "888670012901",
-      "photo": "photos/aegean-pasta.jpg",
-      "nutrition_per_serving": {
-        "calories": 390,
-        "total_fat_g": 17,
-        "saturated_fat_g": 4,
-        "trans_fat_g": 0,
-        "cholesterol_mg": 10,
-        "sodium_mg": 480,
-        "total_carbohydrate_g": 49,
-        "dietary_fiber_g": 2,
-        "total_sugars_g": 4,
-        "added_sugars_g": 0,
-        "protein_g": 11
-      },
       "logged": {
         "calories": 390,
         "protein_g": 11,
@@ -164,39 +70,14 @@
         "fat_g": 17
       },
       "source": "label",
-      "use_by": "2026-09-24",
-      "barcode_format": "UPC-A",
-      "barcode_photo": "photos/aegean-pasta-barcode.jpg",
-      "photo_credit": {
-        "source": "Instacart product listing image",
-        "retailer": "Instacart / BJ's Wholesale Club",
-        "url": "https://www.instacart.com/products/2724539-wellsley-farms-aegean-greek-pasta-32-oz",
-        "image_url": "https://www.instacart.com/image-server/1200x1200/www.instacart.com/assets/domains/product-image/file/large_8167bc50-83ad-4e30-8d68-ecfb89fd8be5.jpeg",
-        "license": "Retailer/grocery delivery product listing image; used for personal food log reference",
-        "note": "Wellsley Farms Aegean Greek Pasta 32 oz / UPC 888670012901"
-      }
+      "catalog_path": "catalog/items/888670012901/"
     },
     {
+      "catalog_id": "038900772208",
       "id": "dole-fruit",
       "name": "Dole Fruit Bowls Snacks",
-      "brand": "Dole",
       "amount_eaten": "2 cups",
       "servings_eaten": 2,
-      "serving_size": "1 cup (113g)",
-      "servings_per_container": 20,
-      "barcode": "038900772208",
-      "photo": "photos/dole-fruit.jpg",
-      "nutrition_per_serving": {
-        "calories": 70,
-        "total_fat_g": 0,
-        "cholesterol_mg": 0,
-        "sodium_mg": 0,
-        "total_carbohydrate_g": 16,
-        "dietary_fiber_g": 1,
-        "total_sugars_g": 14,
-        "added_sugars_g": 0,
-        "protein_g": 1
-      },
       "logged": {
         "calories": 140,
         "protein_g": 2,
@@ -204,45 +85,14 @@
         "fat_g": 0
       },
       "source": "label",
-      "barcode_format": "UPC-A",
-      "barcode_photo": "photos/dole-fruit-barcode.jpg",
-      "photo_credit": {
-        "source": "Walmart product image CDN",
-        "retailer": "Walmart",
-        "url": "https://www.upcitemdb.com/upc/038900772208",
-        "image_url": "https://i5.walmartimages.com/asr/c8276278-b624-46a3-a6de-c7be9fc683af.31ce6d4117d48533a0f0b42152aa451b.jpeg",
-        "also_listed": "https://www.barcodelookup.com/038900772208",
-        "license": "Retailer product listing image; used for personal food log reference",
-        "note": "Dole Fruit Bowls Cherry Mixed Fruit in 100% Juice, 20 x 4 oz cups / UPC 038900772208"
-      }
+      "catalog_path": "catalog/items/038900772208/"
     },
     {
+      "catalog_id": "078742237855",
       "id": "sardines",
       "name": "Great Value Sardines in Water",
-      "brand": "Great Value / Walmart",
       "amount_eaten": "1 can drained",
       "servings_eaten": 1,
-      "serving_size": "1 can drained (74g)",
-      "net_weight": "3.75 OZ (106g)",
-      "barcode": "078742237855",
-      "barcode_format": "UPC-A",
-      "photo": "photos/sardines.jpg",
-      "nutrition_per_serving": {
-        "calories": 100,
-        "total_fat_g": 4.5,
-        "saturated_fat_g": 1.5,
-        "trans_fat_g": 0,
-        "cholesterol_mg": 75,
-        "sodium_mg": 300,
-        "total_carbohydrate_g": 0,
-        "dietary_fiber_g": 0,
-        "total_sugars_g": 0,
-        "protein_g": 16,
-        "calcium_mg": 380,
-        "iron_mg": 1.9,
-        "potassium_mg": 110,
-        "vitamin_d_mcg": 12
-      },
       "logged": {
         "calories": 100,
         "protein_g": 16,
@@ -250,38 +100,14 @@
         "fat_g": 4.5
       },
       "source": "label_lookup",
-      "ingredients": "Sardines, water, salt",
-      "photo_credit": {
-        "source": "Walmart product SEO image CDN",
-        "retailer": "Walmart",
-        "url": "https://www.walmart.com/ip/Great-Value-Sardines-in-Water-3-75-oz/",
-        "image_url": "https://i5.walmartimages.com/seo/Great-Value-Sardines-in-Water-3-75-oz_01773f2d-c2d5-4771-9d57-9ad2a7b64d00.f4bd95695d447cfff625b8ea32f13b35.jpeg",
-        "license": "Retailer product listing image; used for personal food log reference",
-        "note": "Great Value Sardines in Water 3.75 oz / UPC 078742237855"
-      }
+      "catalog_path": "catalog/items/078742237855/"
     },
     {
+      "catalog_id": "id-teriyaki-beef-stick",
       "id": "teriyaki-beef-stick",
       "name": "Teriyaki beef stick",
-      "brand": "Unknown (estimated as Jack Link's Teriyaki style)",
       "amount_eaten": "1 stick",
       "servings_eaten": 1,
-      "serving_size": "1 stick (~0.92 oz / 26g)",
-      "barcode": null,
-      "barcode_status": "no_photo",
-      "photo": null,
-      "nutrition_per_serving": {
-        "calories": 110,
-        "total_fat_g": 9,
-        "saturated_fat_g": 4,
-        "trans_fat_g": 0,
-        "cholesterol_mg": 20,
-        "sodium_mg": 390,
-        "total_carbohydrate_g": 3,
-        "total_sugars_g": 2,
-        "added_sugars_g": 2,
-        "protein_g": 5
-      },
       "logged": {
         "calories": 110,
         "protein_g": 5,
@@ -289,31 +115,15 @@
         "fat_g": 9
       },
       "source": "estimate",
-      "notes": "No package photo; values from common Jack Link's Teriyaki Beef Stick (0.92 oz)"
+      "notes": "No package photo; values from common Jack Link's Teriyaki Beef Stick (0.92 oz)",
+      "catalog_path": "catalog/items/id-teriyaki-beef-stick/"
     },
     {
+      "catalog_id": "888670053638",
       "id": "apple",
       "name": "Wellsley Farms Gala Apples",
-      "brand": "Wellsley Farms / BJ's Wholesale Club",
       "amount_eaten": "1 medium apple",
       "servings_eaten": 1,
-      "serving_size": "1 medium apple (~182g) with skin",
-      "barcode": "888670053638",
-      "barcode_format": "UPC-A",
-      "bj_number": "100383",
-      "photo": "photos/apple.jpg",
-      "nutrition_per_serving": {
-        "calories": 95,
-        "total_fat_g": 0.3,
-        "total_carbohydrate_g": 25.1,
-        "dietary_fiber_g": 4.4,
-        "total_sugars_g": 18.9,
-        "protein_g": 0.5,
-        "sodium_mg": 2,
-        "potassium_mg": 195,
-        "vitamin_c_mg": 8.4,
-        "notes": "USDA medium raw apple with skin; bag label barcode recorded from photo"
-      },
       "logged": {
         "calories": 95,
         "protein_g": 0.5,
@@ -321,16 +131,7 @@
         "fat_g": 0.3
       },
       "source": "usda_estimate",
-      "photo_credit": {
-        "source": "BJ's Wholesale Club product image CDN (Scene7)",
-        "retailer": "BJ's Wholesale Club",
-        "url": "https://www.bjs.com/product/wellsley-farms-gala-apples-5-lbs/3000000000000900174/",
-        "image_url": "https://bjs.scene7.com/is/image/bjs/100383?$bjs-Zoom$",
-        "bj_number": "100383",
-        "license": "Retailer product listing image; used for personal food log reference",
-        "note": "Wellsley Farms Gala Apples 5 lbs / UPC 888670053638 (BJ# 100383)"
-      }
+      "catalog_path": "catalog/items/888670053638/"
     }
-  ],
-  "goal_kcal": 1500
+  ]
 }

@@ -1,14 +1,13 @@
 {
+  "catalog_id": "888670012901",
   "id": "aegean-pasta",
   "name": "Wellsley Farms Aegean Greek Pasta",
   "brand": "Wellsley Farms / BJ's Wholesale Club",
-  "amount_eaten": "1 serving",
-  "servings_eaten": 1,
+  "barcode": "888670012901",
+  "barcode_format": "UPC-A",
   "serving_size": "3/4 cup (123g)",
   "servings_per_container": 7.5,
   "net_weight": "32 OZ (2 LB) 907g",
-  "barcode": "888670012901",
-  "photo": "aegean-pasta.jpg",
   "nutrition_per_serving": {
     "calories": 390,
     "total_fat_g": 17,
@@ -22,16 +21,6 @@
     "added_sugars_g": 0,
     "protein_g": 11
   },
-  "logged": {
-    "calories": 390,
-    "protein_g": 11,
-    "carbs_g": 49,
-    "fat_g": 17
-  },
-  "source": "label",
-  "use_by": "2026-09-24",
-  "barcode_format": "UPC-A",
-  "barcode_photo": "aegean-pasta-barcode.jpg",
   "photo_credit": {
     "source": "Instacart product listing image",
     "retailer": "Instacart / BJ's Wholesale Club",
@@ -39,5 +28,7 @@
     "image_url": "https://www.instacart.com/image-server/1200x1200/www.instacart.com/assets/domains/product-image/file/large_8167bc50-83ad-4e30-8d68-ecfb89fd8be5.jpeg",
     "license": "Retailer/grocery delivery product listing image; used for personal food log reference",
     "note": "Wellsley Farms Aegean Greek Pasta 32 oz / UPC 888670012901"
-  }
+  },
+  "photo": "catalog/items/888670012901/product.jpg",
+  "barcode_label_photo": "catalog/items/888670012901/barcode-label.jpg"
 }

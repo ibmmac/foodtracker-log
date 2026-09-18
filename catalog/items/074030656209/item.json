@@ -1,13 +1,12 @@
 {
+  "catalog_id": "074030656209",
   "id": "galbani-cheese",
   "name": "Galbani Reduced Fat Cheese Sticks",
   "brand": "Galbani / Lactalis American Group",
-  "amount_eaten": "2 sticks",
-  "servings_eaten": 2,
-  "serving_size": "1 stick",
   "barcode": "074030656209",
   "barcode_format": "UPC-A",
-  "photo": "galbani-cheese.jpg",
+  "serving_size": "1 stick",
+  "ingredients": "Pasteurized milk, salt, cheese cultures, enzymes, vitamin A palmitate",
   "nutrition_per_serving": {
     "calories": 60,
     "total_fat_g": 4,
@@ -17,14 +16,6 @@
     "calcium_mg": 175,
     "notes": "Calories derived from label macros (4g fat + 6g protein)"
   },
-  "logged": {
-    "calories": 120,
-    "protein_g": 12,
-    "carbs_g": 0,
-    "fat_g": 8
-  },
-  "source": "label",
-  "ingredients": "Pasteurized milk, salt, cheese cultures, enzymes, vitamin A palmitate",
   "photo_credit": {
     "source": "BJ's Wholesale Club product image CDN (Scene7)",
     "retailer": "BJ's Wholesale Club",
@@ -32,5 +23,6 @@
     "image_url": "https://bjs.scene7.com/is/image/bjs/216084",
     "license": "Retailer product listing image; used for personal food log reference",
     "note": "Galbani Reduced Fat Mozzarella String Cheese 30 oz / UPC 074030656209"
-  }
+  },
+  "photo": "catalog/items/074030656209/product.jpg"
 }

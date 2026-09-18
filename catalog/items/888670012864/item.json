@@ -1,14 +1,13 @@
 {
+  "catalog_id": "888670012864",
   "id": "potato-salad",
   "name": "Wellsley Farms Homestyle Potato Salad",
   "brand": "Wellsley Farms / BJ's Wholesale Club",
-  "amount_eaten": "1 serving",
-  "servings_eaten": 1,
+  "barcode": "888670012864",
+  "barcode_format": "UPC-A",
   "serving_size": "2/3 cup (140g)",
   "servings_per_container": 10,
   "net_weight": "48 oz (3 lb) 1.36kg",
-  "barcode": "888670012864",
-  "photo": "potato-salad.jpg",
   "nutrition_per_serving": {
     "calories": 190,
     "total_fat_g": 10,
@@ -22,16 +21,6 @@
     "added_sugars_g": 5,
     "protein_g": 2
   },
-  "logged": {
-    "calories": 190,
-    "protein_g": 2,
-    "carbs_g": 22,
-    "fat_g": 10
-  },
-  "source": "label",
-  "use_by": "2026-09-27",
-  "barcode_format": "UPC-A",
-  "barcode_photo": "potato-salad-barcode.jpg",
   "photo_credit": {
     "source": "BJ's Wholesale Club product image CDN (Scene7)",
     "retailer": "BJ's Wholesale Club",
@@ -40,5 +29,7 @@
     "bj_number": "23078",
     "license": "Retailer product listing image; used for personal food log reference",
     "note": "Wellsley Farms Homestyle Potato Salad 48 oz / UPC 888670012864 (BJ# 23078)"
-  }
+  },
+  "photo": "catalog/items/888670012864/product.jpg",
+  "barcode_label_photo": "catalog/items/888670012864/barcode-label.jpg"
 }
