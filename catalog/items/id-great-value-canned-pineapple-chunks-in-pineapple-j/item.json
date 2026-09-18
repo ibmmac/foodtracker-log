@@ -16,5 +16,16 @@
   "barcode": null,
   "barcode_status": "no_photo",
   "photo": null,
-  "source_notes": "Walmart product_id 10315437; UPC not confidently resolved."
+  "source_notes": "Walmart product_id 10315437; UPC not confidently resolved.",
+  "serving_size": "1/2 cup drained (122 g)",
+  "nutrition_per_serving": {
+    "calories": 70,
+    "protein_g": 0,
+    "total_carbohydrate_g": 17,
+    "total_fat_g": 0,
+    "dietary_fiber_g": 1,
+    "total_sugars_g": 15,
+    "sodium_mg": 0,
+    "notes": "Estimated from Great Value pineapple chunks in juice OFF labels (~70 kcal / ~122 g)."
+  }
 }

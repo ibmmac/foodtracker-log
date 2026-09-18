@@ -2,7 +2,7 @@
   "catalog_id": "id-fresh-usda-organic-strawberries-1-lb-container",
   "id": "fresh-usda-organic-strawberries-1-lb-container",
   "name": "Fresh USDA Organic Strawberries, 1 lb Container",
-  "brand": null,
+  "brand": "Fresh",
   "walmart_item_id": "45618183",
   "walmart_url": "https://www.walmart.com/ip/Fresh-USDA-Organic-Strawberries-1-lb-Container/45618183",
   "product_url": "https://www.walmart.com/ip/Fresh-USDA-Organic-Strawberries-1-lb-Container/45618183",
@@ -21,5 +21,18 @@
   "barcode": null,
   "barcode_status": "no_photo",
   "photo": null,
-  "source_notes": "Walmart product_id 45618183; UPC not confidently resolved."
+  "source_notes": "Walmart product_id 45618183; UPC not confidently resolved.",
+  "serving_size": "1 cup whole strawberries (~144 g)",
+  "nutrition_per_serving": {
+    "calories": 46,
+    "protein_g": 1.0,
+    "total_carbohydrate_g": 11.1,
+    "total_fat_g": 0.4,
+    "dietary_fiber_g": 2.9,
+    "total_sugars_g": 7.0,
+    "sodium_mg": 1,
+    "potassium_mg": 220,
+    "vitamin_c_mg": 84.7,
+    "notes": "USDA FoodData Central: strawberries raw, 1 cup whole (~144 g)."
+  }
 }

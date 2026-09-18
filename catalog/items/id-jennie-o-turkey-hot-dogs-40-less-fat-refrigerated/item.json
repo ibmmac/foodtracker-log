@@ -31,5 +31,14 @@
   "barcode": null,
   "barcode_status": "no_photo",
   "photo": null,
-  "source_notes": "Walmart product_id 793362204; UPC not confidently resolved."
+  "source_notes": "Walmart product_id 793362204; UPC not confidently resolved.",
+  "serving_size": "1 frank (56 g)",
+  "nutrition_per_serving": {
+    "calories": 110,
+    "protein_g": 7,
+    "total_carbohydrate_g": 4,
+    "total_fat_g": 7,
+    "sodium_mg": 520,
+    "notes": "Estimated from Jennie-O turkey frank / 40% less fat hot dog labels (~110 kcal / frank)."
+  }
 }

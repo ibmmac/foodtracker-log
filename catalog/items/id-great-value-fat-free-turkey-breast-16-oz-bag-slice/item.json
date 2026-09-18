@@ -16,5 +16,14 @@
   "barcode": null,
   "barcode_status": "no_photo",
   "photo": null,
-  "source_notes": "Walmart product_id 610985119; UPC not confidently resolved."
+  "source_notes": "Walmart product_id 610985119; UPC not confidently resolved.",
+  "serving_size": "2 oz / about 3 slices (56 g)",
+  "nutrition_per_serving": {
+    "calories": 50,
+    "protein_g": 10,
+    "total_carbohydrate_g": 2,
+    "total_fat_g": 0,
+    "sodium_mg": 460,
+    "notes": "Estimated from Great Value fat-free turkey breast deli labels (~50 kcal / 2 oz)."
+  }
 }

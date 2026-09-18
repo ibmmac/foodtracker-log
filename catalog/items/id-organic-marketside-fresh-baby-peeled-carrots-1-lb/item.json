@@ -16,5 +16,17 @@
   "barcode": null,
   "barcode_status": "no_photo",
   "photo": null,
-  "source_notes": "Walmart product_id 51259199; UPC not confidently resolved."
+  "source_notes": "Walmart product_id 51259199; UPC not confidently resolved.",
+  "serving_size": "3 oz / ~12 baby carrots (85 g)",
+  "nutrition_per_serving": {
+    "calories": 30,
+    "protein_g": 0.6,
+    "total_carbohydrate_g": 7.0,
+    "total_fat_g": 0.1,
+    "dietary_fiber_g": 2.0,
+    "total_sugars_g": 4.0,
+    "sodium_mg": 65,
+    "potassium_mg": 230,
+    "notes": "USDA baby carrots raw ~85 g (3 oz); Marketside organic produce estimate."
+  }
 }

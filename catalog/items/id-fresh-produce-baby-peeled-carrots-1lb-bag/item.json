@@ -2,7 +2,7 @@
   "catalog_id": "id-fresh-produce-baby-peeled-carrots-1lb-bag",
   "id": "fresh-produce-baby-peeled-carrots-1lb-bag",
   "name": "Fresh Produce, Baby Peeled Carrots, 1lb Bag",
-  "brand": null,
+  "brand": "Fresh",
   "walmart_item_id": "10451315",
   "walmart_url": "https://www.walmart.com/ip/Fresh-Baby-Cut-Carrots-1lb-Bag/10451315",
   "product_url": "https://www.walmart.com/ip/Fresh-Baby-Cut-Carrots-1lb-Bag/10451315",
@@ -31,5 +31,18 @@
   "barcode": null,
   "barcode_status": "no_photo",
   "photo": null,
-  "source_notes": "Walmart product_id 10451315; UPC not confidently resolved."
+  "source_notes": "Walmart product_id 10451315; UPC not confidently resolved.",
+  "serving_size": "3 oz / ~12 baby carrots (85 g)",
+  "nutrition_per_serving": {
+    "calories": 30,
+    "protein_g": 0.6,
+    "total_carbohydrate_g": 7.0,
+    "total_fat_g": 0.1,
+    "dietary_fiber_g": 2.0,
+    "total_sugars_g": 4.0,
+    "sodium_mg": 65,
+    "potassium_mg": 230,
+    "vitamin_a_rae_mcg": 850,
+    "notes": "USDA baby carrots raw ~85 g (3 oz) serving; estimated from FoodData Central."
+  }
 }

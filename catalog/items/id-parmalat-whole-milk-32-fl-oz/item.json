@@ -16,5 +16,17 @@
   "barcode": null,
   "barcode_status": "no_photo",
   "photo": null,
-  "source_notes": "Walmart product_id 151857624; UPC not confidently resolved."
+  "source_notes": "Walmart product_id 151857624; UPC not confidently resolved.",
+  "serving_size": "1 cup (240 ml)",
+  "nutrition_per_serving": {
+    "calories": 150,
+    "protein_g": 8,
+    "total_carbohydrate_g": 12,
+    "total_fat_g": 8,
+    "saturated_fat_g": 5,
+    "total_sugars_g": 12,
+    "sodium_mg": 120,
+    "calcium_mg": 300,
+    "notes": "USDA / Parmalat whole milk label: 150 kcal per cup (shelf-stable UHT)."
+  }
 }

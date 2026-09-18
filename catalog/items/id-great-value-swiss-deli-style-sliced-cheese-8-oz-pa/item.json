@@ -16,5 +16,15 @@
   "barcode": null,
   "barcode_status": "no_photo",
   "photo": null,
-  "source_notes": "Walmart product_id 152351343; UPC not confidently resolved."
+  "source_notes": "Walmart product_id 152351343; UPC not confidently resolved.",
+  "serving_size": "1 slice (about 19 g)",
+  "nutrition_per_serving": {
+    "calories": 70,
+    "protein_g": 5,
+    "total_carbohydrate_g": 0,
+    "total_fat_g": 5,
+    "saturated_fat_g": 3.5,
+    "sodium_mg": 45,
+    "notes": "Estimated from Great Value Swiss deli-style sliced cheese (~70 kcal / slice); aligned with other GV deli cheeses."
+  }
 }

@@ -16,5 +16,15 @@
   "barcode": null,
   "barcode_status": "no_photo",
   "photo": null,
-  "source_notes": "Walmart product_id 519060542; UPC not confidently resolved."
+  "source_notes": "Walmart product_id 519060542; UPC not confidently resolved.",
+  "serving_size": "1 cup (5.3 oz / 150 g)",
+  "nutrition_per_serving": {
+    "calories": 140,
+    "protein_g": 11,
+    "total_carbohydrate_g": 20,
+    "total_fat_g": 2.5,
+    "total_sugars_g": 15,
+    "sodium_mg": 65,
+    "notes": "Estimated from Chobani Low-Fat Greek Yogurt fruit-on-bottom / Hero Batch style labels (~140 kcal per 5.3 oz); confirm against cup label when available."
+  }
 }

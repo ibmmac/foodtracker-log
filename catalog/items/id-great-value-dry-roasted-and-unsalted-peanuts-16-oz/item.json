@@ -16,5 +16,16 @@
   "barcode": null,
   "barcode_status": "no_photo",
   "photo": null,
-  "source_notes": "Walmart product_id 10448400; UPC not confidently resolved."
+  "source_notes": "Walmart product_id 10448400; UPC not confidently resolved.",
+  "serving_size": "1 oz / about 39 pieces (28 g)",
+  "nutrition_per_serving": {
+    "calories": 170,
+    "protein_g": 7,
+    "total_carbohydrate_g": 5,
+    "total_fat_g": 14,
+    "dietary_fiber_g": 2,
+    "total_sugars_g": 1,
+    "sodium_mg": 0,
+    "notes": "Typical dry-roasted unsalted peanuts label / USDA (~170 kcal / 1 oz)."
+  }
 }

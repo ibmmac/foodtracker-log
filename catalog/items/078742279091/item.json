@@ -4,10 +4,16 @@
   "name": "Great Value Purified Drinking Water, 16.9 fl oz Bottles, 40 Count Pack",
   "brand": "Great Value / Walmart",
   "barcode": "078742279091",
-  "barcode_status": "no_photo",
-  "serving_size": "500 ml",
-  "nutrition_per_serving": null,
-  "photo": null,
+  "serving_size": "16.9 fl oz (500 ml) bottle",
+  "nutrition_per_serving": {
+    "calories": 0,
+    "protein_g": 0,
+    "total_carbohydrate_g": 0,
+    "total_fat_g": 0,
+    "sodium_mg": 0,
+    "notes": "Purified drinking water; 0 kcal per bottle (label / OFF)."
+  },
+  "photo": "catalog/items/078742279091/product.jpg",
   "source_notes": "Order 2000148-64609284 confirmation alt / SEO. UPC not in email. Walmart product_id 992524020 synced from orders; UPC 078742279091.",
   "purchase_refs": [
     {
@@ -30,5 +36,12 @@
   "walmart_item_id": "992524020",
   "walmart_url": "https://www.walmart.com/ip/Great-Value-Purified-Drinking-Water-16-9-fl-oz-Bottles-40-Count/992524020",
   "product_url": "https://www.walmart.com/ip/Great-Value-Purified-Drinking-Water-16-9-fl-oz-Bottles-40-Count/992524020",
-  "barcode_format": "UPC-A"
+  "barcode_format": "UPC-A",
+  "photo_credit": {
+    "source": "Open Food Facts product image",
+    "retailer": "Open Food Facts",
+    "url": "https://world.openfoodfacts.org/product/078742279091",
+    "image_url": "https://images.openfoodfacts.org/images/products/007/874/227/9091/front_en.11.full.jpg",
+    "license": "Open Food Facts contributor image; used for personal food log reference"
+  }
 }

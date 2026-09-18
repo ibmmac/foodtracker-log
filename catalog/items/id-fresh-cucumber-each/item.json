@@ -2,7 +2,7 @@
   "catalog_id": "id-fresh-cucumber-each",
   "id": "fresh-cucumber-each",
   "name": "Fresh Cucumber, Each",
-  "brand": null,
+  "brand": "Fresh",
   "walmart_item_id": "44390954",
   "walmart_url": "https://www.walmart.com/ip/Fresh-Cucumber-Each/44390954",
   "product_url": "https://www.walmart.com/ip/Fresh-Cucumber-Each/44390954",
@@ -21,5 +21,18 @@
   "barcode": null,
   "barcode_status": "no_photo",
   "photo": null,
-  "source_notes": "Walmart product_id 44390954; UPC not confidently resolved."
+  "source_notes": "Walmart product_id 44390954; UPC not confidently resolved.",
+  "serving_size": "1 medium cucumber (~301 g) with peel",
+  "nutrition_per_serving": {
+    "calories": 45,
+    "protein_g": 2.0,
+    "total_carbohydrate_g": 10.9,
+    "total_fat_g": 0.3,
+    "dietary_fiber_g": 1.5,
+    "total_sugars_g": 5.0,
+    "sodium_mg": 6,
+    "potassium_mg": 442,
+    "vitamin_c_mg": 8.4,
+    "notes": "USDA FoodData Central estimate: raw cucumber with peel, medium (~301 g)."
+  }
 }

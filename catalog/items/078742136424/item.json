@@ -1,0 +1,38 @@
+{
+  "catalog_id": "078742136424",
+  "id": "great-value-organic-tomato-ketchup-20-oz",
+  "name": "Great Value Organic Tomato Ketchup, 20 oz",
+  "brand": "Great Value / Walmart",
+  "walmart_item_id": "134201720",
+  "walmart_url": "https://www.walmart.com/ip/Great-Value-Organic-Tomato-Ketchup-20-oz/134201720",
+  "product_url": "https://www.walmart.com/ip/Great-Value-Organic-Tomato-Ketchup-20-oz/134201720",
+  "purchase_refs": [
+    {
+      "orderId": "2000153-13578770",
+      "date": "2026-08-08",
+      "walmartItemId": "134201720"
+    }
+  ],
+  "barcode": "078742136424",
+  "photo": "catalog/items/078742136424/product.jpg",
+  "source_notes": "Walmart product_id 134201720; UPC not confidently resolved. Migrated from id-great-value-organic-tomato-ketchup-20-oz after OFF UPC match 078742136424.",
+  "barcode_format": "UPC-A",
+  "serving_size": "1 Tbsp (17 g)",
+  "nutrition_per_serving": {
+    "calories": 15,
+    "protein_g": 0,
+    "total_carbohydrate_g": 4,
+    "total_fat_g": 0,
+    "dietary_fiber_g": 0,
+    "total_sugars_g": 3,
+    "sodium_mg": 160,
+    "notes": "Open Food Facts / Great Value Organic Tomato Ketchup 20 oz (UPC 078742136424)."
+  },
+  "photo_credit": {
+    "source": "Open Food Facts product image",
+    "retailer": "Open Food Facts",
+    "url": "https://world.openfoodfacts.org/product/078742136424",
+    "image_url": "https://images.openfoodfacts.org/images/products/007/874/213/6424/front_en.6.full.jpg",
+    "license": "Open Food Facts contributor image; used for personal food log reference"
+  }
+}

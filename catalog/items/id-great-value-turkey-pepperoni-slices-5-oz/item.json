@@ -21,5 +21,14 @@
   "barcode": null,
   "barcode_status": "no_photo",
   "photo": null,
-  "source_notes": "Walmart product_id 40495517; UPC not confidently resolved."
+  "source_notes": "Walmart product_id 40495517; UPC not confidently resolved.",
+  "serving_size": "15 slices (about 30 g)",
+  "nutrition_per_serving": {
+    "calories": 70,
+    "protein_g": 9,
+    "total_carbohydrate_g": 1,
+    "total_fat_g": 3.5,
+    "sodium_mg": 480,
+    "notes": "Estimated from turkey pepperoni / Great Value turkey pepperoni labels (~70 kcal / 15 slices)."
+  }
 }

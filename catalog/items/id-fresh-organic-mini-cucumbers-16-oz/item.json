@@ -2,7 +2,7 @@
   "catalog_id": "id-fresh-organic-mini-cucumbers-16-oz",
   "id": "fresh-organic-mini-cucumbers-16-oz",
   "name": "Fresh Organic Mini Cucumbers, 16 oz",
-  "brand": null,
+  "brand": "Fresh",
   "walmart_item_id": "704747922",
   "walmart_url": "https://www.walmart.com/ip/Fresh-Organic-Mini-Cucumbers-1-Pound-Bag/704747922",
   "product_url": "https://www.walmart.com/ip/Fresh-Organic-Mini-Cucumbers-1-Pound-Bag/704747922",
@@ -16,5 +16,16 @@
   "barcode": null,
   "barcode_status": "no_photo",
   "photo": null,
-  "source_notes": "Walmart product_id 704747922; UPC not confidently resolved."
+  "source_notes": "Walmart product_id 704747922; UPC not confidently resolved.",
+  "serving_size": "1 mini cucumber (~50 g)",
+  "nutrition_per_serving": {
+    "calories": 8,
+    "protein_g": 0.3,
+    "total_carbohydrate_g": 1.8,
+    "total_fat_g": 0.1,
+    "dietary_fiber_g": 0.3,
+    "total_sugars_g": 0.8,
+    "sodium_mg": 1,
+    "notes": "USDA cucumber raw with peel scaled to ~50 g mini cucumber; estimated."
+  }
 }

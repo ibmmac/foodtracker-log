@@ -15,8 +15,7 @@
   ],
   "barcode": "041800207503",
   "barcode_format": "UPC-A",
-  "barcode_status": "no_photo",
-  "photo": null,
+  "photo": "catalog/items/041800207503/product.jpg",
   "source_notes": "Walmart product_id 10292353 synced from orders; UPC 041800207503.",
   "serving_size": "240 ml (240 ml)",
   "nutrition_per_serving": {
@@ -30,5 +29,12 @@
     "total_sugars_g": 34.0,
     "added_sugars_g": null,
     "protein_g": 1.0
+  },
+  "photo_credit": {
+    "source": "Open Food Facts product image",
+    "retailer": "Open Food Facts",
+    "url": "https://world.openfoodfacts.org/product/041800207503",
+    "image_url": "https://images.openfoodfacts.org/images/products/004/180/020/7503/front_en.20.full.jpg",
+    "license": "Open Food Facts contributor image; used for personal food log reference"
   }
 }

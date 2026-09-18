@@ -21,5 +21,14 @@
   "barcode": null,
   "barcode_status": "no_photo",
   "photo": null,
-  "source_notes": "Walmart product_id 22210558; UPC not confidently resolved."
+  "source_notes": "Walmart product_id 22210558; UPC not confidently resolved.",
+  "serving_size": "4 oz raw (112 g)",
+  "nutrition_per_serving": {
+    "calories": 200,
+    "protein_g": 15,
+    "total_carbohydrate_g": 0,
+    "total_fat_g": 15,
+    "sodium_mg": 80,
+    "notes": "Estimated from Festive / Jennie-O ground turkey OFF entries (~200 kcal / 4 oz); UPC not uniquely resolved for 1 lb roll."
+  }
 }

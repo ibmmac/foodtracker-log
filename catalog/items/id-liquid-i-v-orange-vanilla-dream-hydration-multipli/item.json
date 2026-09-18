@@ -1,7 +1,7 @@
 {
   "catalog_id": "id-liquid-i-v-orange-vanilla-dream-hydration-multipli",
   "id": "liquid-i-v-orange-vanilla-dream-hydration-multipli",
-  "name": "Liquid I.V.\u00ae Orange Vanilla Dream Hydration Multiplier\u00ae Powdered Electrolyte Drink Mix, 6 Count Packets",
+  "name": "Liquid I.V.® Orange Vanilla Dream Hydration Multiplier® Powdered Electrolyte Drink Mix, 6 Count Packets",
   "brand": "Liquid I.V.",
   "walmart_item_id": "17382014980",
   "walmart_url": "https://www.walmart.com/ip/Liquid-I-V-Orange-Vanilla-Dream-Hydration-Multiplier-Powdered-Electrolyte-Drink-Mix-6-CT/17382014980",
@@ -16,5 +16,16 @@
   "barcode": null,
   "barcode_status": "no_photo",
   "photo": null,
-  "source_notes": "Walmart product_id 17382014980; UPC not confidently resolved."
+  "source_notes": "Walmart product_id 17382014980; UPC not confidently resolved.",
+  "serving_size": "1 stick mixed with 16 fl oz water",
+  "nutrition_per_serving": {
+    "calories": 45,
+    "protein_g": 0,
+    "total_carbohydrate_g": 11,
+    "total_fat_g": 0,
+    "total_sugars_g": 11,
+    "sodium_mg": 500,
+    "potassium_mg": 370,
+    "notes": "Liquid I.V. Hydration Multiplier typical stick (~45 kcal); Orange Vanilla Dream estimated from brand Hydration Multiplier labels."
+  }
 }

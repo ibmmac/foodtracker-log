@@ -16,5 +16,16 @@
   "barcode": null,
   "barcode_status": "no_photo",
   "photo": null,
-  "source_notes": "Walmart product_id 205670394; UPC not confidently resolved."
+  "source_notes": "Walmart product_id 205670394; UPC not confidently resolved.",
+  "serving_size": "1 oz (28 g)",
+  "nutrition_per_serving": {
+    "calories": 110,
+    "protein_g": 7,
+    "total_carbohydrate_g": 0,
+    "total_fat_g": 9,
+    "saturated_fat_g": 6,
+    "sodium_mg": 180,
+    "cholesterol_mg": 30,
+    "notes": "Typical cheddar cheese / Great Value white cheddar block label (~110 kcal / oz)."
+  }
 }

@@ -2,7 +2,7 @@
   "catalog_id": "id-fresh-hass-avocados-each",
   "id": "fresh-hass-avocados-each",
   "name": "Fresh Hass Avocados, Each",
-  "brand": null,
+  "brand": "Fresh",
   "walmart_item_id": "44390949",
   "walmart_url": "https://www.walmart.com/ip/Fresh-Hass-Avocados-Each/44390949",
   "product_url": "https://www.walmart.com/ip/Fresh-Hass-Avocados-Each/44390949",
@@ -16,5 +16,17 @@
   "barcode": null,
   "barcode_status": "no_photo",
   "photo": null,
-  "source_notes": "Walmart product_id 44390949; UPC not confidently resolved."
+  "source_notes": "Walmart product_id 44390949; UPC not confidently resolved.",
+  "serving_size": "1 medium Hass avocado (~136 g edible flesh / ~200 g whole)",
+  "nutrition_per_serving": {
+    "calories": 227,
+    "protein_g": 2.7,
+    "total_carbohydrate_g": 11.8,
+    "total_fat_g": 21.0,
+    "dietary_fiber_g": 9.2,
+    "total_sugars_g": 0.9,
+    "sodium_mg": 11,
+    "potassium_mg": 690,
+    "notes": "USDA FoodData Central: raw avocado, California (Hass), 1 fruit without skin/seed (~136 g)."
+  }
 }

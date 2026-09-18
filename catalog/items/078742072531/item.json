@@ -1,0 +1,38 @@
+{
+  "catalog_id": "078742072531",
+  "id": "great-value-honey-graham-crackers-14-4-oz-3-count",
+  "name": "Great Value Honey Graham Crackers, 14.4 oz, 3 Count",
+  "brand": "Great Value / Walmart",
+  "walmart_item_id": "10315952",
+  "walmart_url": "https://www.walmart.com/ip/Great-Value-Honey-Graham-Crackers-14-4-oz/10315952",
+  "product_url": "https://www.walmart.com/ip/Great-Value-Honey-Graham-Crackers-14-4-oz/10315952",
+  "purchase_refs": [
+    {
+      "orderId": "2000153-13578770",
+      "date": "2026-08-08",
+      "walmartItemId": "10315952"
+    }
+  ],
+  "barcode": "078742072531",
+  "photo": "catalog/items/078742072531/product.jpg",
+  "source_notes": "Walmart product_id 10315952; UPC not confidently resolved. Migrated from id-great-value-honey-graham-crackers-14-4-oz-3-count after OFF UPC match 078742072531.",
+  "barcode_format": "UPC-A",
+  "serving_size": "2 sheets (31 g)",
+  "nutrition_per_serving": {
+    "calories": 130,
+    "protein_g": 2,
+    "total_carbohydrate_g": 24,
+    "total_fat_g": 3,
+    "dietary_fiber_g": 1,
+    "total_sugars_g": 8,
+    "sodium_mg": 135,
+    "notes": "Open Food Facts / Great Value Honey Graham Crackers label (UPC 078742072531)."
+  },
+  "photo_credit": {
+    "source": "Open Food Facts product image",
+    "retailer": "Open Food Facts",
+    "url": "https://world.openfoodfacts.org/product/078742072531",
+    "image_url": "https://images.openfoodfacts.org/images/products/007/874/207/2531/front_en.30.full.jpg",
+    "license": "Open Food Facts contributor image; used for personal food log reference"
+  }
+}

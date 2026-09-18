@@ -16,5 +16,15 @@
   "barcode": null,
   "barcode_status": "no_photo",
   "photo": null,
-  "source_notes": "Walmart product_id 1018256948; UPC not confidently resolved."
+  "source_notes": "Walmart product_id 1018256948; UPC not confidently resolved.",
+  "serving_size": "1 individually wrapped piece (varies by candy type)",
+  "nutrition_per_serving": {
+    "calories": 15,
+    "protein_g": 0,
+    "total_carbohydrate_g": 4,
+    "total_fat_g": 0,
+    "total_sugars_g": 3,
+    "sodium_mg": 0,
+    "notes": "Estimated average for SweeTARTS / Ferrara party-mix wrapped pieces (~10–20 kcal); rough estimate."
+  }
 }

@@ -16,5 +16,14 @@
   "barcode": null,
   "barcode_status": "no_photo",
   "photo": null,
-  "source_notes": "Walmart product_id 10315854; UPC not confidently resolved."
+  "source_notes": "Walmart product_id 10315854; UPC not confidently resolved.",
+  "serving_size": "2 oz (56 g)",
+  "nutrition_per_serving": {
+    "calories": 60,
+    "protein_g": 10,
+    "total_carbohydrate_g": 3,
+    "total_fat_g": 1.5,
+    "sodium_mg": 520,
+    "notes": "Walmart listing notes ~10 g protein per 2 oz; estimated ~60 kcal / 2 oz honey ham lunchmeat."
+  }
 }

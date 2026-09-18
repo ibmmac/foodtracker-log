@@ -4,21 +4,19 @@
   "name": "Gatorade Thirst Quencher Electrolyte Sports Drink, Frost Glacier Cherry, 12 fl oz, 12 Count Bottles",
   "brand": "Gatorade / PepsiCo",
   "barcode": "052000103120",
-  "barcode_status": "no_photo",
-  "serving_size": "1 BOTTLE (360 ml)",
+  "serving_size": "1 bottle (12 fl oz / 355 ml)",
   "nutrition_per_serving": {
-    "calories": 81,
-    "total_fat_g": 0.0,
-    "saturated_fat_g": 0.0,
-    "cholesterol_mg": null,
-    "sodium_mg": 162,
-    "total_carbohydrate_g": 21.3,
-    "dietary_fiber_g": null,
-    "total_sugars_g": 21.3,
-    "added_sugars_g": null,
-    "protein_g": 0.0
+    "calories": 80,
+    "protein_g": 0,
+    "total_carbohydrate_g": 21,
+    "total_fat_g": 0,
+    "total_sugars_g": 21,
+    "added_sugars_g": 21,
+    "sodium_mg": 160,
+    "potassium_mg": 50,
+    "notes": "PepsiCo / Target label: 80 kcal per 12 fl oz Frost Glacier Cherry."
   },
-  "photo": null,
+  "photo": "catalog/items/052000103120/product.jpg",
   "source_notes": "Orders 2000153-13578770 and 2000152-41415546 email alts. UPC not in email. Walmart product_id 23752091 synced from orders; UPC 052000103120.",
   "purchase_refs": [
     {
@@ -42,5 +40,13 @@
   "walmart_item_id": "23752091",
   "walmart_url": "https://www.walmart.com/ip/Gatorade-Frost-Glacier-Cherry-Thirst-Quencher-Sports-Drink-12-fl-oz-12-pack/23752091",
   "product_url": "https://www.walmart.com/ip/Gatorade-Frost-Glacier-Cherry-Thirst-Quencher-Sports-Drink-12-fl-oz-12-pack/23752091",
-  "barcode_format": "UPC-A"
+  "barcode_format": "UPC-A",
+  "photo_credit": {
+    "source": "Target product listing image (Scene7)",
+    "retailer": "Target",
+    "url": "https://www.target.com/p/gatorade-frost-glacier-cherry-sports-drink-12pk-12-fl-oz-bottles/-/A-14903667",
+    "image_url": "https://target.scene7.com/is/image/Target/GUEST_e07fc9fb-1dd9-4551-9ee1-77b41d22f32c?wid=1200&hei=1200&qlt=85",
+    "license": "Retailer product listing image; used for personal food log reference",
+    "note": "Gatorade Frost Glacier Cherry 12 fl oz / UPC 052000103120"
+  }
 }

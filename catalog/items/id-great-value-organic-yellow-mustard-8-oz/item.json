@@ -16,5 +16,14 @@
   "barcode": null,
   "barcode_status": "no_photo",
   "photo": null,
-  "source_notes": "Walmart product_id 51871266; UPC not confidently resolved."
+  "source_notes": "Walmart product_id 51871266; UPC not confidently resolved.",
+  "serving_size": "1 tsp (5 g)",
+  "nutrition_per_serving": {
+    "calories": 0,
+    "protein_g": 0,
+    "total_carbohydrate_g": 0,
+    "total_fat_g": 0,
+    "sodium_mg": 55,
+    "notes": "Typical yellow mustard label: 0 kcal per tsp; Great Value organic mustard estimate."
+  }
 }

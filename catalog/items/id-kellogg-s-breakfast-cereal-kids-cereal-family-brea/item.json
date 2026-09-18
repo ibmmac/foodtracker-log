@@ -16,5 +16,16 @@
   "barcode": null,
   "barcode_status": "no_photo",
   "photo": null,
-  "source_notes": "Walmart product_id 10898865; UPC not confidently resolved."
+  "source_notes": "Walmart product_id 10898865; UPC not confidently resolved.",
+  "serving_size": "1 box from variety pack (~25–30 g; brand varies)",
+  "nutrition_per_serving": {
+    "calories": 110,
+    "protein_g": 2,
+    "total_carbohydrate_g": 24,
+    "total_fat_g": 1,
+    "dietary_fiber_g": 1,
+    "total_sugars_g": 10,
+    "sodium_mg": 160,
+    "notes": "Average estimate across Kellogg's Assorted Cereal Fun Pack boxes (~100–120 kcal); use specific box label when known."
+  }
 }

@@ -16,5 +16,16 @@
   "barcode": null,
   "barcode_status": "no_photo",
   "photo": null,
-  "source_notes": "Walmart product_id 169639264; UPC not confidently resolved."
+  "source_notes": "Walmart product_id 169639264; UPC not confidently resolved.",
+  "serving_size": "1/2 cup (130 g)",
+  "nutrition_per_serving": {
+    "calories": 110,
+    "protein_g": 8,
+    "total_carbohydrate_g": 19,
+    "total_fat_g": 0,
+    "dietary_fiber_g": 5,
+    "total_sugars_g": 1,
+    "sodium_mg": 140,
+    "notes": "Estimated from canned lentils / Great Value organic lentils labels (~110 kcal / 1/2 cup)."
+  }
 }

@@ -16,5 +16,16 @@
   "barcode": null,
   "barcode_status": "no_photo",
   "photo": null,
-  "source_notes": "Walmart product_id 10450133; UPC not confidently resolved."
+  "source_notes": "Walmart product_id 10450133; UPC not confidently resolved.",
+  "serving_size": "1 bun (about 39 g)",
+  "nutrition_per_serving": {
+    "calories": 110,
+    "protein_g": 4,
+    "total_carbohydrate_g": 21,
+    "total_fat_g": 1.5,
+    "dietary_fiber_g": 1,
+    "total_sugars_g": 3,
+    "sodium_mg": 190,
+    "notes": "Estimated from Great Value white hot dog bun labels (~110 kcal / bun)."
+  }
 }

@@ -30,5 +30,12 @@
   },
   "photo": "catalog/items/044000046545/product.jpg",
   "barcode_status": null,
-  "source_notes": "Walmart product_id 154505093 synced from orders; UPC 044000046545."
+  "source_notes": "Walmart product_id 154505093 synced from orders; UPC 044000046545.",
+  "photo_credit": {
+    "source": "Open Food Facts product image",
+    "retailer": "Open Food Facts",
+    "url": "https://world.openfoodfacts.org/product/044000046545",
+    "image_url": "https://images.openfoodfacts.org/images/products/004/400/004/6545/front_en.27.400.jpg",
+    "license": "Open Food Facts contributor image; used for personal food log reference"
+  }
 }

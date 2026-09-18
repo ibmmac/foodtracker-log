@@ -5,8 +5,16 @@
   "brand": "Chobani",
   "barcode": null,
   "barcode_status": "no_photo",
-  "serving_size": null,
-  "nutrition_per_serving": null,
+  "serving_size": "1 cup (5.3 oz / 150 g)",
+  "nutrition_per_serving": {
+    "calories": 120,
+    "protein_g": 12,
+    "total_carbohydrate_g": 16,
+    "total_fat_g": 0,
+    "total_sugars_g": 13,
+    "sodium_mg": 55,
+    "notes": "Estimated from Chobani Non-Fat Greek Yogurt fruit flavors (~120 kcal / 5.3 oz); Key Lime variant estimate."
+  },
   "photo": null,
   "source_notes": "Order 2000148-64609284 change-email SEO filename. UPC not in email.",
   "purchase_refs": [

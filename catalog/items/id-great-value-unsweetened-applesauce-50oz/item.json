@@ -5,8 +5,17 @@
   "brand": "Great Value / Walmart",
   "barcode": null,
   "barcode_status": "no_photo",
-  "serving_size": null,
-  "nutrition_per_serving": null,
+  "serving_size": "1/2 cup (122 g)",
+  "nutrition_per_serving": {
+    "calories": 50,
+    "protein_g": 0,
+    "total_carbohydrate_g": 13,
+    "total_fat_g": 0,
+    "dietary_fiber_g": 1,
+    "total_sugars_g": 11,
+    "sodium_mg": 0,
+    "notes": "Aligned with Great Value unsweetened applesauce UPC 078742123011 (~49–50 kcal / 1/2 cup)."
+  },
   "photo": null,
   "source_notes": "Seen as substitution SEO on order 2000148-64609284. UPC not in email.",
   "purchase_refs": [

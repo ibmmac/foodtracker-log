@@ -2,7 +2,7 @@
   "catalog_id": "id-fresh-gala-apples-3-lb-bag",
   "id": "fresh-gala-apples-3-lb-bag",
   "name": "Fresh Gala Apples, 3 lb Bag",
-  "brand": null,
+  "brand": "Fresh",
   "walmart_item_id": "44390958",
   "walmart_url": "https://www.walmart.com/ip/Fresh-Gala-Apples-3-lb-Bag/44390958",
   "product_url": "https://www.walmart.com/ip/Fresh-Gala-Apples-3-lb-Bag/44390958",
@@ -41,5 +41,18 @@
   "barcode": null,
   "barcode_status": "no_photo",
   "photo": null,
-  "source_notes": "Walmart product_id 44390958; UPC not confidently resolved."
+  "source_notes": "Walmart product_id 44390958; UPC not confidently resolved.",
+  "serving_size": "1 medium apple (~182 g) with skin",
+  "nutrition_per_serving": {
+    "calories": 95,
+    "protein_g": 0.5,
+    "total_carbohydrate_g": 25.1,
+    "total_fat_g": 0.3,
+    "dietary_fiber_g": 4.4,
+    "total_sugars_g": 18.9,
+    "sodium_mg": 2,
+    "potassium_mg": 195,
+    "vitamin_c_mg": 8.4,
+    "notes": "USDA medium raw apple with skin (~182 g); Gala bag produce estimate."
+  }
 }

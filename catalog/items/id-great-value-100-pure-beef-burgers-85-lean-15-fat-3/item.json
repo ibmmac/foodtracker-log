@@ -21,5 +21,16 @@
   "barcode": null,
   "barcode_status": "no_photo",
   "photo": null,
-  "source_notes": "Walmart product_id 10315961; UPC not confidently resolved."
+  "source_notes": "Walmart product_id 10315961; UPC not confidently resolved.",
+  "serving_size": "1 patty (4 oz / 113 g) raw",
+  "nutrition_per_serving": {
+    "calories": 280,
+    "protein_g": 21,
+    "total_carbohydrate_g": 0,
+    "total_fat_g": 22,
+    "saturated_fat_g": 9,
+    "sodium_mg": 75,
+    "cholesterol_mg": 80,
+    "notes": "Estimated from USDA 85% lean ground beef / Great Value 85/15 burger patty labels (~280 kcal per 4 oz raw)."
+  }
 }

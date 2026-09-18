@@ -2,7 +2,7 @@
   "catalog_id": "id-fresh-whole-portabella-mushroom-caps-6-oz",
   "id": "fresh-whole-portabella-mushroom-caps-6-oz",
   "name": "Fresh Whole Portabella Mushroom Caps, 6 oz",
-  "brand": null,
+  "brand": "Fresh",
   "walmart_item_id": "21677824",
   "walmart_url": "https://www.walmart.com/ip/Giorgio-D-Lightful-Portabella-Caps-2-count/21677824",
   "product_url": "https://www.walmart.com/ip/Giorgio-D-Lightful-Portabella-Caps-2-count/21677824",
@@ -16,5 +16,17 @@
   "barcode": null,
   "barcode_status": "no_photo",
   "photo": null,
-  "source_notes": "Walmart product_id 21677824; UPC not confidently resolved."
+  "source_notes": "Walmart product_id 21677824; UPC not confidently resolved.",
+  "serving_size": "1 large portabella cap (~84 g)",
+  "nutrition_per_serving": {
+    "calories": 18,
+    "protein_g": 1.8,
+    "total_carbohydrate_g": 3.3,
+    "total_fat_g": 0.3,
+    "dietary_fiber_g": 1.1,
+    "total_sugars_g": 2.1,
+    "sodium_mg": 8,
+    "potassium_mg": 305,
+    "notes": "USDA portabella mushrooms raw, 1 large cap (~84 g)."
+  }
 }

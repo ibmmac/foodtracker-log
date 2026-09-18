@@ -5,8 +5,17 @@
   "brand": "Mucci Farms",
   "barcode": null,
   "barcode_status": "no_photo",
-  "serving_size": null,
-  "nutrition_per_serving": null,
+  "serving_size": "1 mini cucumber (~50 g)",
+  "nutrition_per_serving": {
+    "calories": 8,
+    "protein_g": 0.3,
+    "total_carbohydrate_g": 1.8,
+    "total_fat_g": 0.1,
+    "dietary_fiber_g": 0.3,
+    "total_sugars_g": 0.8,
+    "sodium_mg": 1,
+    "notes": "USDA cucumber raw with peel scaled to ~50 g mini cucumber; estimated."
+  },
   "photo": null,
   "source_notes": "Walmart orders 2000153-80656752, 2000154-83633237, and 2000153-13578770; fresh produce listing. No reliable UPC was available. Walmart product_id 44419690; UPC not confidently resolved.",
   "purchase_refs": [

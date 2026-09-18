@@ -2,7 +2,7 @@
   "catalog_id": "id-great-value-organic-roasted-garlic-pasta-sauce-24",
   "id": "great-value-organic-roasted-garlic-pasta-sauce-24",
   "name": "(3 pack) Great Value Organic Roasted Garlic Pasta Sauce, 24 oz",
-  "brand": null,
+  "brand": "Great Value / Walmart",
   "walmart_item_id": "52796298",
   "walmart_url": "https://www.walmart.com/ip/Great-Value-Organic-Roasted-Garlic-Pasta-Sauce-24oz/52796298",
   "product_url": "https://www.walmart.com/ip/Great-Value-Organic-Roasted-Garlic-Pasta-Sauce-24oz/52796298",
@@ -16,5 +16,16 @@
   "barcode": null,
   "barcode_status": "no_photo",
   "photo": null,
-  "source_notes": "Walmart product_id 52796298; UPC not confidently resolved."
+  "source_notes": "Walmart product_id 52796298; UPC not confidently resolved.",
+  "serving_size": "1/2 cup (125 g)",
+  "nutrition_per_serving": {
+    "calories": 50,
+    "protein_g": 2,
+    "total_carbohydrate_g": 9,
+    "total_fat_g": 1,
+    "dietary_fiber_g": 2,
+    "total_sugars_g": 5,
+    "sodium_mg": 380,
+    "notes": "Estimated from Great Value organic pasta sauce labels (~50 kcal / 1/2 cup); similar to GV marinara."
+  }
 }
