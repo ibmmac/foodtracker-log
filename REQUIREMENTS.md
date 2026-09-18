@@ -59,11 +59,29 @@ No `photos/` or `items/` directories inside a day.
   "amount_eaten": "1 medium apple",
   "servings_eaten": 1,
   "logged": { "calories": 95, "protein_g": 0.5, "carbs_g": 25, "fat_g": 0.3 },
+  "location": "home",
   "source": "usda_estimate"
 }
 ```
 
-## 5. GitHub sync
+## 5. Meal location (required)
+
+For every meal or snack logged, ask Mitch **where it was eaten** and store it on the day entry:
+
+- `home`
+- `work`
+- `other` (with a short free-text `location_note`, e.g. restaurant name)
+
+Field on each `days/.../day.json` entry:
+
+```json
+"location": "home" | "work" | "other",
+"location_note": "optional when location is other"
+```
+
+Do not skip this question when logging food.
+
+## 6. GitHub sync
 
 After logging changes:
 
