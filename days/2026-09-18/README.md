@@ -10,9 +10,9 @@
 
 ## Foods logged
 
-| Food | Amount | Catalog | Barcode | kcal | P | C | F | Photo |
+| Food | Amount | Location | Catalog | Barcode | kcal | P | C | F | Photo |
 |------|--------|---------|---------|------|---|---|---|-------|
-| [Fasted breakfast](../../catalog/items/id-fasted-breakfast/) | skipped meal | [`id-fasted-breakfast`](../../catalog/items/id-fasted-breakfast/) | `n/a` | 0 | 0 | 0 | 0 | — |
+| [Fasted breakfast](../../catalog/items/id-fasted-breakfast/) | skipped meal | nowhere | [`id-fasted-breakfast`](../../catalog/items/id-fasted-breakfast/) | `n/a` | 0 | 0 | 0 | 0 | — |
 
 Product photos and nutrition live in [`catalog/items/`](../../catalog/items/) — days only record what was eaten.
 

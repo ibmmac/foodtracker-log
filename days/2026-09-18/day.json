@@ -27,7 +27,9 @@
       },
       "source": "user",
       "notes": "User reported fasting for breakfast",
-      "catalog_path": "catalog/items/id-fasted-breakfast/"
+      "catalog_path": "catalog/items/id-fasted-breakfast/",
+      "location": "nowhere",
+      "location_note": "Meal skipped"
     }
   ]
 }

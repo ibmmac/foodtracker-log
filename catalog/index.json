@@ -1,66 +1,104 @@
 {
+  "description": "Shared product catalog. One folder per barcode (or id-<slug> when no barcode). Days reference catalog_id instead of copying images.",
+  "count": 9,
   "items": [
     {
       "catalog_id": "038900772208",
       "name": "Dole Fruit Bowls Snacks",
+      "brand": "Dole",
       "barcode": "038900772208",
+      "barcode_status": null,
+      "has_product_photo": true,
       "photo": "catalog/items/038900772208/product.jpg",
+      "calories_per_serving": 70,
       "path": "catalog/items/038900772208/"
     },
     {
       "catalog_id": "046025202462",
       "name": "Easy Eggs Peeled Hard Cooked Eggs",
+      "brand": "Easy Eggs / Michael Foods",
       "barcode": "046025202462",
+      "barcode_status": null,
+      "has_product_photo": true,
       "photo": "catalog/items/046025202462/product.jpg",
+      "calories_per_serving": 60,
       "path": "catalog/items/046025202462/"
     },
     {
       "catalog_id": "074030656209",
       "name": "Galbani Reduced Fat Cheese Sticks",
+      "brand": "Galbani / Lactalis American Group",
       "barcode": "074030656209",
+      "barcode_status": null,
+      "has_product_photo": true,
       "photo": "catalog/items/074030656209/product.jpg",
+      "calories_per_serving": 60,
       "path": "catalog/items/074030656209/"
     },
     {
       "catalog_id": "078742237855",
       "name": "Great Value Sardines in Water",
+      "brand": "Great Value / Walmart",
       "barcode": "078742237855",
+      "barcode_status": null,
+      "has_product_photo": true,
       "photo": "catalog/items/078742237855/product.jpg",
+      "calories_per_serving": 100,
       "path": "catalog/items/078742237855/"
     },
     {
       "catalog_id": "888670012864",
       "name": "Wellsley Farms Homestyle Potato Salad",
+      "brand": "Wellsley Farms / BJ's Wholesale Club",
       "barcode": "888670012864",
+      "barcode_status": null,
+      "has_product_photo": true,
       "photo": "catalog/items/888670012864/product.jpg",
+      "calories_per_serving": 190,
       "path": "catalog/items/888670012864/"
     },
     {
       "catalog_id": "888670012901",
       "name": "Wellsley Farms Aegean Greek Pasta",
+      "brand": "Wellsley Farms / BJ's Wholesale Club",
       "barcode": "888670012901",
+      "barcode_status": null,
+      "has_product_photo": true,
       "photo": "catalog/items/888670012901/product.jpg",
+      "calories_per_serving": 390,
       "path": "catalog/items/888670012901/"
     },
     {
       "catalog_id": "888670053638",
       "name": "Wellsley Farms Gala Apples",
+      "brand": "Wellsley Farms / BJ's Wholesale Club",
       "barcode": "888670053638",
+      "barcode_status": null,
+      "has_product_photo": true,
       "photo": "catalog/items/888670053638/product.jpg",
+      "calories_per_serving": 95,
       "path": "catalog/items/888670053638/"
     },
     {
       "catalog_id": "id-fasted-breakfast",
       "name": "Fasted breakfast",
+      "brand": null,
       "barcode": null,
+      "barcode_status": "n/a",
+      "has_product_photo": false,
       "photo": null,
+      "calories_per_serving": 0,
       "path": "catalog/items/id-fasted-breakfast/"
     },
     {
       "catalog_id": "id-teriyaki-beef-stick",
       "name": "Teriyaki beef stick",
+      "brand": "Unknown (estimated as Jack Link's Teriyaki style)",
       "barcode": null,
+      "barcode_status": "no_photo",
+      "has_product_photo": false,
       "photo": null,
+      "calories_per_serving": 110,
       "path": "catalog/items/id-teriyaki-beef-stick/"
     }
   ]

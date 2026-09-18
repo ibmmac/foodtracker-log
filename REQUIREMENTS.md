@@ -71,6 +71,7 @@ For every meal or snack logged, ask Mitch **where it was eaten** and store it on
 - `home`
 - `work`
 - `other` (with a short free-text `location_note`, e.g. restaurant name)
+- `nowhere` (meal skipped / fasted — no place applies)
 
 Field on each `days/.../day.json` entry:
 

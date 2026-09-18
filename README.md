@@ -3,7 +3,7 @@
 Private daily food diary.
 
 - **[REQUIREMENTS.md](REQUIREMENTS.md)** — standing rules (1500 kcal goal, barcode → online product image, shared catalog)
-- **[catalog/items/](catalog/items/)** — product database (one photo + nutrition per barcode)
+- **[catalog/](catalog/README.md)** — product catalog index ([items/](catalog/items/), [`index.json`](catalog/index.json))
 - **[days/](days/)** — what was eaten each day (references catalog; no image copies)
 
 ## Latest day
