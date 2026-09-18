@@ -1,0 +1,15 @@
+{
+  "catalog_id": "id-skipped-lunch",
+  "id": "skipped-lunch",
+  "name": "Skipped lunch",
+  "barcode": null,
+  "barcode_status": "n/a",
+  "nutrition_per_serving": {
+    "calories": 0,
+    "protein_g": 0,
+    "total_carbohydrate_g": 0,
+    "total_fat_g": 0
+  },
+  "photo": null,
+  "notes": "Meal skipped / fasted"
+}

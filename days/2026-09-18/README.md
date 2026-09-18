@@ -10,9 +10,7 @@
 
 ## Foods logged
 
-| Food | Amount | Location | Catalog | Barcode | kcal | P | C | F | Photo |
-|------|--------|---------|---------|------|---|---|---|-------|
-| [Fasted breakfast](../../catalog/items/id-fasted-breakfast/) | skipped meal | nowhere | [`id-fasted-breakfast`](../../catalog/items/id-fasted-breakfast/) | `n/a` | 0 | 0 | 0 | 0 | — |
-
-Product photos and nutrition live in [`catalog/items/`](../../catalog/items/) — days only record what was eaten.
-
+| Food | Amount | Location | Catalog | kcal | P | C | F |
+|------|--------|----------|---------|------|---|---|---|
+| [Fasted breakfast](../../catalog/items/id-fasted-breakfast/) | skipped meal | nowhere | [`id-fasted-breakfast`](../../catalog/items/id-fasted-breakfast/) | 0 | 0 | 0 | 0 |
+| [Skipped lunch](../../catalog/items/id-skipped-lunch/) | skipped meal | nowhere | [`id-skipped-lunch`](../../catalog/items/id-skipped-lunch/) | 0 | 0 | 0 | 0 |
