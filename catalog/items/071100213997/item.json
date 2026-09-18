@@ -1,0 +1,41 @@
+{
+  "catalog_id": "071100213997",
+  "id": "hidden-valley-ranch-dairy-free-plant-powered-salad",
+  "name": "Hidden Valley Ranch Dairy Free Plant Powered Salad Dressing & Condiment, 12 fl oz Bottle",
+  "brand": "Hidden Valley / Clorox",
+  "walmart_item_id": "348717980",
+  "walmart_url": "https://www.walmart.com/ip/Hidden-Valley-Vegan-Gluten-Free-Original-Plant-Powered-Ranch-Salad-Dressing-and-Topping-12-fl-oz/348717980",
+  "product_url": "https://www.walmart.com/ip/Hidden-Valley-Vegan-Gluten-Free-Original-Plant-Powered-Ranch-Salad-Dressing-and-Topping-12-fl-oz/348717980",
+  "purchase_refs": [
+    {
+      "orderId": "2000152-33533159",
+      "date": "2026-08-26",
+      "walmartItemId": "348717980"
+    }
+  ],
+  "barcode": "071100213997",
+  "barcode_format": "UPC-A",
+  "barcode_status": null,
+  "photo": "catalog/items/071100213997/product.jpg",
+  "photo_credit": {
+    "source": "Open Food Facts product image",
+    "retailer": "Open Food Facts",
+    "url": "https://world.openfoodfacts.org/product/071100213997",
+    "image_url": "https://images.openfoodfacts.org/images/products/007/110/021/3997/front_en.26.400.jpg",
+    "license": "Open Food Facts contributor image; used for personal food log reference"
+  },
+  "source_notes": "Walmart product_id 348717980 synced from orders; UPC 071100213997.",
+  "serving_size": "1 serving (30 ml)",
+  "nutrition_per_serving": {
+    "calories": 110,
+    "total_fat_g": 12.0,
+    "saturated_fat_g": 1.5,
+    "cholesterol_mg": 0,
+    "sodium_mg": 250,
+    "total_carbohydrate_g": 1.0,
+    "dietary_fiber_g": 0.0,
+    "total_sugars_g": 1.0,
+    "added_sugars_g": 1.0,
+    "protein_g": 0.0
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "catalog_id": "050400740457",
+  "id": "ball-park-sesame-seed-burger-buns-8-count-white-ha",
+  "name": "Ball Park Sesame Seed Burger Buns, 8 Count, White Hamburger Buns, 16 oz Bag",
+  "brand": "Ball Park / Tyson",
+  "walmart_item_id": "15119274091",
+  "walmart_url": "https://www.walmart.com/ip/Ball-Park-Sesame-Seed-Burger-Buns-8-count-16-oz/15119274091",
+  "product_url": "https://www.walmart.com/ip/Ball-Park-Sesame-Seed-Burger-Buns-8-count-16-oz/15119274091",
+  "purchase_refs": [
+    {
+      "orderId": "2000152-41415546",
+      "date": "2026-07-30",
+      "walmartItemId": "15119274091"
+    }
+  ],
+  "barcode": "050400740457",
+  "barcode_format": "UPC-A",
+  "barcode_status": null,
+  "photo": "catalog/items/050400740457/product.jpg",
+  "photo_credit": {
+    "source": "Open Food Facts product image",
+    "retailer": "Open Food Facts",
+    "url": "https://world.openfoodfacts.org/product/050400740457",
+    "image_url": "https://images.openfoodfacts.org/images/products/005/040/074/0457/front_en.26.400.jpg",
+    "license": "Open Food Facts contributor image; used for personal food log reference"
+  },
+  "source_notes": "Walmart product_id 15119274091 synced from orders; UPC 050400740457.",
+  "serving_size": "57g",
+  "nutrition_per_serving": {
+    "calories": 160,
+    "total_fat_g": 3.0,
+    "saturated_fat_g": 0.5,
+    "cholesterol_mg": 0,
+    "sodium_mg": 300,
+    "total_carbohydrate_g": 28.0,
+    "dietary_fiber_g": 2.0,
+    "total_sugars_g": 4.0,
+    "added_sugars_g": 4.0,
+    "protein_g": 5.0
+  }
+}

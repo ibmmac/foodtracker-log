@@ -1,0 +1,20 @@
+{
+  "catalog_id": "id-fresh-mandarin-oranges-3-lb-bag-naturally-ripened",
+  "id": "fresh-mandarin-oranges-3-lb-bag-naturally-ripened",
+  "name": "Fresh Mandarin Oranges, 3 lb Bag - Naturally Ripened Citrus Fruit",
+  "brand": null,
+  "walmart_item_id": "11025598",
+  "walmart_url": "https://www.walmart.com/ip/Clementines-3-lbs/11025598",
+  "product_url": "https://www.walmart.com/ip/Clementines-3-lbs/11025598",
+  "purchase_refs": [
+    {
+      "orderId": "2000148-27879059",
+      "date": "2026-07-06",
+      "walmartItemId": "11025598"
+    }
+  ],
+  "barcode": null,
+  "barcode_status": "no_photo",
+  "photo": null,
+  "source_notes": "Walmart product_id 11025598; UPC not confidently resolved."
+}

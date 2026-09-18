@@ -1,0 +1,34 @@
+{
+  "catalog_id": "044000046545",
+  "id": "newtons-soft-baked-real-fruit-fig-bars-fig-cookies",
+  "name": "NEWTONS Soft Baked Real Fruit Fig Bars, Fig Cookies, 10 oz",
+  "brand": "Newtons / Mondelez",
+  "walmart_item_id": "154505093",
+  "walmart_url": "https://www.walmart.com/ip/Fig-Newtons-Original-10-Oz/154505093",
+  "product_url": "https://www.walmart.com/ip/Fig-Newtons-Original-10-Oz/154505093",
+  "purchase_refs": [
+    {
+      "orderId": "2000152-33533159",
+      "date": "2026-08-26",
+      "walmartItemId": "154505093"
+    }
+  ],
+  "barcode": "044000046545",
+  "barcode_format": "UPC-A",
+  "serving_size": "3 cookie (43 g)",
+  "nutrition_per_serving": {
+    "calories": 148,
+    "total_fat_g": 2.97,
+    "saturated_fat_g": 0.0,
+    "cholesterol_mg": null,
+    "sodium_mg": 141,
+    "total_carbohydrate_g": 31.1,
+    "dietary_fiber_g": 1.48,
+    "total_sugars_g": 17.8,
+    "added_sugars_g": 11.9,
+    "protein_g": 1.48
+  },
+  "photo": "catalog/items/044000046545/product.jpg",
+  "barcode_status": null,
+  "source_notes": "Walmart product_id 154505093 synced from orders; UPC 044000046545."
+}

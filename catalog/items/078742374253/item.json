@@ -1,0 +1,47 @@
+{
+  "catalog_id": "078742374253",
+  "id": "great-value-finely-shredded-mozzarella",
+  "name": "Great Value Low-Moisture Part-Skim Mozzarella Finely Shredded Cheese, 8 oz Bag",
+  "brand": "Great Value / Walmart",
+  "barcode": "078742374253",
+  "barcode_status": null,
+  "serving_size": "1 portion (28 g)",
+  "nutrition_per_serving": {
+    "calories": 80,
+    "total_fat_g": 5.0,
+    "saturated_fat_g": 3.5,
+    "cholesterol_mg": 15,
+    "sodium_mg": 190,
+    "total_carbohydrate_g": 2.0,
+    "dietary_fiber_g": 0.0,
+    "total_sugars_g": 0.0,
+    "added_sugars_g": 0.0,
+    "protein_g": 6.0
+  },
+  "photo": "catalog/items/078742374253/product.jpg",
+  "source_notes": "Order 2000148-27879059 change-email SEO. UPC not in email. Walmart product_id 10452371 synced from orders; UPC 078742374253.",
+  "purchase_refs": [
+    {
+      "orderId": "2000148-27879059",
+      "date": "2026-07-06",
+      "messageId": "19f3850a75772c72",
+      "walmartItemId": "10452371"
+    },
+    {
+      "orderId": "2000152-85156802",
+      "date": "2026-08-30",
+      "walmartItemId": "10452371"
+    }
+  ],
+  "walmart_item_id": "10452371",
+  "walmart_url": "https://www.walmart.com/ip/Great-Value-Finely-Shredded-Low-Moisture-Part-Skim-Mozzarella-Cheese-8-oz-Bag/10452371",
+  "product_url": "https://www.walmart.com/ip/Great-Value-Finely-Shredded-Low-Moisture-Part-Skim-Mozzarella-Cheese-8-oz-Bag/10452371",
+  "barcode_format": "UPC-A",
+  "photo_credit": {
+    "source": "Open Food Facts product image",
+    "retailer": "Open Food Facts",
+    "url": "https://world.openfoodfacts.org/product/078742374253",
+    "image_url": "https://images.openfoodfacts.org/images/products/007/874/237/4253/front_en.54.400.jpg",
+    "license": "Open Food Facts contributor image; used for personal food log reference"
+  }
+}

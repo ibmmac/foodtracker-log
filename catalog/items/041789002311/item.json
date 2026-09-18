@@ -1,0 +1,46 @@
+{
+  "catalog_id": "041789002311",
+  "id": "maruchan-ramen-noodle-soup-chicken-flavor-instant",
+  "name": "Maruchan Ramen Noodle Soup, Chicken Flavor Instant Noodles, 3 oz, pack of 12",
+  "brand": "Maruchan",
+  "walmart_item_id": "10450904",
+  "walmart_url": "https://www.walmart.com/ip/Maruchan-Instant-Lunch-Flavor-12-Ct-Chicken-36-Oz/10450904",
+  "product_url": "https://www.walmart.com/ip/Maruchan-Instant-Lunch-Flavor-12-Ct-Chicken-36-Oz/10450904",
+  "purchase_refs": [
+    {
+      "orderId": "2000152-33533159",
+      "date": "2026-08-26",
+      "walmartItemId": "10450904"
+    },
+    {
+      "orderId": "2000148-64609284",
+      "date": "2026-07-18",
+      "walmartItemId": "10450904"
+    }
+  ],
+  "barcode": "041789002311",
+  "barcode_format": "UPC-A",
+  "serving_size": "0.5 block of noodles with (43 g)",
+  "nutrition_per_serving": {
+    "calories": 190,
+    "total_fat_g": 7.0,
+    "saturated_fat_g": 3.5,
+    "cholesterol_mg": null,
+    "sodium_mg": 0,
+    "total_carbohydrate_g": 27.0,
+    "dietary_fiber_g": 1.0,
+    "total_sugars_g": 1.0,
+    "added_sugars_g": 7.11,
+    "protein_g": 4.0
+  },
+  "photo_credit": {
+    "source": "Open Food Facts product image",
+    "retailer": "Open Food Facts",
+    "url": "https://world.openfoodfacts.org/product/041789002311",
+    "image_url": "https://images.openfoodfacts.org/images/products/004/178/900/2311/front_en.50.400.jpg",
+    "license": "Open Food Facts contributor image; used for personal food log reference"
+  },
+  "photo": "catalog/items/041789002311/product.jpg",
+  "barcode_status": null,
+  "source_notes": "Walmart product_id 10450904 synced from orders; UPC 041789002311."
+}

@@ -1,0 +1,19 @@
+{
+  "catalog_id": "id-chobani-nonfat-greek-key-lime",
+  "id": "chobani-nonfat-greek-key-lime",
+  "name": "Chobani Non-Fat Greek Yogurt Key Lime, 4-Pack Cups",
+  "brand": "Chobani",
+  "barcode": null,
+  "barcode_status": "no_photo",
+  "serving_size": null,
+  "nutrition_per_serving": null,
+  "photo": null,
+  "source_notes": "Order 2000148-64609284 change-email SEO filename. UPC not in email.",
+  "purchase_refs": [
+    {
+      "orderId": "2000148-64609284",
+      "date": "2026-07-18",
+      "messageId": "19f776b336bcf8fa"
+    }
+  ]
+}

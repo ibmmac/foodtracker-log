@@ -1,0 +1,34 @@
+{
+  "catalog_id": "041800207503",
+  "id": "welch-s-100-grape-juice-concord-grape-64-fl-oz-bot",
+  "name": "Welch's 100% Grape Juice, Concord Grape, 64 fl oz Bottle",
+  "brand": "Welch's",
+  "walmart_item_id": "10292353",
+  "walmart_url": "https://www.walmart.com/ip/Welch-s-Bottled-Healthy-Heart-100-Grape-Juice-64-fl-oz/10292353",
+  "product_url": "https://www.walmart.com/ip/Welch-s-Bottled-Healthy-Heart-100-Grape-Juice-64-fl-oz/10292353",
+  "purchase_refs": [
+    {
+      "orderId": "2000154-83633237",
+      "date": "2026-09-06",
+      "walmartItemId": "10292353"
+    }
+  ],
+  "barcode": "041800207503",
+  "barcode_format": "UPC-A",
+  "barcode_status": "no_photo",
+  "photo": null,
+  "source_notes": "Walmart product_id 10292353 synced from orders; UPC 041800207503.",
+  "serving_size": "240 ml (240 ml)",
+  "nutrition_per_serving": {
+    "calories": 160,
+    "total_fat_g": 0.0,
+    "saturated_fat_g": null,
+    "cholesterol_mg": null,
+    "sodium_mg": 15,
+    "total_carbohydrate_g": 37.0,
+    "dietary_fiber_g": 1.0,
+    "total_sugars_g": 34.0,
+    "added_sugars_g": null,
+    "protein_g": 1.0
+  }
+}

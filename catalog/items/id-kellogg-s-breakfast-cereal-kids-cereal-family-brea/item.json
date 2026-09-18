@@ -1,0 +1,20 @@
+{
+  "catalog_id": "id-kellogg-s-breakfast-cereal-kids-cereal-family-brea",
+  "id": "kellogg-s-breakfast-cereal-kids-cereal-family-brea",
+  "name": "Kellogg's Breakfast Cereal, Kids Cereal, Family Breakfast, Variety Pack, 8.56oz Tray (8 Boxes)",
+  "brand": "Kellogg's",
+  "walmart_item_id": "10898865",
+  "walmart_url": "https://www.walmart.com/ip/Kellogg-s-Assorted-Cereal-Fun-Pack-8-ct/10898865",
+  "product_url": "https://www.walmart.com/ip/Kellogg-s-Assorted-Cereal-Fun-Pack-8-ct/10898865",
+  "purchase_refs": [
+    {
+      "orderId": "2000153-13578770",
+      "date": "2026-08-08",
+      "walmartItemId": "10898865"
+    }
+  ],
+  "barcode": null,
+  "barcode_status": "no_photo",
+  "photo": null,
+  "source_notes": "Walmart product_id 10898865; UPC not confidently resolved."
+}

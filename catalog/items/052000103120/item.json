@@ -1,0 +1,46 @@
+{
+  "catalog_id": "052000103120",
+  "id": "gatorade-frost",
+  "name": "Gatorade Thirst Quencher Electrolyte Sports Drink, Frost Glacier Cherry, 12 fl oz, 12 Count Bottles",
+  "brand": "Gatorade / PepsiCo",
+  "barcode": "052000103120",
+  "barcode_status": "no_photo",
+  "serving_size": "1 BOTTLE (360 ml)",
+  "nutrition_per_serving": {
+    "calories": 81,
+    "total_fat_g": 0.0,
+    "saturated_fat_g": 0.0,
+    "cholesterol_mg": null,
+    "sodium_mg": 162,
+    "total_carbohydrate_g": 21.3,
+    "dietary_fiber_g": null,
+    "total_sugars_g": 21.3,
+    "added_sugars_g": null,
+    "protein_g": 0.0
+  },
+  "photo": null,
+  "source_notes": "Orders 2000153-13578770 and 2000152-41415546 email alts. UPC not in email. Walmart product_id 23752091 synced from orders; UPC 052000103120.",
+  "purchase_refs": [
+    {
+      "orderId": "2000153-13578770",
+      "date": "2026-08-08",
+      "messageId": "19fe32a97bbb65fb",
+      "walmartItemId": "23752091"
+    },
+    {
+      "orderId": "2000152-41415546",
+      "date": "2026-07-30",
+      "messageId": "19fb504d1589d1ca",
+      "walmartItemId": "23752091"
+    },
+    {
+      "orderId": "2000148-64609284",
+      "date": "2026-07-18",
+      "walmartItemId": "23752091"
+    }
+  ],
+  "walmart_item_id": "23752091",
+  "walmart_url": "https://www.walmart.com/ip/Gatorade-Frost-Glacier-Cherry-Thirst-Quencher-Sports-Drink-12-fl-oz-12-pack/23752091",
+  "product_url": "https://www.walmart.com/ip/Gatorade-Frost-Glacier-Cherry-Thirst-Quencher-Sports-Drink-12-fl-oz-12-pack/23752091",
+  "barcode_format": "UPC-A"
+}

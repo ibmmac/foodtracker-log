@@ -1,0 +1,20 @@
+{
+  "catalog_id": "id-snickers-m-m-s-twix-fun-size-chocolate-candy-varie",
+  "id": "snickers-m-m-s-twix-fun-size-chocolate-candy-varie",
+  "name": "Snickers, M&M's & Twix Fun Size Chocolate Candy Variety Pack, Sharing Size - 8.85 oz Bag",
+  "brand": "Mars",
+  "walmart_item_id": "2962332596",
+  "walmart_url": "https://www.walmart.com/ip/Snickers-M-M-s-Twix-Fun-Size-Chocolate-Candy-Variety-Pack-Sharing-Size-8-85-oz-Bag/2962332596",
+  "product_url": "https://www.walmart.com/ip/Snickers-M-M-s-Twix-Fun-Size-Chocolate-Candy-Variety-Pack-Sharing-Size-8-85-oz-Bag/2962332596",
+  "purchase_refs": [
+    {
+      "orderId": "2000154-83633237",
+      "date": "2026-09-06",
+      "walmartItemId": "2962332596"
+    }
+  ],
+  "barcode": null,
+  "barcode_status": "no_photo",
+  "photo": null,
+  "source_notes": "Walmart product_id 2962332596; UPC not confidently resolved."
+}

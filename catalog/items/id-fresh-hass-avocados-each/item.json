@@ -1,0 +1,20 @@
+{
+  "catalog_id": "id-fresh-hass-avocados-each",
+  "id": "fresh-hass-avocados-each",
+  "name": "Fresh Hass Avocados, Each",
+  "brand": null,
+  "walmart_item_id": "44390949",
+  "walmart_url": "https://www.walmart.com/ip/Fresh-Hass-Avocados-Each/44390949",
+  "product_url": "https://www.walmart.com/ip/Fresh-Hass-Avocados-Each/44390949",
+  "purchase_refs": [
+    {
+      "orderId": "2000148-27879059",
+      "date": "2026-07-06",
+      "walmartItemId": "44390949"
+    }
+  ],
+  "barcode": null,
+  "barcode_status": "no_photo",
+  "photo": null,
+  "source_notes": "Walmart product_id 44390949; UPC not confidently resolved."
+}

@@ -1,0 +1,52 @@
+{
+  "catalog_id": "013562000043",
+  "id": "annies-shells-white-cheddar",
+  "name": "Annie's Shells & White Cheddar Macaroni & Cheese Made with Organic Pasta",
+  "brand": "Annie's / General Mills",
+  "barcode": "013562000043",
+  "barcode_format": "UPC-A",
+  "serving_size": "2.5 oz (71g) about 1 cup prepared",
+  "net_weight": "6 OZ (170g)",
+  "photo_credit": {
+    "source": "Open Food Facts product image",
+    "retailer": "Open Food Facts",
+    "url": "https://world.openfoodfacts.org/product/013562000043",
+    "image_url": "https://images.openfoodfacts.org/images/products/001/356/200/0043/front_en.58.400.jpg",
+    "license": "Open Food Facts contributor image; used for personal food log reference"
+  },
+  "photo": "catalog/items/013562000043/product.jpg",
+  "walmart_item_id": "10294616",
+  "walmart_url": "https://www.walmart.com/ip/Annie-s-Homegrown-Shells-White-Cheddar-Macaroni-Cheese-6-oz/10294616",
+  "product_url": "https://www.walmart.com/ip/Annie-s-Homegrown-Shells-White-Cheddar-Macaroni-Cheese-6-oz/10294616",
+  "purchase_refs": [
+    {
+      "orderId": "2000152-85156802",
+      "date": "2026-08-30",
+      "walmartItemId": "10294616"
+    },
+    {
+      "orderId": "2000148-64609284",
+      "date": "2026-07-18",
+      "walmartItemId": "10294616"
+    },
+    {
+      "orderId": "2000148-27879059",
+      "date": "2026-07-06",
+      "walmartItemId": "10294616"
+    }
+  ],
+  "barcode_status": null,
+  "source_notes": "Walmart product_id 10294616 synced from orders; UPC 013562000043.",
+  "nutrition_per_serving": {
+    "calories": 270,
+    "total_fat_g": 2.49,
+    "saturated_fat_g": 1.42,
+    "cholesterol_mg": 7,
+    "sodium_mg": 383,
+    "total_carbohydrate_g": 34.1,
+    "dietary_fiber_g": 2.13,
+    "total_sugars_g": 2.84,
+    "added_sugars_g": 0.0,
+    "protein_g": 6.39
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "catalog_id": "088702015669",
+  "id": "bonne-maman-wild-blueberry-preserves-13-0-oz",
+  "name": "Bonne Maman Wild Blueberry Preserves, 13.0 OZ",
+  "brand": "Bonne Maman",
+  "walmart_item_id": "10449475",
+  "walmart_url": "https://www.walmart.com/ip/Bonne-Maman-Wild-Blueberry-Preserves-13-oz-Jar/10449475",
+  "product_url": "https://www.walmart.com/ip/Bonne-Maman-Wild-Blueberry-Preserves-13-oz-Jar/10449475",
+  "purchase_refs": [
+    {
+      "orderId": "2000153-13578770",
+      "date": "2026-08-08",
+      "walmartItemId": "10449475"
+    }
+  ],
+  "barcode": "088702015669",
+  "barcode_format": "UPC-A",
+  "barcode_status": null,
+  "photo": "catalog/items/088702015669/product.jpg",
+  "photo_credit": {
+    "source": "Open Food Facts product image",
+    "retailer": "Open Food Facts",
+    "url": "https://world.openfoodfacts.org/product/088702015669",
+    "image_url": "https://images.openfoodfacts.org/images/products/008/870/201/5669/front_en.18.400.jpg",
+    "license": "Open Food Facts contributor image; used for personal food log reference"
+  },
+  "source_notes": "Walmart product_id 10449475 synced from orders; UPC 088702015669.",
+  "serving_size": "1 tbsp (20 g)",
+  "nutrition_per_serving": {
+    "calories": 50,
+    "total_fat_g": 0.0,
+    "saturated_fat_g": null,
+    "cholesterol_mg": null,
+    "sodium_mg": 0,
+    "total_carbohydrate_g": 13.0,
+    "dietary_fiber_g": null,
+    "total_sugars_g": 13.0,
+    "added_sugars_g": 12.0,
+    "protein_g": 0.0
+  }
+}

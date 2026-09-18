@@ -1,0 +1,20 @@
+{
+  "catalog_id": "id-great-value-organic-yellow-mustard-8-oz",
+  "id": "great-value-organic-yellow-mustard-8-oz",
+  "name": "Great Value Organic Yellow Mustard, 8 oz",
+  "brand": "Great Value / Walmart",
+  "walmart_item_id": "51871266",
+  "walmart_url": "https://www.walmart.com/ip/Great-Value-Organic-Yellow-Mustard-8-oz/51871266",
+  "product_url": "https://www.walmart.com/ip/Great-Value-Organic-Yellow-Mustard-8-oz/51871266",
+  "purchase_refs": [
+    {
+      "orderId": "2000153-13578770",
+      "date": "2026-08-08",
+      "walmartItemId": "51871266"
+    }
+  ],
+  "barcode": null,
+  "barcode_status": "no_photo",
+  "photo": null,
+  "source_notes": "Walmart product_id 51871266; UPC not confidently resolved."
+}

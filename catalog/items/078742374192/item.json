@@ -1,0 +1,41 @@
+{
+  "catalog_id": "078742374192",
+  "id": "great-value-sweet-cream-salted-butter-16-oz-box-4",
+  "name": "Great Value Sweet Cream Salted Butter, 16 oz Box, 4 Sticks, Refrigerated",
+  "brand": "Great Value / Walmart",
+  "walmart_item_id": "132893363",
+  "walmart_url": "https://www.walmart.com/ip/Great-Value-Sweet-Cream-Salted-Butter-16-oz-Box-4-Sticks-Refrigerated/132893363",
+  "product_url": "https://www.walmart.com/ip/Great-Value-Sweet-Cream-Salted-Butter-16-oz-Box-4-Sticks-Refrigerated/132893363",
+  "purchase_refs": [
+    {
+      "orderId": "2000152-33533159",
+      "date": "2026-08-26",
+      "walmartItemId": "132893363"
+    }
+  ],
+  "barcode": "078742374192",
+  "barcode_format": "UPC-A",
+  "barcode_status": null,
+  "photo": "catalog/items/078742374192/product.jpg",
+  "photo_credit": {
+    "source": "Open Food Facts product image",
+    "retailer": "Open Food Facts",
+    "url": "https://world.openfoodfacts.org/product/078742374192",
+    "image_url": "https://images.openfoodfacts.org/images/products/007/874/237/4192/front_en.14.400.jpg",
+    "license": "Open Food Facts contributor image; used for personal food log reference"
+  },
+  "source_notes": "Walmart product_id 132893363 synced from orders; UPC 078742374192.",
+  "serving_size": "1 tbsp. (14 g)",
+  "nutrition_per_serving": {
+    "calories": 100,
+    "total_fat_g": 11.0,
+    "saturated_fat_g": 7.0,
+    "cholesterol_mg": 30,
+    "sodium_mg": 90,
+    "total_carbohydrate_g": 0.0,
+    "dietary_fiber_g": null,
+    "total_sugars_g": null,
+    "added_sugars_g": 0.0,
+    "protein_g": 0.0
+  }
+}

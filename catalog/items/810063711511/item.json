@@ -1,0 +1,41 @@
+{
+  "catalog_id": "810063711511",
+  "id": "poppi-orange-prebiotic-soda-mini-can-7-5-fl-oz-can",
+  "name": "poppi Orange Prebiotic Soda Mini Can, 7.5 fl oz Can, 6 Pack Cans",
+  "brand": "poppi",
+  "walmart_item_id": "18064108430",
+  "walmart_url": "https://www.walmart.com/ip/poppi-Orange-Prebiotic-Soda-Mini-Can-7-5-fl-oz-Can-6-Pack/18064108430",
+  "product_url": "https://www.walmart.com/ip/poppi-Orange-Prebiotic-Soda-Mini-Can-7-5-fl-oz-Can-6-Pack/18064108430",
+  "purchase_refs": [
+    {
+      "orderId": "2000154-83633237",
+      "date": "2026-09-06",
+      "walmartItemId": "18064108430"
+    }
+  ],
+  "barcode": "810063711511",
+  "barcode_format": "UPC-A",
+  "barcode_status": null,
+  "photo": "catalog/items/810063711511/product.jpg",
+  "photo_credit": {
+    "source": "Open Food Facts product image",
+    "retailer": "Open Food Facts",
+    "url": "https://world.openfoodfacts.org/product/810063711511",
+    "image_url": "https://images.openfoodfacts.org/images/products/081/006/371/1511/front_en.3.400.jpg",
+    "license": "Open Food Facts contributor image; used for personal food log reference"
+  },
+  "source_notes": "Walmart product_id 18064108430 synced from orders; UPC 810063711511.",
+  "serving_size": "355ml",
+  "nutrition_per_serving": {
+    "calories": 20,
+    "total_fat_g": 0.0,
+    "saturated_fat_g": null,
+    "cholesterol_mg": null,
+    "sodium_mg": 0,
+    "total_carbohydrate_g": 6.0,
+    "dietary_fiber_g": 2.0,
+    "total_sugars_g": 3.0,
+    "added_sugars_g": null,
+    "protein_g": 0.0
+  }
+}

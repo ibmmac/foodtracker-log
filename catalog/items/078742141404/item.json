@@ -1,0 +1,41 @@
+{
+  "catalog_id": "078742141404",
+  "id": "great-value-organic-marinara-pasta-sauce-24-oz",
+  "name": "(3 pack) Great Value Organic Marinara Pasta Sauce, 24 oz",
+  "brand": null,
+  "walmart_item_id": "52796305",
+  "walmart_url": "https://www.walmart.com/ip/Great-Value-Organic-Marinara-Pasta-Sauce-24oz/52796305",
+  "product_url": "https://www.walmart.com/ip/Great-Value-Organic-Marinara-Pasta-Sauce-24oz/52796305",
+  "purchase_refs": [
+    {
+      "orderId": "2000148-27879059",
+      "date": "2026-07-06",
+      "walmartItemId": "52796305"
+    }
+  ],
+  "barcode": "078742141404",
+  "barcode_format": "UPC-A",
+  "barcode_status": null,
+  "photo": "catalog/items/078742141404/product.jpg",
+  "photo_credit": {
+    "source": "Open Food Facts product image",
+    "retailer": "Open Food Facts",
+    "url": "https://world.openfoodfacts.org/product/078742141404",
+    "image_url": "https://images.openfoodfacts.org/images/products/007/874/214/1404/front_en.13.400.jpg",
+    "license": "Open Food Facts contributor image; used for personal food log reference"
+  },
+  "source_notes": "Walmart product_id 52796305 synced from orders; UPC 078742141404.",
+  "serving_size": "0.5 cup (124 g)",
+  "nutrition_per_serving": {
+    "calories": 49,
+    "total_fat_g": 1.1,
+    "saturated_fat_g": 0.0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 472,
+    "total_carbohydrate_g": 8.78,
+    "dietary_fiber_g": 2.19,
+    "total_sugars_g": 4.39,
+    "added_sugars_g": 1.1,
+    "protein_g": 1.1
+  }
+}

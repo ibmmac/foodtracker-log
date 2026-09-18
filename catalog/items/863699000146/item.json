@@ -1,0 +1,41 @@
+{
+  "catalog_id": "863699000146",
+  "id": "primal-kitchen-ranch-dressing-marinade-8-fl",
+  "name": "Primal Kitchen Ranch Dressing & Marinade 8 fl",
+  "brand": "Primal Kitchen",
+  "walmart_item_id": "363238404",
+  "walmart_url": "https://www.walmart.com/ip/Primal-Kitchen-Ranch-Dressing-Made-with-Avocado-Oil/363238404",
+  "product_url": "https://www.walmart.com/ip/Primal-Kitchen-Ranch-Dressing-Made-with-Avocado-Oil/363238404",
+  "purchase_refs": [
+    {
+      "orderId": "2000152-85156802",
+      "date": "2026-08-30",
+      "walmartItemId": "363238404"
+    }
+  ],
+  "barcode": "863699000146",
+  "barcode_format": "UPC-A",
+  "barcode_status": null,
+  "photo": "catalog/items/863699000146/product.jpg",
+  "photo_credit": {
+    "source": "Open Food Facts product image",
+    "retailer": "Open Food Facts",
+    "url": "https://world.openfoodfacts.org/product/863699000146",
+    "image_url": "https://images.openfoodfacts.org/images/products/086/369/900/0146/front_en.28.400.jpg",
+    "license": "Open Food Facts contributor image; used for personal food log reference"
+  },
+  "source_notes": "Walmart product_id 363238404 synced from orders; UPC 863699000146.",
+  "serving_size": "2 tbsp (30 g)",
+  "nutrition_per_serving": {
+    "calories": 120,
+    "total_fat_g": 12.0,
+    "saturated_fat_g": 1.5,
+    "cholesterol_mg": 10,
+    "sodium_mg": 230,
+    "total_carbohydrate_g": 1.0,
+    "dietary_fiber_g": 0.0,
+    "total_sugars_g": 0.0,
+    "added_sugars_g": 0.0,
+    "protein_g": 0.0
+  }
+}

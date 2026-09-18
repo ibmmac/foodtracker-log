@@ -1,0 +1,42 @@
+{
+  "catalog_id": "681131328944",
+  "id": "marketside-classic-iceberg-salad",
+  "name": "Marketside Classic Iceberg Salad, 12 oz Bag (Fresh)",
+  "brand": "Marketside / Walmart",
+  "barcode": "681131328944",
+  "barcode_status": null,
+  "serving_size": "1.5 cups (85 g)",
+  "nutrition_per_serving": {
+    "calories": 15,
+    "total_fat_g": 0.0,
+    "saturated_fat_g": 0.0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 15,
+    "total_carbohydrate_g": 3.0,
+    "dietary_fiber_g": 1.0,
+    "total_sugars_g": 2.0,
+    "added_sugars_g": 0.0,
+    "protein_g": 1.0
+  },
+  "photo": "catalog/items/681131328944/product.jpg",
+  "source_notes": "Refund subject on order 2000148-27879059 ($2.44). UPC not in email. Walmart product_id 13893729 synced from orders; UPC 681131328944.",
+  "purchase_refs": [
+    {
+      "orderId": "2000148-27879059",
+      "date": "2026-07-06",
+      "messageId": "19f38f5804c618a5",
+      "walmartItemId": "13893729"
+    }
+  ],
+  "walmart_item_id": "13893729",
+  "walmart_url": "https://www.walmart.com/ip/Marketside-Classic-Iceberg-Salad-12-Oz/13893729",
+  "product_url": "https://www.walmart.com/ip/Marketside-Classic-Iceberg-Salad-12-Oz/13893729",
+  "barcode_format": "UPC-A",
+  "photo_credit": {
+    "source": "Open Food Facts product image",
+    "retailer": "Open Food Facts",
+    "url": "https://world.openfoodfacts.org/product/681131328944",
+    "image_url": "https://images.openfoodfacts.org/images/products/068/113/132/8944/front_en.26.400.jpg",
+    "license": "Open Food Facts contributor image; used for personal food log reference"
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "catalog_id": "id-fresh-mini-cucumbers",
+  "id": "fresh-mini-cucumbers-16-oz",
+  "name": "Fresh Mini Cucumbers, 16 oz",
+  "brand": "Mucci Farms",
+  "barcode": null,
+  "barcode_status": "no_photo",
+  "serving_size": null,
+  "nutrition_per_serving": null,
+  "photo": null,
+  "source_notes": "Walmart orders 2000153-80656752, 2000154-83633237, and 2000153-13578770; fresh produce listing. No reliable UPC was available. Walmart product_id 44419690; UPC not confidently resolved.",
+  "purchase_refs": [
+    {
+      "orderId": "2000153-80656752",
+      "date": "2026-09-17",
+      "walmartItemId": "44419690"
+    },
+    {
+      "orderId": "2000154-83633237",
+      "date": "2026-09-06",
+      "messageId": "1a078c672ef47098"
+    },
+    {
+      "orderId": "2000153-13578770",
+      "date": "2026-08-08",
+      "messageId": "19fe32a97bbb65fb",
+      "walmartItemId": "44419690"
+    },
+    {
+      "orderId": "2000152-85156802",
+      "date": "2026-08-30",
+      "walmartItemId": "44419690"
+    },
+    {
+      "orderId": "2000152-33533159",
+      "date": "2026-08-26",
+      "walmartItemId": "44419690"
+    },
+    {
+      "orderId": "2000152-41415546",
+      "date": "2026-07-30",
+      "walmartItemId": "44419690"
+    },
+    {
+      "orderId": "2000148-64609284",
+      "date": "2026-07-18",
+      "walmartItemId": "44419690"
+    },
+    {
+      "orderId": "2000148-27879059",
+      "date": "2026-07-06",
+      "walmartItemId": "44419690"
+    }
+  ],
+  "walmart_item_id": "44419690",
+  "walmart_url": "https://www.walmart.com/ip/Fresh-Mini-Cucumbers-16-oz/44419690",
+  "product_url": "https://www.walmart.com/ip/Fresh-Mini-Cucumbers-16-oz/44419690"
+}

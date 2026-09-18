@@ -1,0 +1,42 @@
+{
+  "catalog_id": "078742232973",
+  "id": "great-value-hamburger-dill-chip-pickles",
+  "name": "Great Value Hamburger Dill Chip Pickles, 32 fl oz",
+  "brand": "Great Value / Walmart",
+  "barcode": "078742232973",
+  "barcode_status": null,
+  "serving_size": "5 chips (28 g)",
+  "nutrition_per_serving": {
+    "calories": 5,
+    "total_fat_g": 0.0,
+    "saturated_fat_g": null,
+    "cholesterol_mg": null,
+    "sodium_mg": 260,
+    "total_carbohydrate_g": 1.0,
+    "dietary_fiber_g": null,
+    "total_sugars_g": null,
+    "added_sugars_g": null,
+    "protein_g": 0.0
+  },
+  "photo": "catalog/items/078742232973/product.jpg",
+  "source_notes": "Order 2000152-41415546 email alt. UPC not in email. Walmart product_id 378941019 synced from orders; UPC 078742232973.",
+  "purchase_refs": [
+    {
+      "orderId": "2000152-41415546",
+      "date": "2026-07-30",
+      "messageId": "19fb504d1589d1ca",
+      "walmartItemId": "378941019"
+    }
+  ],
+  "walmart_item_id": "378941019",
+  "walmart_url": "https://www.walmart.com/ip/HAMBURGER-DILL-CHIPS/378941019",
+  "product_url": "https://www.walmart.com/ip/HAMBURGER-DILL-CHIPS/378941019",
+  "barcode_format": "UPC-A",
+  "photo_credit": {
+    "source": "Open Food Facts product image",
+    "retailer": "Open Food Facts",
+    "url": "https://world.openfoodfacts.org/product/078742232973",
+    "image_url": "https://images.openfoodfacts.org/images/products/007/874/223/2973/front_en.8.400.jpg",
+    "license": "Open Food Facts contributor image; used for personal food log reference"
+  }
+}

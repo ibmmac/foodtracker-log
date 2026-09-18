@@ -1,0 +1,20 @@
+{
+  "catalog_id": "id-sweetarts-variety-party-mix-individually-wrapped-a",
+  "id": "sweetarts-variety-party-mix-individually-wrapped-a",
+  "name": "SweeTARTS Variety Party Mix, Individually Wrapped Assorted Candy, 28.6 Ounce (75 Count)",
+  "brand": "SweeTARTS / Ferrara",
+  "walmart_item_id": "1018256948",
+  "walmart_url": "https://www.walmart.com/ip/Ferrara-Assorted-Party-Mix-Individually-Wrapped-28-26-oz-75-Count/1018256948",
+  "product_url": "https://www.walmart.com/ip/Ferrara-Assorted-Party-Mix-Individually-Wrapped-28-26-oz-75-Count/1018256948",
+  "purchase_refs": [
+    {
+      "orderId": "2000154-83633237",
+      "date": "2026-09-06",
+      "walmartItemId": "1018256948"
+    }
+  ],
+  "barcode": null,
+  "barcode_status": "no_photo",
+  "photo": null,
+  "source_notes": "Walmart product_id 1018256948; UPC not confidently resolved."
+}

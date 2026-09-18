@@ -1,0 +1,35 @@
+{
+  "catalog_id": "id-jennie-o-turkey-hot-dogs-40-less-fat-refrigerated",
+  "id": "jennie-o-turkey-hot-dogs-40-less-fat-refrigerated",
+  "name": "JENNIE-O Turkey Hot Dogs, *40% Less Fat (8 Turkey Franks), Refrigerated, 16 oz Plastic Package",
+  "brand": "Jennie-O",
+  "walmart_item_id": "793362204",
+  "walmart_url": "https://www.walmart.com/ip/JENNIE-O-Jumbo-Turkey-Franks-1-lb-16-oz/793362204",
+  "product_url": "https://www.walmart.com/ip/JENNIE-O-Jumbo-Turkey-Franks-1-lb-16-oz/793362204",
+  "purchase_refs": [
+    {
+      "orderId": "2000154-83633237",
+      "date": "2026-09-06",
+      "walmartItemId": "793362204"
+    },
+    {
+      "orderId": "2000152-33533159",
+      "date": "2026-08-26",
+      "walmartItemId": "793362204"
+    },
+    {
+      "orderId": "2000153-13578770",
+      "date": "2026-08-08",
+      "walmartItemId": "793362204"
+    },
+    {
+      "orderId": "2000152-41415546",
+      "date": "2026-07-30",
+      "walmartItemId": "793362204"
+    }
+  ],
+  "barcode": null,
+  "barcode_status": "no_photo",
+  "photo": null,
+  "source_notes": "Walmart product_id 793362204; UPC not confidently resolved."
+}

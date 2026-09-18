@@ -1,0 +1,20 @@
+{
+  "catalog_id": "id-parmalat-whole-milk-32-fl-oz",
+  "id": "parmalat-whole-milk-32-fl-oz",
+  "name": "Parmalat Whole Milk, 32 fl oz (Shelf-Stable)",
+  "brand": "Parmalat",
+  "walmart_item_id": "151857624",
+  "walmart_url": "https://www.walmart.com/ip/Parmalat-Whole-Milk-32-fl-oz-Shelf-Stable/151857624",
+  "product_url": "https://www.walmart.com/ip/Parmalat-Whole-Milk-32-fl-oz-Shelf-Stable/151857624",
+  "purchase_refs": [
+    {
+      "orderId": "2000153-13578770",
+      "date": "2026-08-08",
+      "walmartItemId": "151857624"
+    }
+  ],
+  "barcode": null,
+  "barcode_status": "no_photo",
+  "photo": null,
+  "source_notes": "Walmart product_id 151857624; UPC not confidently resolved."
+}

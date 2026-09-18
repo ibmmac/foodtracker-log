@@ -1,0 +1,25 @@
+{
+  "catalog_id": "id-great-value-turkey-pepperoni-slices-5-oz",
+  "id": "great-value-turkey-pepperoni-slices-5-oz",
+  "name": "Great Value Turkey Pepperoni Slices, 5 oz",
+  "brand": "Great Value / Walmart",
+  "walmart_item_id": "40495517",
+  "walmart_url": "https://www.walmart.com/ip/Great-Value-Turkey-Pepperoni-Slices-5-oz/40495517",
+  "product_url": "https://www.walmart.com/ip/Great-Value-Turkey-Pepperoni-Slices-5-oz/40495517",
+  "purchase_refs": [
+    {
+      "orderId": "2000152-33533159",
+      "date": "2026-08-26",
+      "walmartItemId": "40495517"
+    },
+    {
+      "orderId": "2000148-27879059",
+      "date": "2026-07-06",
+      "walmartItemId": "40495517"
+    }
+  ],
+  "barcode": null,
+  "barcode_status": "no_photo",
+  "photo": null,
+  "source_notes": "Walmart product_id 40495517; UPC not confidently resolved."
+}

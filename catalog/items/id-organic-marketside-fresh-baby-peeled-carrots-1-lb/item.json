@@ -1,0 +1,20 @@
+{
+  "catalog_id": "id-organic-marketside-fresh-baby-peeled-carrots-1-lb",
+  "id": "organic-marketside-fresh-baby-peeled-carrots-1-lb",
+  "name": "Organic Marketside Fresh Baby Peeled Carrots, 1 lb Bag",
+  "brand": "Marketside / Walmart",
+  "walmart_item_id": "51259199",
+  "walmart_url": "https://www.walmart.com/ip/Organic-Marketside-Fresh-Baby-Peeled-Carrots-1-lb-Bag/51259199",
+  "product_url": "https://www.walmart.com/ip/Organic-Marketside-Fresh-Baby-Peeled-Carrots-1-lb-Bag/51259199",
+  "purchase_refs": [
+    {
+      "orderId": "2000154-83633237",
+      "date": "2026-09-06",
+      "walmartItemId": "51259199"
+    }
+  ],
+  "barcode": null,
+  "barcode_status": "no_photo",
+  "photo": null,
+  "source_notes": "Walmart product_id 51259199; UPC not confidently resolved."
+}

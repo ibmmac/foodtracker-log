@@ -1,0 +1,42 @@
+{
+  "catalog_id": "078742122809",
+  "id": "great-value-sharp-cheddar-deli-style",
+  "name": "Great Value Sharp Cheddar Deli Style Sliced Cheese, 8 oz, 12 Slices",
+  "brand": "Great Value / Walmart",
+  "barcode": "078742122809",
+  "barcode_status": null,
+  "serving_size": "1 SLICE (19 g)",
+  "nutrition_per_serving": {
+    "calories": 80,
+    "total_fat_g": 6.0,
+    "saturated_fat_g": 3.5,
+    "cholesterol_mg": 20,
+    "sodium_mg": 120,
+    "total_carbohydrate_g": 0.0,
+    "dietary_fiber_g": 0.0,
+    "total_sugars_g": 0.0,
+    "added_sugars_g": 0.0,
+    "protein_g": 5.0
+  },
+  "photo": "catalog/items/078742122809/product.jpg",
+  "source_notes": "Order 2000148-27879059 change-email SEO. UPC not in email. Walmart product_id 15077514 synced from orders; UPC 078742122809.",
+  "purchase_refs": [
+    {
+      "orderId": "2000148-27879059",
+      "date": "2026-07-06",
+      "messageId": "19f3850a75772c72",
+      "walmartItemId": "15077514"
+    }
+  ],
+  "walmart_item_id": "15077514",
+  "walmart_url": "https://www.walmart.com/ip/Great-Value-Deli-Style-Sliced-Sharp-Cheddar-Cheese-8-oz-12-Slices/15077514",
+  "product_url": "https://www.walmart.com/ip/Great-Value-Deli-Style-Sliced-Sharp-Cheddar-Cheese-8-oz-12-Slices/15077514",
+  "barcode_format": "UPC-A",
+  "photo_credit": {
+    "source": "Open Food Facts product image",
+    "retailer": "Open Food Facts",
+    "url": "https://world.openfoodfacts.org/product/078742122809",
+    "image_url": "https://images.openfoodfacts.org/images/products/007/874/212/2809/front_en.16.400.jpg",
+    "license": "Open Food Facts contributor image; used for personal food log reference"
+  }
+}

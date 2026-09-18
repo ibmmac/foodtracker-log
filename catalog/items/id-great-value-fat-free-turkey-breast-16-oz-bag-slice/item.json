@@ -1,0 +1,20 @@
+{
+  "catalog_id": "id-great-value-fat-free-turkey-breast-16-oz-bag-slice",
+  "id": "great-value-fat-free-turkey-breast-16-oz-bag-slice",
+  "name": "Great Value Fat-Free Turkey Breast, 16 oz Bag, Sliced",
+  "brand": "Great Value / Walmart",
+  "walmart_item_id": "610985119",
+  "walmart_url": "https://www.walmart.com/ip/Great-Value-Fat-Free-Turkey-Breast-16-oz-Bag/610985119",
+  "product_url": "https://www.walmart.com/ip/Great-Value-Fat-Free-Turkey-Breast-16-oz-Bag/610985119",
+  "purchase_refs": [
+    {
+      "orderId": "2000154-83633237",
+      "date": "2026-09-06",
+      "walmartItemId": "610985119"
+    }
+  ],
+  "barcode": null,
+  "barcode_status": "no_photo",
+  "photo": null,
+  "source_notes": "Walmart product_id 610985119; UPC not confidently resolved."
+}

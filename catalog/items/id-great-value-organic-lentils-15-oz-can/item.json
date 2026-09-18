@@ -1,0 +1,20 @@
+{
+  "catalog_id": "id-great-value-organic-lentils-15-oz-can",
+  "id": "great-value-organic-lentils-15-oz-can",
+  "name": "Great Value Organic Lentils, 15 oz Can",
+  "brand": "Great Value / Walmart",
+  "walmart_item_id": "169639264",
+  "walmart_url": "https://www.walmart.com/ip/Great-Value-Organic-Lentils-15-oz-Can/169639264",
+  "product_url": "https://www.walmart.com/ip/Great-Value-Organic-Lentils-15-oz-Can/169639264",
+  "purchase_refs": [
+    {
+      "orderId": "2000148-27879059",
+      "date": "2026-07-06",
+      "walmartItemId": "169639264"
+    }
+  ],
+  "barcode": null,
+  "barcode_status": "no_photo",
+  "photo": null,
+  "source_notes": "Walmart product_id 169639264; UPC not confidently resolved."
+}

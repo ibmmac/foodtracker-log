@@ -1,0 +1,20 @@
+{
+  "catalog_id": "id-great-value-swiss-deli-style-sliced-cheese-8-oz-pa",
+  "id": "great-value-swiss-deli-style-sliced-cheese-8-oz-pa",
+  "name": "Great Value Swiss Deli Style Sliced Cheese, 8 oz Package 12 Slices",
+  "brand": "Great Value / Walmart",
+  "walmart_item_id": "152351343",
+  "walmart_url": "https://www.walmart.com/ip/Great-Value-Deli-Style-Sliced-Swiss-Cheese-8oz-12-Slices-Plastic-Packaging/152351343",
+  "product_url": "https://www.walmart.com/ip/Great-Value-Deli-Style-Sliced-Swiss-Cheese-8oz-12-Slices-Plastic-Packaging/152351343",
+  "purchase_refs": [
+    {
+      "orderId": "2000152-85156802",
+      "date": "2026-08-30",
+      "walmartItemId": "152351343"
+    }
+  ],
+  "barcode": null,
+  "barcode_status": "no_photo",
+  "photo": null,
+  "source_notes": "Walmart product_id 152351343; UPC not confidently resolved."
+}

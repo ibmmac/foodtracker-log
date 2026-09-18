@@ -1,0 +1,34 @@
+{
+  "catalog_id": "078742279091",
+  "id": "great-value-purified-drinking-water",
+  "name": "Great Value Purified Drinking Water, 16.9 fl oz Bottles, 40 Count Pack",
+  "brand": "Great Value / Walmart",
+  "barcode": "078742279091",
+  "barcode_status": "no_photo",
+  "serving_size": "500 ml",
+  "nutrition_per_serving": null,
+  "photo": null,
+  "source_notes": "Order 2000148-64609284 confirmation alt / SEO. UPC not in email. Walmart product_id 992524020 synced from orders; UPC 078742279091.",
+  "purchase_refs": [
+    {
+      "orderId": "2000148-64609284",
+      "date": "2026-07-18",
+      "messageId": "19f772f3e99011fd",
+      "walmartItemId": "992524020"
+    },
+    {
+      "orderId": "2000152-85156802",
+      "date": "2026-08-30",
+      "walmartItemId": "992524020"
+    },
+    {
+      "orderId": "2000152-41415546",
+      "date": "2026-07-30",
+      "walmartItemId": "992524020"
+    }
+  ],
+  "walmart_item_id": "992524020",
+  "walmart_url": "https://www.walmart.com/ip/Great-Value-Purified-Drinking-Water-16-9-fl-oz-Bottles-40-Count/992524020",
+  "product_url": "https://www.walmart.com/ip/Great-Value-Purified-Drinking-Water-16-9-fl-oz-Bottles-40-Count/992524020",
+  "barcode_format": "UPC-A"
+}

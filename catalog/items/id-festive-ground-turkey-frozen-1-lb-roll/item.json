@@ -1,0 +1,25 @@
+{
+  "catalog_id": "id-festive-ground-turkey-frozen-1-lb-roll",
+  "id": "festive-ground-turkey-frozen-1-lb-roll",
+  "name": "FESTIVE Ground Turkey, Frozen, 1 lb Roll",
+  "brand": "Festive",
+  "walmart_item_id": "22210558",
+  "walmart_url": "https://www.walmart.com/ip/FESTIVE-Ground-Turkey-Frozen-1-lb-Plastic-Roll/22210558",
+  "product_url": "https://www.walmart.com/ip/FESTIVE-Ground-Turkey-Frozen-1-lb-Plastic-Roll/22210558",
+  "purchase_refs": [
+    {
+      "orderId": "2000152-85156802",
+      "date": "2026-08-30",
+      "walmartItemId": "22210558"
+    },
+    {
+      "orderId": "2000148-27879059",
+      "date": "2026-07-06",
+      "walmartItemId": "22210558"
+    }
+  ],
+  "barcode": null,
+  "barcode_status": "no_photo",
+  "photo": null,
+  "source_notes": "Walmart product_id 22210558; UPC not confidently resolved."
+}

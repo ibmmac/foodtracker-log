@@ -1,0 +1,42 @@
+{
+  "catalog_id": "071018105490",
+  "id": "teddie-all-natural-smooth",
+  "name": "Teddie All Natural Smooth Peanut Butter, 36 oz",
+  "brand": "Teddie",
+  "barcode": "071018105490",
+  "barcode_status": null,
+  "serving_size": "2 tbsp (32 g)",
+  "nutrition_per_serving": {
+    "calories": 190,
+    "total_fat_g": 16.0,
+    "saturated_fat_g": 2.5,
+    "cholesterol_mg": 0,
+    "sodium_mg": 125,
+    "total_carbohydrate_g": 7.0,
+    "dietary_fiber_g": 3.0,
+    "total_sugars_g": 2.0,
+    "added_sugars_g": 0.0,
+    "protein_g": 8.0
+  },
+  "photo": "catalog/items/071018105490/product.jpg",
+  "source_notes": "Ship-to-home line on 2000152-33533159; Arrived email alt Teddie All Natural Smooth Peanut Butter 40 oz. UPC not in email. Walmart product_id 640652420 synced from orders; UPC 071018105490.",
+  "purchase_refs": [
+    {
+      "orderId": "2000152-33533159",
+      "date": "2026-08-26",
+      "messageId": "1a048e6c18aeb56f",
+      "walmartItemId": "640652420"
+    }
+  ],
+  "walmart_item_id": "640652420",
+  "walmart_url": "https://www.walmart.com/ip/Teddie-All-Natural-Smooth-Peanut-Butter-36-oz/640652420",
+  "product_url": "https://www.walmart.com/ip/Teddie-All-Natural-Smooth-Peanut-Butter-36-oz/640652420",
+  "barcode_format": "UPC-A",
+  "photo_credit": {
+    "source": "Open Food Facts product image",
+    "retailer": "Open Food Facts",
+    "url": "https://world.openfoodfacts.org/product/071018105490",
+    "image_url": "https://images.openfoodfacts.org/images/products/007/101/810/5490/front_en.42.400.jpg",
+    "license": "Open Food Facts contributor image; used for personal food log reference"
+  }
+}

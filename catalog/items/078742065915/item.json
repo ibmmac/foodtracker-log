@@ -1,0 +1,67 @@
+{
+  "catalog_id": "078742065915",
+  "id": "great-value-low-moisture",
+  "name": "Great Value Low-Moisture Part-Skim Deli Style Sliced Mozzarella Cheese, 8 oz Package, 12 Slices",
+  "brand": "Great Value / Walmart",
+  "barcode": "078742065915",
+  "barcode_status": null,
+  "serving_size": "1 slice (19 g)",
+  "nutrition_per_serving": {
+    "calories": 50,
+    "total_fat_g": 4.0,
+    "saturated_fat_g": 2.5,
+    "cholesterol_mg": 10,
+    "sodium_mg": 135,
+    "total_carbohydrate_g": 0.0,
+    "dietary_fiber_g": 0.0,
+    "total_sugars_g": 0.0,
+    "added_sugars_g": 0.0,
+    "protein_g": 5.0
+  },
+  "photo": "catalog/items/078742065915/product.jpg",
+  "source_notes": "Order 2000148-27879059 lead + order 2000148-64609284 substitution SEO. Was previously unspecified low-moisture; email clarifies mozzarella slices. UPC not in email. Walmart product_id 10452495 synced from orders; UPC 078742065915.",
+  "purchase_refs": [
+    {
+      "orderId": "2000148-27879059",
+      "date": "2026-07-06",
+      "messageId": "19f383e64bb294e4",
+      "walmartItemId": "10452495"
+    },
+    {
+      "orderId": "2000148-64609284",
+      "date": "2026-07-18",
+      "messageId": "19f77a4e38425125"
+    },
+    {
+      "orderId": "2000154-83633237",
+      "date": "2026-09-06",
+      "walmartItemId": "10452495"
+    },
+    {
+      "orderId": "2000152-85156802",
+      "date": "2026-08-30",
+      "walmartItemId": "10452495"
+    },
+    {
+      "orderId": "2000152-33533159",
+      "date": "2026-08-26",
+      "walmartItemId": "10452495"
+    },
+    {
+      "orderId": "2000152-41415546",
+      "date": "2026-07-30",
+      "walmartItemId": "10452495"
+    }
+  ],
+  "walmart_item_id": "10452495",
+  "walmart_url": "https://www.walmart.com/ip/Great-Value-Deli-Style-Low-Moisture-Part-Skim-Sliced-Mozzarella-Cheese-8-oz-12-Count/10452495",
+  "product_url": "https://www.walmart.com/ip/Great-Value-Deli-Style-Low-Moisture-Part-Skim-Sliced-Mozzarella-Cheese-8-oz-12-Count/10452495",
+  "barcode_format": "UPC-A",
+  "photo_credit": {
+    "source": "Open Food Facts product image",
+    "retailer": "Open Food Facts",
+    "url": "https://world.openfoodfacts.org/product/078742065915",
+    "image_url": "https://images.openfoodfacts.org/images/products/007/874/206/5915/front_en.46.400.jpg",
+    "license": "Open Food Facts contributor image; used for personal food log reference"
+  }
+}

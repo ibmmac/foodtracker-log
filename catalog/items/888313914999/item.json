@@ -1,0 +1,41 @@
+{
+  "catalog_id": "888313914999",
+  "id": "nathan-s-famous-skinless-beef-hot-dogs-12-oz",
+  "name": "Nathan's Famous Skinless Beef Hot Dogs, 12 oz",
+  "brand": "Nathan's Famous",
+  "walmart_item_id": "35791412",
+  "walmart_url": "https://www.walmart.com/ip/Nathan-s-Famous-Skinless-Beef-Franks-8-count-14-oz/35791412",
+  "product_url": "https://www.walmart.com/ip/Nathan-s-Famous-Skinless-Beef-Franks-8-count-14-oz/35791412",
+  "purchase_refs": [
+    {
+      "orderId": "2000153-13578770",
+      "date": "2026-08-08",
+      "walmartItemId": "35791412"
+    }
+  ],
+  "barcode": "888313914999",
+  "barcode_format": "UPC-A",
+  "serving_size": "1 frank (42 g)",
+  "nutrition_per_serving": {
+    "calories": 130,
+    "total_fat_g": 12.0,
+    "saturated_fat_g": 5.0,
+    "cholesterol_mg": null,
+    "sodium_mg": 400,
+    "total_carbohydrate_g": 1.0,
+    "dietary_fiber_g": null,
+    "total_sugars_g": null,
+    "added_sugars_g": 0.0,
+    "protein_g": 5.0
+  },
+  "photo_credit": {
+    "source": "Open Food Facts product image",
+    "retailer": "Open Food Facts",
+    "url": "https://world.openfoodfacts.org/product/888313914999",
+    "image_url": "https://images.openfoodfacts.org/images/products/088/831/391/4999/front_en.11.400.jpg",
+    "license": "Open Food Facts contributor image; used for personal food log reference"
+  },
+  "photo": "catalog/items/888313914999/product.jpg",
+  "barcode_status": null,
+  "source_notes": "Walmart product_id 35791412 synced from orders; UPC 888313914999."
+}

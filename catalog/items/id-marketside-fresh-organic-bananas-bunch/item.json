@@ -1,0 +1,25 @@
+{
+  "catalog_id": "id-marketside-fresh-organic-bananas-bunch",
+  "id": "marketside-fresh-organic-bananas-bunch",
+  "name": "Marketside Fresh Organic Bananas, Bunch",
+  "brand": "Marketside / Walmart",
+  "walmart_item_id": "51259338",
+  "walmart_url": "https://www.walmart.com/ip/Marketside-Fresh-Organic-Bananas-Bunch/51259338",
+  "product_url": "https://www.walmart.com/ip/Marketside-Fresh-Organic-Bananas-Bunch/51259338",
+  "purchase_refs": [
+    {
+      "orderId": "2000152-85156802",
+      "date": "2026-08-30",
+      "walmartItemId": "51259338"
+    },
+    {
+      "orderId": "2000148-27879059",
+      "date": "2026-07-06",
+      "walmartItemId": "51259338"
+    }
+  ],
+  "barcode": null,
+  "barcode_status": "no_photo",
+  "photo": null,
+  "source_notes": "Walmart product_id 51259338; UPC not confidently resolved."
+}

@@ -1,0 +1,20 @@
+{
+  "catalog_id": "id-fresh-whole-portabella-mushroom-caps-6-oz",
+  "id": "fresh-whole-portabella-mushroom-caps-6-oz",
+  "name": "Fresh Whole Portabella Mushroom Caps, 6 oz",
+  "brand": null,
+  "walmart_item_id": "21677824",
+  "walmart_url": "https://www.walmart.com/ip/Giorgio-D-Lightful-Portabella-Caps-2-count/21677824",
+  "product_url": "https://www.walmart.com/ip/Giorgio-D-Lightful-Portabella-Caps-2-count/21677824",
+  "purchase_refs": [
+    {
+      "orderId": "2000148-27879059",
+      "date": "2026-07-06",
+      "walmartItemId": "21677824"
+    }
+  ],
+  "barcode": null,
+  "barcode_status": "no_photo",
+  "photo": null,
+  "source_notes": "Walmart product_id 21677824; UPC not confidently resolved."
+}

@@ -1,0 +1,41 @@
+{
+  "catalog_id": "071464022853",
+  "id": "bolthouse-farms-dressing-classic-ranch-yogurt-dres",
+  "name": "Bolthouse Farms Dressing, Classic Ranch Yogurt Dressing, 12 fl. oz.",
+  "brand": "Bolthouse Farms",
+  "walmart_item_id": "422515125",
+  "walmart_url": "https://www.walmart.com/ip/Bolthouse-Farms-Dressing-Classic-Ranch-Yogurt-Dressing-12-fl-oz/422515125",
+  "product_url": "https://www.walmart.com/ip/Bolthouse-Farms-Dressing-Classic-Ranch-Yogurt-Dressing-12-fl-oz/422515125",
+  "purchase_refs": [
+    {
+      "orderId": "2000152-85156802",
+      "date": "2026-08-30",
+      "walmartItemId": "422515125"
+    }
+  ],
+  "barcode": "071464022853",
+  "barcode_format": "UPC-A",
+  "barcode_status": null,
+  "photo": "catalog/items/071464022853/product.jpg",
+  "photo_credit": {
+    "source": "Open Food Facts product image",
+    "retailer": "Open Food Facts",
+    "url": "https://world.openfoodfacts.org/product/071464022853",
+    "image_url": "https://images.openfoodfacts.org/images/products/007/146/402/2853/front_en.84.400.jpg",
+    "license": "Open Food Facts contributor image; used for personal food log reference"
+  },
+  "source_notes": "Walmart product_id 422515125 synced from orders; UPC 071464022853.",
+  "serving_size": "30g",
+  "nutrition_per_serving": {
+    "calories": 50,
+    "total_fat_g": 4.0,
+    "saturated_fat_g": 1.0,
+    "cholesterol_mg": 5,
+    "sodium_mg": 260,
+    "total_carbohydrate_g": 3.0,
+    "dietary_fiber_g": 0.0,
+    "total_sugars_g": 2.0,
+    "added_sugars_g": 0.0,
+    "protein_g": 1.0
+  }
+}

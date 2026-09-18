@@ -1,0 +1,25 @@
+{
+  "catalog_id": "id-fresh-usda-organic-strawberries-1-lb-container",
+  "id": "fresh-usda-organic-strawberries-1-lb-container",
+  "name": "Fresh USDA Organic Strawberries, 1 lb Container",
+  "brand": null,
+  "walmart_item_id": "45618183",
+  "walmart_url": "https://www.walmart.com/ip/Fresh-USDA-Organic-Strawberries-1-lb-Container/45618183",
+  "product_url": "https://www.walmart.com/ip/Fresh-USDA-Organic-Strawberries-1-lb-Container/45618183",
+  "purchase_refs": [
+    {
+      "orderId": "2000152-85156802",
+      "date": "2026-08-30",
+      "walmartItemId": "45618183"
+    },
+    {
+      "orderId": "2000148-27879059",
+      "date": "2026-07-06",
+      "walmartItemId": "45618183"
+    }
+  ],
+  "barcode": null,
+  "barcode_status": "no_photo",
+  "photo": null,
+  "source_notes": "Walmart product_id 45618183; UPC not confidently resolved."
+}

@@ -1,0 +1,70 @@
+{
+  "catalog_id": "078742117706",
+  "id": "great-value-deli-style",
+  "name": "Great Value Deli Style Sliced Non-Smoked Provolone Cheese, 8 oz (12 slices)",
+  "brand": "Great Value / Walmart",
+  "barcode": "078742117706",
+  "barcode_status": null,
+  "serving_size": "1 slice (19g)",
+  "nutrition_per_serving": {
+    "calories": 70,
+    "total_fat_g": 5,
+    "saturated_fat_g": 3,
+    "cholesterol_mg": 15,
+    "sodium_mg": 170,
+    "total_carbohydrate_g": 0,
+    "protein_g": 5
+  },
+  "photo": "catalog/items/078742117706/product.jpg",
+  "source_notes": "UPC matched to Great Value Deli Style Sliced Non-Smoked Provolone Cheese 8 oz from Walmart order 2000153-80656752; retailer UPC 078742117706. Walmart product_id 10451510 synced from orders; UPC 078742117706.",
+  "purchase_refs": [
+    {
+      "orderId": "2000153-80656752",
+      "date": "2026-09-17",
+      "messageId": "1a0b17f9f43bc1f6",
+      "walmartItemId": "10451510"
+    },
+    {
+      "orderId": "2000154-83633237",
+      "date": "2026-09-06",
+      "messageId": "1a078c672ef47098",
+      "walmartItemId": "10451510"
+    },
+    {
+      "orderId": "2000152-85156802",
+      "date": "2026-08-30",
+      "walmartItemId": "10451510"
+    },
+    {
+      "orderId": "2000152-33533159",
+      "date": "2026-08-26",
+      "walmartItemId": "10451510"
+    },
+    {
+      "orderId": "2000152-41415546",
+      "date": "2026-07-30",
+      "walmartItemId": "10451510"
+    },
+    {
+      "orderId": "2000148-64609284",
+      "date": "2026-07-18",
+      "walmartItemId": "10451510"
+    },
+    {
+      "orderId": "2000148-27879059",
+      "date": "2026-07-06",
+      "walmartItemId": "10451510"
+    }
+  ],
+  "barcode_format": "UPC-A",
+  "walmart_item_id": "10451510",
+  "walmart_url": "https://www.walmart.com/ip/Great-Value-Sliced-Non-Smoked-Provolone-Cheese-8-Oz/10451510",
+  "photo_credit": {
+    "source": "Open Food Facts product image",
+    "retailer": "Open Food Facts",
+    "url": "https://world.openfoodfacts.org/product/078742117706",
+    "image_url": "https://images.openfoodfacts.org/images/products/007/874/211/7706/front_en.25.400.jpg",
+    "license": "Open Food Facts contributor image; used for personal food log reference"
+  },
+  "product_url": "https://www.walmart.com/ip/Great-Value-Sliced-Non-Smoked-Provolone-Cheese-8-Oz/10451510"
+}

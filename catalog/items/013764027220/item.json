@@ -1,0 +1,41 @@
+{
+  "catalog_id": "013764027220",
+  "id": "dave-s-killer-bread-white-bread-done-right-organic",
+  "name": "Dave's Killer Bread White Bread Done Right Organic Bread Loaf, Organic White Bread, 24 oz, Shelf-Stable (24 ounce)",
+  "brand": "Dave's Killer Bread",
+  "walmart_item_id": "51173014",
+  "walmart_url": "https://www.walmart.com/ip/Dave-s-Killer-Bread-White-Bread-Done-Right-Organic-Bread-24-oz/51173014",
+  "product_url": "https://www.walmart.com/ip/Dave-s-Killer-Bread-White-Bread-Done-Right-Organic-Bread-24-oz/51173014",
+  "purchase_refs": [
+    {
+      "orderId": "2000153-13578770",
+      "date": "2026-08-08",
+      "walmartItemId": "51173014"
+    }
+  ],
+  "barcode": "013764027220",
+  "barcode_format": "UPC-A",
+  "barcode_status": null,
+  "photo": "catalog/items/013764027220/product.jpg",
+  "source_notes": "Walmart product_id 51173014 synced from orders; UPC 013764027220.",
+  "serving_size": "1 slice (40 g)",
+  "nutrition_per_serving": {
+    "calories": 110,
+    "total_fat_g": 2.0,
+    "saturated_fat_g": 0.0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 170,
+    "total_carbohydrate_g": 20.0,
+    "dietary_fiber_g": 2.0,
+    "total_sugars_g": 2.0,
+    "added_sugars_g": 1.0,
+    "protein_g": 4.0
+  },
+  "photo_credit": {
+    "source": "Open Food Facts product image",
+    "retailer": "Open Food Facts",
+    "url": "https://world.openfoodfacts.org/product/013764027220",
+    "image_url": "https://images.openfoodfacts.org/images/products/001/376/402/7220/front_en.73.400.jpg",
+    "license": "Open Food Facts contributor image; used for personal food log reference"
+  }
+}

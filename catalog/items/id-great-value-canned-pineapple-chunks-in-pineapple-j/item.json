@@ -1,0 +1,20 @@
+{
+  "catalog_id": "id-great-value-canned-pineapple-chunks-in-pineapple-j",
+  "id": "great-value-canned-pineapple-chunks-in-pineapple-j",
+  "name": "Great Value Canned Pineapple Chunks in Pineapple Juice, 20 oz",
+  "brand": "Great Value / Walmart",
+  "walmart_item_id": "10315437",
+  "walmart_url": "https://www.walmart.com/ip/Great-Value-Pineapple-Chunks-20-Oz/10315437",
+  "product_url": "https://www.walmart.com/ip/Great-Value-Pineapple-Chunks-20-Oz/10315437",
+  "purchase_refs": [
+    {
+      "orderId": "2000148-64609284",
+      "date": "2026-07-18",
+      "walmartItemId": "10315437"
+    }
+  ],
+  "barcode": null,
+  "barcode_status": "no_photo",
+  "photo": null,
+  "source_notes": "Walmart product_id 10315437; UPC not confidently resolved."
+}

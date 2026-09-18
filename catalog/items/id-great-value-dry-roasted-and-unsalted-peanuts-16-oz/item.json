@@ -1,0 +1,20 @@
+{
+  "catalog_id": "id-great-value-dry-roasted-and-unsalted-peanuts-16-oz",
+  "id": "great-value-dry-roasted-and-unsalted-peanuts-16-oz",
+  "name": "Great Value Dry Roasted and Unsalted Peanuts, 16 oz, Jar",
+  "brand": "Great Value / Walmart",
+  "walmart_item_id": "10448400",
+  "walmart_url": "https://www.walmart.com/ip/Great-Value-Unsalted-Roasted-Peanuts/10448400",
+  "product_url": "https://www.walmart.com/ip/Great-Value-Unsalted-Roasted-Peanuts/10448400",
+  "purchase_refs": [
+    {
+      "orderId": "2000152-85156802",
+      "date": "2026-08-30",
+      "walmartItemId": "10448400"
+    }
+  ],
+  "barcode": null,
+  "barcode_status": "no_photo",
+  "photo": null,
+  "source_notes": "Walmart product_id 10448400; UPC not confidently resolved."
+}

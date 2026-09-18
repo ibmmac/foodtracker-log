@@ -1,0 +1,20 @@
+{
+  "catalog_id": "id-great-value-extra-sharp-whole-white-cheddar-cheese",
+  "id": "great-value-extra-sharp-whole-white-cheddar-cheese",
+  "name": "Great Value Extra Sharp Whole White Cheddar Cheese Block, 8 oz",
+  "brand": "Great Value / Walmart",
+  "walmart_item_id": "205670394",
+  "walmart_url": "https://www.walmart.com/ip/Great-Value-Extra-Sharp-Whole-White-Cheddar-Cheese-Block-8-oz/205670394",
+  "product_url": "https://www.walmart.com/ip/Great-Value-Extra-Sharp-Whole-White-Cheddar-Cheese-Block-8-oz/205670394",
+  "purchase_refs": [
+    {
+      "orderId": "2000148-27879059",
+      "date": "2026-07-06",
+      "walmartItemId": "205670394"
+    }
+  ],
+  "barcode": null,
+  "barcode_status": "no_photo",
+  "photo": null,
+  "source_notes": "Walmart product_id 205670394; UPC not confidently resolved."
+}

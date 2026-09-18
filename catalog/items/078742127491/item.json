@@ -1,0 +1,42 @@
+{
+  "catalog_id": "078742127491",
+  "id": "great-value-colby-jack-deli-style",
+  "name": "Great Value Colby Jack Deli Style Sliced Cheese, 8 oz, 12 Slices",
+  "brand": "Great Value / Walmart",
+  "barcode": "078742127491",
+  "barcode_status": null,
+  "serving_size": "1 slice (19 g)",
+  "nutrition_per_serving": {
+    "calories": 70,
+    "total_fat_g": 6.0,
+    "saturated_fat_g": 3.5,
+    "cholesterol_mg": 20,
+    "sodium_mg": 120,
+    "total_carbohydrate_g": 0.0,
+    "dietary_fiber_g": 0.0,
+    "total_sugars_g": 0.0,
+    "added_sugars_g": 0.0,
+    "protein_g": 4.0
+  },
+  "photo": "catalog/items/078742127491/product.jpg",
+  "source_notes": "Order 2000148-27879059 confirmation alt. UPC not in email. Walmart product_id 51517697 synced from orders; UPC 078742127491.",
+  "purchase_refs": [
+    {
+      "orderId": "2000148-27879059",
+      "date": "2026-07-06",
+      "messageId": "19f383e64bb294e4",
+      "walmartItemId": "51517697"
+    }
+  ],
+  "walmart_item_id": "51517697",
+  "walmart_url": "https://www.walmart.com/ip/Great-Value-Deli-Style-Sliced-Colby-Monterey-Jack-Cheese-8-oz-12-Slices-Plastic-Packaging/51517697",
+  "product_url": "https://www.walmart.com/ip/Great-Value-Deli-Style-Sliced-Colby-Monterey-Jack-Cheese-8-oz-12-Slices-Plastic-Packaging/51517697",
+  "barcode_format": "UPC-A",
+  "photo_credit": {
+    "source": "Open Food Facts product image",
+    "retailer": "Open Food Facts",
+    "url": "https://world.openfoodfacts.org/product/078742127491",
+    "image_url": "https://images.openfoodfacts.org/images/products/007/874/212/7491/front_en.53.400.jpg",
+    "license": "Open Food Facts contributor image; used for personal food log reference"
+  }
+}

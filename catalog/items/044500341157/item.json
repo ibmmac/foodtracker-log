@@ -1,0 +1,52 @@
+{
+  "catalog_id": "044500341157",
+  "id": "hillshire-farm-turkey",
+  "name": "Hillshire Farm Turkey Smoked Sausage Rope, 13 oz (Refrigerated)",
+  "brand": "Hillshire Farm",
+  "barcode": "044500341157",
+  "barcode_status": null,
+  "serving_size": "56.0g",
+  "nutrition_per_serving": {
+    "calories": 100,
+    "total_fat_g": 6.0,
+    "saturated_fat_g": 2.0,
+    "cholesterol_mg": 30,
+    "sodium_mg": 360,
+    "total_carbohydrate_g": 3.0,
+    "dietary_fiber_g": 1.0,
+    "total_sugars_g": 1.0,
+    "added_sugars_g": 1.0,
+    "protein_g": 8.0
+  },
+  "photo": "catalog/items/044500341157/product.jpg",
+  "source_notes": "Order 2000153-13578770 email alt clarifies Turkey Smoked Sausage Rope (not deli turkey slices). UPC not in email. Walmart product_id 24217249 synced from orders; UPC 044500341157.",
+  "purchase_refs": [
+    {
+      "orderId": "2000153-13578770",
+      "date": "2026-08-08",
+      "messageId": "19fe32a97bbb65fb",
+      "walmartItemId": "24217249"
+    },
+    {
+      "orderId": "2000152-33533159",
+      "date": "2026-08-26",
+      "walmartItemId": "24217249"
+    },
+    {
+      "orderId": "2000152-41415546",
+      "date": "2026-07-30",
+      "walmartItemId": "24217249"
+    }
+  ],
+  "walmart_item_id": "24217249",
+  "walmart_url": "https://www.walmart.com/ip/Hillshire-Farm-Turkey-Smoked-Sausage-13-oz/24217249",
+  "product_url": "https://www.walmart.com/ip/Hillshire-Farm-Turkey-Smoked-Sausage-13-oz/24217249",
+  "barcode_format": "UPC-A",
+  "photo_credit": {
+    "source": "Open Food Facts product image",
+    "retailer": "Open Food Facts",
+    "url": "https://world.openfoodfacts.org/product/044500341157",
+    "image_url": "https://images.openfoodfacts.org/images/products/004/450/034/1157/front_en.85.400.jpg",
+    "license": "Open Food Facts contributor image; used for personal food log reference"
+  }
+}

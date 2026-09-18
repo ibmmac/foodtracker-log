@@ -1,0 +1,41 @@
+{
+  "catalog_id": "028400517775",
+  "id": "doritos-cool-ranch-flavored-tortilla-chips-party-s",
+  "name": "Doritos Cool Ranch Flavored Tortilla Chips, Party Size, 14.5 oz Bag",
+  "brand": "Doritos / PepsiCo",
+  "walmart_item_id": "749407178",
+  "walmart_url": "https://www.walmart.com/ip/Doritos-Cool-Ranch-Tortilla-Snack-Chips-Party-Size-14-05-oz-Bag/749407178",
+  "product_url": "https://www.walmart.com/ip/Doritos-Cool-Ranch-Tortilla-Snack-Chips-Party-Size-14-05-oz-Bag/749407178",
+  "purchase_refs": [
+    {
+      "orderId": "2000154-83633237",
+      "date": "2026-09-06",
+      "walmartItemId": "749407178"
+    }
+  ],
+  "barcode": "028400517775",
+  "barcode_format": "UPC-A",
+  "barcode_status": null,
+  "photo": "catalog/items/028400517775/product.jpg",
+  "photo_credit": {
+    "source": "Open Food Facts product image",
+    "retailer": "Open Food Facts",
+    "url": "https://world.openfoodfacts.org/product/028400517775",
+    "image_url": "https://images.openfoodfacts.org/images/products/002/840/051/7775/front_en.37.400.jpg",
+    "license": "Open Food Facts contributor image; used for personal food log reference"
+  },
+  "source_notes": "Walmart product_id 749407178 synced from orders; UPC 028400517775.",
+  "serving_size": "1 serving (100 g)",
+  "nutrition_per_serving": {
+    "calories": 536,
+    "total_fat_g": 28.6,
+    "saturated_fat_g": 3.57,
+    "cholesterol_mg": null,
+    "sodium_mg": 679,
+    "total_carbohydrate_g": 64.3,
+    "dietary_fiber_g": 1.0,
+    "total_sugars_g": 3.57,
+    "added_sugars_g": 0.0,
+    "protein_g": 7.14
+  }
+}

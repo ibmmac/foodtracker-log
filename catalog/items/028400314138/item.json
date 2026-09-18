@@ -1,0 +1,41 @@
+{
+  "catalog_id": "028400314138",
+  "id": "smartfood-gluten-free-no-artificial-colors-white-c",
+  "name": "Smartfood Gluten Free, No Artificial Colors White Cheddar Popcorn Bag, 9.75 oz",
+  "brand": "Smartfood / PepsiCo",
+  "walmart_item_id": "802830055",
+  "walmart_url": "https://www.walmart.com/ip/Smartfood-Popcorn-White-Cheddar-9-75-oz/802830055",
+  "product_url": "https://www.walmart.com/ip/Smartfood-Popcorn-White-Cheddar-9-75-oz/802830055",
+  "purchase_refs": [
+    {
+      "orderId": "2000153-13578770",
+      "date": "2026-08-08",
+      "walmartItemId": "802830055"
+    }
+  ],
+  "barcode": "028400314138",
+  "barcode_format": "UPC-A",
+  "barcode_status": null,
+  "photo": "catalog/items/028400314138/product.jpg",
+  "photo_credit": {
+    "source": "Open Food Facts product image",
+    "retailer": "Open Food Facts",
+    "url": "https://world.openfoodfacts.org/product/028400314138",
+    "image_url": "https://images.openfoodfacts.org/images/products/002/840/031/4138/front_en.55.400.jpg",
+    "license": "Open Food Facts contributor image; used for personal food log reference"
+  },
+  "source_notes": "Walmart product_id 802830055 synced from orders; UPC 028400314138.",
+  "serving_size": "28g",
+  "nutrition_per_serving": {
+    "calories": 160,
+    "total_fat_g": 10.0,
+    "saturated_fat_g": 1.0,
+    "cholesterol_mg": 5,
+    "sodium_mg": 200,
+    "total_carbohydrate_g": 15.0,
+    "dietary_fiber_g": 2.0,
+    "total_sugars_g": 0.0,
+    "added_sugars_g": 0.0,
+    "protein_g": 3.0
+  }
+}

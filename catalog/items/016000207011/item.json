@@ -1,0 +1,46 @@
+{
+  "catalog_id": "016000207011",
+  "id": "chex-mix-traditional",
+  "name": "Chex Mix Traditional Original Recipe Snack Mix, Family Size, 13.5 oz",
+  "brand": "Chex / General Mills",
+  "barcode": "016000207011",
+  "barcode_format": "UPC-A",
+  "serving_size": "1/2 cup (32g)",
+  "nutrition_per_serving": {
+    "calories": 140,
+    "total_fat_g": 4,
+    "saturated_fat_g": 1,
+    "cholesterol_mg": 0,
+    "sodium_mg": 370,
+    "total_carbohydrate_g": 24,
+    "dietary_fiber_g": 1,
+    "total_sugars_g": 3,
+    "added_sugars_g": 2,
+    "protein_g": 2
+  },
+  "walmart_item_id": "5420964023",
+  "walmart_url": "https://www.walmart.com/ip/Chex-Mix-Snack-Mix-Traditional-Savory-Snack-Bag-Family-Size-13-5-oz/5420964023",
+  "photo_credit": {
+    "source": "Open Food Facts product image",
+    "retailer": "Open Food Facts",
+    "url": "https://world.openfoodfacts.org/product/016000207011",
+    "image_url": "https://images.openfoodfacts.org/images/products/001/600/020/7011/front_en.27.400.jpg",
+    "license": "Open Food Facts contributor image; used for personal food log reference"
+  },
+  "photo": "catalog/items/016000207011/product.jpg",
+  "purchase_refs": [
+    {
+      "orderId": "2000153-80656752",
+      "date": "2026-09-17",
+      "walmartItemId": "5420964023"
+    },
+    {
+      "orderId": "2000153-13578770",
+      "date": "2026-08-08",
+      "walmartItemId": "5420964023"
+    }
+  ],
+  "barcode_status": null,
+  "source_notes": "UPC matched to Chex Mix Traditional Original Recipe Family Size 13.5 oz from Walmart order 2000153-80656752; retailer UPC 016000207011. Walmart product_id 5420964023 synced from orders; UPC 016000207011.",
+  "product_url": "https://www.walmart.com/ip/Chex-Mix-Snack-Mix-Traditional-Savory-Snack-Bag-Family-Size-13-5-oz/5420964023"
+}

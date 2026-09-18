@@ -1,0 +1,42 @@
+{
+  "catalog_id": "077567254245",
+  "id": "breyers-mint-chocolate-chip",
+  "name": "Breyers Mint Chocolate Chip Ice Cream Gluten-Free Kosher Dairy Milk, 1.5 Quart",
+  "brand": "Breyers / Unilever",
+  "barcode": "077567254245",
+  "barcode_status": null,
+  "serving_size": "0.66 cup (111 g)",
+  "nutrition_per_serving": {
+    "calories": 247,
+    "total_fat_g": 13.0,
+    "saturated_fat_g": 9.0,
+    "cholesterol_mg": 30,
+    "sodium_mg": 70,
+    "total_carbohydrate_g": 28.0,
+    "dietary_fiber_g": 0.0,
+    "total_sugars_g": 27.0,
+    "added_sugars_g": 22.2,
+    "protein_g": 4.0
+  },
+  "photo": "catalog/items/077567254245/product.jpg",
+  "source_notes": "Order 2000148-64609284 change-email SEO. UPC not in email. Walmart product_id 10293737 synced from orders; UPC 077567254245.",
+  "purchase_refs": [
+    {
+      "orderId": "2000148-64609284",
+      "date": "2026-07-18",
+      "messageId": "19f776b336bcf8fa",
+      "walmartItemId": "10293737"
+    }
+  ],
+  "walmart_item_id": "10293737",
+  "walmart_url": "https://www.walmart.com/ip/Breyers-Mint-Chocolate-Chip-Ice-Cream-Gluten-Free-Kosher-Dairy-Milk-1-5-Quart/10293737",
+  "product_url": "https://www.walmart.com/ip/Breyers-Mint-Chocolate-Chip-Ice-Cream-Gluten-Free-Kosher-Dairy-Milk-1-5-Quart/10293737",
+  "barcode_format": "UPC-A",
+  "photo_credit": {
+    "source": "Open Food Facts product image",
+    "retailer": "Open Food Facts",
+    "url": "https://world.openfoodfacts.org/product/077567254245",
+    "image_url": "https://images.openfoodfacts.org/images/products/007/756/725/4245/front_en.8.400.jpg",
+    "license": "Open Food Facts contributor image; used for personal food log reference"
+  }
+}

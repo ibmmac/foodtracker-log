@@ -1,0 +1,20 @@
+{
+  "catalog_id": "id-great-value-organic-tomato-ketchup-20-oz",
+  "id": "great-value-organic-tomato-ketchup-20-oz",
+  "name": "Great Value Organic Tomato Ketchup, 20 oz",
+  "brand": "Great Value / Walmart",
+  "walmart_item_id": "134201720",
+  "walmart_url": "https://www.walmart.com/ip/Great-Value-Organic-Tomato-Ketchup-20-oz/134201720",
+  "product_url": "https://www.walmart.com/ip/Great-Value-Organic-Tomato-Ketchup-20-oz/134201720",
+  "purchase_refs": [
+    {
+      "orderId": "2000153-13578770",
+      "date": "2026-08-08",
+      "walmartItemId": "134201720"
+    }
+  ],
+  "barcode": null,
+  "barcode_status": "no_photo",
+  "photo": null,
+  "source_notes": "Walmart product_id 134201720; UPC not confidently resolved."
+}

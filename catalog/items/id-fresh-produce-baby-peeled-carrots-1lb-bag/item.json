@@ -1,0 +1,35 @@
+{
+  "catalog_id": "id-fresh-produce-baby-peeled-carrots-1lb-bag",
+  "id": "fresh-produce-baby-peeled-carrots-1lb-bag",
+  "name": "Fresh Produce, Baby Peeled Carrots, 1lb Bag",
+  "brand": null,
+  "walmart_item_id": "10451315",
+  "walmart_url": "https://www.walmart.com/ip/Fresh-Baby-Cut-Carrots-1lb-Bag/10451315",
+  "product_url": "https://www.walmart.com/ip/Fresh-Baby-Cut-Carrots-1lb-Bag/10451315",
+  "purchase_refs": [
+    {
+      "orderId": "2000152-85156802",
+      "date": "2026-08-30",
+      "walmartItemId": "10451315"
+    },
+    {
+      "orderId": "2000152-33533159",
+      "date": "2026-08-26",
+      "walmartItemId": "10451315"
+    },
+    {
+      "orderId": "2000148-64609284",
+      "date": "2026-07-18",
+      "walmartItemId": "10451315"
+    },
+    {
+      "orderId": "2000148-27879059",
+      "date": "2026-07-06",
+      "walmartItemId": "10451315"
+    }
+  ],
+  "barcode": null,
+  "barcode_status": "no_photo",
+  "photo": null,
+  "source_notes": "Walmart product_id 10451315; UPC not confidently resolved."
+}

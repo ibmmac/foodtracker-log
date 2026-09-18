@@ -1,0 +1,25 @@
+{
+  "catalog_id": "id-fresh-cucumber-each",
+  "id": "fresh-cucumber-each",
+  "name": "Fresh Cucumber, Each",
+  "brand": null,
+  "walmart_item_id": "44390954",
+  "walmart_url": "https://www.walmart.com/ip/Fresh-Cucumber-Each/44390954",
+  "product_url": "https://www.walmart.com/ip/Fresh-Cucumber-Each/44390954",
+  "purchase_refs": [
+    {
+      "orderId": "2000148-64609284",
+      "date": "2026-07-18",
+      "walmartItemId": "44390954"
+    },
+    {
+      "orderId": "2000148-27879059",
+      "date": "2026-07-06",
+      "walmartItemId": "44390954"
+    }
+  ],
+  "barcode": null,
+  "barcode_status": "no_photo",
+  "photo": null,
+  "source_notes": "Walmart product_id 44390954; UPC not confidently resolved."
+}

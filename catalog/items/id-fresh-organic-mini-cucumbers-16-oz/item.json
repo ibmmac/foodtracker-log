@@ -1,0 +1,20 @@
+{
+  "catalog_id": "id-fresh-organic-mini-cucumbers-16-oz",
+  "id": "fresh-organic-mini-cucumbers-16-oz",
+  "name": "Fresh Organic Mini Cucumbers, 16 oz",
+  "brand": null,
+  "walmart_item_id": "704747922",
+  "walmart_url": "https://www.walmart.com/ip/Fresh-Organic-Mini-Cucumbers-1-Pound-Bag/704747922",
+  "product_url": "https://www.walmart.com/ip/Fresh-Organic-Mini-Cucumbers-1-Pound-Bag/704747922",
+  "purchase_refs": [
+    {
+      "orderId": "2000154-83633237",
+      "date": "2026-09-06",
+      "walmartItemId": "704747922"
+    }
+  ],
+  "barcode": null,
+  "barcode_status": "no_photo",
+  "photo": null,
+  "source_notes": "Walmart product_id 704747922; UPC not confidently resolved."
+}

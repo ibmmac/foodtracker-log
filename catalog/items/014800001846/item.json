@@ -1,0 +1,41 @@
+{
+  "catalog_id": "014800001846",
+  "id": "mott-s-no-sugar-added-applesauce-46-ounce-jar",
+  "name": "Mott's No Sugar Added Applesauce, 46 Ounce, Jar",
+  "brand": "Mott's",
+  "walmart_item_id": "40711130",
+  "walmart_url": "https://www.walmart.com/ip/Mott-s-Natural-Applesauce-46-oz/40711130",
+  "product_url": "https://www.walmart.com/ip/Mott-s-Natural-Applesauce-46-oz/40711130",
+  "purchase_refs": [
+    {
+      "orderId": "2000148-64609284",
+      "date": "2026-07-18",
+      "walmartItemId": "40711130"
+    }
+  ],
+  "barcode": "014800001846",
+  "barcode_format": "UPC-A",
+  "serving_size": "0.5 cup (123 g)",
+  "nutrition_per_serving": {
+    "calories": 50,
+    "total_fat_g": 0.0,
+    "saturated_fat_g": null,
+    "cholesterol_mg": null,
+    "sodium_mg": 0,
+    "total_carbohydrate_g": 14.0,
+    "dietary_fiber_g": 1.0,
+    "total_sugars_g": 12.0,
+    "added_sugars_g": 0.0,
+    "protein_g": 0.0
+  },
+  "photo_credit": {
+    "source": "Open Food Facts product image",
+    "retailer": "Open Food Facts",
+    "url": "https://world.openfoodfacts.org/product/014800001846",
+    "image_url": "https://images.openfoodfacts.org/images/products/001/480/000/1846/front_en.4.400.jpg",
+    "license": "Open Food Facts contributor image; used for personal food log reference"
+  },
+  "photo": "catalog/items/014800001846/product.jpg",
+  "barcode_status": null,
+  "source_notes": "Walmart product_id 40711130 synced from orders; UPC 014800001846."
+}

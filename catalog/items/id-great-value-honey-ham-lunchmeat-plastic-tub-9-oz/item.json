@@ -1,0 +1,20 @@
+{
+  "catalog_id": "id-great-value-honey-ham-lunchmeat-plastic-tub-9-oz",
+  "id": "great-value-honey-ham-lunchmeat-plastic-tub-9-oz",
+  "name": "Great Value Honey Ham Lunchmeat Plastic Tub, 9 oz",
+  "brand": "Great Value / Walmart",
+  "walmart_item_id": "10315854",
+  "walmart_url": "https://www.walmart.com/ip/Great-Value-Honey-Ham-Lunchmeat-Plastic-Tub-9oz-10-Grams-of-Protein-per-2-oz-Serving/10315854",
+  "product_url": "https://www.walmart.com/ip/Great-Value-Honey-Ham-Lunchmeat-Plastic-Tub-9oz-10-Grams-of-Protein-per-2-oz-Serving/10315854",
+  "purchase_refs": [
+    {
+      "orderId": "2000154-83633237",
+      "date": "2026-09-06",
+      "walmartItemId": "10315854"
+    }
+  ],
+  "barcode": null,
+  "barcode_status": "no_photo",
+  "photo": null,
+  "source_notes": "Walmart product_id 10315854; UPC not confidently resolved."
+}

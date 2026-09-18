@@ -1,0 +1,65 @@
+{
+  "catalog_id": "078742352008",
+  "id": "great-value-whole-milk",
+  "name": "Great Value Whole Vitamin D Milk, Half Gallon (64 fl oz)",
+  "brand": "Great Value / Walmart",
+  "barcode": "078742352008",
+  "barcode_status": null,
+  "serving_size": "1 cup (240mL)",
+  "nutrition_per_serving": {
+    "calories": 150,
+    "total_fat_g": 8,
+    "saturated_fat_g": 5,
+    "cholesterol_mg": 35,
+    "sodium_mg": 120,
+    "total_carbohydrate_g": 12,
+    "total_sugars_g": 12,
+    "protein_g": 8
+  },
+  "photo": "catalog/items/078742352008/product.jpg",
+  "source_notes": "UPC matched to Great Value Whole Vitamin D Milk half gallon from Walmart order 2000153-80656752; retailer UPC 078742352008. Walmart product_id 10450118 synced from orders; UPC 078742352008.",
+  "purchase_refs": [
+    {
+      "orderId": "2000153-80656752",
+      "date": "2026-09-17",
+      "walmartItemId": "10450118"
+    },
+    {
+      "orderId": "2000154-83633237",
+      "date": "2026-09-06",
+      "messageId": "1a078c672ef47098",
+      "walmartItemId": "10450118"
+    },
+    {
+      "orderId": "2000152-85156802",
+      "date": "2026-08-30",
+      "walmartItemId": "10450118"
+    },
+    {
+      "orderId": "2000152-33533159",
+      "date": "2026-08-26",
+      "walmartItemId": "10450118"
+    },
+    {
+      "orderId": "2000148-64609284",
+      "date": "2026-07-18",
+      "walmartItemId": "10450118"
+    },
+    {
+      "orderId": "2000148-27879059",
+      "date": "2026-07-06",
+      "walmartItemId": "10450118"
+    }
+  ],
+  "barcode_format": "UPC-A",
+  "walmart_item_id": "10450118",
+  "walmart_url": "https://www.walmart.com/ip/Great-Value-Milk-Whole-Vitamin-D-Half-Gallon-Plastic-Jug/10450118",
+  "photo_credit": {
+    "source": "Open Food Facts product image",
+    "retailer": "Open Food Facts",
+    "url": "https://world.openfoodfacts.org/product/078742352008",
+    "image_url": "https://images.openfoodfacts.org/images/products/007/874/235/2008/front_en.51.400.jpg",
+    "license": "Open Food Facts contributor image; used for personal food log reference"
+  },
+  "product_url": "https://www.walmart.com/ip/Great-Value-Milk-Whole-Vitamin-D-Half-Gallon-Plastic-Jug/10450118"
+}

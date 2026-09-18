@@ -1,0 +1,55 @@
+{
+  "catalog_id": "681131387538",
+  "id": "marketside-premium-romaine-salad-blend",
+  "name": "Marketside Premium Romaine Salad Blend, 9 oz Bag (Fresh)",
+  "brand": "Marketside / Walmart",
+  "barcode": "681131387538",
+  "barcode_status": null,
+  "serving_size": "2 cups (85 g)",
+  "nutrition_per_serving": {
+    "calories": 15,
+    "total_fat_g": 0.0,
+    "saturated_fat_g": 0.0,
+    "cholesterol_mg": null,
+    "sodium_mg": 10,
+    "total_carbohydrate_g": 3.0,
+    "dietary_fiber_g": 2.04,
+    "total_sugars_g": 1.0,
+    "added_sugars_g": 0.0,
+    "protein_g": 1.0
+  },
+  "photo": "catalog/items/681131387538/product.jpg",
+  "source_notes": "Order 2000148-64609284 change-email SEO. UPC not in email. Walmart product_id 44391112 synced from orders; UPC 681131387538.",
+  "purchase_refs": [
+    {
+      "orderId": "2000148-64609284",
+      "date": "2026-07-18",
+      "messageId": "19f776b336bcf8fa",
+      "walmartItemId": "44391112"
+    },
+    {
+      "orderId": "2000154-83633237",
+      "date": "2026-09-06",
+      "walmartItemId": "44391112"
+    },
+    {
+      "orderId": "2000152-85156802",
+      "date": "2026-08-30",
+      "walmartItemId": "44391112"
+    },
+    {
+      "orderId": "2000152-41415546",
+      "date": "2026-07-30",
+      "walmartItemId": "44391112"
+    },
+    {
+      "orderId": "2000148-27879059",
+      "date": "2026-07-06",
+      "walmartItemId": "44391112"
+    }
+  ],
+  "walmart_item_id": "44391112",
+  "walmart_url": "https://www.walmart.com/ip/Marketside-Premium-Romaine-Salad-Blend-9-oz-Bag-Fresh/44391112",
+  "product_url": "https://www.walmart.com/ip/Marketside-Premium-Romaine-Salad-Blend-9-oz-Bag-Fresh/44391112",
+  "barcode_format": "UPC-A"
+}

@@ -1,0 +1,45 @@
+{
+  "catalog_id": "id-fresh-gala-apples-3-lb-bag",
+  "id": "fresh-gala-apples-3-lb-bag",
+  "name": "Fresh Gala Apples, 3 lb Bag",
+  "brand": null,
+  "walmart_item_id": "44390958",
+  "walmart_url": "https://www.walmart.com/ip/Fresh-Gala-Apples-3-lb-Bag/44390958",
+  "product_url": "https://www.walmart.com/ip/Fresh-Gala-Apples-3-lb-Bag/44390958",
+  "purchase_refs": [
+    {
+      "orderId": "2000152-85156802",
+      "date": "2026-08-30",
+      "walmartItemId": "44390958"
+    },
+    {
+      "orderId": "2000152-33533159",
+      "date": "2026-08-26",
+      "walmartItemId": "44390958"
+    },
+    {
+      "orderId": "2000153-13578770",
+      "date": "2026-08-08",
+      "walmartItemId": "44390958"
+    },
+    {
+      "orderId": "2000152-41415546",
+      "date": "2026-07-30",
+      "walmartItemId": "44390958"
+    },
+    {
+      "orderId": "2000148-64609284",
+      "date": "2026-07-18",
+      "walmartItemId": "44390958"
+    },
+    {
+      "orderId": "2000148-27879059",
+      "date": "2026-07-06",
+      "walmartItemId": "44390958"
+    }
+  ],
+  "barcode": null,
+  "barcode_status": "no_photo",
+  "photo": null,
+  "source_notes": "Walmart product_id 44390958; UPC not confidently resolved."
+}

@@ -1,0 +1,47 @@
+{
+  "catalog_id": "078742123011",
+  "id": "great-value-unsweetened-applesauce",
+  "name": "Great Value Unsweetened Applesauce, 46 oz Jar",
+  "brand": "Great Value / Walmart",
+  "barcode": "078742123011",
+  "barcode_status": null,
+  "serving_size": "0.5 cup (122 g)",
+  "nutrition_per_serving": {
+    "calories": 49,
+    "total_fat_g": 0.0,
+    "saturated_fat_g": 0.0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 5,
+    "total_carbohydrate_g": 16.0,
+    "dietary_fiber_g": 2.0,
+    "total_sugars_g": 12.0,
+    "added_sugars_g": 0.0,
+    "protein_g": 0.0
+  },
+  "photo": "catalog/items/078742123011/product.jpg",
+  "source_notes": "Orders 2000148-64609284 and 2000148-27879059. UPC not in email. Walmart product_id 14122646 synced from orders; UPC 078742123011.",
+  "purchase_refs": [
+    {
+      "orderId": "2000148-64609284",
+      "date": "2026-07-18",
+      "messageId": "19f772f3e99011fd"
+    },
+    {
+      "orderId": "2000148-27879059",
+      "date": "2026-07-06",
+      "messageId": "19f383e64bb294e4",
+      "walmartItemId": "14122646"
+    }
+  ],
+  "walmart_item_id": "14122646",
+  "walmart_url": "https://www.walmart.com/ip/Great-Value-Unsweetened-Applesauce-46-oz-Jar/14122646",
+  "product_url": "https://www.walmart.com/ip/Great-Value-Unsweetened-Applesauce-46-oz-Jar/14122646",
+  "barcode_format": "UPC-A",
+  "photo_credit": {
+    "source": "Open Food Facts product image",
+    "retailer": "Open Food Facts",
+    "url": "https://world.openfoodfacts.org/product/078742123011",
+    "image_url": "https://images.openfoodfacts.org/images/products/007/874/212/3011/front_en.7.400.jpg",
+    "license": "Open Food Facts contributor image; used for personal food log reference"
+  }
+}

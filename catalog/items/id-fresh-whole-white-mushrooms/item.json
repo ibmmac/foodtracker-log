@@ -1,0 +1,32 @@
+{
+  "catalog_id": "id-fresh-whole-white-mushrooms",
+  "id": "fresh-whole-white-mushrooms-16-oz",
+  "name": "Fresh Whole White Mushrooms, 16 oz",
+  "brand": "Monterey",
+  "barcode": null,
+  "barcode_status": "no_photo",
+  "serving_size": null,
+  "nutrition_per_serving": null,
+  "photo": null,
+  "walmart_item_id": "10451903",
+  "walmart_url": "https://www.walmart.com/ip/Fresh-Whole-White-Mushrooms-16-oz/10451903",
+  "source_notes": "Walmart order 2000153-80656752; fresh produce listing. No reliable UPC was available. Walmart product_id 10451903; UPC not confidently resolved.",
+  "purchase_refs": [
+    {
+      "orderId": "2000153-80656752",
+      "date": "2026-09-17",
+      "walmartItemId": "10451903"
+    },
+    {
+      "orderId": "2000152-85156802",
+      "date": "2026-08-30",
+      "walmartItemId": "10451903"
+    },
+    {
+      "orderId": "2000148-27879059",
+      "date": "2026-07-06",
+      "walmartItemId": "10451903"
+    }
+  ],
+  "product_url": "https://www.walmart.com/ip/Fresh-Whole-White-Mushrooms-16-oz/10451903"
+}

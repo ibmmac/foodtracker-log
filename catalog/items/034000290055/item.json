@@ -1,0 +1,41 @@
+{
+  "catalog_id": "034000290055",
+  "id": "hershey-s-milk-chocolate-candy-bars-1-55-oz",
+  "name": "Hershey's Milk Chocolate Candy Bars, 1.55 oz (6 Count)",
+  "brand": "Hershey's",
+  "walmart_item_id": "10452239",
+  "walmart_url": "https://www.walmart.com/ip/Hershey-s-Individually-Wrapped-Bars-Milk-Chocolate-6-ct/10452239",
+  "product_url": "https://www.walmart.com/ip/Hershey-s-Individually-Wrapped-Bars-Milk-Chocolate-6-ct/10452239",
+  "purchase_refs": [
+    {
+      "orderId": "2000153-13578770",
+      "date": "2026-08-08",
+      "walmartItemId": "10452239"
+    }
+  ],
+  "barcode": "034000290055",
+  "barcode_format": "UPC-A",
+  "barcode_status": null,
+  "photo": "catalog/items/034000290055/product.jpg",
+  "photo_credit": {
+    "source": "Open Food Facts product image",
+    "retailer": "Open Food Facts",
+    "url": "https://world.openfoodfacts.org/product/034000290055",
+    "image_url": "https://images.openfoodfacts.org/images/products/003/400/029/0055/front_en.5.400.jpg",
+    "license": "Open Food Facts contributor image; used for personal food log reference"
+  },
+  "source_notes": "Walmart product_id 10452239 synced from orders; UPC 034000290055.",
+  "serving_size": "1 bar (43 g)",
+  "nutrition_per_serving": {
+    "calories": 210,
+    "total_fat_g": 13.0,
+    "saturated_fat_g": 8.0,
+    "cholesterol_mg": 10,
+    "sodium_mg": 35,
+    "total_carbohydrate_g": 26.0,
+    "dietary_fiber_g": 1.0,
+    "total_sugars_g": 25.0,
+    "added_sugars_g": 21.0,
+    "protein_g": 3.0
+  }
+}

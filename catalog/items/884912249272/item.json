@@ -1,0 +1,42 @@
+{
+  "catalog_id": "884912249272",
+  "id": "honey-bunches-of-oats-honey-roasted",
+  "name": "Honey Bunches of Oats Honey Roasted Breakfast Cereal, 28 oz Box",
+  "brand": "Honey Bunches of Oats / Post",
+  "barcode": "884912249272",
+  "barcode_status": null,
+  "serving_size": "1 cup (41g)",
+  "nutrition_per_serving": {
+    "calories": 160,
+    "total_fat_g": 2,
+    "saturated_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 190,
+    "total_carbohydrate_g": 34,
+    "dietary_fiber_g": 2,
+    "total_sugars_g": 9,
+    "added_sugars_g": 8,
+    "protein_g": 3
+  },
+  "photo": "catalog/items/884912249272/product.jpg",
+  "source_notes": "UPC matched to Post Honey Bunches of Oats Honey Roasted 28 oz from Walmart order 2000153-80656752; retailer UPC 884912249272. Walmart product_id 196154743 synced from orders; UPC 884912249272.",
+  "purchase_refs": [
+    {
+      "orderId": "2000153-80656752",
+      "date": "2026-09-17",
+      "messageId": "1a0b17f9f43bc1f6",
+      "walmartItemId": "196154743"
+    }
+  ],
+  "barcode_format": "UPC-A",
+  "walmart_item_id": "196154743",
+  "walmart_url": "https://www.walmart.com/ip/Post-Honey-Bunches-of-Oats-Crunchy-Honey-Roasted-Cereal-28-oz/196154743",
+  "photo_credit": {
+    "source": "Open Food Facts product image",
+    "retailer": "Open Food Facts",
+    "url": "https://world.openfoodfacts.org/product/884912249272",
+    "image_url": "https://images.openfoodfacts.org/images/products/088/491/224/9272/front_en.18.400.jpg",
+    "license": "Open Food Facts contributor image; used for personal food log reference"
+  },
+  "product_url": "https://www.walmart.com/ip/Post-Honey-Bunches-of-Oats-Crunchy-Honey-Roasted-Cereal-28-oz/196154743"
+}

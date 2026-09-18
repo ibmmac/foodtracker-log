@@ -1,0 +1,20 @@
+{
+  "catalog_id": "id-chobani-low-fat-vanilla-greek-yogurt-mixed-berry-o",
+  "id": "chobani-low-fat-vanilla-greek-yogurt-mixed-berry-o",
+  "name": "Chobani Low-Fat Vanilla Greek Yogurt Mixed Berry On The Bottom, Hero Batch 5.3oz 4PK",
+  "brand": "Chobani",
+  "walmart_item_id": "519060542",
+  "walmart_url": "https://www.walmart.com/ip/Chobani-Hero-Batch-Vanilla-Greek-Yogurt-with-Mixed-Berry-on-the-Bottom-5-3-oz-4-Count-Plastic/519060542",
+  "product_url": "https://www.walmart.com/ip/Chobani-Hero-Batch-Vanilla-Greek-Yogurt-with-Mixed-Berry-on-the-Bottom-5-3-oz-4-Count-Plastic/519060542",
+  "purchase_refs": [
+    {
+      "orderId": "2000148-64609284",
+      "date": "2026-07-18",
+      "walmartItemId": "519060542"
+    }
+  ],
+  "barcode": null,
+  "barcode_status": "no_photo",
+  "photo": null,
+  "source_notes": "Walmart product_id 519060542; UPC not confidently resolved."
+}

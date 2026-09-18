@@ -1,0 +1,47 @@
+{
+  "catalog_id": "078742085296",
+  "id": "great-value-mild-cheddar-deli-style",
+  "name": "Great Value Mild Cheddar Deli Style Sliced Cheese, 8 oz Package, 12 Slices",
+  "brand": "Great Value / Walmart",
+  "barcode": "078742085296",
+  "barcode_status": null,
+  "serving_size": "1 slice (19 g)",
+  "nutrition_per_serving": {
+    "calories": 80,
+    "total_fat_g": 6.0,
+    "saturated_fat_g": 3.5,
+    "cholesterol_mg": 20,
+    "sodium_mg": 120,
+    "total_carbohydrate_g": 0.0,
+    "dietary_fiber_g": 0.0,
+    "total_sugars_g": 0.0,
+    "added_sugars_g": 0.0,
+    "protein_g": 5.0
+  },
+  "photo": "catalog/items/078742085296/product.jpg",
+  "source_notes": "Order 2000152-41415546 email alt. UPC not in email. Walmart product_id 10452514 synced from orders; UPC 078742085296.",
+  "purchase_refs": [
+    {
+      "orderId": "2000152-41415546",
+      "date": "2026-07-30",
+      "messageId": "19fb504d1589d1ca",
+      "walmartItemId": "10452514"
+    },
+    {
+      "orderId": "2000148-64609284",
+      "date": "2026-07-18",
+      "walmartItemId": "10452514"
+    }
+  ],
+  "walmart_item_id": "10452514",
+  "walmart_url": "https://www.walmart.com/ip/Great-Value-Deli-Style-Sliced-Mild-Cheddar-Cheese-8-oz-12-Count/10452514",
+  "product_url": "https://www.walmart.com/ip/Great-Value-Deli-Style-Sliced-Mild-Cheddar-Cheese-8-oz-12-Count/10452514",
+  "barcode_format": "UPC-A",
+  "photo_credit": {
+    "source": "Open Food Facts product image",
+    "retailer": "Open Food Facts",
+    "url": "https://world.openfoodfacts.org/product/078742085296",
+    "image_url": "https://images.openfoodfacts.org/images/products/007/874/208/5296/front_en.30.400.jpg",
+    "license": "Open Food Facts contributor image; used for personal food log reference"
+  }
+}

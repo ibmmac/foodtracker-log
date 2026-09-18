@@ -1,0 +1,42 @@
+{
+  "catalog_id": "078000001174",
+  "id": "canada-dry-caffeine-free-ginger-ale",
+  "name": "Canada Dry Caffeine Free Ginger Ale Soda Pop, 16.9 fl oz, 6 Pack Bottles",
+  "brand": "Canada Dry / Keurig Dr Pepper",
+  "barcode": "078000001174",
+  "barcode_status": null,
+  "serving_size": "1 bottle (16.9 fl oz)",
+  "nutrition_per_serving": {
+    "calories": 180,
+    "total_fat_g": 0.0,
+    "saturated_fat_g": 0.0,
+    "cholesterol_mg": null,
+    "sodium_mg": 70,
+    "total_carbohydrate_g": 47.0,
+    "dietary_fiber_g": 0.0,
+    "total_sugars_g": 46.0,
+    "added_sugars_g": 46.0,
+    "protein_g": 0.0
+  },
+  "photo": "catalog/items/078000001174/product.jpg",
+  "source_notes": "Order 2000148-64609284 change-email SEO. UPC not in email. Walmart product_id 22057325 synced from orders; UPC 078000001174.",
+  "purchase_refs": [
+    {
+      "orderId": "2000148-64609284",
+      "date": "2026-07-18",
+      "messageId": "19f776b336bcf8fa",
+      "walmartItemId": "22057325"
+    }
+  ],
+  "walmart_item_id": "22057325",
+  "walmart_url": "https://www.walmart.com/ip/Canada-Dry-Caffeine-Free-Ginger-Ale-Soda-Pop-16-9-fl-oz-6-Pack-Bottles/22057325",
+  "product_url": "https://www.walmart.com/ip/Canada-Dry-Caffeine-Free-Ginger-Ale-Soda-Pop-16-9-fl-oz-6-Pack-Bottles/22057325",
+  "barcode_format": "UPC-A",
+  "photo_credit": {
+    "source": "Open Food Facts product image",
+    "retailer": "Open Food Facts",
+    "url": "https://world.openfoodfacts.org/product/078000001174",
+    "image_url": "https://images.openfoodfacts.org/images/products/007/800/000/1174/front_en.26.400.jpg",
+    "license": "Open Food Facts contributor image; used for personal food log reference"
+  }
+}
