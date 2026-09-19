@@ -4,9 +4,9 @@
 
 **Daily goal:** 1500 kcal
 
-**Daily total:** 350 kcal · Protein 15g · Carbs 36g · Fat 16g
+**Daily total:** 700 kcal · Protein 30g · Carbs 72g · Fat 32g
 
-**Left:** 1150 kcal (**76.7%** of goal remaining) · 23.3% used
+**Left:** 800 kcal (**53.3%** of goal remaining) · 46.7% used
 
 ## Foods logged
 
@@ -14,4 +14,4 @@
 |------|--------|----------|------|------|---|---|---|
 | [Fasted breakfast](../../catalog/items/id-fasted-breakfast/) | skipped meal | nowhere | breakfast | 0 | 0 | 0 | 0 |
 | [Skipped lunch](../../catalog/items/id-skipped-lunch/) | skipped meal | nowhere | lunch | 0 | 0 | 0 | 0 |
-| [Pizza slice (supreme / veggie + meat)](../../catalog/items/id-pizza-slice-supreme/) | 1 slice | other (Parents house) | dinner | 350 | 15 | 36 | 16 |
+| [Pizza slice (supreme / veggie + meat)](../../catalog/items/id-pizza-slice-supreme/) | 2 slices | other (Parents house) | dinner | 700 | 30 | 72 | 32 |

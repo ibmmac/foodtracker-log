@@ -3,13 +3,13 @@
   "timezone": "America/New_York",
   "goal_kcal": 1500,
   "totals": {
-    "calories": 350,
-    "protein_g": 15,
-    "carbs_g": 36,
-    "fat_g": 16,
-    "remaining_kcal": 1150,
-    "percent_goal_remaining": 76.7,
-    "percent_goal_used": 23.3
+    "calories": 700,
+    "protein_g": 30,
+    "carbs_g": 72,
+    "fat_g": 32,
+    "remaining_kcal": 800,
+    "percent_goal_remaining": 53.3,
+    "percent_goal_used": 46.7
   },
   "entries": [
     {
@@ -56,18 +56,18 @@
       "catalog_path": "catalog/items/id-pizza-slice-supreme/",
       "id": "pizza-slice-supreme",
       "name": "Pizza slice (supreme / veggie + meat)",
-      "amount_eaten": "1 slice",
-      "servings_eaten": 1,
+      "amount_eaten": "2 slices",
+      "servings_eaten": 2,
       "meal": "dinner",
       "location": "other",
       "logged": {
-        "calories": 350,
-        "protein_g": 15,
-        "carbs_g": 36,
-        "fat_g": 16
+        "calories": 700,
+        "protein_g": 30,
+        "carbs_g": 72,
+        "fat_g": 32
       },
       "source": "visual_estimate",
-      "notes": "Thick crust with peppers, mushrooms, onion, cured meat, heavy cheese",
+      "notes": "Thick crust with peppers, mushrooms, onion, cured meat, heavy cheese \u2014 2 slices (~350 kcal each)",
       "time": "21:38",
       "timestamp": "2026-09-18T21:38:47-04:00",
       "location_note": "Parents house"
