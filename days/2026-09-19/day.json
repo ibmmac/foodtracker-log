@@ -74,8 +74,7 @@
       "amount_eaten": "2 mini cookies",
       "servings_eaten": 2,
       "meal": "snack",
-      "location": null,
-      "location_pending": true,
+      "location": "home",
       "logged": {
         "calories": 100,
         "protein_g": 1.0,
