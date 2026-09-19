@@ -65,15 +65,36 @@
       "time": "09:48",
       "timestamp": "2026-09-19T09:48:19-04:00",
       "location_note": "Joe's house"
+    },
+    {
+      "catalog_id": "id-mini-choc-chip-cookies",
+      "catalog_path": "catalog/items/id-mini-choc-chip-cookies/",
+      "id": "mini-choc-chip-cookies-snack",
+      "name": "Mini chocolate chip cookies",
+      "amount_eaten": "2 mini cookies",
+      "servings_eaten": 2,
+      "meal": "snack",
+      "location": null,
+      "location_pending": true,
+      "logged": {
+        "calories": 100,
+        "protein_g": 1.0,
+        "carbs_g": 14,
+        "fat_g": 5.0
+      },
+      "source": "estimate",
+      "notes": "Additional cookies (~50 kcal each); same catalog as breakfast",
+      "time": "14:26",
+      "timestamp": "2026-09-19T14:26:50-04:00"
     }
   ],
   "totals": {
-    "calories": 595,
-    "protein_g": 30,
-    "carbs_g": 33,
-    "fat_g": 38.5,
-    "remaining_kcal": 905,
-    "percent_goal_remaining": 60.3,
-    "percent_goal_used": 39.7
+    "calories": 695,
+    "protein_g": 31,
+    "carbs_g": 47,
+    "fat_g": 43.5,
+    "remaining_kcal": 805,
+    "percent_goal_remaining": 53.7,
+    "percent_goal_used": 46.3
   }
 }
