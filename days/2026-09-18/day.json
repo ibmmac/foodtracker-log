@@ -3,13 +3,13 @@
   "timezone": "America/New_York",
   "goal_kcal": 1500,
   "totals": {
-    "calories": 0,
-    "protein_g": 0,
-    "carbs_g": 0,
-    "fat_g": 0,
-    "remaining_kcal": 1500,
-    "percent_goal_remaining": 100.0,
-    "percent_goal_used": 0.0
+    "calories": 350,
+    "protein_g": 15,
+    "carbs_g": 36,
+    "fat_g": 16,
+    "remaining_kcal": 1150,
+    "percent_goal_remaining": 76.7,
+    "percent_goal_used": 23.3
   },
   "entries": [
     {
@@ -50,6 +50,27 @@
       "notes": "User reported skipping lunch",
       "time": "16:48",
       "timestamp": "2026-09-18T16:48:59-04:00"
+    },
+    {
+      "catalog_id": "id-pizza-slice-supreme",
+      "catalog_path": "catalog/items/id-pizza-slice-supreme/",
+      "id": "pizza-slice-supreme",
+      "name": "Pizza slice (supreme / veggie + meat)",
+      "amount_eaten": "1 slice",
+      "servings_eaten": 1,
+      "meal": "dinner",
+      "location": null,
+      "location_pending": true,
+      "logged": {
+        "calories": 350,
+        "protein_g": 15,
+        "carbs_g": 36,
+        "fat_g": 16
+      },
+      "source": "visual_estimate",
+      "notes": "Thick crust with peppers, mushrooms, onion, cured meat, heavy cheese",
+      "time": "21:38",
+      "timestamp": "2026-09-18T21:38:47-04:00"
     }
   ]
 }

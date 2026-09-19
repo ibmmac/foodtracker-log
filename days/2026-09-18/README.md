@@ -4,13 +4,14 @@
 
 **Daily goal:** 1500 kcal
 
-**Daily total:** 0 kcal · Protein 0g · Carbs 0g · Fat 0g
+**Daily total:** 350 kcal · Protein 15g · Carbs 36g · Fat 16g
 
-**Left:** 1500 kcal (**100.0%** of goal remaining) · 0.0% used
+**Left:** 1150 kcal (**76.7%** of goal remaining) · 23.3% used
 
 ## Foods logged
 
-| Food | Amount | Location | Catalog | kcal | P | C | F |
-|------|--------|----------|---------|------|---|---|---|
-| [Fasted breakfast](../../catalog/items/id-fasted-breakfast/) | skipped meal | nowhere | [`id-fasted-breakfast`](../../catalog/items/id-fasted-breakfast/) | 0 | 0 | 0 | 0 |
-| [Skipped lunch](../../catalog/items/id-skipped-lunch/) | skipped meal | nowhere | [`id-skipped-lunch`](../../catalog/items/id-skipped-lunch/) | 0 | 0 | 0 | 0 |
+| Food | Amount | Location | Meal | kcal | P | C | F |
+|------|--------|----------|------|------|---|---|---|
+| [Fasted breakfast](../../catalog/items/id-fasted-breakfast/) | skipped meal | nowhere | breakfast | 0 | 0 | 0 | 0 |
+| [Skipped lunch](../../catalog/items/id-skipped-lunch/) | skipped meal | nowhere | lunch | 0 | 0 | 0 | 0 |
+| [Pizza slice (supreme / veggie + meat)](../../catalog/items/id-pizza-slice-supreme/) | 1 slice | pending | dinner | 350 | 15 | 36 | 16 |

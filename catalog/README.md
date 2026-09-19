@@ -1,8 +1,6 @@
 # Product catalog
 
-Shared database of foods. Product photos and nutrition live **once** here; day logs only reference `catalog_id`.
-
-**89 items** · Machine-readable: [`index.json`](index.json)
+**90 items** · Machine-readable: [`index.json`](index.json)
 
 | Photo | Name | Brand | Barcode / ID | kcal/serving | Folder |
 |-------|------|-------|--------------|--------------|--------|
@@ -91,20 +89,8 @@ Shared database of foods. Product photos and nutrition live **once** here; day l
 | — | [Marketside Fresh Organic Bananas, Bunch](items/id-marketside-fresh-organic-bananas-bunch/) | Marketside / Walmart | `id-marketside-fresh-organic-bananas-bunch` | 105 | [`id-marketside-fresh-organic-bananas-bunch`](items/id-marketside-fresh-organic-bananas-bunch/) |
 | — | [Organic Marketside Fresh Baby Peeled Carrots, 1 lb Bag](items/id-organic-marketside-fresh-baby-peeled-carrots-1-lb/) | Marketside / Walmart | `id-organic-marketside-fresh-baby-peeled-carrots-1-lb` | 30 | [`id-organic-marketside-fresh-baby-peeled-carrots-1-lb`](items/id-organic-marketside-fresh-baby-peeled-carrots-1-lb/) |
 | — | [Parmalat Whole Milk, 32 fl oz (Shelf-Stable)](items/id-parmalat-whole-milk-32-fl-oz/) | Parmalat | `id-parmalat-whole-milk-32-fl-oz` | 150 | [`id-parmalat-whole-milk-32-fl-oz`](items/id-parmalat-whole-milk-32-fl-oz/) |
+| ![](items/id-pizza-slice-supreme/product.jpg) | [Pizza slice (supreme / veggie + meat)](items/id-pizza-slice-supreme/) | — | `id-pizza-slice-supreme` | 350 | [`id-pizza-slice-supreme`](items/id-pizza-slice-supreme/) |
 | — | [Skipped lunch](items/id-skipped-lunch/) | — | `id-skipped-lunch` | 0 | [`id-skipped-lunch`](items/id-skipped-lunch/) |
 | — | [Snickers, M&M's & Twix Fun Size Chocolate Candy Variety Pack, Sharing Size - 8.85 oz Bag](items/id-snickers-m-m-s-twix-fun-size-chocolate-candy-varie/) | Mars | `id-snickers-m-m-s-twix-fun-size-chocolate-candy-varie` | 80 | [`id-snickers-m-m-s-twix-fun-size-chocolate-candy-varie`](items/id-snickers-m-m-s-twix-fun-size-chocolate-candy-varie/) |
 | — | [SweeTARTS Variety Party Mix, Individually Wrapped Assorted Candy, 28.6 Ounce (75 Count)](items/id-sweetarts-variety-party-mix-individually-wrapped-a/) | SweeTARTS / Ferrara | `id-sweetarts-variety-party-mix-individually-wrapped-a` | 15 | [`id-sweetarts-variety-party-mix-individually-wrapped-a`](items/id-sweetarts-variety-party-mix-individually-wrapped-a/) |
 | — | [Teriyaki beef stick](items/id-teriyaki-beef-stick/) | Unknown (estimated as Jack Link's Teriyaki style) | `id-teriyaki-beef-stick` | 110 | [`id-teriyaki-beef-stick`](items/id-teriyaki-beef-stick/) |
-
-## Layout
-
-```
-catalog/
-  index.json
-  README.md
-  items/<catalog_id>/
-    item.json
-    product.jpg
-    barcode-label.jpg
-```
-

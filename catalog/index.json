@@ -1,6 +1,6 @@
 {
-  "description": "Shared product catalog. One folder per barcode (or id-<slug> when no barcode). Days reference catalog_id instead of copying images.",
-  "count": 89,
+  "description": "Shared product catalog.",
+  "count": 90,
   "items": [
     {
       "catalog_id": "013562000043",
@@ -851,6 +851,16 @@
       "photo": null,
       "calories_per_serving": 150,
       "path": "catalog/items/id-parmalat-whole-milk-32-fl-oz/"
+    },
+    {
+      "catalog_id": "id-pizza-slice-supreme",
+      "name": "Pizza slice (supreme / veggie + meat)",
+      "brand": null,
+      "barcode": null,
+      "has_product_photo": true,
+      "photo": "catalog/items/id-pizza-slice-supreme/product.jpg",
+      "calories_per_serving": 350,
+      "path": "catalog/items/id-pizza-slice-supreme/"
     },
     {
       "catalog_id": "id-skipped-lunch",

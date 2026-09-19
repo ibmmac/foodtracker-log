@@ -1,0 +1,20 @@
+{
+  "catalog_id": "id-pizza-slice-supreme",
+  "id": "pizza-slice-supreme",
+  "name": "Pizza slice (supreme / veggie + meat)",
+  "barcode": null,
+  "barcode_status": "no_barcode",
+  "serving_size": "1 slice (estimated)",
+  "nutrition_per_serving": {
+    "calories": 350,
+    "protein_g": 15,
+    "total_carbohydrate_g": 36,
+    "total_fat_g": 16,
+    "notes": "Visual estimate for thick-crust loaded slice"
+  },
+  "photo": "catalog/items/id-pizza-slice-supreme/product.jpg",
+  "photo_credit": {
+    "source": "user_photo",
+    "note": "Meal as served; no barcode"
+  }
+}
