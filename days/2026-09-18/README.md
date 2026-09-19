@@ -14,4 +14,4 @@
 |------|--------|----------|------|------|---|---|---|
 | [Fasted breakfast](../../catalog/items/id-fasted-breakfast/) | skipped meal | nowhere | breakfast | 0 | 0 | 0 | 0 |
 | [Skipped lunch](../../catalog/items/id-skipped-lunch/) | skipped meal | nowhere | lunch | 0 | 0 | 0 | 0 |
-| [Pizza slice (supreme / veggie + meat)](../../catalog/items/id-pizza-slice-supreme/) | 1 slice | pending | dinner | 350 | 15 | 36 | 16 |
+| [Pizza slice (supreme / veggie + meat)](../../catalog/items/id-pizza-slice-supreme/) | 1 slice | other (Parents house) | dinner | 350 | 15 | 36 | 16 |

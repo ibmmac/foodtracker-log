@@ -59,8 +59,7 @@
       "amount_eaten": "1 slice",
       "servings_eaten": 1,
       "meal": "dinner",
-      "location": null,
-      "location_pending": true,
+      "location": "other",
       "logged": {
         "calories": 350,
         "protein_g": 15,
@@ -70,7 +69,8 @@
       "source": "visual_estimate",
       "notes": "Thick crust with peppers, mushrooms, onion, cured meat, heavy cheese",
       "time": "21:38",
-      "timestamp": "2026-09-18T21:38:47-04:00"
+      "timestamp": "2026-09-18T21:38:47-04:00",
+      "location_note": "Parents house"
     }
   ]
 }
