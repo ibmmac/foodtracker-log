@@ -1,6 +1,6 @@
 # Product catalog
 
-**91 items** · [`index.json`](index.json)
+**94 items** · [`index.json`](index.json)
 
 | Photo | Name | Brand | Barcode / ID | kcal/serving | Folder |
 |-------|------|-------|--------------|--------------|--------|
@@ -57,6 +57,8 @@
 | ![](items/id-cannoli/product.jpg) | [Cannoli](items/id-cannoli/) | — | `id-cannoli` | 280 | [`id-cannoli`](items/id-cannoli/) |
 | — | [Chobani Low-Fat Vanilla Greek Yogurt Mixed Berry On The Bottom, Hero Batch 5.3oz 4PK](items/id-chobani-low-fat-vanilla-greek-yogurt-mixed-berry-o/) | Chobani | `id-chobani-low-fat-vanilla-greek-yogurt-mixed-berry-o` | 140 | [`id-chobani-low-fat-vanilla-greek-yogurt-mixed-berry-o`](items/id-chobani-low-fat-vanilla-greek-yogurt-mixed-berry-o/) |
 | — | [Chobani Non-Fat Greek Yogurt Key Lime, 4-Pack Cups](items/id-chobani-nonfat-greek-key-lime/) | Chobani | `id-chobani-nonfat-greek-key-lime` | 120 | [`id-chobani-nonfat-greek-key-lime`](items/id-chobani-nonfat-greek-key-lime/) |
+| — | [Coffee with milk (no sugar)](items/id-coffee-with-milk/) | — | `id-coffee-with-milk` | 45 | [`id-coffee-with-milk`](items/id-coffee-with-milk/) |
+| — | [Egg and cheese omelet](items/id-egg-cheese-omelet/) | — | `id-egg-cheese-omelet` | 350 | [`id-egg-cheese-omelet`](items/id-egg-cheese-omelet/) |
 | — | [Fasted breakfast](items/id-fasted-breakfast/) | — | `id-fasted-breakfast` | 0 | [`id-fasted-breakfast`](items/id-fasted-breakfast/) |
 | — | [FESTIVE Ground Turkey, Frozen, 1 lb Roll](items/id-festive-ground-turkey-frozen-1-lb-roll/) | Festive | `id-festive-ground-turkey-frozen-1-lb-roll` | 200 | [`id-festive-ground-turkey-frozen-1-lb-roll`](items/id-festive-ground-turkey-frozen-1-lb-roll/) |
 | — | [Fresh Cucumber, Each](items/id-fresh-cucumber-each/) | Fresh | `id-fresh-cucumber-each` | 45 | [`id-fresh-cucumber-each`](items/id-fresh-cucumber-each/) |
@@ -88,6 +90,7 @@
 | — | [Kellogg's Breakfast Cereal, Kids Cereal, Family Breakfast, Variety Pack, 8.56oz Tray (8 Boxes)](items/id-kellogg-s-breakfast-cereal-kids-cereal-family-brea/) | Kellogg's | `id-kellogg-s-breakfast-cereal-kids-cereal-family-brea` | 110 | [`id-kellogg-s-breakfast-cereal-kids-cereal-family-brea`](items/id-kellogg-s-breakfast-cereal-kids-cereal-family-brea/) |
 | — | [Liquid I.V.® Orange Vanilla Dream Hydration Multiplier® Powdered Electrolyte Drink Mix, 6 Count Packets](items/id-liquid-i-v-orange-vanilla-dream-hydration-multipli/) | Liquid I.V. | `id-liquid-i-v-orange-vanilla-dream-hydration-multipli` | 45 | [`id-liquid-i-v-orange-vanilla-dream-hydration-multipli`](items/id-liquid-i-v-orange-vanilla-dream-hydration-multipli/) |
 | — | [Marketside Fresh Organic Bananas, Bunch](items/id-marketside-fresh-organic-bananas-bunch/) | Marketside / Walmart | `id-marketside-fresh-organic-bananas-bunch` | 105 | [`id-marketside-fresh-organic-bananas-bunch`](items/id-marketside-fresh-organic-bananas-bunch/) |
+| — | [Mini chocolate chip cookies](items/id-mini-choc-chip-cookies/) | — | `id-mini-choc-chip-cookies` | 50 | [`id-mini-choc-chip-cookies`](items/id-mini-choc-chip-cookies/) |
 | — | [Organic Marketside Fresh Baby Peeled Carrots, 1 lb Bag](items/id-organic-marketside-fresh-baby-peeled-carrots-1-lb/) | Marketside / Walmart | `id-organic-marketside-fresh-baby-peeled-carrots-1-lb` | 30 | [`id-organic-marketside-fresh-baby-peeled-carrots-1-lb`](items/id-organic-marketside-fresh-baby-peeled-carrots-1-lb/) |
 | — | [Parmalat Whole Milk, 32 fl oz (Shelf-Stable)](items/id-parmalat-whole-milk-32-fl-oz/) | Parmalat | `id-parmalat-whole-milk-32-fl-oz` | 150 | [`id-parmalat-whole-milk-32-fl-oz`](items/id-parmalat-whole-milk-32-fl-oz/) |
 | ![](items/id-pizza-slice-supreme/product.jpg) | [Pizza slice (supreme / veggie + meat)](items/id-pizza-slice-supreme/) | — | `id-pizza-slice-supreme` | 350 | [`id-pizza-slice-supreme`](items/id-pizza-slice-supreme/) |

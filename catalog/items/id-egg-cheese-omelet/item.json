@@ -1,0 +1,18 @@
+{
+  "catalog_id": "id-egg-cheese-omelet",
+  "id": "egg-cheese-omelet",
+  "name": "Egg and cheese omelet",
+  "barcode": null,
+  "barcode_status": "no_barcode",
+  "serving_size": "1 omelet (3 eggs + cheese)",
+  "nutrition_per_serving": {
+    "calories": 350,
+    "protein_g": 26,
+    "total_carbohydrate_g": 2,
+    "total_fat_g": 26,
+    "notes": "Estimate: 3 eggs + cheese + cooking fat"
+  },
+  "photo": null,
+  "photo_credit": null,
+  "notes": "Estimate: 3 eggs + cheese + cooking fat"
+}

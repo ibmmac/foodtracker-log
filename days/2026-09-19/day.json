@@ -1,0 +1,79 @@
+{
+  "date": "2026-09-19",
+  "timezone": "America/New_York",
+  "goal_kcal": 1500,
+  "entries": [
+    {
+      "catalog_id": "id-mini-choc-chip-cookies",
+      "catalog_path": "catalog/items/id-mini-choc-chip-cookies/",
+      "id": "mini-choc-chip-cookies",
+      "name": "Mini chocolate chip cookies",
+      "amount_eaten": "4 mini cookies",
+      "servings_eaten": 4,
+      "meal": "breakfast",
+      "location": null,
+      "location_pending": true,
+      "logged": {
+        "calories": 200,
+        "protein_g": 2.0,
+        "carbs_g": 28,
+        "fat_g": 10.0
+      },
+      "source": "estimate",
+      "notes": "Estimate ~50 kcal per mini cookie; no brand/photo",
+      "time": "09:48",
+      "timestamp": "2026-09-19T09:48:19-04:00"
+    },
+    {
+      "catalog_id": "id-egg-cheese-omelet",
+      "catalog_path": "catalog/items/id-egg-cheese-omelet/",
+      "id": "egg-cheese-omelet",
+      "name": "Egg and cheese omelet",
+      "amount_eaten": "1 omelet (3 eggs + cheese)",
+      "servings_eaten": 1,
+      "meal": "breakfast",
+      "location": null,
+      "location_pending": true,
+      "logged": {
+        "calories": 350,
+        "protein_g": 26,
+        "carbs_g": 2,
+        "fat_g": 26
+      },
+      "source": "estimate",
+      "notes": "Estimate: 3 eggs + cheese + cooking fat",
+      "time": "09:48",
+      "timestamp": "2026-09-19T09:48:19-04:00"
+    },
+    {
+      "catalog_id": "id-coffee-with-milk",
+      "catalog_path": "catalog/items/id-coffee-with-milk/",
+      "id": "coffee-with-milk",
+      "name": "Coffee with milk (no sugar)",
+      "amount_eaten": "1 cup",
+      "servings_eaten": 1,
+      "meal": "breakfast",
+      "location": null,
+      "location_pending": true,
+      "logged": {
+        "calories": 45,
+        "protein_g": 2,
+        "carbs_g": 3,
+        "fat_g": 2.5
+      },
+      "source": "estimate",
+      "notes": "Estimate: coffee + ~2 oz milk, no sugar",
+      "time": "09:48",
+      "timestamp": "2026-09-19T09:48:19-04:00"
+    }
+  ],
+  "totals": {
+    "calories": 595,
+    "protein_g": 30,
+    "carbs_g": 33,
+    "fat_g": 38.5,
+    "remaining_kcal": 905,
+    "percent_goal_remaining": 60.3,
+    "percent_goal_used": 39.7
+  }
+}

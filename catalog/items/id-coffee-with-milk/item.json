@@ -1,0 +1,18 @@
+{
+  "catalog_id": "id-coffee-with-milk",
+  "id": "coffee-with-milk",
+  "name": "Coffee with milk (no sugar)",
+  "barcode": null,
+  "barcode_status": "no_barcode",
+  "serving_size": "1 cup",
+  "nutrition_per_serving": {
+    "calories": 45,
+    "protein_g": 2,
+    "total_carbohydrate_g": 3,
+    "total_fat_g": 2.5,
+    "notes": "Estimate: coffee + ~2 oz milk, no sugar"
+  },
+  "photo": null,
+  "photo_credit": null,
+  "notes": "Estimate: coffee + ~2 oz milk, no sugar"
+}

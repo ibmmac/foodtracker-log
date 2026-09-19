@@ -1,6 +1,6 @@
 {
   "description": "Shared product catalog.",
-  "count": 91,
+  "count": 94,
   "items": [
     {
       "catalog_id": "013562000043",
@@ -533,6 +533,26 @@
       "path": "catalog/items/id-chobani-nonfat-greek-key-lime/"
     },
     {
+      "catalog_id": "id-coffee-with-milk",
+      "name": "Coffee with milk (no sugar)",
+      "brand": null,
+      "barcode": null,
+      "has_product_photo": false,
+      "photo": null,
+      "calories_per_serving": 45,
+      "path": "catalog/items/id-coffee-with-milk/"
+    },
+    {
+      "catalog_id": "id-egg-cheese-omelet",
+      "name": "Egg and cheese omelet",
+      "brand": null,
+      "barcode": null,
+      "has_product_photo": false,
+      "photo": null,
+      "calories_per_serving": 350,
+      "path": "catalog/items/id-egg-cheese-omelet/"
+    },
+    {
       "catalog_id": "id-fasted-breakfast",
       "name": "Fasted breakfast",
       "brand": null,
@@ -841,6 +861,16 @@
       "photo": null,
       "calories_per_serving": 105,
       "path": "catalog/items/id-marketside-fresh-organic-bananas-bunch/"
+    },
+    {
+      "catalog_id": "id-mini-choc-chip-cookies",
+      "name": "Mini chocolate chip cookies",
+      "brand": null,
+      "barcode": null,
+      "has_product_photo": false,
+      "photo": null,
+      "calories_per_serving": 50,
+      "path": "catalog/items/id-mini-choc-chip-cookies/"
     },
     {
       "catalog_id": "id-organic-marketside-fresh-baby-peeled-carrots-1-lb",
