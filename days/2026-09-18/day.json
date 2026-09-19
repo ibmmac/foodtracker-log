@@ -3,13 +3,13 @@
   "timezone": "America/New_York",
   "goal_kcal": 1500,
   "totals": {
-    "calories": 1000,
-    "protein_g": 40,
-    "carbs_g": 100,
-    "fat_g": 48,
-    "remaining_kcal": 500,
-    "percent_goal_remaining": 33.3,
-    "percent_goal_used": 66.7
+    "calories": 980,
+    "protein_g": 35,
+    "carbs_g": 102,
+    "fat_g": 47,
+    "remaining_kcal": 520,
+    "percent_goal_remaining": 34.7,
+    "percent_goal_used": 65.3
   },
   "entries": [
     {
@@ -73,23 +73,23 @@
       "location_note": "Parents house"
     },
     {
-      "catalog_id": "id-fried-rolled-item",
-      "catalog_path": "catalog/items/id-fried-rolled-item/",
-      "id": "fried-rolled-item",
-      "name": "Deep-fried rolled item (taco/chimichanga-style)",
-      "amount_eaten": "1 piece",
+      "catalog_id": "id-cannoli",
+      "catalog_path": "catalog/items/id-cannoli/",
+      "id": "cannoli",
+      "name": "Cannoli",
+      "amount_eaten": "1 cannoli",
       "servings_eaten": 1,
       "meal": "dinner",
       "location": "other",
       "location_note": "Parents house",
       "logged": {
-        "calories": 300,
-        "protein_g": 10,
-        "carbs_g": 28,
-        "fat_g": 16
+        "calories": 280,
+        "protein_g": 5,
+        "carbs_g": 30,
+        "fat_g": 15
       },
       "source": "visual_estimate",
-      "notes": "Deep-fried golden roll; same dinner as pizza",
+      "notes": "Corrected from fried roll ID \u2014 user confirmed cannoli",
       "time": "22:21",
       "timestamp": "2026-09-18T22:21:13-04:00"
     }

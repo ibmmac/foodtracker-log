@@ -503,6 +503,16 @@
       "path": "catalog/items/888670053638/"
     },
     {
+      "catalog_id": "id-cannoli",
+      "name": "Cannoli",
+      "brand": null,
+      "barcode": null,
+      "has_product_photo": true,
+      "photo": "catalog/items/id-cannoli/product.jpg",
+      "calories_per_serving": 280,
+      "path": "catalog/items/id-cannoli/"
+    },
+    {
       "catalog_id": "id-chobani-low-fat-vanilla-greek-yogurt-mixed-berry-o",
       "name": "Chobani Low-Fat Vanilla Greek Yogurt Mixed Berry On The Bottom, Hero Batch 5.3oz 4PK",
       "brand": "Chobani",
@@ -651,16 +661,6 @@
       "photo": null,
       "calories_per_serving": 15,
       "path": "catalog/items/id-fresh-whole-white-mushrooms/"
-    },
-    {
-      "catalog_id": "id-fried-rolled-item",
-      "name": "Deep-fried rolled item (taco/chimichanga-style)",
-      "brand": null,
-      "barcode": null,
-      "has_product_photo": true,
-      "photo": "catalog/items/id-fried-rolled-item/product.jpg",
-      "calories_per_serving": 300,
-      "path": "catalog/items/id-fried-rolled-item/"
     },
     {
       "catalog_id": "id-great-value-100-pure-beef-burgers-85-lean-15-fat-3",

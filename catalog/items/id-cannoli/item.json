@@ -1,0 +1,20 @@
+{
+  "catalog_id": "id-cannoli",
+  "id": "cannoli",
+  "name": "Cannoli",
+  "barcode": null,
+  "barcode_status": "no_barcode",
+  "serving_size": "1 cannoli (estimated medium)",
+  "nutrition_per_serving": {
+    "calories": 280,
+    "protein_g": 5,
+    "total_carbohydrate_g": 30,
+    "total_fat_g": 15,
+    "notes": "Visual estimate for one medium filled cannoli; fried shell + sweet ricotta-style filling"
+  },
+  "photo": "catalog/items/id-cannoli/product.jpg",
+  "photo_credit": {
+    "source": "user_photo",
+    "note": "Meal as served; no barcode"
+  }
+}
