@@ -11,8 +11,7 @@
       "amount_eaten": "4 mini cookies",
       "servings_eaten": 4,
       "meal": "breakfast",
-      "location": null,
-      "location_pending": true,
+      "location": "other",
       "logged": {
         "calories": 200,
         "protein_g": 2.0,
@@ -22,7 +21,8 @@
       "source": "estimate",
       "notes": "Estimate ~50 kcal per mini cookie; no brand/photo",
       "time": "09:48",
-      "timestamp": "2026-09-19T09:48:19-04:00"
+      "timestamp": "2026-09-19T09:48:19-04:00",
+      "location_note": "Joe's house"
     },
     {
       "catalog_id": "id-egg-cheese-omelet",
@@ -32,8 +32,7 @@
       "amount_eaten": "1 omelet (3 eggs + cheese)",
       "servings_eaten": 1,
       "meal": "breakfast",
-      "location": null,
-      "location_pending": true,
+      "location": "other",
       "logged": {
         "calories": 350,
         "protein_g": 26,
@@ -43,7 +42,8 @@
       "source": "estimate",
       "notes": "Estimate: 3 eggs + cheese + cooking fat",
       "time": "09:48",
-      "timestamp": "2026-09-19T09:48:19-04:00"
+      "timestamp": "2026-09-19T09:48:19-04:00",
+      "location_note": "Joe's house"
     },
     {
       "catalog_id": "id-coffee-with-milk",
@@ -53,8 +53,7 @@
       "amount_eaten": "1 cup",
       "servings_eaten": 1,
       "meal": "breakfast",
-      "location": null,
-      "location_pending": true,
+      "location": "other",
       "logged": {
         "calories": 45,
         "protein_g": 2,
@@ -64,7 +63,8 @@
       "source": "estimate",
       "notes": "Estimate: coffee + ~2 oz milk, no sugar",
       "time": "09:48",
-      "timestamp": "2026-09-19T09:48:19-04:00"
+      "timestamp": "2026-09-19T09:48:19-04:00",
+      "location_note": "Joe's house"
     }
   ],
   "totals": {
