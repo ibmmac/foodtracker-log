@@ -1,6 +1,6 @@
 {
   "description": "Shared product catalog.",
-  "count": 90,
+  "count": 91,
   "items": [
     {
       "catalog_id": "013562000043",
@@ -651,6 +651,16 @@
       "photo": null,
       "calories_per_serving": 15,
       "path": "catalog/items/id-fresh-whole-white-mushrooms/"
+    },
+    {
+      "catalog_id": "id-fried-rolled-item",
+      "name": "Deep-fried rolled item (taco/chimichanga-style)",
+      "brand": null,
+      "barcode": null,
+      "has_product_photo": true,
+      "photo": "catalog/items/id-fried-rolled-item/product.jpg",
+      "calories_per_serving": 300,
+      "path": "catalog/items/id-fried-rolled-item/"
     },
     {
       "catalog_id": "id-great-value-100-pure-beef-burgers-85-lean-15-fat-3",

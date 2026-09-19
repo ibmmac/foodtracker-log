@@ -1,6 +1,6 @@
 # Product catalog
 
-**90 items** · Machine-readable: [`index.json`](index.json)
+**91 items** · [`index.json`](index.json)
 
 | Photo | Name | Brand | Barcode / ID | kcal/serving | Folder |
 |-------|------|-------|--------------|--------------|--------|
@@ -69,6 +69,7 @@
 | — | [Fresh USDA Organic Strawberries, 1 lb Container](items/id-fresh-usda-organic-strawberries-1-lb-container/) | Fresh | `id-fresh-usda-organic-strawberries-1-lb-container` | 46 | [`id-fresh-usda-organic-strawberries-1-lb-container`](items/id-fresh-usda-organic-strawberries-1-lb-container/) |
 | — | [Fresh Whole Portabella Mushroom Caps, 6 oz](items/id-fresh-whole-portabella-mushroom-caps-6-oz/) | Fresh | `id-fresh-whole-portabella-mushroom-caps-6-oz` | 18 | [`id-fresh-whole-portabella-mushroom-caps-6-oz`](items/id-fresh-whole-portabella-mushroom-caps-6-oz/) |
 | — | [Fresh Whole White Mushrooms, 16 oz](items/id-fresh-whole-white-mushrooms/) | Monterey | `id-fresh-whole-white-mushrooms` | 15 | [`id-fresh-whole-white-mushrooms`](items/id-fresh-whole-white-mushrooms/) |
+| ![](items/id-fried-rolled-item/product.jpg) | [Deep-fried rolled item (taco/chimichanga-style)](items/id-fried-rolled-item/) | — | `id-fried-rolled-item` | 300 | [`id-fried-rolled-item`](items/id-fried-rolled-item/) |
 | — | [Great Value 100% Pure Beef Burgers, 85% Lean/15% Fat, 3 lbs, 12 Count (Frozen)](items/id-great-value-100-pure-beef-burgers-85-lean-15-fat-3/) | Great Value / Walmart | `id-great-value-100-pure-beef-burgers-85-lean-15-fat-3` | 280 | [`id-great-value-100-pure-beef-burgers-85-lean-15-fat-3`](items/id-great-value-100-pure-beef-burgers-85-lean-15-fat-3/) |
 | — | [Great Value Canned Pineapple Chunks in Pineapple Juice, 20 oz](items/id-great-value-canned-pineapple-chunks-in-pineapple-j/) | Great Value / Walmart | `id-great-value-canned-pineapple-chunks-in-pineapple-j` | 70 | [`id-great-value-canned-pineapple-chunks-in-pineapple-j`](items/id-great-value-canned-pineapple-chunks-in-pineapple-j/) |
 | — | [Great Value Dry Roasted and Unsalted Peanuts, 16 oz, Jar](items/id-great-value-dry-roasted-and-unsalted-peanuts-16-oz/) | Great Value / Walmart | `id-great-value-dry-roasted-and-unsalted-peanuts-16-oz` | 170 | [`id-great-value-dry-roasted-and-unsalted-peanuts-16-oz`](items/id-great-value-dry-roasted-and-unsalted-peanuts-16-oz/) |

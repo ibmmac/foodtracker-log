@@ -3,13 +3,13 @@
   "timezone": "America/New_York",
   "goal_kcal": 1500,
   "totals": {
-    "calories": 700,
-    "protein_g": 30,
-    "carbs_g": 72,
-    "fat_g": 32,
-    "remaining_kcal": 800,
-    "percent_goal_remaining": 53.3,
-    "percent_goal_used": 46.7
+    "calories": 1000,
+    "protein_g": 40,
+    "carbs_g": 100,
+    "fat_g": 48,
+    "remaining_kcal": 500,
+    "percent_goal_remaining": 33.3,
+    "percent_goal_used": 66.7
   },
   "entries": [
     {
@@ -71,6 +71,27 @@
       "time": "21:38",
       "timestamp": "2026-09-18T21:38:47-04:00",
       "location_note": "Parents house"
+    },
+    {
+      "catalog_id": "id-fried-rolled-item",
+      "catalog_path": "catalog/items/id-fried-rolled-item/",
+      "id": "fried-rolled-item",
+      "name": "Deep-fried rolled item (taco/chimichanga-style)",
+      "amount_eaten": "1 piece",
+      "servings_eaten": 1,
+      "meal": "dinner",
+      "location": "other",
+      "location_note": "Parents house",
+      "logged": {
+        "calories": 300,
+        "protein_g": 10,
+        "carbs_g": 28,
+        "fat_g": 16
+      },
+      "source": "visual_estimate",
+      "notes": "Deep-fried golden roll; same dinner as pizza",
+      "time": "22:21",
+      "timestamp": "2026-09-18T22:21:13-04:00"
     }
   ]
 }

@@ -1,0 +1,20 @@
+{
+  "catalog_id": "id-fried-rolled-item",
+  "id": "fried-rolled-item",
+  "name": "Deep-fried rolled item (taco/chimichanga-style)",
+  "barcode": null,
+  "barcode_status": "no_barcode",
+  "serving_size": "1 piece (estimated)",
+  "nutrition_per_serving": {
+    "calories": 300,
+    "protein_g": 10,
+    "total_carbohydrate_g": 28,
+    "total_fat_g": 16,
+    "notes": "Visual estimate for one medium deep-fried rolled savory; confirm if egg roll, taquito, or chimichanga"
+  },
+  "photo": "catalog/items/id-fried-rolled-item/product.jpg",
+  "photo_credit": {
+    "source": "user_photo",
+    "note": "Meal as served; no barcode"
+  }
+}
