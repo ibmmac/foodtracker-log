@@ -1,0 +1,17 @@
+{
+  "catalog_id": "id-mcintosh-apple",
+  "id": "mcintosh-apple",
+  "name": "McIntosh apple",
+  "barcode": null,
+  "barcode_status": "no_barcode",
+  "serving_size": "1 medium apple",
+  "nutrition_per_serving": {
+    "calories": 95,
+    "protein_g": 0.5,
+    "total_carbohydrate_g": 25,
+    "total_fat_g": 0.3,
+    "notes": "USDA medium raw apple with skin"
+  },
+  "photo": null,
+  "notes": "USDA medium apple with skin (~182g)"
+}

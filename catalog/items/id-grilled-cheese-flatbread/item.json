@@ -1,0 +1,17 @@
+{
+  "catalog_id": "id-grilled-cheese-flatbread",
+  "id": "grilled-cheese-flatbread",
+  "name": "Grilled cheese flatbread",
+  "barcode": null,
+  "barcode_status": "no_barcode",
+  "serving_size": "1 flatbread",
+  "nutrition_per_serving": {
+    "calories": 380,
+    "protein_g": 16,
+    "total_carbohydrate_g": 35,
+    "total_fat_g": 20,
+    "notes": "Visual/recipe estimate for one grilled cheese flatbread"
+  },
+  "photo": null,
+  "notes": "Estimate: flatbread + cheese + butter/oil for grilling"
+}

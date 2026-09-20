@@ -1,6 +1,6 @@
 # Product catalog
 
-**95 items** · [`index.json`](index.json)
+**98 items** · [`index.json`](index.json)
 
 | Photo | Name | Brand | Barcode / ID | kcal/serving | Folder |
 |-------|------|-------|--------------|--------------|--------|
@@ -54,6 +54,7 @@
 | ![](items/888670012864/product.jpg) | [Wellsley Farms Homestyle Potato Salad](items/888670012864/) | Wellsley Farms / BJ's Wholesale Club | `888670012864` | 190 | [`888670012864`](items/888670012864/) |
 | ![](items/888670012901/product.jpg) | [Wellsley Farms Aegean Greek Pasta](items/888670012901/) | Wellsley Farms / BJ's Wholesale Club | `888670012901` | 390 | [`888670012901`](items/888670012901/) |
 | ![](items/888670053638/product.jpg) | [Wellsley Farms Gala Apples](items/888670053638/) | Wellsley Farms / BJ's Wholesale Club | `888670053638` | 95 | [`888670053638`](items/888670053638/) |
+| — | [Bunches of oats (cereal serving)](items/id-bunches-of-oats/) | — | `id-bunches-of-oats` | 160 | [`id-bunches-of-oats`](items/id-bunches-of-oats/) |
 | ![](items/id-cannoli/product.jpg) | [Cannoli](items/id-cannoli/) | — | `id-cannoli` | 280 | [`id-cannoli`](items/id-cannoli/) |
 | — | [Chobani Low-Fat Vanilla Greek Yogurt Mixed Berry On The Bottom, Hero Batch 5.3oz 4PK](items/id-chobani-low-fat-vanilla-greek-yogurt-mixed-berry-o/) | Chobani | `id-chobani-low-fat-vanilla-greek-yogurt-mixed-berry-o` | 140 | [`id-chobani-low-fat-vanilla-greek-yogurt-mixed-berry-o`](items/id-chobani-low-fat-vanilla-greek-yogurt-mixed-berry-o/) |
 | — | [Chobani Non-Fat Greek Yogurt Key Lime, 4-Pack Cups](items/id-chobani-nonfat-greek-key-lime/) | Chobani | `id-chobani-nonfat-greek-key-lime` | 120 | [`id-chobani-nonfat-greek-key-lime`](items/id-chobani-nonfat-greek-key-lime/) |
@@ -87,10 +88,12 @@
 | — | [Great Value Swiss Deli Style Sliced Cheese, 8 oz Package 12 Slices](items/id-great-value-swiss-deli-style-sliced-cheese-8-oz-pa/) | Great Value / Walmart | `id-great-value-swiss-deli-style-sliced-cheese-8-oz-pa` | 70 | [`id-great-value-swiss-deli-style-sliced-cheese-8-oz-pa`](items/id-great-value-swiss-deli-style-sliced-cheese-8-oz-pa/) |
 | — | [Great Value Turkey Pepperoni Slices, 5 oz](items/id-great-value-turkey-pepperoni-slices-5-oz/) | Great Value / Walmart | `id-great-value-turkey-pepperoni-slices-5-oz` | 70 | [`id-great-value-turkey-pepperoni-slices-5-oz`](items/id-great-value-turkey-pepperoni-slices-5-oz/) |
 | — | [Great Value Unsweetened Applesauce, 50 oz](items/id-great-value-unsweetened-applesauce-50oz/) | Great Value / Walmart | `id-great-value-unsweetened-applesauce-50oz` | 50 | [`id-great-value-unsweetened-applesauce-50oz`](items/id-great-value-unsweetened-applesauce-50oz/) |
+| — | [Grilled cheese flatbread](items/id-grilled-cheese-flatbread/) | — | `id-grilled-cheese-flatbread` | 380 | [`id-grilled-cheese-flatbread`](items/id-grilled-cheese-flatbread/) |
 | — | [JENNIE-O Turkey Hot Dogs, *40% Less Fat (8 Turkey Franks), Refrigerated, 16 oz Plastic Package](items/id-jennie-o-turkey-hot-dogs-40-less-fat-refrigerated/) | Jennie-O | `id-jennie-o-turkey-hot-dogs-40-less-fat-refrigerated` | 110 | [`id-jennie-o-turkey-hot-dogs-40-less-fat-refrigerated`](items/id-jennie-o-turkey-hot-dogs-40-less-fat-refrigerated/) |
 | — | [Kellogg's Breakfast Cereal, Kids Cereal, Family Breakfast, Variety Pack, 8.56oz Tray (8 Boxes)](items/id-kellogg-s-breakfast-cereal-kids-cereal-family-brea/) | Kellogg's | `id-kellogg-s-breakfast-cereal-kids-cereal-family-brea` | 110 | [`id-kellogg-s-breakfast-cereal-kids-cereal-family-brea`](items/id-kellogg-s-breakfast-cereal-kids-cereal-family-brea/) |
 | — | [Liquid I.V.® Orange Vanilla Dream Hydration Multiplier® Powdered Electrolyte Drink Mix, 6 Count Packets](items/id-liquid-i-v-orange-vanilla-dream-hydration-multipli/) | Liquid I.V. | `id-liquid-i-v-orange-vanilla-dream-hydration-multipli` | 45 | [`id-liquid-i-v-orange-vanilla-dream-hydration-multipli`](items/id-liquid-i-v-orange-vanilla-dream-hydration-multipli/) |
 | — | [Marketside Fresh Organic Bananas, Bunch](items/id-marketside-fresh-organic-bananas-bunch/) | Marketside / Walmart | `id-marketside-fresh-organic-bananas-bunch` | 105 | [`id-marketside-fresh-organic-bananas-bunch`](items/id-marketside-fresh-organic-bananas-bunch/) |
+| — | [McIntosh apple](items/id-mcintosh-apple/) | — | `id-mcintosh-apple` | 95 | [`id-mcintosh-apple`](items/id-mcintosh-apple/) |
 | — | [Mini chocolate chip cookies](items/id-mini-choc-chip-cookies/) | — | `id-mini-choc-chip-cookies` | 50 | [`id-mini-choc-chip-cookies`](items/id-mini-choc-chip-cookies/) |
 | — | [Organic Marketside Fresh Baby Peeled Carrots, 1 lb Bag](items/id-organic-marketside-fresh-baby-peeled-carrots-1-lb/) | Marketside / Walmart | `id-organic-marketside-fresh-baby-peeled-carrots-1-lb` | 30 | [`id-organic-marketside-fresh-baby-peeled-carrots-1-lb`](items/id-organic-marketside-fresh-baby-peeled-carrots-1-lb/) |
 | — | [Parmalat Whole Milk, 32 fl oz (Shelf-Stable)](items/id-parmalat-whole-milk-32-fl-oz/) | Parmalat | `id-parmalat-whole-milk-32-fl-oz` | 150 | [`id-parmalat-whole-milk-32-fl-oz`](items/id-parmalat-whole-milk-32-fl-oz/) |

@@ -107,15 +107,75 @@
       "time": null,
       "timestamp": "2026-09-20T08:52:05-04:00",
       "logged_late": true
+    },
+    {
+      "catalog_id": "id-bunches-of-oats",
+      "catalog_path": "catalog/items/id-bunches-of-oats/",
+      "id": "bunches-of-oats",
+      "name": "Bunches of oats (cereal serving)",
+      "amount_eaten": "1 serving",
+      "servings_eaten": 1,
+      "meal": "dinner",
+      "location": "home",
+      "logged": {
+        "calories": 160,
+        "protein_g": 3,
+        "carbs_g": 33,
+        "fat_g": 2
+      },
+      "source": "estimate",
+      "notes": "Estimate for 1 serving oats cereal (Honey Bunches of Oats\u2013style); no milk mentioned (late log)",
+      "timestamp": "2026-09-20T09:07:12-04:00",
+      "logged_late": true
+    },
+    {
+      "catalog_id": "id-grilled-cheese-flatbread",
+      "catalog_path": "catalog/items/id-grilled-cheese-flatbread/",
+      "id": "grilled-cheese-flatbread",
+      "name": "Grilled cheese flatbread",
+      "amount_eaten": "1 flatbread",
+      "servings_eaten": 1,
+      "meal": "dinner",
+      "location": "home",
+      "logged": {
+        "calories": 380,
+        "protein_g": 16,
+        "carbs_g": 35,
+        "fat_g": 20
+      },
+      "source": "estimate",
+      "notes": "Estimate: flatbread + cheese + butter/oil for grilling (late log)",
+      "timestamp": "2026-09-20T09:07:12-04:00",
+      "logged_late": true
+    },
+    {
+      "catalog_id": "id-mcintosh-apple",
+      "catalog_path": "catalog/items/id-mcintosh-apple/",
+      "id": "mcintosh-apple",
+      "name": "McIntosh apple",
+      "amount_eaten": "1 medium apple",
+      "servings_eaten": 1,
+      "meal": "dinner",
+      "location": "home",
+      "logged": {
+        "calories": 95,
+        "protein_g": 0.5,
+        "carbs_g": 25,
+        "fat_g": 0.3
+      },
+      "source": "estimate",
+      "notes": "USDA medium apple with skin (~182g) (late log)",
+      "timestamp": "2026-09-20T09:07:12-04:00",
+      "logged_late": true
     }
   ],
   "totals": {
-    "calories": 815,
-    "protein_g": 31.3,
-    "carbs_g": 77,
-    "fat_g": 43.8,
-    "remaining_kcal": 685,
-    "percent_goal_remaining": 45.7,
-    "percent_goal_used": 54.3
+    "calories": 1450,
+    "protein_g": 50.8,
+    "carbs_g": 170,
+    "fat_g": 66.1,
+    "remaining_kcal": 50,
+    "percent_goal_remaining": 3.3,
+    "percent_goal_used": 96.7
   }
 }

@@ -1,6 +1,6 @@
 {
   "description": "Shared product catalog.",
-  "count": 95,
+  "count": 98,
   "items": [
     {
       "catalog_id": "013562000043",
@@ -503,6 +503,16 @@
       "path": "catalog/items/888670053638/"
     },
     {
+      "catalog_id": "id-bunches-of-oats",
+      "name": "Bunches of oats (cereal serving)",
+      "brand": null,
+      "barcode": null,
+      "has_product_photo": false,
+      "photo": null,
+      "calories_per_serving": 160,
+      "path": "catalog/items/id-bunches-of-oats/"
+    },
+    {
       "catalog_id": "id-cannoli",
       "name": "Cannoli",
       "brand": null,
@@ -833,6 +843,16 @@
       "path": "catalog/items/id-great-value-unsweetened-applesauce-50oz/"
     },
     {
+      "catalog_id": "id-grilled-cheese-flatbread",
+      "name": "Grilled cheese flatbread",
+      "brand": null,
+      "barcode": null,
+      "has_product_photo": false,
+      "photo": null,
+      "calories_per_serving": 380,
+      "path": "catalog/items/id-grilled-cheese-flatbread/"
+    },
+    {
       "catalog_id": "id-jennie-o-turkey-hot-dogs-40-less-fat-refrigerated",
       "name": "JENNIE-O Turkey Hot Dogs, *40% Less Fat (8 Turkey Franks), Refrigerated, 16 oz Plastic Package",
       "brand": "Jennie-O",
@@ -871,6 +891,16 @@
       "photo": null,
       "calories_per_serving": 105,
       "path": "catalog/items/id-marketside-fresh-organic-bananas-bunch/"
+    },
+    {
+      "catalog_id": "id-mcintosh-apple",
+      "name": "McIntosh apple",
+      "brand": null,
+      "barcode": null,
+      "has_product_photo": false,
+      "photo": null,
+      "calories_per_serving": 95,
+      "path": "catalog/items/id-mcintosh-apple/"
     },
     {
       "catalog_id": "id-mini-choc-chip-cookies",
