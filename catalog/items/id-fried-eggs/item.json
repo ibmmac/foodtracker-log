@@ -1,0 +1,17 @@
+{
+  "catalog_id": "id-fried-eggs",
+  "id": "fried-eggs",
+  "name": "Fried eggs",
+  "barcode": null,
+  "barcode_status": "no_barcode",
+  "serving_size": "1 fried egg",
+  "nutrition_per_serving": {
+    "calories": 90,
+    "protein_g": 6,
+    "total_carbohydrate_g": 0.3,
+    "total_fat_g": 7,
+    "notes": "1 large egg fried in a little oil/butter"
+  },
+  "photo": null,
+  "notes": "3 fried eggs estimate including cooking fat"
+}

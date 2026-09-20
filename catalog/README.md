@@ -1,6 +1,6 @@
 # Product catalog
 
-**98 items** · [`index.json`](index.json)
+**100 items** · [`index.json`](index.json)
 
 | Photo | Name | Brand | Barcode / ID | kcal/serving | Folder |
 |-------|------|-------|--------------|--------------|--------|
@@ -62,6 +62,7 @@
 | — | [Egg and cheese omelet](items/id-egg-cheese-omelet/) | — | `id-egg-cheese-omelet` | 350 | [`id-egg-cheese-omelet`](items/id-egg-cheese-omelet/) |
 | — | [Fasted breakfast](items/id-fasted-breakfast/) | — | `id-fasted-breakfast` | 0 | [`id-fasted-breakfast`](items/id-fasted-breakfast/) |
 | — | [FESTIVE Ground Turkey, Frozen, 1 lb Roll](items/id-festive-ground-turkey-frozen-1-lb-roll/) | Festive | `id-festive-ground-turkey-frozen-1-lb-roll` | 200 | [`id-festive-ground-turkey-frozen-1-lb-roll`](items/id-festive-ground-turkey-frozen-1-lb-roll/) |
+| — | [French toast with real maple syrup](items/id-french-toast-maple/) | — | `id-french-toast-maple` | 200 | [`id-french-toast-maple`](items/id-french-toast-maple/) |
 | — | [Fresh Cucumber, Each](items/id-fresh-cucumber-each/) | Fresh | `id-fresh-cucumber-each` | 45 | [`id-fresh-cucumber-each`](items/id-fresh-cucumber-each/) |
 | — | [Fresh Gala Apples, 3 lb Bag](items/id-fresh-gala-apples-3-lb-bag/) | Fresh | `id-fresh-gala-apples-3-lb-bag` | 95 | [`id-fresh-gala-apples-3-lb-bag`](items/id-fresh-gala-apples-3-lb-bag/) |
 | — | [Fresh Hass Avocados, Each](items/id-fresh-hass-avocados-each/) | Fresh | `id-fresh-hass-avocados-each` | 227 | [`id-fresh-hass-avocados-each`](items/id-fresh-hass-avocados-each/) |
@@ -73,6 +74,7 @@
 | — | [Fresh USDA Organic Strawberries, 1 lb Container](items/id-fresh-usda-organic-strawberries-1-lb-container/) | Fresh | `id-fresh-usda-organic-strawberries-1-lb-container` | 46 | [`id-fresh-usda-organic-strawberries-1-lb-container`](items/id-fresh-usda-organic-strawberries-1-lb-container/) |
 | — | [Fresh Whole Portabella Mushroom Caps, 6 oz](items/id-fresh-whole-portabella-mushroom-caps-6-oz/) | Fresh | `id-fresh-whole-portabella-mushroom-caps-6-oz` | 18 | [`id-fresh-whole-portabella-mushroom-caps-6-oz`](items/id-fresh-whole-portabella-mushroom-caps-6-oz/) |
 | — | [Fresh Whole White Mushrooms, 16 oz](items/id-fresh-whole-white-mushrooms/) | Monterey | `id-fresh-whole-white-mushrooms` | 15 | [`id-fresh-whole-white-mushrooms`](items/id-fresh-whole-white-mushrooms/) |
+| — | [Fried eggs](items/id-fried-eggs/) | — | `id-fried-eggs` | 90 | [`id-fried-eggs`](items/id-fried-eggs/) |
 | — | [Frozen apple cider](items/id-frozen-apple-cider/) | — | `id-frozen-apple-cider` | 120 | [`id-frozen-apple-cider`](items/id-frozen-apple-cider/) |
 | — | [Great Value 100% Pure Beef Burgers, 85% Lean/15% Fat, 3 lbs, 12 Count (Frozen)](items/id-great-value-100-pure-beef-burgers-85-lean-15-fat-3/) | Great Value / Walmart | `id-great-value-100-pure-beef-burgers-85-lean-15-fat-3` | 280 | [`id-great-value-100-pure-beef-burgers-85-lean-15-fat-3`](items/id-great-value-100-pure-beef-burgers-85-lean-15-fat-3/) |
 | — | [Great Value Canned Pineapple Chunks in Pineapple Juice, 20 oz](items/id-great-value-canned-pineapple-chunks-in-pineapple-j/) | Great Value / Walmart | `id-great-value-canned-pineapple-chunks-in-pineapple-j` | 70 | [`id-great-value-canned-pineapple-chunks-in-pineapple-j`](items/id-great-value-canned-pineapple-chunks-in-pineapple-j/) |

@@ -1,0 +1,58 @@
+{
+  "date": "2026-09-20",
+  "timezone": "America/New_York",
+  "goal_kcal": 1500,
+  "entries": [
+    {
+      "catalog_id": "id-fried-eggs",
+      "catalog_path": "catalog/items/id-fried-eggs/",
+      "id": "fried-eggs",
+      "name": "Fried eggs",
+      "amount_eaten": "3 eggs",
+      "servings_eaten": 3,
+      "meal": "breakfast",
+      "location": "other",
+      "location_note": "Joe's house",
+      "logged": {
+        "calories": 270,
+        "protein_g": 18,
+        "carbs_g": 1,
+        "fat_g": 21
+      },
+      "source": "estimate",
+      "notes": "3 fried eggs estimate including cooking fat",
+      "time": "09:09",
+      "timestamp": "2026-09-20T09:09:07-04:00"
+    },
+    {
+      "catalog_id": "id-french-toast-maple",
+      "catalog_path": "catalog/items/id-french-toast-maple/",
+      "id": "french-toast-maple",
+      "name": "French toast with real maple syrup",
+      "amount_eaten": "3 slices + maple syrup",
+      "servings_eaten": 3,
+      "meal": "breakfast",
+      "location": "other",
+      "location_note": "Joe's house",
+      "logged": {
+        "calories": 600,
+        "protein_g": 18,
+        "carbs_g": 78,
+        "fat_g": 24
+      },
+      "source": "estimate",
+      "notes": "3 slices French toast + real maple syrup (~200 kcal/slice with syrup)",
+      "time": "09:09",
+      "timestamp": "2026-09-20T09:09:07-04:00"
+    }
+  ],
+  "totals": {
+    "calories": 870,
+    "protein_g": 36,
+    "carbs_g": 79,
+    "fat_g": 45,
+    "remaining_kcal": 630,
+    "percent_goal_remaining": 42.0,
+    "percent_goal_used": 58.0
+  }
+}

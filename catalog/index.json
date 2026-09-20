@@ -1,6 +1,6 @@
 {
   "description": "Shared product catalog.",
-  "count": 98,
+  "count": 100,
   "items": [
     {
       "catalog_id": "013562000043",
@@ -583,6 +583,16 @@
       "path": "catalog/items/id-festive-ground-turkey-frozen-1-lb-roll/"
     },
     {
+      "catalog_id": "id-french-toast-maple",
+      "name": "French toast with real maple syrup",
+      "brand": null,
+      "barcode": null,
+      "has_product_photo": false,
+      "photo": null,
+      "calories_per_serving": 200,
+      "path": "catalog/items/id-french-toast-maple/"
+    },
+    {
       "catalog_id": "id-fresh-cucumber-each",
       "name": "Fresh Cucumber, Each",
       "brand": "Fresh",
@@ -691,6 +701,16 @@
       "photo": null,
       "calories_per_serving": 15,
       "path": "catalog/items/id-fresh-whole-white-mushrooms/"
+    },
+    {
+      "catalog_id": "id-fried-eggs",
+      "name": "Fried eggs",
+      "brand": null,
+      "barcode": null,
+      "has_product_photo": false,
+      "photo": null,
+      "calories_per_serving": 90,
+      "path": "catalog/items/id-fried-eggs/"
     },
     {
       "catalog_id": "id-frozen-apple-cider",

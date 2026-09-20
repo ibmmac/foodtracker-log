@@ -1,0 +1,17 @@
+{
+  "catalog_id": "id-french-toast-maple",
+  "id": "french-toast-maple",
+  "name": "French toast with real maple syrup",
+  "barcode": null,
+  "barcode_status": "no_barcode",
+  "serving_size": "1 slice with syrup (portion of syrup included)",
+  "nutrition_per_serving": {
+    "calories": 200,
+    "protein_g": 6,
+    "total_carbohydrate_g": 26,
+    "total_fat_g": 8,
+    "notes": "Per slice estimate including share of real maple syrup"
+  },
+  "photo": null,
+  "notes": "3 slices French toast + real maple syrup (~200 kcal/slice with syrup)"
+}
