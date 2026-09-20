@@ -1,0 +1,16 @@
+{
+  "catalog_id": "id-frozen-apple-cider",
+  "id": "frozen-apple-cider",
+  "name": "Frozen apple cider",
+  "barcode": null,
+  "barcode_status": "no_barcode",
+  "serving_size": "1 cup (8 oz) estimated",
+  "nutrition_per_serving": {
+    "calories": 120,
+    "protein_g": 0.3,
+    "total_carbohydrate_g": 30,
+    "total_fat_g": 0.3,
+    "notes": "Estimate for 1 cup apple cider (frozen/slush-style); similar to regular cider"
+  },
+  "photo": null
+}

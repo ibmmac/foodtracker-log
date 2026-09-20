@@ -85,15 +85,37 @@
       "notes": "Additional cookies (~50 kcal each); same catalog as breakfast",
       "time": "14:26",
       "timestamp": "2026-09-19T14:26:50-04:00"
+    },
+    {
+      "catalog_id": "id-frozen-apple-cider",
+      "catalog_path": "catalog/items/id-frozen-apple-cider/",
+      "id": "frozen-apple-cider",
+      "name": "Frozen apple cider",
+      "amount_eaten": "1 cup",
+      "servings_eaten": 1,
+      "meal": "snack",
+      "location": "other",
+      "location_note": "Mainly Apples",
+      "logged": {
+        "calories": 120,
+        "protein_g": 0.3,
+        "carbs_g": 30,
+        "fat_g": 0.3
+      },
+      "source": "estimate",
+      "notes": "Late add \u2014 frozen apple cider snack; logged next day",
+      "time": null,
+      "timestamp": "2026-09-20T08:52:05-04:00",
+      "logged_late": true
     }
   ],
   "totals": {
-    "calories": 695,
-    "protein_g": 31,
-    "carbs_g": 47,
-    "fat_g": 43.5,
-    "remaining_kcal": 805,
-    "percent_goal_remaining": 53.7,
-    "percent_goal_used": 46.3
+    "calories": 815,
+    "protein_g": 31.3,
+    "carbs_g": 77,
+    "fat_g": 43.8,
+    "remaining_kcal": 685,
+    "percent_goal_remaining": 45.7,
+    "percent_goal_used": 54.3
   }
 }
