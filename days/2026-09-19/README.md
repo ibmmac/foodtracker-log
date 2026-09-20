@@ -17,6 +17,6 @@
 | [Coffee with milk (no sugar)](../../catalog/items/id-coffee-with-milk/) | 1 cup | other (Joe's house) | breakfast | 45 | 2 | 3 | 2.5 |
 | [Mini chocolate chip cookies](../../catalog/items/id-mini-choc-chip-cookies/) | 2 mini cookies | home | snack | 100 | 1.0 | 14 | 5.0 |
 | [Frozen apple cider](../../catalog/items/id-frozen-apple-cider/) | 1 cup | other (Mainly Apples) | snack | 120 | 0.3 | 30 | 0.3 |
-| [Bunches of oats (cereal serving)](../../catalog/items/id-bunches-of-oats/) | 1 serving | home | dinner | 160 | 3 | 33 | 2 |
+| [Honey Bunches of Oats cereal](../../catalog/items/id-bunches-of-oats/) | 1 cup (dry) | home | dinner | 160 | 3 | 33 | 2 |
 | [Grilled cheese flatbread](../../catalog/items/id-grilled-cheese-flatbread/) | 1 flatbread | home | dinner | 380 | 16 | 35 | 20 |
 | [McIntosh apple](../../catalog/items/id-mcintosh-apple/) | 1 medium apple | home | dinner | 95 | 0.5 | 25 | 0.3 |

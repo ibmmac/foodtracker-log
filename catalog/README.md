@@ -54,7 +54,7 @@
 | ![](items/888670012864/product.jpg) | [Wellsley Farms Homestyle Potato Salad](items/888670012864/) | Wellsley Farms / BJ's Wholesale Club | `888670012864` | 190 | [`888670012864`](items/888670012864/) |
 | ![](items/888670012901/product.jpg) | [Wellsley Farms Aegean Greek Pasta](items/888670012901/) | Wellsley Farms / BJ's Wholesale Club | `888670012901` | 390 | [`888670012901`](items/888670012901/) |
 | ![](items/888670053638/product.jpg) | [Wellsley Farms Gala Apples](items/888670053638/) | Wellsley Farms / BJ's Wholesale Club | `888670053638` | 95 | [`888670053638`](items/888670053638/) |
-| — | [Bunches of oats (cereal serving)](items/id-bunches-of-oats/) | — | `id-bunches-of-oats` | 160 | [`id-bunches-of-oats`](items/id-bunches-of-oats/) |
+| — | [Honey Bunches of Oats cereal](items/id-bunches-of-oats/) | Post | `884912288424` | 160 | [`id-bunches-of-oats`](items/id-bunches-of-oats/) |
 | ![](items/id-cannoli/product.jpg) | [Cannoli](items/id-cannoli/) | — | `id-cannoli` | 280 | [`id-cannoli`](items/id-cannoli/) |
 | — | [Chobani Low-Fat Vanilla Greek Yogurt Mixed Berry On The Bottom, Hero Batch 5.3oz 4PK](items/id-chobani-low-fat-vanilla-greek-yogurt-mixed-berry-o/) | Chobani | `id-chobani-low-fat-vanilla-greek-yogurt-mixed-berry-o` | 140 | [`id-chobani-low-fat-vanilla-greek-yogurt-mixed-berry-o`](items/id-chobani-low-fat-vanilla-greek-yogurt-mixed-berry-o/) |
 | — | [Chobani Non-Fat Greek Yogurt Key Lime, 4-Pack Cups](items/id-chobani-nonfat-greek-key-lime/) | Chobani | `id-chobani-nonfat-greek-key-lime` | 120 | [`id-chobani-nonfat-greek-key-lime`](items/id-chobani-nonfat-greek-key-lime/) |

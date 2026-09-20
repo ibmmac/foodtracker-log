@@ -1,17 +1,21 @@
 {
   "catalog_id": "id-bunches-of-oats",
-  "id": "bunches-of-oats",
-  "name": "Bunches of oats (cereal serving)",
-  "barcode": null,
-  "barcode_status": "no_barcode",
-  "serving_size": "1 serving",
+  "id": "honey-bunches-of-oats",
+  "name": "Honey Bunches of Oats cereal",
+  "brand": "Post",
+  "barcode": "884912288424",
+  "barcode_format": "UPC-A",
+  "serving_size": "1 cup (dry, no milk)",
   "nutrition_per_serving": {
     "calories": 160,
     "protein_g": 3,
     "total_carbohydrate_g": 33,
     "total_fat_g": 2,
-    "notes": "Typical dry cereal serving ~3/4\u20131 cup"
+    "total_sugars_g": 6,
+    "dietary_fiber_g": 2,
+    "notes": "Post Honey Bunches of Oats Original ~1 cup dry; no milk logged"
   },
   "photo": null,
-  "notes": "Estimate for 1 serving oats cereal (Honey Bunches of Oats\u2013style); no milk mentioned"
+  "photo_credit": null,
+  "notes": "User clarified Honey Bunches of Oats cereal"
 }

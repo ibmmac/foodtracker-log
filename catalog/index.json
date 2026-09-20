@@ -504,9 +504,9 @@
     },
     {
       "catalog_id": "id-bunches-of-oats",
-      "name": "Bunches of oats (cereal serving)",
-      "brand": null,
-      "barcode": null,
+      "name": "Honey Bunches of Oats cereal",
+      "brand": "Post",
+      "barcode": "884912288424",
       "has_product_photo": false,
       "photo": null,
       "calories_per_serving": 160,
