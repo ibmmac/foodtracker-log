@@ -22,6 +22,26 @@
       "notes": "User reported skipping breakfast",
       "time": "09:40",
       "timestamp": "2026-09-21T09:40:26-04:00"
+    },
+    {
+      "catalog_id": "id-skipped-lunch",
+      "catalog_path": "catalog/items/id-skipped-lunch/",
+      "id": "skipped-lunch",
+      "name": "Skipped lunch",
+      "amount_eaten": "skipped meal",
+      "meal": "lunch",
+      "location": "nowhere",
+      "location_note": "Meal skipped",
+      "logged": {
+        "calories": 0,
+        "protein_g": 0,
+        "carbs_g": 0,
+        "fat_g": 0
+      },
+      "source": "user",
+      "notes": "User reported skipping lunch",
+      "time": "18:03",
+      "timestamp": "2026-09-21T18:03:27-04:00"
     }
   ],
   "totals": {

@@ -13,3 +13,4 @@
 | Food | Amount | Location | Meal | kcal | P | C | F |
 |------|--------|----------|------|------|---|---|---|
 | [Skipped breakfast](../../catalog/items/id-skipped-breakfast/) | skipped meal | nowhere | breakfast | 0 | 0 | 0 | 0 |
+| [Skipped lunch](../../catalog/items/id-skipped-lunch/) | skipped meal | nowhere | lunch | 0 | 0 | 0 | 0 |
