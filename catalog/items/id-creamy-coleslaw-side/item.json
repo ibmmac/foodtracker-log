@@ -1,0 +1,20 @@
+{
+  "catalog_id": "id-creamy-coleslaw-side",
+  "id": "creamy-coleslaw-side",
+  "name": "Creamy coleslaw side",
+  "barcode": null,
+  "barcode_status": "no_barcode",
+  "serving_size": "small plastic cup ~2–3 oz",
+  "nutrition_per_serving": {
+    "calories": 110,
+    "protein_g": 1,
+    "total_carbohydrate_g": 10,
+    "total_fat_g": 8,
+    "notes": "Visual estimate for creamy restaurant coleslaw cup"
+  },
+  "photo": "catalog/items/id-creamy-coleslaw-side/product.jpg",
+  "photo_credit": {
+    "source": "user_photo",
+    "note": "Meal as served; no barcode"
+  }
+}

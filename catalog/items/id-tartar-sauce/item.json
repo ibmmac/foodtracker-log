@@ -1,0 +1,20 @@
+{
+  "catalog_id": "id-tartar-sauce",
+  "id": "tartar-sauce",
+  "name": "Tartar sauce",
+  "barcode": null,
+  "barcode_status": "no_barcode",
+  "serving_size": "~2 oz / ~56g used (half of ~4 oz cup)",
+  "nutrition_per_serving": {
+    "calories": 150,
+    "protein_g": 0,
+    "total_carbohydrate_g": 4,
+    "total_fat_g": 15,
+    "notes": "Assumes half of nearly-full ~4 oz restaurant cup used for dipping (~2 oz); full cup would be higher"
+  },
+  "photo": "catalog/items/id-tartar-sauce/product.jpg",
+  "photo_credit": {
+    "source": "user_photo",
+    "note": "Meal as served; no barcode"
+  }
+}

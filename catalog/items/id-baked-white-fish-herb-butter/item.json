@@ -1,0 +1,20 @@
+{
+  "catalog_id": "id-baked-white-fish-herb-butter",
+  "id": "baked-white-fish-herb-butter",
+  "name": "Baked white fish with herb butter",
+  "barcode": null,
+  "barcode_status": "no_barcode",
+  "serving_size": "restaurant portion ~8–10 oz cooked fillets",
+  "nutrition_per_serving": {
+    "calories": 420,
+    "protein_g": 45,
+    "total_carbohydrate_g": 0,
+    "total_fat_g": 22,
+    "notes": "Visual estimate: white fish (cod/haddock-like) ~270 kcal + yellow herb butter/oil topping ~150 kcal; black pepper"
+  },
+  "photo": "catalog/items/id-baked-white-fish-herb-butter/product.jpg",
+  "photo_credit": {
+    "source": "user_photo",
+    "note": "Meal as served; no barcode"
+  }
+}

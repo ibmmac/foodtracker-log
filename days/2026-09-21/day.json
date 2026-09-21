@@ -42,15 +42,99 @@
       "notes": "User reported skipping lunch",
       "time": "18:03",
       "timestamp": "2026-09-21T18:03:27-04:00"
+    },
+    {
+      "catalog_id": "id-baked-white-fish-herb-butter",
+      "catalog_path": "catalog/items/id-baked-white-fish-herb-butter/",
+      "id": "baked-white-fish-herb-butter",
+      "name": "Baked white fish with herb butter",
+      "amount_eaten": "restaurant portion ~8–10 oz cooked",
+      "servings_eaten": 1,
+      "meal": "dinner",
+      "location": "other",
+      "location_note": "Eagle's Nest restaurant, Brewer",
+      "logged": {
+        "calories": 420,
+        "protein_g": 45,
+        "carbs_g": 0,
+        "fat_g": 22
+      },
+      "source": "visual_estimate",
+      "notes": "Baked/broiled white fish fillets with yellow herb butter/oil and black pepper; fish ~270 + topping ~150",
+      "time": "18:05",
+      "timestamp": "2026-09-21T18:05:18-04:00"
+    },
+    {
+      "catalog_id": "id-green-beans-side",
+      "catalog_path": "catalog/items/id-green-beans-side/",
+      "id": "green-beans-side",
+      "name": "Green beans side",
+      "amount_eaten": "~1/2–2/3 cup",
+      "servings_eaten": 1,
+      "meal": "dinner",
+      "location": "other",
+      "location_note": "Eagle's Nest restaurant, Brewer",
+      "logged": {
+        "calories": 25,
+        "protein_g": 1,
+        "carbs_g": 5,
+        "fat_g": 0
+      },
+      "source": "visual_estimate",
+      "notes": "Steamed/canned-look cut green beans side",
+      "time": "18:05",
+      "timestamp": "2026-09-21T18:05:18-04:00"
+    },
+    {
+      "catalog_id": "id-creamy-coleslaw-side",
+      "catalog_path": "catalog/items/id-creamy-coleslaw-side/",
+      "id": "creamy-coleslaw-side",
+      "name": "Creamy coleslaw side",
+      "amount_eaten": "small cup ~2–3 oz",
+      "servings_eaten": 1,
+      "meal": "dinner",
+      "location": "other",
+      "location_note": "Eagle's Nest restaurant, Brewer",
+      "logged": {
+        "calories": 110,
+        "protein_g": 1,
+        "carbs_g": 10,
+        "fat_g": 8
+      },
+      "source": "visual_estimate",
+      "notes": "Creamy coleslaw in small plastic cup",
+      "time": "18:05",
+      "timestamp": "2026-09-21T18:05:18-04:00"
+    },
+    {
+      "catalog_id": "id-tartar-sauce",
+      "catalog_path": "catalog/items/id-tartar-sauce/",
+      "id": "tartar-sauce",
+      "name": "Tartar sauce",
+      "amount_eaten": "~2 oz used (half of ~4 oz cup)",
+      "servings_eaten": 1,
+      "meal": "dinner",
+      "location": "other",
+      "location_note": "Eagle's Nest restaurant, Brewer",
+      "logged": {
+        "calories": 150,
+        "protein_g": 0,
+        "carbs_g": 4,
+        "fat_g": 15
+      },
+      "source": "visual_estimate",
+      "notes": "Assumption: ~half of nearly-full ~4 oz cup used for dipping (~2 oz / ~56g); remaining not logged",
+      "time": "18:05",
+      "timestamp": "2026-09-21T18:05:18-04:00"
     }
   ],
   "totals": {
-    "calories": 0,
-    "protein_g": 0,
-    "carbs_g": 0,
-    "fat_g": 0,
-    "remaining_kcal": 1500,
-    "percent_goal_remaining": 100.0,
-    "percent_goal_used": 0.0
+    "calories": 705,
+    "protein_g": 47,
+    "carbs_g": 19,
+    "fat_g": 45,
+    "remaining_kcal": 795,
+    "percent_goal_remaining": 53.0,
+    "percent_goal_used": 47.0
   }
 }

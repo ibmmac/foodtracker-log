@@ -1,0 +1,20 @@
+{
+  "catalog_id": "id-green-beans-side",
+  "id": "green-beans-side",
+  "name": "Green beans side",
+  "barcode": null,
+  "barcode_status": "no_barcode",
+  "serving_size": "~1/2–2/3 cup steamed/canned cut green beans",
+  "nutrition_per_serving": {
+    "calories": 25,
+    "protein_g": 1,
+    "total_carbohydrate_g": 5,
+    "total_fat_g": 0,
+    "notes": "Visual estimate for restaurant side of cut green beans"
+  },
+  "photo": "catalog/items/id-green-beans-side/product.jpg",
+  "photo_credit": {
+    "source": "user_photo",
+    "note": "Meal as served; no barcode"
+  }
+}

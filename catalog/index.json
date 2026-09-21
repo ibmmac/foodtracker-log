@@ -1,6 +1,6 @@
 {
   "description": "Shared product catalog.",
-  "count": 103,
+  "count": 107,
   "items": [
     {
       "catalog_id": "013562000043",
@@ -503,6 +503,16 @@
       "path": "catalog/items/888670053638/"
     },
     {
+      "catalog_id": "id-baked-white-fish-herb-butter",
+      "name": "Baked white fish with herb butter",
+      "brand": null,
+      "barcode": null,
+      "has_product_photo": true,
+      "photo": "catalog/items/id-baked-white-fish-herb-butter/product.jpg",
+      "calories_per_serving": 420,
+      "path": "catalog/items/id-baked-white-fish-herb-butter/"
+    },
+    {
       "catalog_id": "id-bunches-of-oats",
       "name": "Honey Bunches of Oats cereal",
       "brand": "Post",
@@ -551,6 +561,16 @@
       "photo": null,
       "calories_per_serving": 45,
       "path": "catalog/items/id-coffee-with-milk/"
+    },
+    {
+      "catalog_id": "id-creamy-coleslaw-side",
+      "name": "Creamy coleslaw side",
+      "brand": null,
+      "barcode": null,
+      "has_product_photo": true,
+      "photo": "catalog/items/id-creamy-coleslaw-side/product.jpg",
+      "calories_per_serving": 110,
+      "path": "catalog/items/id-creamy-coleslaw-side/"
     },
     {
       "catalog_id": "id-egg-cheese-omelet",
@@ -863,6 +883,16 @@
       "path": "catalog/items/id-great-value-unsweetened-applesauce-50oz/"
     },
     {
+      "catalog_id": "id-green-beans-side",
+      "name": "Green beans side",
+      "brand": null,
+      "barcode": null,
+      "has_product_photo": true,
+      "photo": "catalog/items/id-green-beans-side/product.jpg",
+      "calories_per_serving": 25,
+      "path": "catalog/items/id-green-beans-side/"
+    },
+    {
       "catalog_id": "id-grilled-cheese-flatbread",
       "name": "Grilled cheese flatbread",
       "brand": null,
@@ -1021,6 +1051,16 @@
       "photo": null,
       "calories_per_serving": 15,
       "path": "catalog/items/id-sweetarts-variety-party-mix-individually-wrapped-a/"
+    },
+    {
+      "catalog_id": "id-tartar-sauce",
+      "name": "Tartar sauce",
+      "brand": null,
+      "barcode": null,
+      "has_product_photo": true,
+      "photo": "catalog/items/id-tartar-sauce/product.jpg",
+      "calories_per_serving": 150,
+      "path": "catalog/items/id-tartar-sauce/"
     },
     {
       "catalog_id": "id-teriyaki-beef-stick",
