@@ -1,0 +1,20 @@
+{
+  "catalog_id": "id-carrot-cake-slice",
+  "id": "carrot-cake-slice",
+  "name": "Carrot cake slice (dessert)",
+  "barcode": null,
+  "barcode_status": "no_barcode",
+  "serving_size": "1 large restaurant two-layer slice with thick cream cheese frosting",
+  "nutrition_per_serving": {
+    "calories": 680,
+    "protein_g": 7,
+    "total_carbohydrate_g": 85,
+    "total_fat_g": 34,
+    "notes": "Visual estimate for substantial two-layer restaurant slice with thick cream cheese frosting (visible carrots/nuts), in clear plastic takeout container"
+  },
+  "photo": "catalog/items/id-carrot-cake-slice/product.jpg",
+  "photo_credit": {
+    "source": "user_photo",
+    "note": "Meal as served; no barcode"
+  }
+}

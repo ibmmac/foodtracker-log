@@ -1,6 +1,6 @@
 {
   "description": "Shared product catalog.",
-  "count": 107,
+  "count": 108,
   "items": [
     {
       "catalog_id": "013562000043",
@@ -531,6 +531,16 @@
       "photo": "catalog/items/id-cannoli/product.jpg",
       "calories_per_serving": 280,
       "path": "catalog/items/id-cannoli/"
+    },
+    {
+      "catalog_id": "id-carrot-cake-slice",
+      "name": "Carrot cake slice (dessert)",
+      "brand": null,
+      "barcode": null,
+      "has_product_photo": true,
+      "photo": "catalog/items/id-carrot-cake-slice/product.jpg",
+      "calories_per_serving": 680,
+      "path": "catalog/items/id-carrot-cake-slice/"
     },
     {
       "catalog_id": "id-chobani-low-fat-vanilla-greek-yogurt-mixed-berry-o",

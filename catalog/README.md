@@ -1,6 +1,6 @@
 # Product catalog
 
-**107 items** · [`index.json`](index.json)
+**108 items** · [`index.json`](index.json)
 
 | Photo | Name | Brand | Barcode / ID | kcal/serving | Folder |
 |-------|------|-------|--------------|--------------|--------|
@@ -57,6 +57,7 @@
 | ![](items/id-baked-white-fish-herb-butter/product.jpg) | [Baked white fish with herb butter](items/id-baked-white-fish-herb-butter/) | — | `id-baked-white-fish-herb-butter` | 420 | [`id-baked-white-fish-herb-butter`](items/id-baked-white-fish-herb-butter/) |
 | — | [Honey Bunches of Oats cereal](items/id-bunches-of-oats/) | Post | `884912288424` | 160 | [`id-bunches-of-oats`](items/id-bunches-of-oats/) |
 | ![](items/id-cannoli/product.jpg) | [Cannoli](items/id-cannoli/) | — | `id-cannoli` | 280 | [`id-cannoli`](items/id-cannoli/) |
+| ![](items/id-carrot-cake-slice/product.jpg) | [Carrot cake slice (dessert)](items/id-carrot-cake-slice/) | — | `id-carrot-cake-slice` | 680 | [`id-carrot-cake-slice`](items/id-carrot-cake-slice/) |
 | — | [Chobani Low-Fat Vanilla Greek Yogurt Mixed Berry On The Bottom, Hero Batch 5.3oz 4PK](items/id-chobani-low-fat-vanilla-greek-yogurt-mixed-berry-o/) | Chobani | `id-chobani-low-fat-vanilla-greek-yogurt-mixed-berry-o` | 140 | [`id-chobani-low-fat-vanilla-greek-yogurt-mixed-berry-o`](items/id-chobani-low-fat-vanilla-greek-yogurt-mixed-berry-o/) |
 | — | [Chobani Non-Fat Greek Yogurt Key Lime, 4-Pack Cups](items/id-chobani-nonfat-greek-key-lime/) | Chobani | `id-chobani-nonfat-greek-key-lime` | 120 | [`id-chobani-nonfat-greek-key-lime`](items/id-chobani-nonfat-greek-key-lime/) |
 | — | [Coffee with milk (no sugar)](items/id-coffee-with-milk/) | — | `id-coffee-with-milk` | 45 | [`id-coffee-with-milk`](items/id-coffee-with-milk/) |
