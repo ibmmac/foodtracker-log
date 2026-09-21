@@ -1,0 +1,14 @@
+{
+  "catalog_id": "id-skipped-breakfast",
+  "id": "skipped-breakfast",
+  "name": "Skipped breakfast",
+  "barcode": null,
+  "barcode_status": "n/a",
+  "nutrition_per_serving": {
+    "calories": 0,
+    "protein_g": 0,
+    "total_carbohydrate_g": 0,
+    "total_fat_g": 0
+  },
+  "photo": null
+}

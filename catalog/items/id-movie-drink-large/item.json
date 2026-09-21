@@ -1,0 +1,16 @@
+{
+  "catalog_id": "id-movie-drink-large",
+  "id": "movie-drink-large",
+  "name": "Movie theater drink (large)",
+  "barcode": null,
+  "barcode_status": "no_barcode",
+  "serving_size": "1 large fountain drink",
+  "nutrition_per_serving": {
+    "calories": 350,
+    "protein_g": 0,
+    "total_carbohydrate_g": 95,
+    "total_fat_g": 0,
+    "notes": "Estimate for large regular soda; diet/zero = ~0 \u2014 correct if needed"
+  },
+  "photo": null
+}

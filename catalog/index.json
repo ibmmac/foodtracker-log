@@ -1,6 +1,6 @@
 {
   "description": "Shared product catalog.",
-  "count": 100,
+  "count": 103,
   "items": [
     {
       "catalog_id": "013562000043",
@@ -933,6 +933,26 @@
       "path": "catalog/items/id-mini-choc-chip-cookies/"
     },
     {
+      "catalog_id": "id-movie-drink-large",
+      "name": "Movie theater drink (large)",
+      "brand": null,
+      "barcode": null,
+      "has_product_photo": false,
+      "photo": null,
+      "calories_per_serving": 350,
+      "path": "catalog/items/id-movie-drink-large/"
+    },
+    {
+      "catalog_id": "id-movie-popcorn-large",
+      "name": "Movie theater popcorn (large)",
+      "brand": null,
+      "barcode": null,
+      "has_product_photo": false,
+      "photo": null,
+      "calories_per_serving": 1000,
+      "path": "catalog/items/id-movie-popcorn-large/"
+    },
+    {
       "catalog_id": "id-organic-marketside-fresh-baby-peeled-carrots-1-lb",
       "name": "Organic Marketside Fresh Baby Peeled Carrots, 1 lb Bag",
       "brand": "Marketside / Walmart",
@@ -961,6 +981,16 @@
       "photo": "catalog/items/id-pizza-slice-supreme/product.jpg",
       "calories_per_serving": 350,
       "path": "catalog/items/id-pizza-slice-supreme/"
+    },
+    {
+      "catalog_id": "id-skipped-breakfast",
+      "name": "Skipped breakfast",
+      "brand": null,
+      "barcode": null,
+      "has_product_photo": false,
+      "photo": null,
+      "calories_per_serving": 0,
+      "path": "catalog/items/id-skipped-breakfast/"
     },
     {
       "catalog_id": "id-skipped-lunch",

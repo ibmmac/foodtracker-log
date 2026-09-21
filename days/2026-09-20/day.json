@@ -44,15 +44,77 @@
       "notes": "3 slices French toast + real maple syrup (~200 kcal/slice with syrup)",
       "time": "09:09",
       "timestamp": "2026-09-20T09:09:07-04:00"
+    },
+    {
+      "catalog_id": "id-movie-popcorn-large",
+      "catalog_path": "catalog/items/id-movie-popcorn-large/",
+      "id": "movie-popcorn-large",
+      "name": "Movie theater popcorn (large)",
+      "amount_eaten": "1 large",
+      "servings_eaten": 1,
+      "meal": "snack",
+      "location": "other",
+      "location_note": "Movies",
+      "logged": {
+        "calories": 1000,
+        "protein_g": 10,
+        "carbs_g": 100,
+        "fat_g": 60
+      },
+      "source": "estimate",
+      "notes": "Large theater popcorn estimate with butter (late log)",
+      "timestamp": "2026-09-21T09:40:26-04:00",
+      "logged_late": true
+    },
+    {
+      "catalog_id": "id-movie-drink-large",
+      "catalog_path": "catalog/items/id-movie-drink-large/",
+      "id": "movie-drink-large",
+      "name": "Movie theater drink (large)",
+      "amount_eaten": "1 large",
+      "servings_eaten": 1,
+      "meal": "snack",
+      "location": "other",
+      "location_note": "Movies",
+      "logged": {
+        "calories": 350,
+        "protein_g": 0,
+        "carbs_g": 95,
+        "fat_g": 0
+      },
+      "source": "estimate",
+      "notes": "Assumed large regular soda; say if diet/water (late log)",
+      "timestamp": "2026-09-21T09:40:26-04:00",
+      "logged_late": true
+    },
+    {
+      "catalog_id": "074030656209",
+      "catalog_path": "catalog/items/074030656209/",
+      "id": "cheese-sticks-evening",
+      "name": "Galbani Reduced Fat Cheese Sticks",
+      "amount_eaten": "2 sticks",
+      "servings_eaten": 2,
+      "meal": "snack",
+      "location": "home",
+      "logged": {
+        "calories": 120,
+        "protein_g": 12,
+        "carbs_g": 0,
+        "fat_g": 8
+      },
+      "source": "label",
+      "notes": "2 cheese sticks after movies (late log)",
+      "timestamp": "2026-09-21T09:40:26-04:00",
+      "logged_late": true
     }
   ],
   "totals": {
-    "calories": 870,
-    "protein_g": 36,
-    "carbs_g": 79,
-    "fat_g": 45,
-    "remaining_kcal": 630,
-    "percent_goal_remaining": 42.0,
-    "percent_goal_used": 58.0
+    "calories": 2340,
+    "protein_g": 58,
+    "carbs_g": 274,
+    "fat_g": 113,
+    "remaining_kcal": -840,
+    "percent_goal_remaining": 0.0,
+    "percent_goal_used": 156.0
   }
 }

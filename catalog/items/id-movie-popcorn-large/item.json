@@ -1,0 +1,16 @@
+{
+  "catalog_id": "id-movie-popcorn-large",
+  "id": "movie-popcorn-large",
+  "name": "Movie theater popcorn (large)",
+  "barcode": null,
+  "barcode_status": "no_barcode",
+  "serving_size": "1 large",
+  "nutrition_per_serving": {
+    "calories": 1000,
+    "protein_g": 10,
+    "total_carbohydrate_g": 100,
+    "total_fat_g": 60,
+    "notes": "Estimate for large theater popcorn with butter; unbuttered is much lower (~500\u2013600)"
+  },
+  "photo": null
+}
