@@ -1,1086 +1,987 @@
 {
-  "description": "Shared product catalog.",
-  "count": 108,
-  "items": [
+  "updated": "2026-09-22",
+  "count": 109,
+  "products": [
     {
       "catalog_id": "013562000043",
       "name": "Annie's Shells & White Cheddar Macaroni & Cheese Made with Organic Pasta",
       "brand": "Annie's / General Mills",
       "barcode": "013562000043",
-      "has_product_photo": true,
-      "photo": "catalog/items/013562000043/product.jpg",
-      "calories_per_serving": 270,
-      "path": "catalog/items/013562000043/"
+      "kcal_per_serving": 270,
+      "photo": "product.jpg",
+      "path": "items/013562000043/"
     },
     {
       "catalog_id": "013764027220",
       "name": "Dave's Killer Bread White Bread Done Right Organic Bread Loaf, Organic White Bread, 24 oz, Shelf-Stable (24 ounce)",
       "brand": "Dave's Killer Bread",
       "barcode": "013764027220",
-      "has_product_photo": true,
-      "photo": "catalog/items/013764027220/product.jpg",
-      "calories_per_serving": 110,
-      "path": "catalog/items/013764027220/"
+      "kcal_per_serving": 110,
+      "photo": "product.jpg",
+      "path": "items/013764027220/"
     },
     {
       "catalog_id": "014800001846",
       "name": "Mott's No Sugar Added Applesauce, 46 Ounce, Jar",
       "brand": "Mott's",
       "barcode": "014800001846",
-      "has_product_photo": true,
-      "photo": "catalog/items/014800001846/product.jpg",
-      "calories_per_serving": 50,
-      "path": "catalog/items/014800001846/"
+      "kcal_per_serving": 50,
+      "photo": "product.jpg",
+      "path": "items/014800001846/"
     },
     {
       "catalog_id": "016000151284",
       "name": "Cocoa Puffs Chocolatey Breakfast Cereal Made with Whole Grain, 10.4 oz",
       "brand": "Cocoa Puffs / General Mills",
       "barcode": "016000151284",
-      "has_product_photo": true,
-      "photo": "catalog/items/016000151284/product.jpg",
-      "calories_per_serving": 140,
-      "path": "catalog/items/016000151284/"
+      "kcal_per_serving": 140,
+      "photo": "product.jpg",
+      "path": "items/016000151284/"
     },
     {
       "catalog_id": "016000207011",
       "name": "Chex Mix Traditional Original Recipe Snack Mix, Family Size, 13.5 oz",
       "brand": "Chex / General Mills",
       "barcode": "016000207011",
-      "has_product_photo": true,
-      "photo": "catalog/items/016000207011/product.jpg",
-      "calories_per_serving": 140,
-      "path": "catalog/items/016000207011/"
+      "kcal_per_serving": 140,
+      "photo": "product.jpg",
+      "path": "items/016000207011/"
     },
     {
       "catalog_id": "028400314138",
       "name": "Smartfood Gluten Free, No Artificial Colors White Cheddar Popcorn Bag, 9.75 oz",
       "brand": "Smartfood / PepsiCo",
       "barcode": "028400314138",
-      "has_product_photo": true,
-      "photo": "catalog/items/028400314138/product.jpg",
-      "calories_per_serving": 160,
-      "path": "catalog/items/028400314138/"
+      "kcal_per_serving": 160,
+      "photo": "product.jpg",
+      "path": "items/028400314138/"
     },
     {
       "catalog_id": "028400517775",
       "name": "Doritos Cool Ranch Flavored Tortilla Chips, Party Size, 14.5 oz Bag",
       "brand": "Doritos / PepsiCo",
       "barcode": "028400517775",
-      "has_product_photo": true,
-      "photo": "catalog/items/028400517775/product.jpg",
-      "calories_per_serving": 536,
-      "path": "catalog/items/028400517775/"
+      "kcal_per_serving": 536,
+      "photo": "product.jpg",
+      "path": "items/028400517775/"
     },
     {
       "catalog_id": "034000290055",
       "name": "Hershey's Milk Chocolate Candy Bars, 1.55 oz (6 Count)",
       "brand": "Hershey's",
       "barcode": "034000290055",
-      "has_product_photo": true,
-      "photo": "catalog/items/034000290055/product.jpg",
-      "calories_per_serving": 210,
-      "path": "catalog/items/034000290055/"
+      "kcal_per_serving": 210,
+      "photo": "product.jpg",
+      "path": "items/034000290055/"
     },
     {
       "catalog_id": "038900772208",
       "name": "Dole Fruit Bowls Snacks",
       "brand": "Dole",
       "barcode": "038900772208",
-      "has_product_photo": true,
-      "photo": "catalog/items/038900772208/product.jpg",
-      "calories_per_serving": 70,
-      "path": "catalog/items/038900772208/"
+      "kcal_per_serving": 70,
+      "photo": "product.jpg",
+      "path": "items/038900772208/"
     },
     {
       "catalog_id": "041789002311",
       "name": "Maruchan Ramen Noodle Soup, Chicken Flavor Instant Noodles, 3 oz, pack of 12",
       "brand": "Maruchan",
       "barcode": "041789002311",
-      "has_product_photo": true,
-      "photo": "catalog/items/041789002311/product.jpg",
-      "calories_per_serving": 190,
-      "path": "catalog/items/041789002311/"
+      "kcal_per_serving": 190,
+      "photo": "product.jpg",
+      "path": "items/041789002311/"
     },
     {
       "catalog_id": "041800207503",
       "name": "Welch's 100% Grape Juice, Concord Grape, 64 fl oz Bottle",
       "brand": "Welch's",
       "barcode": "041800207503",
-      "has_product_photo": true,
-      "photo": "catalog/items/041800207503/product.jpg",
-      "calories_per_serving": 160,
-      "path": "catalog/items/041800207503/"
+      "kcal_per_serving": 160,
+      "photo": "product.jpg",
+      "path": "items/041800207503/"
     },
     {
       "catalog_id": "044000046545",
       "name": "NEWTONS Soft Baked Real Fruit Fig Bars, Fig Cookies, 10 oz",
       "brand": "Newtons / Mondelez",
       "barcode": "044000046545",
-      "has_product_photo": true,
-      "photo": "catalog/items/044000046545/product.jpg",
-      "calories_per_serving": 148,
-      "path": "catalog/items/044000046545/"
+      "kcal_per_serving": 148,
+      "photo": "product.jpg",
+      "path": "items/044000046545/"
     },
     {
       "catalog_id": "044500341157",
       "name": "Hillshire Farm Turkey Smoked Sausage Rope, 13 oz (Refrigerated)",
       "brand": "Hillshire Farm",
       "barcode": "044500341157",
-      "has_product_photo": true,
-      "photo": "catalog/items/044500341157/product.jpg",
-      "calories_per_serving": 100,
-      "path": "catalog/items/044500341157/"
+      "kcal_per_serving": 100,
+      "photo": "product.jpg",
+      "path": "items/044500341157/"
     },
     {
       "catalog_id": "046025202462",
       "name": "Easy Eggs Peeled Hard Cooked Eggs",
       "brand": "Easy Eggs / Michael Foods",
       "barcode": "046025202462",
-      "has_product_photo": true,
-      "photo": "catalog/items/046025202462/product.jpg",
-      "calories_per_serving": 60,
-      "path": "catalog/items/046025202462/"
+      "kcal_per_serving": 60,
+      "photo": "product.jpg",
+      "path": "items/046025202462/"
     },
     {
       "catalog_id": "046100001257",
       "name": "Sargento\u00ae Mozzarella Sliced Cheese, 11 Slices",
       "brand": "Sargento",
       "barcode": "046100001257",
-      "has_product_photo": true,
-      "photo": "catalog/items/046100001257/product.jpg",
-      "calories_per_serving": 60,
-      "path": "catalog/items/046100001257/"
+      "kcal_per_serving": 60,
+      "photo": "product.jpg",
+      "path": "items/046100001257/"
     },
     {
       "catalog_id": "050400740457",
       "name": "Ball Park Sesame Seed Burger Buns, 8 Count, White Hamburger Buns, 16 oz Bag",
       "brand": "Ball Park / Tyson",
       "barcode": "050400740457",
-      "has_product_photo": true,
-      "photo": "catalog/items/050400740457/product.jpg",
-      "calories_per_serving": 160,
-      "path": "catalog/items/050400740457/"
+      "kcal_per_serving": 160,
+      "photo": "product.jpg",
+      "path": "items/050400740457/"
     },
     {
       "catalog_id": "052000103120",
       "name": "Gatorade Thirst Quencher Electrolyte Sports Drink, Frost Glacier Cherry, 12 fl oz, 12 Count Bottles",
       "brand": "Gatorade / PepsiCo",
       "barcode": "052000103120",
-      "has_product_photo": true,
-      "photo": "catalog/items/052000103120/product.jpg",
-      "calories_per_serving": 80,
-      "path": "catalog/items/052000103120/"
+      "kcal_per_serving": 80,
+      "photo": "product.jpg",
+      "path": "items/052000103120/"
     },
     {
       "catalog_id": "071018105490",
       "name": "Teddie All Natural Smooth Peanut Butter, 36 oz",
       "brand": "Teddie",
       "barcode": "071018105490",
-      "has_product_photo": true,
-      "photo": "catalog/items/071018105490/product.jpg",
-      "calories_per_serving": 190,
-      "path": "catalog/items/071018105490/"
+      "kcal_per_serving": 190,
+      "photo": "product.jpg",
+      "path": "items/071018105490/"
     },
     {
       "catalog_id": "071100213997",
       "name": "Hidden Valley Ranch Dairy Free Plant Powered Salad Dressing & Condiment, 12 fl oz Bottle",
       "brand": "Hidden Valley / Clorox",
       "barcode": "071100213997",
-      "has_product_photo": true,
-      "photo": "catalog/items/071100213997/product.jpg",
-      "calories_per_serving": 110,
-      "path": "catalog/items/071100213997/"
+      "kcal_per_serving": 110,
+      "photo": "product.jpg",
+      "path": "items/071100213997/"
     },
     {
       "catalog_id": "071464022853",
       "name": "Bolthouse Farms Dressing, Classic Ranch Yogurt Dressing, 12 fl. oz.",
       "brand": "Bolthouse Farms",
       "barcode": "071464022853",
-      "has_product_photo": true,
-      "photo": "catalog/items/071464022853/product.jpg",
-      "calories_per_serving": 50,
-      "path": "catalog/items/071464022853/"
+      "kcal_per_serving": 50,
+      "photo": "product.jpg",
+      "path": "items/071464022853/"
     },
     {
       "catalog_id": "073491530004",
       "name": "Kozy Shack Tapioca Pudding, Gluten Free Dessert, 22 oz Tub",
       "brand": "Kozy Shack",
       "barcode": "073491530004",
-      "has_product_photo": true,
-      "photo": "catalog/items/073491530004/product.jpg",
-      "calories_per_serving": 130,
-      "path": "catalog/items/073491530004/"
+      "kcal_per_serving": 130,
+      "photo": "product.jpg",
+      "path": "items/073491530004/"
     },
     {
       "catalog_id": "074030656209",
       "name": "Galbani Reduced Fat Cheese Sticks",
       "brand": "Galbani / Lactalis American Group",
       "barcode": "074030656209",
-      "has_product_photo": true,
-      "photo": "catalog/items/074030656209/product.jpg",
-      "calories_per_serving": 60,
-      "path": "catalog/items/074030656209/"
+      "kcal_per_serving": 60,
+      "photo": "product.jpg",
+      "path": "items/074030656209/"
     },
     {
       "catalog_id": "077567254245",
       "name": "Breyers Mint Chocolate Chip Ice Cream Gluten-Free Kosher Dairy Milk, 1.5 Quart",
       "brand": "Breyers / Unilever",
       "barcode": "077567254245",
-      "has_product_photo": true,
-      "photo": "catalog/items/077567254245/product.jpg",
-      "calories_per_serving": 247,
-      "path": "catalog/items/077567254245/"
+      "kcal_per_serving": 247,
+      "photo": "product.jpg",
+      "path": "items/077567254245/"
     },
     {
       "catalog_id": "078000001174",
       "name": "Canada Dry Caffeine Free Ginger Ale Soda Pop, 16.9 fl oz, 6 Pack Bottles",
       "brand": "Canada Dry / Keurig Dr Pepper",
       "barcode": "078000001174",
-      "has_product_photo": true,
-      "photo": "catalog/items/078000001174/product.jpg",
-      "calories_per_serving": 180,
-      "path": "catalog/items/078000001174/"
+      "kcal_per_serving": 180,
+      "photo": "product.jpg",
+      "path": "items/078000001174/"
     },
     {
       "catalog_id": "078742065915",
       "name": "Great Value Low-Moisture Part-Skim Deli Style Sliced Mozzarella Cheese, 8 oz Package, 12 Slices",
       "brand": "Great Value / Walmart",
       "barcode": "078742065915",
-      "has_product_photo": true,
-      "photo": "catalog/items/078742065915/product.jpg",
-      "calories_per_serving": 50,
-      "path": "catalog/items/078742065915/"
+      "kcal_per_serving": 50,
+      "photo": "product.jpg",
+      "path": "items/078742065915/"
     },
     {
       "catalog_id": "078742072531",
       "name": "Great Value Honey Graham Crackers, 14.4 oz, 3 Count",
       "brand": "Great Value / Walmart",
       "barcode": "078742072531",
-      "has_product_photo": true,
-      "photo": "catalog/items/078742072531/product.jpg",
-      "calories_per_serving": 130,
-      "path": "catalog/items/078742072531/"
+      "kcal_per_serving": 130,
+      "photo": "product.jpg",
+      "path": "items/078742072531/"
     },
     {
       "catalog_id": "078742085296",
       "name": "Great Value Mild Cheddar Deli Style Sliced Cheese, 8 oz Package, 12 Slices",
       "brand": "Great Value / Walmart",
       "barcode": "078742085296",
-      "has_product_photo": true,
-      "photo": "catalog/items/078742085296/product.jpg",
-      "calories_per_serving": 80,
-      "path": "catalog/items/078742085296/"
+      "kcal_per_serving": 80,
+      "photo": "product.jpg",
+      "path": "items/078742085296/"
     },
     {
       "catalog_id": "078742117706",
       "name": "Great Value Deli Style Sliced Non-Smoked Provolone Cheese, 8 oz (12 slices)",
       "brand": "Great Value / Walmart",
       "barcode": "078742117706",
-      "has_product_photo": true,
-      "photo": "catalog/items/078742117706/product.jpg",
-      "calories_per_serving": 70,
-      "path": "catalog/items/078742117706/"
+      "kcal_per_serving": 70,
+      "photo": "product.jpg",
+      "path": "items/078742117706/"
     },
     {
       "catalog_id": "078742122809",
       "name": "Great Value Sharp Cheddar Deli Style Sliced Cheese, 8 oz, 12 Slices",
       "brand": "Great Value / Walmart",
       "barcode": "078742122809",
-      "has_product_photo": true,
-      "photo": "catalog/items/078742122809/product.jpg",
-      "calories_per_serving": 80,
-      "path": "catalog/items/078742122809/"
+      "kcal_per_serving": 80,
+      "photo": "product.jpg",
+      "path": "items/078742122809/"
     },
     {
       "catalog_id": "078742123011",
       "name": "Great Value Unsweetened Applesauce, 46 oz Jar",
       "brand": "Great Value / Walmart",
       "barcode": "078742123011",
-      "has_product_photo": true,
-      "photo": "catalog/items/078742123011/product.jpg",
-      "calories_per_serving": 49,
-      "path": "catalog/items/078742123011/"
+      "kcal_per_serving": 49,
+      "photo": "product.jpg",
+      "path": "items/078742123011/"
     },
     {
       "catalog_id": "078742127491",
       "name": "Great Value Colby Jack Deli Style Sliced Cheese, 8 oz, 12 Slices",
       "brand": "Great Value / Walmart",
       "barcode": "078742127491",
-      "has_product_photo": true,
-      "photo": "catalog/items/078742127491/product.jpg",
-      "calories_per_serving": 70,
-      "path": "catalog/items/078742127491/"
+      "kcal_per_serving": 70,
+      "photo": "product.jpg",
+      "path": "items/078742127491/"
     },
     {
       "catalog_id": "078742136424",
       "name": "Great Value Organic Tomato Ketchup, 20 oz",
       "brand": "Great Value / Walmart",
       "barcode": "078742136424",
-      "has_product_photo": true,
-      "photo": "catalog/items/078742136424/product.jpg",
-      "calories_per_serving": 15,
-      "path": "catalog/items/078742136424/"
+      "kcal_per_serving": 15,
+      "photo": "product.jpg",
+      "path": "items/078742136424/"
     },
     {
       "catalog_id": "078742141404",
       "name": "(3 pack) Great Value Organic Marinara Pasta Sauce, 24 oz",
       "brand": "Great Value / Walmart",
       "barcode": "078742141404",
-      "has_product_photo": true,
-      "photo": "catalog/items/078742141404/product.jpg",
-      "calories_per_serving": 49,
-      "path": "catalog/items/078742141404/"
+      "kcal_per_serving": 49,
+      "photo": "product.jpg",
+      "path": "items/078742141404/"
     },
     {
       "catalog_id": "078742232973",
       "name": "Great Value Hamburger Dill Chip Pickles, 32 fl oz",
       "brand": "Great Value / Walmart",
       "barcode": "078742232973",
-      "has_product_photo": true,
-      "photo": "catalog/items/078742232973/product.jpg",
-      "calories_per_serving": 5,
-      "path": "catalog/items/078742232973/"
+      "kcal_per_serving": 5,
+      "photo": "product.jpg",
+      "path": "items/078742232973/"
     },
     {
       "catalog_id": "078742237855",
       "name": "Great Value Sardines in Water",
       "brand": "Great Value / Walmart",
       "barcode": "078742237855",
-      "has_product_photo": true,
-      "photo": "catalog/items/078742237855/product.jpg",
-      "calories_per_serving": 100,
-      "path": "catalog/items/078742237855/"
+      "kcal_per_serving": 100,
+      "photo": "product.jpg",
+      "path": "items/078742237855/"
     },
     {
       "catalog_id": "078742279091",
       "name": "Great Value Purified Drinking Water, 16.9 fl oz Bottles, 40 Count Pack",
       "brand": "Great Value / Walmart",
       "barcode": "078742279091",
-      "has_product_photo": true,
-      "photo": "catalog/items/078742279091/product.jpg",
-      "calories_per_serving": 0,
-      "path": "catalog/items/078742279091/"
+      "kcal_per_serving": 0,
+      "photo": "product.jpg",
+      "path": "items/078742279091/"
     },
     {
       "catalog_id": "078742352008",
       "name": "Great Value Whole Vitamin D Milk, Half Gallon (64 fl oz)",
       "brand": "Great Value / Walmart",
       "barcode": "078742352008",
-      "has_product_photo": true,
-      "photo": "catalog/items/078742352008/product.jpg",
-      "calories_per_serving": 150,
-      "path": "catalog/items/078742352008/"
+      "kcal_per_serving": 150,
+      "photo": "product.jpg",
+      "path": "items/078742352008/"
     },
     {
       "catalog_id": "078742374192",
       "name": "Great Value Sweet Cream Salted Butter, 16 oz Box, 4 Sticks, Refrigerated",
       "brand": "Great Value / Walmart",
       "barcode": "078742374192",
-      "has_product_photo": true,
-      "photo": "catalog/items/078742374192/product.jpg",
-      "calories_per_serving": 100,
-      "path": "catalog/items/078742374192/"
+      "kcal_per_serving": 100,
+      "photo": "product.jpg",
+      "path": "items/078742374192/"
     },
     {
       "catalog_id": "078742374253",
       "name": "Great Value Low-Moisture Part-Skim Mozzarella Finely Shredded Cheese, 8 oz Bag",
       "brand": "Great Value / Walmart",
       "barcode": "078742374253",
-      "has_product_photo": true,
-      "photo": "catalog/items/078742374253/product.jpg",
-      "calories_per_serving": 80,
-      "path": "catalog/items/078742374253/"
+      "kcal_per_serving": 80,
+      "photo": "product.jpg",
+      "path": "items/078742374253/"
     },
     {
       "catalog_id": "088702015607",
       "name": "Bonne Maman Strawberry Preserves 13 oz",
       "brand": "Bonne Maman",
       "barcode": "088702015607",
-      "has_product_photo": true,
-      "photo": "catalog/items/088702015607/product.jpg",
-      "calories_per_serving": 47,
-      "path": "catalog/items/088702015607/"
+      "kcal_per_serving": 47,
+      "photo": "product.jpg",
+      "path": "items/088702015607/"
     },
     {
       "catalog_id": "088702015669",
       "name": "Bonne Maman Wild Blueberry Preserves, 13.0 OZ",
       "brand": "Bonne Maman",
       "barcode": "088702015669",
-      "has_product_photo": true,
-      "photo": "catalog/items/088702015669/product.jpg",
-      "calories_per_serving": 50,
-      "path": "catalog/items/088702015669/"
+      "kcal_per_serving": 50,
+      "photo": "product.jpg",
+      "path": "items/088702015669/"
     },
     {
       "catalog_id": "681131328944",
       "name": "Marketside Classic Iceberg Salad, 12 oz Bag (Fresh)",
       "brand": "Marketside / Walmart",
       "barcode": "681131328944",
-      "has_product_photo": true,
-      "photo": "catalog/items/681131328944/product.jpg",
-      "calories_per_serving": 15,
-      "path": "catalog/items/681131328944/"
+      "kcal_per_serving": 15,
+      "photo": "product.jpg",
+      "path": "items/681131328944/"
     },
     {
       "catalog_id": "681131387538",
       "name": "Marketside Premium Romaine Salad Blend, 9 oz Bag (Fresh)",
       "brand": "Marketside / Walmart",
       "barcode": "681131387538",
-      "has_product_photo": true,
-      "photo": "catalog/items/681131387538/product.jpg",
-      "calories_per_serving": 15,
-      "path": "catalog/items/681131387538/"
+      "kcal_per_serving": 15,
+      "photo": "product.jpg",
+      "path": "items/681131387538/"
     },
     {
       "catalog_id": "810063711511",
       "name": "poppi Orange Prebiotic Soda Mini Can, 7.5 fl oz Can, 6 Pack Cans",
       "brand": "poppi",
       "barcode": "810063711511",
-      "has_product_photo": true,
-      "photo": "catalog/items/810063711511/product.jpg",
-      "calories_per_serving": 20,
-      "path": "catalog/items/810063711511/"
+      "kcal_per_serving": 20,
+      "photo": "product.jpg",
+      "path": "items/810063711511/"
     },
     {
       "catalog_id": "863699000146",
       "name": "Primal Kitchen Ranch Dressing & Marinade 8 fl",
       "brand": "Primal Kitchen",
       "barcode": "863699000146",
-      "has_product_photo": true,
-      "photo": "catalog/items/863699000146/product.jpg",
-      "calories_per_serving": 120,
-      "path": "catalog/items/863699000146/"
+      "kcal_per_serving": 120,
+      "photo": "product.jpg",
+      "path": "items/863699000146/"
     },
     {
       "catalog_id": "884912249272",
       "name": "Honey Bunches of Oats Honey Roasted Breakfast Cereal, 28 oz Box",
       "brand": "Honey Bunches of Oats / Post",
       "barcode": "884912249272",
-      "has_product_photo": true,
-      "photo": "catalog/items/884912249272/product.jpg",
-      "calories_per_serving": 160,
-      "path": "catalog/items/884912249272/"
+      "kcal_per_serving": 160,
+      "photo": "product.jpg",
+      "path": "items/884912249272/"
     },
     {
       "catalog_id": "888313914999",
       "name": "Nathan's Famous Skinless Beef Hot Dogs, 12 oz",
       "brand": "Nathan's Famous",
       "barcode": "888313914999",
-      "has_product_photo": true,
-      "photo": "catalog/items/888313914999/product.jpg",
-      "calories_per_serving": 130,
-      "path": "catalog/items/888313914999/"
+      "kcal_per_serving": 130,
+      "photo": "product.jpg",
+      "path": "items/888313914999/"
     },
     {
       "catalog_id": "888670012864",
       "name": "Wellsley Farms Homestyle Potato Salad",
       "brand": "Wellsley Farms / BJ's Wholesale Club",
       "barcode": "888670012864",
-      "has_product_photo": true,
-      "photo": "catalog/items/888670012864/product.jpg",
-      "calories_per_serving": 190,
-      "path": "catalog/items/888670012864/"
+      "kcal_per_serving": 190,
+      "photo": "product.jpg",
+      "path": "items/888670012864/"
     },
     {
       "catalog_id": "888670012901",
       "name": "Wellsley Farms Aegean Greek Pasta",
       "brand": "Wellsley Farms / BJ's Wholesale Club",
       "barcode": "888670012901",
-      "has_product_photo": true,
-      "photo": "catalog/items/888670012901/product.jpg",
-      "calories_per_serving": 390,
-      "path": "catalog/items/888670012901/"
+      "kcal_per_serving": 390,
+      "photo": "product.jpg",
+      "path": "items/888670012901/"
     },
     {
       "catalog_id": "888670053638",
       "name": "Wellsley Farms Gala Apples",
       "brand": "Wellsley Farms / BJ's Wholesale Club",
       "barcode": "888670053638",
-      "has_product_photo": true,
-      "photo": "catalog/items/888670053638/product.jpg",
-      "calories_per_serving": 95,
-      "path": "catalog/items/888670053638/"
+      "kcal_per_serving": 95,
+      "photo": "product.jpg",
+      "path": "items/888670053638/"
     },
     {
       "catalog_id": "id-baked-white-fish-herb-butter",
       "name": "Baked white fish with herb butter",
       "brand": null,
       "barcode": null,
-      "has_product_photo": true,
-      "photo": "catalog/items/id-baked-white-fish-herb-butter/product.jpg",
-      "calories_per_serving": 420,
-      "path": "catalog/items/id-baked-white-fish-herb-butter/"
+      "kcal_per_serving": 420,
+      "photo": "product.jpg",
+      "path": "items/id-baked-white-fish-herb-butter/"
     },
     {
       "catalog_id": "id-bunches-of-oats",
       "name": "Honey Bunches of Oats cereal",
       "brand": "Post",
       "barcode": "884912288424",
-      "has_product_photo": false,
+      "kcal_per_serving": 160,
       "photo": null,
-      "calories_per_serving": 160,
-      "path": "catalog/items/id-bunches-of-oats/"
+      "path": "items/id-bunches-of-oats/"
     },
     {
       "catalog_id": "id-cannoli",
       "name": "Cannoli",
       "brand": null,
       "barcode": null,
-      "has_product_photo": true,
-      "photo": "catalog/items/id-cannoli/product.jpg",
-      "calories_per_serving": 280,
-      "path": "catalog/items/id-cannoli/"
+      "kcal_per_serving": 280,
+      "photo": "product.jpg",
+      "path": "items/id-cannoli/"
     },
     {
       "catalog_id": "id-carrot-cake-slice",
       "name": "Carrot cake slice (dessert)",
       "brand": null,
       "barcode": null,
-      "has_product_photo": true,
-      "photo": "catalog/items/id-carrot-cake-slice/product.jpg",
-      "calories_per_serving": 680,
-      "path": "catalog/items/id-carrot-cake-slice/"
+      "kcal_per_serving": 680,
+      "photo": "product.jpg",
+      "path": "items/id-carrot-cake-slice/"
     },
     {
       "catalog_id": "id-chobani-low-fat-vanilla-greek-yogurt-mixed-berry-o",
       "name": "Chobani Low-Fat Vanilla Greek Yogurt Mixed Berry On The Bottom, Hero Batch 5.3oz 4PK",
       "brand": "Chobani",
       "barcode": null,
-      "has_product_photo": false,
+      "kcal_per_serving": 140,
       "photo": null,
-      "calories_per_serving": 140,
-      "path": "catalog/items/id-chobani-low-fat-vanilla-greek-yogurt-mixed-berry-o/"
+      "path": "items/id-chobani-low-fat-vanilla-greek-yogurt-mixed-berry-o/"
     },
     {
       "catalog_id": "id-chobani-nonfat-greek-key-lime",
       "name": "Chobani Non-Fat Greek Yogurt Key Lime, 4-Pack Cups",
       "brand": "Chobani",
       "barcode": null,
-      "has_product_photo": false,
+      "kcal_per_serving": 120,
       "photo": null,
-      "calories_per_serving": 120,
-      "path": "catalog/items/id-chobani-nonfat-greek-key-lime/"
+      "path": "items/id-chobani-nonfat-greek-key-lime/"
     },
     {
       "catalog_id": "id-coffee-with-milk",
       "name": "Coffee with milk (no sugar)",
       "brand": null,
       "barcode": null,
-      "has_product_photo": false,
+      "kcal_per_serving": 45,
       "photo": null,
-      "calories_per_serving": 45,
-      "path": "catalog/items/id-coffee-with-milk/"
+      "path": "items/id-coffee-with-milk/"
     },
     {
       "catalog_id": "id-creamy-coleslaw-side",
       "name": "Creamy coleslaw side",
       "brand": null,
       "barcode": null,
-      "has_product_photo": true,
-      "photo": "catalog/items/id-creamy-coleslaw-side/product.jpg",
-      "calories_per_serving": 110,
-      "path": "catalog/items/id-creamy-coleslaw-side/"
+      "kcal_per_serving": 110,
+      "photo": "product.jpg",
+      "path": "items/id-creamy-coleslaw-side/"
     },
     {
       "catalog_id": "id-egg-cheese-omelet",
       "name": "Egg and cheese omelet",
       "brand": null,
       "barcode": null,
-      "has_product_photo": false,
+      "kcal_per_serving": 350,
       "photo": null,
-      "calories_per_serving": 350,
-      "path": "catalog/items/id-egg-cheese-omelet/"
+      "path": "items/id-egg-cheese-omelet/"
     },
     {
       "catalog_id": "id-fasted-breakfast",
       "name": "Fasted breakfast",
       "brand": null,
       "barcode": null,
-      "has_product_photo": false,
+      "kcal_per_serving": 0,
       "photo": null,
-      "calories_per_serving": 0,
-      "path": "catalog/items/id-fasted-breakfast/"
+      "path": "items/id-fasted-breakfast/"
     },
     {
       "catalog_id": "id-festive-ground-turkey-frozen-1-lb-roll",
       "name": "FESTIVE Ground Turkey, Frozen, 1 lb Roll",
       "brand": "Festive",
       "barcode": null,
-      "has_product_photo": false,
+      "kcal_per_serving": 200,
       "photo": null,
-      "calories_per_serving": 200,
-      "path": "catalog/items/id-festive-ground-turkey-frozen-1-lb-roll/"
+      "path": "items/id-festive-ground-turkey-frozen-1-lb-roll/"
     },
     {
       "catalog_id": "id-french-toast-maple",
       "name": "French toast with real maple syrup",
       "brand": null,
       "barcode": null,
-      "has_product_photo": false,
+      "kcal_per_serving": 200,
       "photo": null,
-      "calories_per_serving": 200,
-      "path": "catalog/items/id-french-toast-maple/"
+      "path": "items/id-french-toast-maple/"
     },
     {
       "catalog_id": "id-fresh-cucumber-each",
       "name": "Fresh Cucumber, Each",
       "brand": "Fresh",
       "barcode": null,
-      "has_product_photo": false,
+      "kcal_per_serving": 45,
       "photo": null,
-      "calories_per_serving": 45,
-      "path": "catalog/items/id-fresh-cucumber-each/"
+      "path": "items/id-fresh-cucumber-each/"
     },
     {
       "catalog_id": "id-fresh-gala-apples-3-lb-bag",
       "name": "Fresh Gala Apples, 3 lb Bag",
       "brand": "Fresh",
       "barcode": null,
-      "has_product_photo": false,
+      "kcal_per_serving": 95,
       "photo": null,
-      "calories_per_serving": 95,
-      "path": "catalog/items/id-fresh-gala-apples-3-lb-bag/"
+      "path": "items/id-fresh-gala-apples-3-lb-bag/"
     },
     {
       "catalog_id": "id-fresh-hass-avocados-each",
       "name": "Fresh Hass Avocados, Each",
       "brand": "Fresh",
       "barcode": null,
-      "has_product_photo": false,
+      "kcal_per_serving": 227,
       "photo": null,
-      "calories_per_serving": 227,
-      "path": "catalog/items/id-fresh-hass-avocados-each/"
+      "path": "items/id-fresh-hass-avocados-each/"
     },
     {
       "catalog_id": "id-fresh-mandarin-oranges",
       "name": "Fresh Mandarin Oranges, 5 lb Bag",
       "brand": "Fresh",
       "barcode": null,
-      "has_product_photo": false,
+      "kcal_per_serving": 35,
       "photo": null,
-      "calories_per_serving": 35,
-      "path": "catalog/items/id-fresh-mandarin-oranges/"
+      "path": "items/id-fresh-mandarin-oranges/"
     },
     {
       "catalog_id": "id-fresh-mandarin-oranges-3-lb-bag-naturally-ripened",
       "name": "Fresh Mandarin Oranges, 3 lb Bag - Naturally Ripened Citrus Fruit",
       "brand": "Fresh",
       "barcode": null,
-      "has_product_photo": false,
+      "kcal_per_serving": 35,
       "photo": null,
-      "calories_per_serving": 35,
-      "path": "catalog/items/id-fresh-mandarin-oranges-3-lb-bag-naturally-ripened/"
+      "path": "items/id-fresh-mandarin-oranges-3-lb-bag-naturally-ripened/"
     },
     {
       "catalog_id": "id-fresh-mini-cucumbers",
       "name": "Fresh Mini Cucumbers, 16 oz",
       "brand": "Mucci Farms",
       "barcode": null,
-      "has_product_photo": false,
+      "kcal_per_serving": 8,
       "photo": null,
-      "calories_per_serving": 8,
-      "path": "catalog/items/id-fresh-mini-cucumbers/"
+      "path": "items/id-fresh-mini-cucumbers/"
     },
     {
       "catalog_id": "id-fresh-organic-mini-cucumbers-16-oz",
       "name": "Fresh Organic Mini Cucumbers, 16 oz",
       "brand": "Fresh",
       "barcode": null,
-      "has_product_photo": false,
+      "kcal_per_serving": 8,
       "photo": null,
-      "calories_per_serving": 8,
-      "path": "catalog/items/id-fresh-organic-mini-cucumbers-16-oz/"
+      "path": "items/id-fresh-organic-mini-cucumbers-16-oz/"
     },
     {
       "catalog_id": "id-fresh-produce-baby-peeled-carrots-1lb-bag",
       "name": "Fresh Produce, Baby Peeled Carrots, 1lb Bag",
       "brand": "Fresh",
       "barcode": null,
-      "has_product_photo": false,
+      "kcal_per_serving": 30,
       "photo": null,
-      "calories_per_serving": 30,
-      "path": "catalog/items/id-fresh-produce-baby-peeled-carrots-1lb-bag/"
+      "path": "items/id-fresh-produce-baby-peeled-carrots-1lb-bag/"
     },
     {
       "catalog_id": "id-fresh-usda-organic-strawberries-1-lb-container",
       "name": "Fresh USDA Organic Strawberries, 1 lb Container",
       "brand": "Fresh",
       "barcode": null,
-      "has_product_photo": false,
+      "kcal_per_serving": 46,
       "photo": null,
-      "calories_per_serving": 46,
-      "path": "catalog/items/id-fresh-usda-organic-strawberries-1-lb-container/"
+      "path": "items/id-fresh-usda-organic-strawberries-1-lb-container/"
     },
     {
       "catalog_id": "id-fresh-whole-portabella-mushroom-caps-6-oz",
       "name": "Fresh Whole Portabella Mushroom Caps, 6 oz",
       "brand": "Fresh",
       "barcode": null,
-      "has_product_photo": false,
+      "kcal_per_serving": 18,
       "photo": null,
-      "calories_per_serving": 18,
-      "path": "catalog/items/id-fresh-whole-portabella-mushroom-caps-6-oz/"
+      "path": "items/id-fresh-whole-portabella-mushroom-caps-6-oz/"
     },
     {
       "catalog_id": "id-fresh-whole-white-mushrooms",
       "name": "Fresh Whole White Mushrooms, 16 oz",
       "brand": "Monterey",
       "barcode": null,
-      "has_product_photo": false,
+      "kcal_per_serving": 15,
       "photo": null,
-      "calories_per_serving": 15,
-      "path": "catalog/items/id-fresh-whole-white-mushrooms/"
+      "path": "items/id-fresh-whole-white-mushrooms/"
     },
     {
       "catalog_id": "id-fried-eggs",
       "name": "Fried eggs",
       "brand": null,
       "barcode": null,
-      "has_product_photo": false,
+      "kcal_per_serving": 90,
       "photo": null,
-      "calories_per_serving": 90,
-      "path": "catalog/items/id-fried-eggs/"
+      "path": "items/id-fried-eggs/"
     },
     {
       "catalog_id": "id-frozen-apple-cider",
       "name": "Frozen apple cider",
       "brand": null,
       "barcode": null,
-      "has_product_photo": false,
+      "kcal_per_serving": 120,
       "photo": null,
-      "calories_per_serving": 120,
-      "path": "catalog/items/id-frozen-apple-cider/"
+      "path": "items/id-frozen-apple-cider/"
     },
     {
       "catalog_id": "id-great-value-100-pure-beef-burgers-85-lean-15-fat-3",
       "name": "Great Value 100% Pure Beef Burgers, 85% Lean/15% Fat, 3 lbs, 12 Count (Frozen)",
       "brand": "Great Value / Walmart",
       "barcode": null,
-      "has_product_photo": false,
+      "kcal_per_serving": 280,
       "photo": null,
-      "calories_per_serving": 280,
-      "path": "catalog/items/id-great-value-100-pure-beef-burgers-85-lean-15-fat-3/"
+      "path": "items/id-great-value-100-pure-beef-burgers-85-lean-15-fat-3/"
     },
     {
       "catalog_id": "id-great-value-canned-pineapple-chunks-in-pineapple-j",
       "name": "Great Value Canned Pineapple Chunks in Pineapple Juice, 20 oz",
       "brand": "Great Value / Walmart",
       "barcode": null,
-      "has_product_photo": false,
+      "kcal_per_serving": 70,
       "photo": null,
-      "calories_per_serving": 70,
-      "path": "catalog/items/id-great-value-canned-pineapple-chunks-in-pineapple-j/"
+      "path": "items/id-great-value-canned-pineapple-chunks-in-pineapple-j/"
     },
     {
       "catalog_id": "id-great-value-dry-roasted-and-unsalted-peanuts-16-oz",
       "name": "Great Value Dry Roasted and Unsalted Peanuts, 16 oz, Jar",
       "brand": "Great Value / Walmart",
       "barcode": null,
-      "has_product_photo": false,
+      "kcal_per_serving": 170,
       "photo": null,
-      "calories_per_serving": 170,
-      "path": "catalog/items/id-great-value-dry-roasted-and-unsalted-peanuts-16-oz/"
+      "path": "items/id-great-value-dry-roasted-and-unsalted-peanuts-16-oz/"
     },
     {
       "catalog_id": "id-great-value-extra-sharp-whole-white-cheddar-cheese",
       "name": "Great Value Extra Sharp Whole White Cheddar Cheese Block, 8 oz",
       "brand": "Great Value / Walmart",
       "barcode": null,
-      "has_product_photo": false,
+      "kcal_per_serving": 110,
       "photo": null,
-      "calories_per_serving": 110,
-      "path": "catalog/items/id-great-value-extra-sharp-whole-white-cheddar-cheese/"
+      "path": "items/id-great-value-extra-sharp-whole-white-cheddar-cheese/"
     },
     {
       "catalog_id": "id-great-value-fat-free-turkey-breast-16-oz-bag-slice",
       "name": "Great Value Fat-Free Turkey Breast, 16 oz Bag, Sliced",
       "brand": "Great Value / Walmart",
       "barcode": null,
-      "has_product_photo": false,
+      "kcal_per_serving": 50,
       "photo": null,
-      "calories_per_serving": 50,
-      "path": "catalog/items/id-great-value-fat-free-turkey-breast-16-oz-bag-slice/"
+      "path": "items/id-great-value-fat-free-turkey-breast-16-oz-bag-slice/"
     },
     {
       "catalog_id": "id-great-value-honey-ham-lunchmeat-plastic-tub-9-oz",
       "name": "Great Value Honey Ham Lunchmeat Plastic Tub, 9 oz",
       "brand": "Great Value / Walmart",
       "barcode": null,
-      "has_product_photo": false,
+      "kcal_per_serving": 60,
       "photo": null,
-      "calories_per_serving": 60,
-      "path": "catalog/items/id-great-value-honey-ham-lunchmeat-plastic-tub-9-oz/"
+      "path": "items/id-great-value-honey-ham-lunchmeat-plastic-tub-9-oz/"
     },
     {
       "catalog_id": "id-great-value-hot-dog-buns-white-11-oz-8-count",
       "name": "Great Value Hot Dog Buns, White, 11 oz, 8 Count",
       "brand": "Great Value / Walmart",
       "barcode": null,
-      "has_product_photo": false,
+      "kcal_per_serving": 110,
       "photo": null,
-      "calories_per_serving": 110,
-      "path": "catalog/items/id-great-value-hot-dog-buns-white-11-oz-8-count/"
+      "path": "items/id-great-value-hot-dog-buns-white-11-oz-8-count/"
     },
     {
       "catalog_id": "id-great-value-large-pitted-black-olives-6-oz",
       "name": "Great Value Large Pitted Black Olives, 6 oz",
       "brand": "Great Value / Walmart",
       "barcode": null,
-      "has_product_photo": false,
+      "kcal_per_serving": 25,
       "photo": null,
-      "calories_per_serving": 25,
-      "path": "catalog/items/id-great-value-large-pitted-black-olives-6-oz/"
+      "path": "items/id-great-value-large-pitted-black-olives-6-oz/"
     },
     {
       "catalog_id": "id-great-value-organic-lentils-15-oz-can",
       "name": "Great Value Organic Lentils, 15 oz Can",
       "brand": "Great Value / Walmart",
       "barcode": null,
-      "has_product_photo": false,
+      "kcal_per_serving": 110,
       "photo": null,
-      "calories_per_serving": 110,
-      "path": "catalog/items/id-great-value-organic-lentils-15-oz-can/"
+      "path": "items/id-great-value-organic-lentils-15-oz-can/"
     },
     {
       "catalog_id": "id-great-value-organic-roasted-garlic-pasta-sauce-24",
       "name": "(3 pack) Great Value Organic Roasted Garlic Pasta Sauce, 24 oz",
       "brand": "Great Value / Walmart",
       "barcode": null,
-      "has_product_photo": false,
+      "kcal_per_serving": 50,
       "photo": null,
-      "calories_per_serving": 50,
-      "path": "catalog/items/id-great-value-organic-roasted-garlic-pasta-sauce-24/"
+      "path": "items/id-great-value-organic-roasted-garlic-pasta-sauce-24/"
     },
     {
       "catalog_id": "id-great-value-organic-yellow-mustard-8-oz",
       "name": "Great Value Organic Yellow Mustard, 8 oz",
       "brand": "Great Value / Walmart",
       "barcode": null,
-      "has_product_photo": false,
+      "kcal_per_serving": 0,
       "photo": null,
-      "calories_per_serving": 0,
-      "path": "catalog/items/id-great-value-organic-yellow-mustard-8-oz/"
+      "path": "items/id-great-value-organic-yellow-mustard-8-oz/"
     },
     {
       "catalog_id": "id-great-value-swiss-deli-style-sliced-cheese-8-oz-pa",
       "name": "Great Value Swiss Deli Style Sliced Cheese, 8 oz Package 12 Slices",
       "brand": "Great Value / Walmart",
       "barcode": null,
-      "has_product_photo": false,
+      "kcal_per_serving": 70,
       "photo": null,
-      "calories_per_serving": 70,
-      "path": "catalog/items/id-great-value-swiss-deli-style-sliced-cheese-8-oz-pa/"
+      "path": "items/id-great-value-swiss-deli-style-sliced-cheese-8-oz-pa/"
     },
     {
       "catalog_id": "id-great-value-turkey-pepperoni-slices-5-oz",
       "name": "Great Value Turkey Pepperoni Slices, 5 oz",
       "brand": "Great Value / Walmart",
       "barcode": null,
-      "has_product_photo": false,
+      "kcal_per_serving": 70,
       "photo": null,
-      "calories_per_serving": 70,
-      "path": "catalog/items/id-great-value-turkey-pepperoni-slices-5-oz/"
+      "path": "items/id-great-value-turkey-pepperoni-slices-5-oz/"
     },
     {
       "catalog_id": "id-great-value-unsweetened-applesauce-50oz",
       "name": "Great Value Unsweetened Applesauce, 50 oz",
       "brand": "Great Value / Walmart",
       "barcode": null,
-      "has_product_photo": false,
+      "kcal_per_serving": 50,
       "photo": null,
-      "calories_per_serving": 50,
-      "path": "catalog/items/id-great-value-unsweetened-applesauce-50oz/"
+      "path": "items/id-great-value-unsweetened-applesauce-50oz/"
     },
     {
       "catalog_id": "id-green-beans-side",
       "name": "Green beans side",
       "brand": null,
       "barcode": null,
-      "has_product_photo": true,
-      "photo": "catalog/items/id-green-beans-side/product.jpg",
-      "calories_per_serving": 25,
-      "path": "catalog/items/id-green-beans-side/"
+      "kcal_per_serving": 25,
+      "photo": "product.jpg",
+      "path": "items/id-green-beans-side/"
     },
     {
       "catalog_id": "id-grilled-cheese-flatbread",
       "name": "Grilled cheese flatbread",
       "brand": null,
       "barcode": null,
-      "has_product_photo": false,
+      "kcal_per_serving": 380,
       "photo": null,
-      "calories_per_serving": 380,
-      "path": "catalog/items/id-grilled-cheese-flatbread/"
+      "path": "items/id-grilled-cheese-flatbread/"
+    },
+    {
+      "catalog_id": "id-happy-china-fish-chicken-veg",
+      "name": "Fish, chicken & Chinese vegetables (buffet plates)",
+      "brand": "Happy China Buffet",
+      "barcode": null,
+      "kcal_per_serving": 1800,
+      "photo": null,
+      "path": "items/id-happy-china-fish-chicken-veg/"
     },
     {
       "catalog_id": "id-jennie-o-turkey-hot-dogs-40-less-fat-refrigerated",
       "name": "JENNIE-O Turkey Hot Dogs, *40% Less Fat (8 Turkey Franks), Refrigerated, 16 oz Plastic Package",
       "brand": "Jennie-O",
       "barcode": null,
-      "has_product_photo": false,
+      "kcal_per_serving": 110,
       "photo": null,
-      "calories_per_serving": 110,
-      "path": "catalog/items/id-jennie-o-turkey-hot-dogs-40-less-fat-refrigerated/"
+      "path": "items/id-jennie-o-turkey-hot-dogs-40-less-fat-refrigerated/"
     },
     {
       "catalog_id": "id-kellogg-s-breakfast-cereal-kids-cereal-family-brea",
       "name": "Kellogg's Breakfast Cereal, Kids Cereal, Family Breakfast, Variety Pack, 8.56oz Tray (8 Boxes)",
       "brand": "Kellogg's",
       "barcode": null,
-      "has_product_photo": false,
+      "kcal_per_serving": 110,
       "photo": null,
-      "calories_per_serving": 110,
-      "path": "catalog/items/id-kellogg-s-breakfast-cereal-kids-cereal-family-brea/"
+      "path": "items/id-kellogg-s-breakfast-cereal-kids-cereal-family-brea/"
     },
     {
       "catalog_id": "id-liquid-i-v-orange-vanilla-dream-hydration-multipli",
       "name": "Liquid I.V.\u00ae Orange Vanilla Dream Hydration Multiplier\u00ae Powdered Electrolyte Drink Mix, 6 Count Packets",
       "brand": "Liquid I.V.",
       "barcode": null,
-      "has_product_photo": false,
+      "kcal_per_serving": 45,
       "photo": null,
-      "calories_per_serving": 45,
-      "path": "catalog/items/id-liquid-i-v-orange-vanilla-dream-hydration-multipli/"
+      "path": "items/id-liquid-i-v-orange-vanilla-dream-hydration-multipli/"
     },
     {
       "catalog_id": "id-marketside-fresh-organic-bananas-bunch",
       "name": "Marketside Fresh Organic Bananas, Bunch",
       "brand": "Marketside / Walmart",
       "barcode": null,
-      "has_product_photo": false,
+      "kcal_per_serving": 105,
       "photo": null,
-      "calories_per_serving": 105,
-      "path": "catalog/items/id-marketside-fresh-organic-bananas-bunch/"
+      "path": "items/id-marketside-fresh-organic-bananas-bunch/"
     },
     {
       "catalog_id": "id-mcintosh-apple",
       "name": "McIntosh apple",
       "brand": null,
       "barcode": null,
-      "has_product_photo": false,
+      "kcal_per_serving": 95,
       "photo": null,
-      "calories_per_serving": 95,
-      "path": "catalog/items/id-mcintosh-apple/"
+      "path": "items/id-mcintosh-apple/"
     },
     {
       "catalog_id": "id-mini-choc-chip-cookies",
       "name": "Mini chocolate chip cookies",
       "brand": null,
       "barcode": null,
-      "has_product_photo": false,
+      "kcal_per_serving": 50,
       "photo": null,
-      "calories_per_serving": 50,
-      "path": "catalog/items/id-mini-choc-chip-cookies/"
+      "path": "items/id-mini-choc-chip-cookies/"
     },
     {
       "catalog_id": "id-movie-drink-large",
       "name": "Movie theater drink (large)",
       "brand": null,
       "barcode": null,
-      "has_product_photo": false,
+      "kcal_per_serving": 350,
       "photo": null,
-      "calories_per_serving": 350,
-      "path": "catalog/items/id-movie-drink-large/"
+      "path": "items/id-movie-drink-large/"
     },
     {
       "catalog_id": "id-movie-popcorn-large",
       "name": "Movie theater popcorn (large)",
       "brand": null,
       "barcode": null,
-      "has_product_photo": false,
+      "kcal_per_serving": 1000,
       "photo": null,
-      "calories_per_serving": 1000,
-      "path": "catalog/items/id-movie-popcorn-large/"
+      "path": "items/id-movie-popcorn-large/"
     },
     {
       "catalog_id": "id-organic-marketside-fresh-baby-peeled-carrots-1-lb",
       "name": "Organic Marketside Fresh Baby Peeled Carrots, 1 lb Bag",
       "brand": "Marketside / Walmart",
       "barcode": null,
-      "has_product_photo": false,
+      "kcal_per_serving": 30,
       "photo": null,
-      "calories_per_serving": 30,
-      "path": "catalog/items/id-organic-marketside-fresh-baby-peeled-carrots-1-lb/"
+      "path": "items/id-organic-marketside-fresh-baby-peeled-carrots-1-lb/"
     },
     {
       "catalog_id": "id-parmalat-whole-milk-32-fl-oz",
       "name": "Parmalat Whole Milk, 32 fl oz (Shelf-Stable)",
       "brand": "Parmalat",
       "barcode": null,
-      "has_product_photo": false,
+      "kcal_per_serving": 150,
       "photo": null,
-      "calories_per_serving": 150,
-      "path": "catalog/items/id-parmalat-whole-milk-32-fl-oz/"
+      "path": "items/id-parmalat-whole-milk-32-fl-oz/"
     },
     {
       "catalog_id": "id-pizza-slice-supreme",
       "name": "Pizza slice (supreme / veggie + meat)",
       "brand": null,
       "barcode": null,
-      "has_product_photo": true,
-      "photo": "catalog/items/id-pizza-slice-supreme/product.jpg",
-      "calories_per_serving": 350,
-      "path": "catalog/items/id-pizza-slice-supreme/"
+      "kcal_per_serving": 350,
+      "photo": "product.jpg",
+      "path": "items/id-pizza-slice-supreme/"
     },
     {
       "catalog_id": "id-skipped-breakfast",
       "name": "Skipped breakfast",
       "brand": null,
       "barcode": null,
-      "has_product_photo": false,
+      "kcal_per_serving": 0,
       "photo": null,
-      "calories_per_serving": 0,
-      "path": "catalog/items/id-skipped-breakfast/"
+      "path": "items/id-skipped-breakfast/"
     },
     {
       "catalog_id": "id-skipped-lunch",
       "name": "Skipped lunch",
       "brand": null,
       "barcode": null,
-      "has_product_photo": false,
+      "kcal_per_serving": 0,
       "photo": null,
-      "calories_per_serving": 0,
-      "path": "catalog/items/id-skipped-lunch/"
+      "path": "items/id-skipped-lunch/"
     },
     {
       "catalog_id": "id-snickers-m-m-s-twix-fun-size-chocolate-candy-varie",
       "name": "Snickers, M&M's & Twix Fun Size Chocolate Candy Variety Pack, Sharing Size - 8.85 oz Bag",
       "brand": "Mars",
       "barcode": null,
-      "has_product_photo": false,
+      "kcal_per_serving": 80,
       "photo": null,
-      "calories_per_serving": 80,
-      "path": "catalog/items/id-snickers-m-m-s-twix-fun-size-chocolate-candy-varie/"
+      "path": "items/id-snickers-m-m-s-twix-fun-size-chocolate-candy-varie/"
     },
     {
       "catalog_id": "id-sweetarts-variety-party-mix-individually-wrapped-a",
       "name": "SweeTARTS Variety Party Mix, Individually Wrapped Assorted Candy, 28.6 Ounce (75 Count)",
       "brand": "SweeTARTS / Ferrara",
       "barcode": null,
-      "has_product_photo": false,
+      "kcal_per_serving": 15,
       "photo": null,
-      "calories_per_serving": 15,
-      "path": "catalog/items/id-sweetarts-variety-party-mix-individually-wrapped-a/"
+      "path": "items/id-sweetarts-variety-party-mix-individually-wrapped-a/"
     },
     {
       "catalog_id": "id-tartar-sauce",
       "name": "Tartar sauce",
       "brand": null,
       "barcode": null,
-      "has_product_photo": true,
-      "photo": "catalog/items/id-tartar-sauce/product.jpg",
-      "calories_per_serving": 150,
-      "path": "catalog/items/id-tartar-sauce/"
+      "kcal_per_serving": 150,
+      "photo": "product.jpg",
+      "path": "items/id-tartar-sauce/"
     },
     {
       "catalog_id": "id-teriyaki-beef-stick",
       "name": "Teriyaki beef stick",
       "brand": "Unknown (estimated as Jack Link's Teriyaki style)",
       "barcode": null,
-      "has_product_photo": false,
+      "kcal_per_serving": 110,
       "photo": null,
-      "calories_per_serving": 110,
-      "path": "catalog/items/id-teriyaki-beef-stick/"
+      "path": "items/id-teriyaki-beef-stick/"
     }
   ]
 }

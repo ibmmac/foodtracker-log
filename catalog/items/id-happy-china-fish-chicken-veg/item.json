@@ -1,0 +1,17 @@
+{
+  "catalog_id": "id-happy-china-fish-chicken-veg",
+  "id": "happy-china-fish-chicken-veg",
+  "name": "Fish, chicken & Chinese vegetables (buffet plates)",
+  "barcode": null,
+  "barcode_status": "no_photo",
+  "brand": "Happy China Buffet",
+  "nutrition_per_serving": {
+    "serving_size": "2 large plates",
+    "calories": 1800,
+    "protein_g": 95,
+    "total_carbohydrate_g": 110,
+    "total_fat_g": 100
+  },
+  "photo": null,
+  "notes": "Chinese buffet mix: fish, chicken, and Chinese vegetables across 2 large plates. Estimate without photo; oil/sauce heavy."
+}
