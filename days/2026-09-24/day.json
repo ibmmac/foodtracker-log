@@ -18,7 +18,7 @@
         "fat_g": 4
       },
       "source": "label",
-      "notes": "Label: 160 kcal per 1 cup. Dry, no milk logged.",
+      "notes": "Label: 160 kcal per 1 cup. Milk logged separately.",
       "time": "08:57",
       "timestamp": "2026-09-24T08:57:00-04:00"
     },
@@ -37,9 +37,28 @@
         "fat_g": 2
       },
       "source": "label",
-      "notes": "Label: 140 kcal per 3/4 cup. Dry, no milk logged.",
+      "notes": "Label: 140 kcal per 3/4 cup. Milk logged separately.",
       "time": "08:57",
       "timestamp": "2026-09-24T08:57:00-04:00"
+    },
+    {
+      "catalog_id": "078742352008",
+      "catalog_path": "catalog/items/078742352008/",
+      "name": "Great Value Whole Vitamin D Milk",
+      "amount_eaten": "~1.5 cups (with cereal)",
+      "servings_eaten": 1.5,
+      "meal": "breakfast",
+      "location": "home",
+      "logged": {
+        "calories": 225,
+        "protein_g": 12,
+        "carbs_g": 18,
+        "fat_g": 12
+      },
+      "source": "label",
+      "notes": "User confirmed milk with cereal; amount/type assumed (whole milk from purchase history, ~1.5 cups for 3 servings of cereal).",
+      "time": "08:59",
+      "timestamp": "2026-09-24T08:59:00-04:00"
     },
     {
       "catalog_id": "888670053638",
@@ -62,12 +81,12 @@
     }
   ],
   "totals": {
-    "calories": 555,
-    "protein_g": 8.5,
-    "carbs_g": 124,
-    "fat_g": 6.3,
-    "remaining_kcal": 945,
-    "percent_goal_remaining": 63.0,
-    "percent_goal_used": 37.0
+    "calories": 780,
+    "protein_g": 20.5,
+    "carbs_g": 142,
+    "fat_g": 18.3,
+    "remaining_kcal": 720,
+    "percent_goal_remaining": 48.0,
+    "percent_goal_used": 52.0
   }
 }
