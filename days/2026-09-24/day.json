@@ -1,0 +1,73 @@
+{
+  "date": "2026-09-24",
+  "timezone": "America/New_York",
+  "goal_kcal": 1500,
+  "entries": [
+    {
+      "catalog_id": "884912249272",
+      "catalog_path": "catalog/items/884912249272/",
+      "name": "Honey Bunches of Oats Honey Roasted",
+      "amount_eaten": "2 servings (2 cups, 82g)",
+      "servings_eaten": 2,
+      "meal": "breakfast",
+      "location": "home",
+      "logged": {
+        "calories": 320,
+        "protein_g": 6,
+        "carbs_g": 68,
+        "fat_g": 4
+      },
+      "source": "label",
+      "notes": "Label: 160 kcal per 1 cup. Dry, no milk logged.",
+      "time": "08:57",
+      "timestamp": "2026-09-24T08:57:00-04:00"
+    },
+    {
+      "catalog_id": "016000151284",
+      "catalog_path": "catalog/items/016000151284/",
+      "name": "Cocoa Puffs",
+      "amount_eaten": "1 serving (3/4 cup, 27g)",
+      "servings_eaten": 1,
+      "meal": "breakfast",
+      "location": "home",
+      "logged": {
+        "calories": 140,
+        "protein_g": 2,
+        "carbs_g": 31,
+        "fat_g": 2
+      },
+      "source": "label",
+      "notes": "Label: 140 kcal per 3/4 cup. Dry, no milk logged.",
+      "time": "08:57",
+      "timestamp": "2026-09-24T08:57:00-04:00"
+    },
+    {
+      "catalog_id": "888670053638",
+      "catalog_path": "catalog/items/888670053638/",
+      "name": "Wellsley Farms Gala Apples",
+      "amount_eaten": "1 medium apple",
+      "servings_eaten": 1,
+      "meal": "breakfast",
+      "location": "home",
+      "logged": {
+        "calories": 95,
+        "protein_g": 0.5,
+        "carbs_g": 25,
+        "fat_g": 0.3
+      },
+      "source": "usda_estimate",
+      "notes": "Gala apple, medium.",
+      "time": "08:57",
+      "timestamp": "2026-09-24T08:57:00-04:00"
+    }
+  ],
+  "totals": {
+    "calories": 555,
+    "protein_g": 8.5,
+    "carbs_g": 124,
+    "fat_g": 6.3,
+    "remaining_kcal": 945,
+    "percent_goal_remaining": 63.0,
+    "percent_goal_used": 37.0
+  }
+}
