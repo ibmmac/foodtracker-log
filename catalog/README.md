@@ -1,6 +1,6 @@
 # Food catalog
 
-**109 products** · machine index: [index.json](index.json)
+**111 products** · machine index: [index.json](index.json)
 
 | Product | Brand | Barcode | kcal/serving | Photo |
 |---------|-------|---------|--------------|-------|
@@ -58,6 +58,8 @@
 | [Honey Bunches of Oats cereal](items/id-bunches-of-oats/) | Post | 884912288424 | 160 | — |
 | [Cannoli](items/id-cannoli/) | — | — | 280 | yes |
 | [Carrot cake slice (dessert)](items/id-carrot-cake-slice/) | — | — | 680 | yes |
+| [Cherry ice cream](items/id-cherry-ice-cream-scoop/) | — | — | 170 | — |
+| [Chicken soft taco (lettuce & tomato)](items/id-chicken-soft-taco-lettuce-tomato/) | — | — | 170 | — |
 | [Chobani Low-Fat Vanilla Greek Yogurt Mixed Berry On The Bottom, Hero Batch 5.3oz 4PK](items/id-chobani-low-fat-vanilla-greek-yogurt-mixed-berry-o/) | Chobani | — | 140 | — |
 | [Chobani Non-Fat Greek Yogurt Key Lime, 4-Pack Cups](items/id-chobani-nonfat-greek-key-lime/) | Chobani | — | 120 | — |
 | [Coffee with milk (no sugar)](items/id-coffee-with-milk/) | — | — | 45 | — |

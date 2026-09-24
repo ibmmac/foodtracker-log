@@ -42,15 +42,78 @@
       "notes": "User reported skipping lunch",
       "time": "22:44",
       "timestamp": "2026-09-23T22:44:00-04:00"
+    },
+    {
+      "catalog_id": "id-chicken-soft-taco-lettuce-tomato",
+      "catalog_path": "catalog/items/id-chicken-soft-taco-lettuce-tomato/",
+      "id": "chicken-soft-taco-lettuce-tomato",
+      "name": "Chicken soft taco (lettuce & tomato)",
+      "amount_eaten": "3 small tacos",
+      "servings_eaten": 3,
+      "meal": "dinner",
+      "location": "other",
+      "location_note": "Parents' house",
+      "logged": {
+        "calories": 510,
+        "protein_g": 36,
+        "carbs_g": 48,
+        "fat_g": 21
+      },
+      "source": "estimate",
+      "notes": "3 small chicken softshell tacos with lettuce and tomato. ~170 kcal each.",
+      "time": "22:45",
+      "timestamp": "2026-09-23T22:45:00-04:00"
+    },
+    {
+      "catalog_id": "id-cherry-ice-cream-scoop",
+      "catalog_path": "catalog/items/id-cherry-ice-cream-scoop/",
+      "id": "cherry-ice-cream-scoop",
+      "name": "Cherry ice cream",
+      "amount_eaten": "2 scoops",
+      "servings_eaten": 2,
+      "meal": "snack",
+      "location": "other",
+      "location_note": "Parents' house",
+      "logged": {
+        "calories": 340,
+        "protein_g": 6,
+        "carbs_g": 40,
+        "fat_g": 18
+      },
+      "source": "estimate",
+      "notes": "Dessert: 2 scoops cherry ice cream. ~170 kcal/scoop estimate.",
+      "time": "22:45",
+      "timestamp": "2026-09-23T22:45:00-04:00"
+    },
+    {
+      "catalog_id": "id-marketside-fresh-organic-bananas-bunch",
+      "catalog_path": "catalog/items/id-marketside-fresh-organic-bananas-bunch/",
+      "id": "marketside-fresh-organic-bananas-bunch",
+      "name": "Marketside Fresh Organic Bananas, Bunch",
+      "amount_eaten": "1 medium",
+      "servings_eaten": 1,
+      "meal": "snack",
+      "location": "other",
+      "location_note": "Parents' house",
+      "logged": {
+        "calories": 105,
+        "protein_g": 1.3,
+        "carbs_g": 27.0,
+        "fat_g": 0.4
+      },
+      "source": "estimate",
+      "notes": "With cherry ice cream dessert.",
+      "time": "22:45",
+      "timestamp": "2026-09-23T22:45:00-04:00"
     }
   ],
   "totals": {
-    "calories": 0,
-    "protein_g": 0,
-    "carbs_g": 0,
-    "fat_g": 0,
-    "remaining_kcal": 1500,
-    "percent_goal_remaining": 100.0,
-    "percent_goal_used": 0.0
+    "calories": 955,
+    "protein_g": 43.3,
+    "carbs_g": 115.0,
+    "fat_g": 39.4,
+    "remaining_kcal": 545,
+    "percent_goal_remaining": 36.3,
+    "percent_goal_used": 63.7
   }
 }

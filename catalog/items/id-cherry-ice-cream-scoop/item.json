@@ -1,0 +1,16 @@
+{
+  "catalog_id": "id-cherry-ice-cream-scoop",
+  "id": "cherry-ice-cream-scoop",
+  "name": "Cherry ice cream",
+  "barcode": null,
+  "barcode_status": "no_photo",
+  "nutrition_per_serving": {
+    "serving_size": "1 scoop (~1/2 cup)",
+    "calories": 170,
+    "protein_g": 3,
+    "total_carbohydrate_g": 20,
+    "total_fat_g": 9
+  },
+  "photo": null,
+  "notes": "Typical cherry ice cream scoop estimate without brand/photo."
+}

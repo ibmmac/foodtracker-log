@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-22",
-  "count": 109,
+  "updated": "2026-09-23",
+  "count": 111,
   "products": [
     {
       "catalog_id": "013562000043",
@@ -487,6 +487,24 @@
       "kcal_per_serving": 680,
       "photo": "product.jpg",
       "path": "items/id-carrot-cake-slice/"
+    },
+    {
+      "catalog_id": "id-cherry-ice-cream-scoop",
+      "name": "Cherry ice cream",
+      "brand": null,
+      "barcode": null,
+      "kcal_per_serving": 170,
+      "photo": null,
+      "path": "items/id-cherry-ice-cream-scoop/"
+    },
+    {
+      "catalog_id": "id-chicken-soft-taco-lettuce-tomato",
+      "name": "Chicken soft taco (lettuce & tomato)",
+      "brand": null,
+      "barcode": null,
+      "kcal_per_serving": 170,
+      "photo": null,
+      "path": "items/id-chicken-soft-taco-lettuce-tomato/"
     },
     {
       "catalog_id": "id-chobani-low-fat-vanilla-greek-yogurt-mixed-berry-o",

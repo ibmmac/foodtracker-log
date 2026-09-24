@@ -1,0 +1,16 @@
+{
+  "catalog_id": "id-chicken-soft-taco-lettuce-tomato",
+  "id": "chicken-soft-taco-lettuce-tomato",
+  "name": "Chicken soft taco (lettuce & tomato)",
+  "barcode": null,
+  "barcode_status": "no_photo",
+  "nutrition_per_serving": {
+    "serving_size": "1 small taco",
+    "calories": 170,
+    "protein_g": 12,
+    "total_carbohydrate_g": 16,
+    "total_fat_g": 7
+  },
+  "photo": null,
+  "notes": "Small soft flour tortilla with chicken, lettuce, tomato. Homemade/parents estimate; no cheese/sour cream mentioned."
+}
