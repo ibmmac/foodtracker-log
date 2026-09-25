@@ -1,6 +1,6 @@
 # Food catalog
 
-**111 products** · machine index: [index.json](index.json)
+**113 products** · machine index: [index.json](index.json)
 
 | Product | Brand | Barcode | kcal/serving | Photo |
 |---------|-------|---------|--------------|-------|
@@ -62,6 +62,7 @@
 | [Chicken soft taco (lettuce & tomato)](items/id-chicken-soft-taco-lettuce-tomato/) | — | — | 170 | — |
 | [Chobani Low-Fat Vanilla Greek Yogurt Mixed Berry On The Bottom, Hero Batch 5.3oz 4PK](items/id-chobani-low-fat-vanilla-greek-yogurt-mixed-berry-o/) | Chobani | — | 140 | — |
 | [Chobani Non-Fat Greek Yogurt Key Lime, 4-Pack Cups](items/id-chobani-nonfat-greek-key-lime/) | Chobani | — | 120 | — |
+| [Coffee with cream (no sugar)](items/id-coffee-with-cream/) | — | — | 42 | — |
 | [Coffee with milk (no sugar)](items/id-coffee-with-milk/) | — | — | 45 | — |
 | [Creamy coleslaw side](items/id-creamy-coleslaw-side/) | — | — | 110 | yes |
 | [Egg and cheese omelet](items/id-egg-cheese-omelet/) | — | — | 350 | — |
@@ -98,6 +99,7 @@
 | [Green beans side](items/id-green-beans-side/) | — | — | 25 | yes |
 | [Grilled cheese flatbread](items/id-grilled-cheese-flatbread/) | — | — | 380 | — |
 | [Fish, chicken & Chinese vegetables (buffet plates)](items/id-happy-china-fish-chicken-veg/) | Happy China Buffet | — | 1800 | — |
+| [Hard-boiled egg (large)](items/id-hard-boiled-egg-large/) | — | — | 78 | — |
 | [JENNIE-O Turkey Hot Dogs, *40% Less Fat (8 Turkey Franks), Refrigerated, 16 oz Plastic Package](items/id-jennie-o-turkey-hot-dogs-40-less-fat-refrigerated/) | Jennie-O | — | 110 | — |
 | [Kellogg's Breakfast Cereal, Kids Cereal, Family Breakfast, Variety Pack, 8.56oz Tray (8 Boxes)](items/id-kellogg-s-breakfast-cereal-kids-cereal-family-brea/) | Kellogg's | — | 110 | — |
 | [Liquid I.V.® Orange Vanilla Dream Hydration Multiplier® Powdered Electrolyte Drink Mix, 6 Count Packets](items/id-liquid-i-v-orange-vanilla-dream-hydration-multipli/) | Liquid I.V. | — | 45 | — |

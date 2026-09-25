@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-23",
-  "count": 111,
+  "updated": "2026-09-25",
+  "count": 113,
   "products": [
     {
       "catalog_id": "013562000043",
@@ -525,6 +525,15 @@
       "path": "items/id-chobani-nonfat-greek-key-lime/"
     },
     {
+      "catalog_id": "id-coffee-with-cream",
+      "name": "Coffee with cream (no sugar)",
+      "brand": null,
+      "barcode": null,
+      "kcal_per_serving": 42,
+      "photo": null,
+      "path": "items/id-coffee-with-cream/"
+    },
+    {
       "catalog_id": "id-coffee-with-milk",
       "name": "Coffee with milk (no sugar)",
       "brand": null,
@@ -847,6 +856,15 @@
       "kcal_per_serving": 1800,
       "photo": null,
       "path": "items/id-happy-china-fish-chicken-veg/"
+    },
+    {
+      "catalog_id": "id-hard-boiled-egg-large",
+      "name": "Hard-boiled egg (large)",
+      "brand": null,
+      "barcode": null,
+      "kcal_per_serving": 78,
+      "photo": null,
+      "path": "items/id-hard-boiled-egg-large/"
     },
     {
       "catalog_id": "id-jennie-o-turkey-hot-dogs-40-less-fat-refrigerated",

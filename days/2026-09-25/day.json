@@ -1,0 +1,56 @@
+{
+  "date": "2026-09-25",
+  "timezone": "America/New_York",
+  "goal_kcal": 1500,
+  "entries": [
+    {
+      "catalog_id": "id-hard-boiled-egg-large",
+      "catalog_path": "catalog/items/id-hard-boiled-egg-large/",
+      "name": "Hard-boiled egg (large)",
+      "amount_eaten": "3 large eggs",
+      "servings_eaten": 3,
+      "meal": "breakfast",
+      "location": "other",
+      "location_note": "Joe's house",
+      "logged": {
+        "calories": 234,
+        "protein_g": 18.9,
+        "carbs_g": 1.8,
+        "fat_g": 15.9
+      },
+      "source": "usda_estimate",
+      "notes": "3 large hard-boiled eggs, ~78 kcal each (USDA).",
+      "time": "09:00",
+      "timestamp": "2026-09-25T09:00:00-04:00"
+    },
+    {
+      "catalog_id": "id-coffee-with-cream",
+      "catalog_path": "catalog/items/id-coffee-with-cream/",
+      "name": "Coffee with cream (no sugar)",
+      "amount_eaten": "1 cup",
+      "servings_eaten": 1,
+      "meal": "breakfast",
+      "location": "other",
+      "location_note": "Joe's house",
+      "logged": {
+        "calories": 42,
+        "protein_g": 1.2,
+        "carbs_g": 1.3,
+        "fat_g": 3.5
+      },
+      "source": "estimate",
+      "notes": "Black coffee with cream, no sugar. Estimate: brewed coffee ~2 kcal + ~2 tbsp half-and-half ~40 kcal; cream type and amount assumed.",
+      "time": "09:00",
+      "timestamp": "2026-09-25T09:00:00-04:00"
+    }
+  ],
+  "totals": {
+    "calories": 276,
+    "protein_g": 20.1,
+    "carbs_g": 3.1,
+    "fat_g": 19.4,
+    "remaining_kcal": 1224,
+    "percent_goal_remaining": 81.6,
+    "percent_goal_used": 18.4
+  }
+}

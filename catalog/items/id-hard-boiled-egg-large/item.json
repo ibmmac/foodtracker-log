@@ -1,0 +1,18 @@
+{
+  "catalog_id": "id-hard-boiled-egg-large",
+  "id": "hard-boiled-egg-large",
+  "name": "Hard-boiled egg (large)",
+  "barcode": null,
+  "barcode_status": "no_photo",
+  "serving_size": "1 large egg (~50g)",
+  "nutrition_per_serving": {
+    "calories": 78,
+    "protein_g": 6.3,
+    "total_carbohydrate_g": 0.6,
+    "total_fat_g": 5.3,
+    "notes": "USDA estimate for 1 large hard-boiled egg"
+  },
+  "photo": null,
+  "photo_credit": null,
+  "notes": "Generic large hard-boiled egg (not the packaged Easy Eggs product, 046025202462, which is a smaller 44g egg at 60 kcal)"
+}

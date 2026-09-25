@@ -78,15 +78,55 @@
       "notes": "Gala apple, medium.",
       "time": "08:57",
       "timestamp": "2026-09-24T08:57:00-04:00"
+    },
+    {
+      "catalog_id": "074030656209",
+      "catalog_path": "catalog/items/074030656209/",
+      "name": "Galbani Reduced Fat Cheese Sticks",
+      "amount_eaten": "4 sticks",
+      "servings_eaten": 4,
+      "meal": "dinner",
+      "location": "home",
+      "logged": {
+        "calories": 240,
+        "protein_g": 24,
+        "carbs_g": 0,
+        "fat_g": 16
+      },
+      "source": "label",
+      "notes": "Label: 60 kcal per stick. Reported by Mitch the next morning (2026-09-25); dinner time approximate.",
+      "time": "18:00",
+      "timestamp": "2026-09-24T18:00:00-04:00",
+      "logged_late": true
+    },
+    {
+      "catalog_id": "888670053638",
+      "catalog_path": "catalog/items/888670053638/",
+      "name": "Wellsley Farms Gala Apples",
+      "amount_eaten": "2 medium apples",
+      "servings_eaten": 2,
+      "meal": "dinner",
+      "location": "home",
+      "logged": {
+        "calories": 190,
+        "protein_g": 1.0,
+        "carbs_g": 50,
+        "fat_g": 0.6
+      },
+      "source": "usda_estimate",
+      "notes": "Gala apple, medium, 95 kcal each. Reported by Mitch the next morning (2026-09-25); dinner time approximate.",
+      "time": "18:00",
+      "timestamp": "2026-09-24T18:00:00-04:00",
+      "logged_late": true
     }
   ],
   "totals": {
-    "calories": 780,
-    "protein_g": 20.5,
-    "carbs_g": 142,
-    "fat_g": 18.3,
-    "remaining_kcal": 720,
-    "percent_goal_remaining": 48.0,
-    "percent_goal_used": 52.0
+    "calories": 1210,
+    "protein_g": 45.5,
+    "carbs_g": 192,
+    "fat_g": 34.9,
+    "remaining_kcal": 290,
+    "percent_goal_remaining": 19.3,
+    "percent_goal_used": 80.7
   }
 }
