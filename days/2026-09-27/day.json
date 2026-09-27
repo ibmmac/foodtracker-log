@@ -1,0 +1,130 @@
+{
+  "date": "2026-09-27",
+  "timezone": "America/New_York",
+  "goal_kcal": 1500,
+  "entries": [
+    {
+      "catalog_id": "013562000043",
+      "catalog_path": "catalog/items/013562000043/",
+      "name": "Annie's Shells & White Cheddar Macaroni & Cheese",
+      "amount_eaten": "1 whole box (6 oz, 2.5 servings dry mix)",
+      "servings_eaten": 2.5,
+      "meal": "breakfast",
+      "location": "home",
+      "logged": {
+        "calories": 650,
+        "protein_g": 22.5,
+        "carbs_g": 120,
+        "fat_g": 8.8
+      },
+      "source": "label",
+      "notes": "Whole box: 2.5 \u00d7 260 kcal As Packaged (label has no As Prepared figures). Butter and milk for preparation logged separately. Variety assumed from purchase history (the only Annie's product Mitch has bought). Reported by Mitch at 09:45; breakfast time approximate.",
+      "time": "09:00",
+      "timestamp": "2026-09-27T09:00:00-04:00"
+    },
+    {
+      "catalog_id": "078742374192",
+      "catalog_path": "catalog/items/078742374192/",
+      "name": "Great Value Sweet Cream Salted Butter",
+      "amount_eaten": "2 tbsp (added to mac and cheese)",
+      "servings_eaten": 2,
+      "meal": "breakfast",
+      "location": "home",
+      "logged": {
+        "calories": 200,
+        "protein_g": 0,
+        "carbs_g": 0,
+        "fat_g": 22
+      },
+      "source": "label",
+      "notes": "Assumed: mac and cheese prepared per box directions with ~2 tbsp butter; not reported by Mitch, remove if made without butter. Reported by Mitch at 09:45; breakfast time approximate.",
+      "time": "09:00",
+      "timestamp": "2026-09-27T09:00:00-04:00"
+    },
+    {
+      "catalog_id": "078742352008",
+      "catalog_path": "catalog/items/078742352008/",
+      "name": "Great Value Whole Vitamin D Milk",
+      "amount_eaten": "1/4 cup (added to mac and cheese)",
+      "servings_eaten": 0.25,
+      "meal": "breakfast",
+      "location": "home",
+      "logged": {
+        "calories": 38,
+        "protein_g": 2,
+        "carbs_g": 3,
+        "fat_g": 2
+      },
+      "source": "label",
+      "notes": "Assumed: ~1/4 cup whole milk added per box directions; milk type and amount not reported by Mitch. Reported by Mitch at 09:45; breakfast time approximate.",
+      "time": "09:00",
+      "timestamp": "2026-09-27T09:00:00-04:00"
+    },
+    {
+      "catalog_id": "id-whole-grain-crackers",
+      "catalog_path": "catalog/items/id-whole-grain-crackers/",
+      "name": "Whole-grain crackers",
+      "amount_eaten": "1 serving",
+      "servings_eaten": 1,
+      "meal": "breakfast",
+      "location": "home",
+      "logged": {
+        "calories": 120,
+        "protein_g": 3,
+        "carbs_g": 20,
+        "fat_g": 4
+      },
+      "source": "estimate",
+      "notes": "Brand unknown; ~120 kcal per serving (same item as 2026-09-26). Reported by Mitch at 09:45; breakfast time approximate.",
+      "time": "09:00",
+      "timestamp": "2026-09-27T09:00:00-04:00"
+    },
+    {
+      "catalog_id": "id-grapes",
+      "catalog_path": "catalog/items/id-grapes/",
+      "name": "Grapes (red or green, seedless)",
+      "amount_eaten": "3 cups (3 servings)",
+      "servings_eaten": 3,
+      "meal": "breakfast",
+      "location": "home",
+      "logged": {
+        "calories": 312,
+        "protein_g": 3.3,
+        "carbs_g": 81.9,
+        "fat_g": 0.6
+      },
+      "source": "usda_estimate",
+      "notes": "3 servings at 1 cup (~151 g) each, ~104 kcal per cup. Reported by Mitch at 09:45; breakfast time approximate.",
+      "time": "09:00",
+      "timestamp": "2026-09-27T09:00:00-04:00"
+    },
+    {
+      "catalog_id": "id-wellsley-farms-cheese",
+      "catalog_path": "catalog/items/id-wellsley-farms-cheese/",
+      "name": "Wellsley Farms cheese (type unknown)",
+      "amount_eaten": "1 serving (1 oz)",
+      "servings_eaten": 1,
+      "meal": "breakfast",
+      "location": "home",
+      "logged": {
+        "calories": 110,
+        "protein_g": 7,
+        "carbs_g": 0,
+        "fat_g": 9
+      },
+      "source": "estimate",
+      "notes": "Reported as \"Wesley farms cheese\" (Wellsley Farms, BJ's store brand); cheese type unknown, generic ~110 kcal/oz estimate. Reported by Mitch at 09:45; breakfast time approximate.",
+      "time": "09:00",
+      "timestamp": "2026-09-27T09:00:00-04:00"
+    }
+  ],
+  "totals": {
+    "calories": 1430,
+    "protein_g": 37.8,
+    "carbs_g": 224.9,
+    "fat_g": 46.4,
+    "remaining_kcal": 70,
+    "percent_goal_remaining": 4.7,
+    "percent_goal_used": 95.3
+  }
+}

@@ -1,13 +1,13 @@
 {
   "updated": "2026-09-27",
-  "count": 119,
+  "count": 121,
   "products": [
     {
       "catalog_id": "013562000043",
       "name": "Annie's Shells & White Cheddar Macaroni & Cheese Made with Organic Pasta",
       "brand": "Annie's / General Mills",
       "barcode": "013562000043",
-      "kcal_per_serving": 270,
+      "kcal_per_serving": 260,
       "photo": "product.jpg",
       "path": "items/013562000043/"
     },
@@ -714,6 +714,15 @@
       "path": "items/id-frozen-apple-cider/"
     },
     {
+      "catalog_id": "id-grapes",
+      "name": "Grapes (red or green, seedless)",
+      "brand": null,
+      "barcode": null,
+      "kcal_per_serving": 104,
+      "photo": null,
+      "path": "items/id-grapes/"
+    },
+    {
       "catalog_id": "id-great-value-100-pure-beef-burgers-85-lean-15-fat-3",
       "name": "Great Value 100% Pure Beef Burgers, 85% Lean/15% Fat, 3 lbs, 12 Count (Frozen)",
       "brand": "Great Value / Walmart",
@@ -1063,6 +1072,15 @@
       "kcal_per_serving": 110,
       "photo": null,
       "path": "items/id-teriyaki-beef-stick/"
+    },
+    {
+      "catalog_id": "id-wellsley-farms-cheese",
+      "name": "Wellsley Farms cheese (type unknown)",
+      "brand": "Wellsley Farms / BJ's Wholesale Club",
+      "barcode": null,
+      "kcal_per_serving": 110,
+      "photo": null,
+      "path": "items/id-wellsley-farms-cheese/"
     },
     {
       "catalog_id": "id-whole-grain-crackers",

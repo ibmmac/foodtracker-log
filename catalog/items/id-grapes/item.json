@@ -1,0 +1,20 @@
+{
+  "catalog_id": "id-grapes",
+  "id": "grapes",
+  "name": "Grapes (red or green, seedless)",
+  "brand": null,
+  "barcode": null,
+  "barcode_status": "no_photo",
+  "serving_size": "1 cup (~151 g)",
+  "nutrition_per_serving": {
+    "calories": 104,
+    "protein_g": 1.1,
+    "total_carbohydrate_g": 27.3,
+    "total_fat_g": 0.2,
+    "dietary_fiber_g": 1.4,
+    "notes": "USDA estimate for 1 cup raw grapes (~151 g); variety unknown"
+  },
+  "photo": null,
+  "photo_credit": null,
+  "notes": "USDA estimate for 1 cup raw grapes (~151 g); variety unknown"
+}

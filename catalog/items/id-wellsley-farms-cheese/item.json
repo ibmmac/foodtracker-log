@@ -1,0 +1,19 @@
+{
+  "catalog_id": "id-wellsley-farms-cheese",
+  "id": "wellsley-farms-cheese",
+  "name": "Wellsley Farms cheese (type unknown)",
+  "brand": "Wellsley Farms / BJ's Wholesale Club",
+  "barcode": null,
+  "barcode_status": "no_photo",
+  "serving_size": "1 oz (28 g)",
+  "nutrition_per_serving": {
+    "calories": 110,
+    "protein_g": 7,
+    "total_carbohydrate_g": 0,
+    "total_fat_g": 9,
+    "notes": "Generic estimate (~110 kcal / oz, cheddar-style); Wellsley Farms cheese type and label not known"
+  },
+  "photo": null,
+  "photo_credit": null,
+  "notes": "Generic estimate (~110 kcal / oz, cheddar-style); Wellsley Farms cheese type and label not known"
+}

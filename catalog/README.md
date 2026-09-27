@@ -1,10 +1,10 @@
 # Food catalog
 
-**119 products** · machine index: [index.json](index.json)
+**121 products** · machine index: [index.json](index.json)
 
 | Product | Brand | Barcode | kcal/serving | Photo |
 |---------|-------|---------|--------------|-------|
-| [Annie's Shells & White Cheddar Macaroni & Cheese Made with Organic Pasta](items/013562000043/) | Annie's / General Mills | 013562000043 | 270 | yes |
+| [Annie's Shells & White Cheddar Macaroni & Cheese Made with Organic Pasta](items/013562000043/) | Annie's / General Mills | 013562000043 | 260 | yes |
 | [Dave's Killer Bread White Bread Done Right Organic Bread Loaf, Organic White Bread, 24 oz, Shelf-Stable (24 ounce)](items/013764027220/) | Dave's Killer Bread | 013764027220 | 110 | yes |
 | [Mott's No Sugar Added Applesauce, 46 Ounce, Jar](items/014800001846/) | Mott's | 014800001846 | 50 | yes |
 | [Cocoa Puffs Chocolatey Breakfast Cereal Made with Whole Grain, 10.4 oz](items/016000151284/) | Cocoa Puffs / General Mills | 016000151284 | 140 | yes |
@@ -83,6 +83,7 @@
 | [Fresh Whole White Mushrooms, 16 oz](items/id-fresh-whole-white-mushrooms/) | Monterey | — | 15 | — |
 | [Fried eggs](items/id-fried-eggs/) | — | — | 90 | — |
 | [Frozen apple cider](items/id-frozen-apple-cider/) | — | — | 120 | — |
+| [Grapes (red or green, seedless)](items/id-grapes/) | — | — | 104 | — |
 | [Great Value 100% Pure Beef Burgers, 85% Lean/15% Fat, 3 lbs, 12 Count (Frozen)](items/id-great-value-100-pure-beef-burgers-85-lean-15-fat-3/) | Great Value / Walmart | — | 280 | — |
 | [Great Value Canned Pineapple Chunks in Pineapple Juice, 20 oz](items/id-great-value-canned-pineapple-chunks-in-pineapple-j/) | Great Value / Walmart | — | 70 | — |
 | [Great Value Dry Roasted and Unsalted Peanuts, 16 oz, Jar](items/id-great-value-dry-roasted-and-unsalted-peanuts-16-oz/) | Great Value / Walmart | — | 170 | — |
@@ -122,4 +123,5 @@
 | [SweeTARTS Variety Party Mix, Individually Wrapped Assorted Candy, 28.6 Ounce (75 Count)](items/id-sweetarts-variety-party-mix-individually-wrapped-a/) | SweeTARTS / Ferrara | — | 15 | — |
 | [Tartar sauce](items/id-tartar-sauce/) | — | — | 150 | yes |
 | [Teriyaki beef stick](items/id-teriyaki-beef-stick/) | Unknown (estimated as Jack Link's Teriyaki style) | — | 110 | — |
+| [Wellsley Farms cheese (type unknown)](items/id-wellsley-farms-cheese/) | Wellsley Farms / BJ's Wholesale Club | — | 110 | — |
 | [Whole-grain crackers](items/id-whole-grain-crackers/) | — | — | 120 | — |
