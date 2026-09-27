@@ -1,0 +1,19 @@
+{
+  "catalog_id": "id-whole-grain-crackers",
+  "id": "whole-grain-crackers",
+  "name": "Whole-grain crackers",
+  "brand": null,
+  "barcode": null,
+  "barcode_status": "no_photo",
+  "serving_size": "1 serving (~28-30 g)",
+  "nutrition_per_serving": {
+    "calories": 120,
+    "protein_g": 3,
+    "total_carbohydrate_g": 20,
+    "total_fat_g": 4,
+    "notes": "Generic estimate for whole-grain crackers (e.g. Triscuit style, ~120 kcal / serving); brand unknown"
+  },
+  "photo": null,
+  "photo_credit": null,
+  "notes": "Generic estimate for whole-grain crackers (e.g. Triscuit style, ~120 kcal / serving); brand unknown"
+}

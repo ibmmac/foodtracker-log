@@ -1,0 +1,19 @@
+{
+  "catalog_id": "id-mini-mango-fruit-bar",
+  "id": "mini-mango-fruit-bar",
+  "name": "Mini mango all-fruit bar",
+  "brand": null,
+  "barcode": null,
+  "barcode_status": "no_photo",
+  "serving_size": "1 mini bar",
+  "nutrition_per_serving": {
+    "calories": 50,
+    "protein_g": 0,
+    "total_carbohydrate_g": 12,
+    "total_fat_g": 0,
+    "notes": "Estimate for a mini all-fruit mango bar (e.g. Trader Joe's / That's It style); brand and size unknown"
+  },
+  "photo": null,
+  "photo_credit": null,
+  "notes": "Estimate for a mini all-fruit mango bar (e.g. Trader Joe's / That's It style); brand and size unknown"
+}

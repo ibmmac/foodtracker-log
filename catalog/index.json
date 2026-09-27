@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-25",
-  "count": 113,
+  "updated": "2026-09-27",
+  "count": 119,
   "products": [
     {
       "catalog_id": "013562000043",
@@ -489,6 +489,15 @@
       "path": "items/id-carrot-cake-slice/"
     },
     {
+      "catalog_id": "id-cashews",
+      "name": "Cashews",
+      "brand": null,
+      "barcode": null,
+      "kcal_per_serving": 160,
+      "photo": null,
+      "path": "items/id-cashews/"
+    },
+    {
       "catalog_id": "id-cherry-ice-cream-scoop",
       "name": "Cherry ice cream",
       "brand": null,
@@ -921,6 +930,15 @@
       "path": "items/id-mini-choc-chip-cookies/"
     },
     {
+      "catalog_id": "id-mini-mango-fruit-bar",
+      "name": "Mini mango all-fruit bar",
+      "brand": null,
+      "barcode": null,
+      "kcal_per_serving": 50,
+      "photo": null,
+      "path": "items/id-mini-mango-fruit-bar/"
+    },
+    {
       "catalog_id": "id-movie-drink-large",
       "name": "Movie theater drink (large)",
       "brand": null,
@@ -939,6 +957,15 @@
       "path": "items/id-movie-popcorn-large/"
     },
     {
+      "catalog_id": "id-organic-blue-corn-chips",
+      "name": "Organic blue corn tortilla chips",
+      "brand": null,
+      "barcode": null,
+      "kcal_per_serving": 140,
+      "photo": null,
+      "path": "items/id-organic-blue-corn-chips/"
+    },
+    {
       "catalog_id": "id-organic-marketside-fresh-baby-peeled-carrots-1-lb",
       "name": "Organic Marketside Fresh Baby Peeled Carrots, 1 lb Bag",
       "brand": "Marketside / Walmart",
@@ -955,6 +982,15 @@
       "kcal_per_serving": 150,
       "photo": null,
       "path": "items/id-parmalat-whole-milk-32-fl-oz/"
+    },
+    {
+      "catalog_id": "id-pear-medium",
+      "name": "Pear (medium)",
+      "brand": null,
+      "barcode": null,
+      "kcal_per_serving": 101,
+      "photo": null,
+      "path": "items/id-pear-medium/"
     },
     {
       "catalog_id": "id-pizza-slice-supreme",
@@ -982,6 +1018,15 @@
       "kcal_per_serving": 0,
       "photo": null,
       "path": "items/id-skipped-lunch/"
+    },
+    {
+      "catalog_id": "id-smoked-almonds",
+      "name": "Smoked almonds",
+      "brand": null,
+      "barcode": null,
+      "kcal_per_serving": 170,
+      "photo": null,
+      "path": "items/id-smoked-almonds/"
     },
     {
       "catalog_id": "id-snickers-m-m-s-twix-fun-size-chocolate-candy-varie",
@@ -1018,6 +1063,15 @@
       "kcal_per_serving": 110,
       "photo": null,
       "path": "items/id-teriyaki-beef-stick/"
+    },
+    {
+      "catalog_id": "id-whole-grain-crackers",
+      "name": "Whole-grain crackers",
+      "brand": null,
+      "barcode": null,
+      "kcal_per_serving": 120,
+      "photo": null,
+      "path": "items/id-whole-grain-crackers/"
     }
   ]
 }

@@ -1,0 +1,168 @@
+{
+  "date": "2026-09-26",
+  "timezone": "America/New_York",
+  "goal_kcal": 1500,
+  "entries": [
+    {
+      "catalog_id": "888670053638",
+      "catalog_path": "catalog/items/888670053638/",
+      "name": "Wellsley Farms Gala Apples",
+      "amount_eaten": "4 medium apples",
+      "servings_eaten": 4,
+      "meal": "snack",
+      "location": "home",
+      "logged": {
+        "calories": 380,
+        "protein_g": 2.0,
+        "carbs_g": 100,
+        "fat_g": 1.2
+      },
+      "source": "usda_estimate",
+      "notes": "Gala apple, medium, 95 kcal each. Reported by Mitch the next morning (2026-09-27); no meal time given, logged as snack (time of day unknown).",
+      "timestamp": "2026-09-27T09:43:00-04:00",
+      "logged_late": true
+    },
+    {
+      "catalog_id": "id-pear-medium",
+      "catalog_path": "catalog/items/id-pear-medium/",
+      "name": "Pear (medium)",
+      "amount_eaten": "2 medium pears",
+      "servings_eaten": 2,
+      "meal": "snack",
+      "location": "home",
+      "logged": {
+        "calories": 202,
+        "protein_g": 1.2,
+        "carbs_g": 54,
+        "fat_g": 0.6
+      },
+      "source": "usda_estimate",
+      "notes": "USDA medium pear, ~101 kcal each. Reported by Mitch the next morning (2026-09-27); no meal time given, logged as snack (time of day unknown).",
+      "timestamp": "2026-09-27T09:43:00-04:00",
+      "logged_late": true
+    },
+    {
+      "catalog_id": "074030656209",
+      "catalog_path": "catalog/items/074030656209/",
+      "name": "Galbani Reduced Fat Cheese Sticks",
+      "amount_eaten": "5 sticks",
+      "servings_eaten": 5,
+      "meal": "snack",
+      "location": "home",
+      "logged": {
+        "calories": 300,
+        "protein_g": 30,
+        "carbs_g": 0,
+        "fat_g": 20
+      },
+      "source": "label",
+      "notes": "Mitch said 5 servings of cheese; cheese type assumed to be Galbani reduced fat sticks (60 kcal each), the cheese he has been eating recently. Reported by Mitch the next morning (2026-09-27); no meal time given, logged as snack (time of day unknown).",
+      "timestamp": "2026-09-27T09:43:00-04:00",
+      "logged_late": true
+    },
+    {
+      "catalog_id": "id-organic-blue-corn-chips",
+      "catalog_path": "catalog/items/id-organic-blue-corn-chips/",
+      "name": "Organic blue corn tortilla chips",
+      "amount_eaten": "1 serving (1 oz)",
+      "servings_eaten": 1,
+      "meal": "snack",
+      "location": "home",
+      "logged": {
+        "calories": 140,
+        "protein_g": 2,
+        "carbs_g": 18,
+        "fat_g": 7
+      },
+      "source": "estimate",
+      "notes": "Brand unknown; generic 1 oz estimate. Reported by Mitch the next morning (2026-09-27); no meal time given, logged as snack (time of day unknown).",
+      "timestamp": "2026-09-27T09:43:00-04:00",
+      "logged_late": true
+    },
+    {
+      "catalog_id": "id-mini-mango-fruit-bar",
+      "catalog_path": "catalog/items/id-mini-mango-fruit-bar/",
+      "name": "Mini mango all-fruit bar",
+      "amount_eaten": "1 mini bar",
+      "servings_eaten": 1,
+      "meal": "snack",
+      "location": "home",
+      "logged": {
+        "calories": 50,
+        "protein_g": 0,
+        "carbs_g": 12,
+        "fat_g": 0
+      },
+      "source": "estimate",
+      "notes": "Estimate; brand and size unknown. Reported by Mitch the next morning (2026-09-27); no meal time given, logged as snack (time of day unknown).",
+      "timestamp": "2026-09-27T09:43:00-04:00",
+      "logged_late": true
+    },
+    {
+      "catalog_id": "id-cashews",
+      "catalog_path": "catalog/items/id-cashews/",
+      "name": "Cashews",
+      "amount_eaten": "1 serving (1 oz)",
+      "servings_eaten": 1,
+      "meal": "snack",
+      "location": "home",
+      "logged": {
+        "calories": 160,
+        "protein_g": 5,
+        "carbs_g": 9,
+        "fat_g": 13
+      },
+      "source": "estimate",
+      "notes": "Assumed 1 oz serving. Reported by Mitch the next morning (2026-09-27); no meal time given, logged as snack (time of day unknown).",
+      "timestamp": "2026-09-27T09:43:00-04:00",
+      "logged_late": true
+    },
+    {
+      "catalog_id": "id-smoked-almonds",
+      "catalog_path": "catalog/items/id-smoked-almonds/",
+      "name": "Smoked almonds",
+      "amount_eaten": "1 serving (1 oz)",
+      "servings_eaten": 1,
+      "meal": "snack",
+      "location": "home",
+      "logged": {
+        "calories": 170,
+        "protein_g": 6,
+        "carbs_g": 5,
+        "fat_g": 15
+      },
+      "source": "estimate",
+      "notes": "Assumed 1 oz serving. Reported by Mitch the next morning (2026-09-27); no meal time given, logged as snack (time of day unknown).",
+      "timestamp": "2026-09-27T09:43:00-04:00",
+      "logged_late": true
+    },
+    {
+      "catalog_id": "id-whole-grain-crackers",
+      "catalog_path": "catalog/items/id-whole-grain-crackers/",
+      "name": "Whole-grain crackers",
+      "amount_eaten": "2 servings",
+      "servings_eaten": 2,
+      "meal": "snack",
+      "location": "home",
+      "logged": {
+        "calories": 240,
+        "protein_g": 6,
+        "carbs_g": 40,
+        "fat_g": 8
+      },
+      "source": "estimate",
+      "notes": "Reported as \"full grain crackers\"; brand unknown, ~120 kcal per serving. Reported by Mitch the next morning (2026-09-27); no meal time given, logged as snack (time of day unknown).",
+      "timestamp": "2026-09-27T09:43:00-04:00",
+      "logged_late": true
+    }
+  ],
+  "totals": {
+    "calories": 1642,
+    "protein_g": 52.2,
+    "carbs_g": 238,
+    "fat_g": 64.8,
+    "remaining_kcal": -142,
+    "percent_goal_remaining": -9.5,
+    "percent_goal_used": 109.5
+  }
+}

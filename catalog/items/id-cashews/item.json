@@ -1,0 +1,19 @@
+{
+  "catalog_id": "id-cashews",
+  "id": "cashews",
+  "name": "Cashews",
+  "brand": null,
+  "barcode": null,
+  "barcode_status": "no_photo",
+  "serving_size": "1 oz (28 g)",
+  "nutrition_per_serving": {
+    "calories": 160,
+    "protein_g": 5,
+    "total_carbohydrate_g": 9,
+    "total_fat_g": 13,
+    "notes": "Generic estimate for 1 oz cashews; brand and roasting/salt unknown"
+  },
+  "photo": null,
+  "photo_credit": null,
+  "notes": "Generic estimate for 1 oz cashews; brand and roasting/salt unknown"
+}

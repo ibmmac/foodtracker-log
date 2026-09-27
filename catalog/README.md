@@ -1,6 +1,6 @@
 # Food catalog
 
-**113 products** · machine index: [index.json](index.json)
+**119 products** · machine index: [index.json](index.json)
 
 | Product | Brand | Barcode | kcal/serving | Photo |
 |---------|-------|---------|--------------|-------|
@@ -58,6 +58,7 @@
 | [Honey Bunches of Oats cereal](items/id-bunches-of-oats/) | Post | 884912288424 | 160 | — |
 | [Cannoli](items/id-cannoli/) | — | — | 280 | yes |
 | [Carrot cake slice (dessert)](items/id-carrot-cake-slice/) | — | — | 680 | yes |
+| [Cashews](items/id-cashews/) | — | — | 160 | — |
 | [Cherry ice cream](items/id-cherry-ice-cream-scoop/) | — | — | 170 | — |
 | [Chicken soft taco (lettuce & tomato)](items/id-chicken-soft-taco-lettuce-tomato/) | — | — | 170 | — |
 | [Chobani Low-Fat Vanilla Greek Yogurt Mixed Berry On The Bottom, Hero Batch 5.3oz 4PK](items/id-chobani-low-fat-vanilla-greek-yogurt-mixed-berry-o/) | Chobani | — | 140 | — |
@@ -106,14 +107,19 @@
 | [Marketside Fresh Organic Bananas, Bunch](items/id-marketside-fresh-organic-bananas-bunch/) | Marketside / Walmart | — | 105 | — |
 | [McIntosh apple](items/id-mcintosh-apple/) | — | — | 95 | — |
 | [Mini chocolate chip cookies](items/id-mini-choc-chip-cookies/) | — | — | 50 | — |
+| [Mini mango all-fruit bar](items/id-mini-mango-fruit-bar/) | — | — | 50 | — |
 | [Movie theater drink (large)](items/id-movie-drink-large/) | — | — | 350 | — |
 | [Movie theater popcorn (large)](items/id-movie-popcorn-large/) | — | — | 1000 | — |
+| [Organic blue corn tortilla chips](items/id-organic-blue-corn-chips/) | — | — | 140 | — |
 | [Organic Marketside Fresh Baby Peeled Carrots, 1 lb Bag](items/id-organic-marketside-fresh-baby-peeled-carrots-1-lb/) | Marketside / Walmart | — | 30 | — |
 | [Parmalat Whole Milk, 32 fl oz (Shelf-Stable)](items/id-parmalat-whole-milk-32-fl-oz/) | Parmalat | — | 150 | — |
+| [Pear (medium)](items/id-pear-medium/) | — | — | 101 | — |
 | [Pizza slice (supreme / veggie + meat)](items/id-pizza-slice-supreme/) | — | — | 350 | yes |
 | [Skipped breakfast](items/id-skipped-breakfast/) | — | — | 0 | — |
 | [Skipped lunch](items/id-skipped-lunch/) | — | — | 0 | — |
+| [Smoked almonds](items/id-smoked-almonds/) | — | — | 170 | — |
 | [Snickers, M&M's & Twix Fun Size Chocolate Candy Variety Pack, Sharing Size - 8.85 oz Bag](items/id-snickers-m-m-s-twix-fun-size-chocolate-candy-varie/) | Mars | — | 80 | — |
 | [SweeTARTS Variety Party Mix, Individually Wrapped Assorted Candy, 28.6 Ounce (75 Count)](items/id-sweetarts-variety-party-mix-individually-wrapped-a/) | SweeTARTS / Ferrara | — | 15 | — |
 | [Tartar sauce](items/id-tartar-sauce/) | — | — | 150 | yes |
 | [Teriyaki beef stick](items/id-teriyaki-beef-stick/) | Unknown (estimated as Jack Link's Teriyaki style) | — | 110 | — |
+| [Whole-grain crackers](items/id-whole-grain-crackers/) | — | — | 120 | — |

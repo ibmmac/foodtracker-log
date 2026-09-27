@@ -1,0 +1,19 @@
+{
+  "catalog_id": "id-organic-blue-corn-chips",
+  "id": "organic-blue-corn-chips",
+  "name": "Organic blue corn tortilla chips",
+  "brand": null,
+  "barcode": null,
+  "barcode_status": "no_photo",
+  "serving_size": "1 oz (28 g, ~12 chips)",
+  "nutrition_per_serving": {
+    "calories": 140,
+    "protein_g": 2,
+    "total_carbohydrate_g": 18,
+    "total_fat_g": 7,
+    "notes": "Generic estimate for organic blue corn tortilla chips (~140 kcal / oz); brand unknown"
+  },
+  "photo": null,
+  "photo_credit": null,
+  "notes": "Generic estimate for organic blue corn tortilla chips (~140 kcal / oz); brand unknown"
+}

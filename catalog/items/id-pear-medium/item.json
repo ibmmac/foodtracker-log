@@ -1,0 +1,20 @@
+{
+  "catalog_id": "id-pear-medium",
+  "id": "pear-medium",
+  "name": "Pear (medium)",
+  "brand": null,
+  "barcode": null,
+  "barcode_status": "no_photo",
+  "serving_size": "1 medium pear (~178 g) with skin",
+  "nutrition_per_serving": {
+    "calories": 101,
+    "protein_g": 0.6,
+    "total_carbohydrate_g": 27,
+    "total_fat_g": 0.3,
+    "dietary_fiber_g": 5.5,
+    "notes": "USDA medium raw pear with skin"
+  },
+  "photo": null,
+  "photo_credit": null,
+  "notes": "USDA medium raw pear with skin"
+}

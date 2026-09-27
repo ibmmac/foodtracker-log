@@ -1,0 +1,19 @@
+{
+  "catalog_id": "id-smoked-almonds",
+  "id": "smoked-almonds",
+  "name": "Smoked almonds",
+  "brand": null,
+  "barcode": null,
+  "barcode_status": "no_photo",
+  "serving_size": "1 oz (28 g)",
+  "nutrition_per_serving": {
+    "calories": 170,
+    "protein_g": 6,
+    "total_carbohydrate_g": 5,
+    "total_fat_g": 15,
+    "notes": "Generic estimate for 1 oz smoked almonds (e.g. Blue Diamond Smokehouse style); brand unknown"
+  },
+  "photo": null,
+  "photo_credit": null,
+  "notes": "Generic estimate for 1 oz smoked almonds (e.g. Blue Diamond Smokehouse style); brand unknown"
+}
