@@ -1,0 +1,31 @@
+{
+  "catalog_id": "038000281792",
+  "id": "kelloggs-cocoa-krispies-family-size-19-oz",
+  "name": "Kellogg's Cocoa Krispies Chocolatey Flavor Breakfast Cereal, Low Fat, Family Size, 19 oz",
+  "brand": "Kellogg's",
+  "walmart_item_id": "1830399123",
+  "walmart_url": "https://www.walmart.com/ip/Kellogg-s-Cocoa-Krispies-Breakfast-Cereal-Kids-Snacks-Family-Breakfast-Family-Size-Chocolatey-Flavor-19oz-Box-1-Box/1830399123",
+  "product_url": "https://www.walmart.com/ip/Kellogg-s-Cocoa-Krispies-Breakfast-Cereal-Kids-Snacks-Family-Breakfast-Family-Size-Chocolatey-Flavor-19oz-Box-1-Box/1830399123",
+  "purchase_refs": [
+    {
+      "orderId": "2000154-02677512",
+      "date": "2026-10-01",
+      "walmartItemId": "1830399123"
+    }
+  ],
+  "barcode": "038000281792",
+  "barcode_format": "UPC-A",
+  "barcode_status": null,
+  "photo": null,
+  "source_notes": "Walmart product_id 1830399123; UPC 038000281792 (Target/OFF).",
+  "serving_size": "1 cup (40 g)",
+  "nutrition_per_serving": {
+    "calories": 150,
+    "total_fat_g": 1.0,
+    "sodium_mg": 170,
+    "total_carbohydrate_g": 35,
+    "total_sugars_g": 15,
+    "protein_g": 2,
+    "notes": "Open Food Facts 038000281792 / Kellogg label; ~150 kcal per 1 cup (40 g)."
+  }
+}

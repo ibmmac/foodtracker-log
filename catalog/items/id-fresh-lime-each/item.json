@@ -1,0 +1,32 @@
+{
+  "catalog_id": "id-fresh-lime-each",
+  "id": "fresh-lime-each",
+  "name": "Fresh Lime, Each",
+  "brand": null,
+  "walmart_item_id": "44391008",
+  "walmart_url": "https://www.walmart.com/ip/Fresh-Lime-Each/44391008",
+  "product_url": "https://www.walmart.com/ip/Fresh-Lime-Each/44391008",
+  "purchase_refs": [
+    {
+      "orderId": "2000154-02677512",
+      "date": "2026-10-01",
+      "walmartItemId": "44391008"
+    }
+  ],
+  "barcode": null,
+  "barcode_status": "no_photo",
+  "photo": null,
+  "source_notes": "Walmart product_id 44391008; produce; UPC N/A.",
+  "serving_size": "1 lime (\u224867 g)",
+  "nutrition_per_serving": {
+    "calories": 20,
+    "total_fat_g": 0.1,
+    "total_carbohydrate_g": 7,
+    "dietary_fiber_g": 1.9,
+    "total_sugars_g": 1.1,
+    "protein_g": 0.5,
+    "potassium_mg": 68,
+    "vitamin_c_mg": 19.5,
+    "notes": "USDA raw lime, 1 fruit (67 g) \u2248 20 kcal."
+  }
+}

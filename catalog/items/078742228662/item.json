@@ -1,0 +1,30 @@
+{
+  "catalog_id": "078742228662",
+  "id": "great-value-distilled-white-vinegar-64-fl-oz",
+  "name": "Great Value Distilled White Vinegar, 64 fl oz",
+  "brand": "Great Value / Walmart",
+  "walmart_item_id": "10450989",
+  "walmart_url": "https://www.walmart.com/ip/Great-Value-Distilled-White-Vinegar-64-fl-oz/10450989",
+  "product_url": "https://www.walmart.com/ip/Great-Value-Distilled-White-Vinegar-64-fl-oz/10450989",
+  "purchase_refs": [
+    {
+      "orderId": "2000154-02677512",
+      "date": "2026-10-01",
+      "walmartItemId": "10450989"
+    }
+  ],
+  "barcode": "078742228662",
+  "barcode_format": "UPC-A",
+  "barcode_status": null,
+  "photo": null,
+  "source_notes": "Walmart product_id 10450989; UPC 078742228662 (upcitemdb / FoodDB). Culinary vinegar counted as food.",
+  "serving_size": "1 tbsp (15 mL)",
+  "nutrition_per_serving": {
+    "calories": 0,
+    "total_fat_g": 0,
+    "sodium_mg": 0,
+    "total_carbohydrate_g": 0,
+    "protein_g": 0,
+    "notes": "Distilled white vinegar 5% acidity; 0 kcal per tbsp typical."
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "catalog_id": "id-fresh-seedless-watermelon-each",
+  "id": "fresh-seedless-watermelon-each",
+  "name": "Fresh Seedless Watermelon, Each",
+  "brand": null,
+  "walmart_item_id": "44391101",
+  "walmart_url": "https://www.walmart.com/ip/Fresh-Seedless-Watermelon-Each/44391101",
+  "product_url": "https://www.walmart.com/ip/Fresh-Seedless-Watermelon-Each/44391101",
+  "purchase_refs": [
+    {
+      "orderId": "2000154-02677512",
+      "date": "2026-10-01",
+      "walmartItemId": "44391101"
+    }
+  ],
+  "barcode": null,
+  "barcode_status": "no_photo",
+  "photo": null,
+  "source_notes": "Walmart product_id 44391101; produce; UPC N/A. Substitution for Mini Seedless Watermelon in order 2000154-02677512.",
+  "serving_size": "1 cup diced (152 g)",
+  "nutrition_per_serving": {
+    "calories": 46,
+    "total_fat_g": 0.2,
+    "total_carbohydrate_g": 11.5,
+    "dietary_fiber_g": 0.6,
+    "total_sugars_g": 9.4,
+    "protein_g": 0.9,
+    "potassium_mg": 170,
+    "notes": "USDA watermelon raw, 1 cup diced (~152 g) \u2248 46 kcal. Whole melon not a single serving."
+  }
+}

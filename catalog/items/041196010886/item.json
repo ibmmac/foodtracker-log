@@ -1,0 +1,35 @@
+{
+  "catalog_id": "041196010886",
+  "id": "progresso-traditional-chicken-noodle-soup-19-oz",
+  "name": "(4 pack) Progresso Traditional Chicken Noodle Canned Soup, 19 oz",
+  "brand": "Progresso / General Mills",
+  "walmart_item_id": "10320599",
+  "walmart_url": "https://www.walmart.com/ip/Progresso-Traditional-Chicken-Noodle-Soup-19-oz/10320599",
+  "product_url": "https://www.walmart.com/ip/Progresso-Traditional-Chicken-Noodle-Soup-19-oz/10320599",
+  "purchase_refs": [
+    {
+      "orderId": "2000154-02677512",
+      "date": "2026-10-01",
+      "walmartItemId": "10320599"
+    }
+  ],
+  "barcode": "041196010886",
+  "barcode_format": "UPC-A",
+  "barcode_status": null,
+  "photo": null,
+  "source_notes": "Walmart product_id 10320599 (4-pack listing); single-can UPC 041196010886 commonly used for this SKU.",
+  "serving_size": "1 cup (242 g)",
+  "nutrition_per_serving": {
+    "calories": 100,
+    "total_fat_g": 2.5,
+    "saturated_fat_g": 1.0,
+    "cholesterol_mg": 25,
+    "sodium_mg": 660,
+    "total_carbohydrate_g": 13,
+    "dietary_fiber_g": 1,
+    "total_sugars_g": 1,
+    "protein_g": 7,
+    "potassium_mg": 350,
+    "notes": "Progresso label per 1 cup; ~2 servings per 19 oz can. Catalog entry is for the 4-pack purchase unit; nutrition is per cup."
+  }
+}

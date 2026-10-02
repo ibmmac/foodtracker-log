@@ -1,0 +1,38 @@
+{
+  "catalog_id": "884912356185",
+  "id": "cocoa-pebbles-chocolate-gluten-free-27-5-oz",
+  "name": "Cocoa PEBBLES Chocolate Gluten Free Breakfast Cereal, 27.5 oz Box",
+  "brand": "Cocoa PEBBLES / Post",
+  "walmart_item_id": "459577247",
+  "walmart_url": "https://www.walmart.com/ip/Post-Cocoa-PEBBLES-Cereal-Chocolatey-Kids-Cereal-Gluten-Free-Crunchy-27-5-oz-Mega-Size-Box/459577247",
+  "product_url": "https://www.walmart.com/ip/Post-Cocoa-PEBBLES-Cereal-Chocolatey-Kids-Cereal-Gluten-Free-Crunchy-27-5-oz-Mega-Size-Box/459577247",
+  "purchase_refs": [
+    {
+      "orderId": "2000154-02677512",
+      "date": "2026-10-01",
+      "walmartItemId": "459577247"
+    }
+  ],
+  "barcode": "884912356185",
+  "barcode_format": "UPC-A",
+  "barcode_status": null,
+  "photo": null,
+  "source_notes": "Walmart product_id 459577247; UPC 884912356185 from retailer listings (King Soopers / OFF). Distinct from Cocoa Puffs 016000151284.",
+  "serving_size": "1 cup (36 g)",
+  "nutrition_per_serving": {
+    "calories": 140,
+    "total_fat_g": 1.5,
+    "saturated_fat_g": 0,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 0,
+    "sodium_mg": 220,
+    "total_carbohydrate_g": 31,
+    "dietary_fiber_g": 1,
+    "total_sugars_g": 12,
+    "added_sugars_g": 12,
+    "protein_g": 2,
+    "iron_mg": 2.7,
+    "potassium_mg": 60,
+    "notes": "Post Cocoa PEBBLES label / Open Food Facts 884912356185; 1 cup (36 g)."
+  }
+}

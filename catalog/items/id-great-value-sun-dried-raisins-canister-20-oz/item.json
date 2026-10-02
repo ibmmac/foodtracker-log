@@ -1,0 +1,32 @@
+{
+  "catalog_id": "id-great-value-sun-dried-raisins-canister-20-oz",
+  "id": "great-value-sun-dried-raisins-canister-20-oz",
+  "name": "Great Value Sun-Dried Raisins Canister, 20 oz (1lb 4oz) 567g",
+  "brand": "Great Value / Walmart",
+  "walmart_item_id": "20896168",
+  "walmart_url": "https://www.walmart.com/ip/Great-Value-Sun-Dried-Raisins-Canister-20-oz/20896168",
+  "product_url": "https://www.walmart.com/ip/Great-Value-Sun-Dried-Raisins-Canister-20-oz/20896168",
+  "purchase_refs": [
+    {
+      "orderId": "2000154-02677512",
+      "date": "2026-10-01",
+      "walmartItemId": "20896168"
+    }
+  ],
+  "barcode": null,
+  "barcode_status": "no_photo",
+  "photo": null,
+  "source_notes": "Walmart product_id 20896168; UPC not confidently resolved.",
+  "serving_size": "1/4 cup (40 g)",
+  "nutrition_per_serving": {
+    "calories": 130,
+    "total_fat_g": 0,
+    "sodium_mg": 10,
+    "total_carbohydrate_g": 31,
+    "dietary_fiber_g": 2,
+    "total_sugars_g": 29,
+    "protein_g": 1,
+    "potassium_mg": 310,
+    "notes": "Typical GV / generic raisins label ~130 kcal per 1/4 cup (40 g); confirm on package."
+  }
+}

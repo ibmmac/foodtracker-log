@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-27",
-  "count": 121,
+  "updated": "2026-10-02",
+  "count": 132,
   "products": [
     {
       "catalog_id": "013562000043",
@@ -75,6 +75,15 @@
       "path": "items/034000290055/"
     },
     {
+      "catalog_id": "038000281792",
+      "name": "Kellogg's Cocoa Krispies Chocolatey Flavor Breakfast Cereal, Low Fat, Family Size, 19 oz",
+      "brand": "Kellogg's",
+      "barcode": "038000281792",
+      "kcal_per_serving": 150,
+      "photo": null,
+      "path": "items/038000281792/"
+    },
+    {
       "catalog_id": "038900772208",
       "name": "Dole Fruit Bowls Snacks",
       "brand": "Dole",
@@ -82,6 +91,15 @@
       "kcal_per_serving": 70,
       "photo": "product.jpg",
       "path": "items/038900772208/"
+    },
+    {
+      "catalog_id": "041196010886",
+      "name": "(4 pack) Progresso Traditional Chicken Noodle Canned Soup, 19 oz",
+      "brand": "Progresso / General Mills",
+      "barcode": "041196010886",
+      "kcal_per_serving": 100,
+      "photo": null,
+      "path": "items/041196010886/"
     },
     {
       "catalog_id": "041789002311",
@@ -300,6 +318,15 @@
       "path": "items/078742141404/"
     },
     {
+      "catalog_id": "078742228662",
+      "name": "Great Value Distilled White Vinegar, 64 fl oz",
+      "brand": "Great Value / Walmart",
+      "barcode": "078742228662",
+      "kcal_per_serving": 0,
+      "photo": null,
+      "path": "items/078742228662/"
+    },
+    {
       "catalog_id": "078742232973",
       "name": "Great Value Hamburger Dill Chip Pickles, 32 fl oz",
       "brand": "Great Value / Walmart",
@@ -415,6 +442,15 @@
       "kcal_per_serving": 160,
       "photo": "product.jpg",
       "path": "items/884912249272/"
+    },
+    {
+      "catalog_id": "884912356185",
+      "name": "Cocoa PEBBLES Chocolate Gluten Free Breakfast Cereal, 27.5 oz Box",
+      "brand": "Cocoa PEBBLES / Post",
+      "barcode": "884912356185",
+      "kcal_per_serving": 140,
+      "photo": null,
+      "path": "items/884912356185/"
     },
     {
       "catalog_id": "888313914999",
@@ -597,6 +633,15 @@
       "path": "items/id-french-toast-maple/"
     },
     {
+      "catalog_id": "id-fresh-cantaloupe-each",
+      "name": "Fresh Cantaloupe, Each",
+      "brand": null,
+      "barcode": null,
+      "kcal_per_serving": 54,
+      "photo": null,
+      "path": "items/id-fresh-cantaloupe-each/"
+    },
+    {
       "catalog_id": "id-fresh-cucumber-each",
       "name": "Fresh Cucumber, Each",
       "brand": "Fresh",
@@ -622,6 +667,15 @@
       "kcal_per_serving": 227,
       "photo": null,
       "path": "items/id-fresh-hass-avocados-each/"
+    },
+    {
+      "catalog_id": "id-fresh-lime-each",
+      "name": "Fresh Lime, Each",
+      "brand": null,
+      "barcode": null,
+      "kcal_per_serving": 20,
+      "photo": null,
+      "path": "items/id-fresh-lime-each/"
     },
     {
       "catalog_id": "id-fresh-mandarin-oranges",
@@ -667,6 +721,15 @@
       "kcal_per_serving": 30,
       "photo": null,
       "path": "items/id-fresh-produce-baby-peeled-carrots-1lb-bag/"
+    },
+    {
+      "catalog_id": "id-fresh-seedless-watermelon-each",
+      "name": "Fresh Seedless Watermelon, Each",
+      "brand": null,
+      "barcode": null,
+      "kcal_per_serving": 46,
+      "photo": null,
+      "path": "items/id-fresh-seedless-watermelon-each/"
     },
     {
       "catalog_id": "id-fresh-usda-organic-strawberries-1-lb-container",
@@ -750,6 +813,15 @@
       "path": "items/id-great-value-dry-roasted-and-unsalted-peanuts-16-oz/"
     },
     {
+      "catalog_id": "id-great-value-earl-grey-black-tea-bags-40-count",
+      "name": "Great Value Earl Grey Black Tea Bags, 2.54 oz, 40 Count",
+      "brand": "Great Value / Walmart",
+      "barcode": null,
+      "kcal_per_serving": 0,
+      "photo": null,
+      "path": "items/id-great-value-earl-grey-black-tea-bags-40-count/"
+    },
+    {
       "catalog_id": "id-great-value-extra-sharp-whole-white-cheddar-cheese",
       "name": "Great Value Extra Sharp Whole White Cheddar Cheese Block, 8 oz",
       "brand": "Great Value / Walmart",
@@ -795,6 +867,15 @@
       "path": "items/id-great-value-large-pitted-black-olives-6-oz/"
     },
     {
+      "catalog_id": "id-great-value-lemon-ginger-tea-bags-40-count",
+      "name": "Great Value Lemon & Ginger Tea Bags, 40 Count",
+      "brand": "Great Value / Walmart",
+      "barcode": null,
+      "kcal_per_serving": 0,
+      "photo": null,
+      "path": "items/id-great-value-lemon-ginger-tea-bags-40-count/"
+    },
+    {
       "catalog_id": "id-great-value-organic-lentils-15-oz-can",
       "name": "Great Value Organic Lentils, 15 oz Can",
       "brand": "Great Value / Walmart",
@@ -820,6 +901,24 @@
       "kcal_per_serving": 0,
       "photo": null,
       "path": "items/id-great-value-organic-yellow-mustard-8-oz/"
+    },
+    {
+      "catalog_id": "id-great-value-pomegranate-blueberry-herbal-tea-20-count",
+      "name": "Great Value Pomegranate Blueberry Herbal Tea, 1.41 oz, 20 Count",
+      "brand": "Great Value / Walmart",
+      "barcode": null,
+      "kcal_per_serving": 0,
+      "photo": null,
+      "path": "items/id-great-value-pomegranate-blueberry-herbal-tea-20-count/"
+    },
+    {
+      "catalog_id": "id-great-value-sun-dried-raisins-canister-20-oz",
+      "name": "Great Value Sun-Dried Raisins Canister, 20 oz (1lb 4oz) 567g",
+      "brand": "Great Value / Walmart",
+      "barcode": null,
+      "kcal_per_serving": 130,
+      "photo": null,
+      "path": "items/id-great-value-sun-dried-raisins-canister-20-oz/"
     },
     {
       "catalog_id": "id-great-value-swiss-deli-style-sliced-cheese-8-oz-pa",

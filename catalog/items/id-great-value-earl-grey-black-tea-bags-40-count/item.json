@@ -1,0 +1,28 @@
+{
+  "catalog_id": "id-great-value-earl-grey-black-tea-bags-40-count",
+  "id": "great-value-earl-grey-black-tea-bags-40-count",
+  "name": "Great Value Earl Grey Black Tea Bags, 2.54 oz, 40 Count",
+  "brand": "Great Value / Walmart",
+  "walmart_item_id": "1337011539",
+  "walmart_url": "https://www.walmart.com/ip/Great-Value-Earl-Grey-Black-Tea-Bags-2-54-oz-40-Count/1337011539",
+  "product_url": "https://www.walmart.com/ip/Great-Value-Earl-Grey-Black-Tea-Bags-2-54-oz-40-Count/1337011539",
+  "purchase_refs": [
+    {
+      "orderId": "2000154-02677512",
+      "date": "2026-10-01",
+      "walmartItemId": "1337011539"
+    }
+  ],
+  "barcode": null,
+  "barcode_status": "no_photo",
+  "photo": null,
+  "source_notes": "Walmart product_id 1337011539; UPC not confidently resolved.",
+  "serving_size": "1 tea bag brewed (8 fl oz)",
+  "nutrition_per_serving": {
+    "calories": 0,
+    "protein_g": 0,
+    "total_carbohydrate_g": 0,
+    "total_fat_g": 0,
+    "notes": "Black tea plain; typically 0 kcal per bag as brewed without additives."
+  }
+}

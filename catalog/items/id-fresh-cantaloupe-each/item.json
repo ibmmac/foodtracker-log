@@ -1,0 +1,32 @@
+{
+  "catalog_id": "id-fresh-cantaloupe-each",
+  "id": "fresh-cantaloupe-each",
+  "name": "Fresh Cantaloupe, Each",
+  "brand": null,
+  "walmart_item_id": "44390974",
+  "walmart_url": "https://www.walmart.com/ip/Cantaloupe-each/44390974",
+  "product_url": "https://www.walmart.com/ip/Cantaloupe-each/44390974",
+  "purchase_refs": [
+    {
+      "orderId": "2000154-02677512",
+      "date": "2026-10-01",
+      "walmartItemId": "44390974"
+    }
+  ],
+  "barcode": null,
+  "barcode_status": "no_photo",
+  "photo": null,
+  "source_notes": "Walmart product_id 44390974; produce; UPC N/A.",
+  "serving_size": "1 cup cubed (160 g)",
+  "nutrition_per_serving": {
+    "calories": 54,
+    "total_fat_g": 0.3,
+    "total_carbohydrate_g": 13,
+    "dietary_fiber_g": 1.4,
+    "total_sugars_g": 12.6,
+    "protein_g": 1.3,
+    "potassium_mg": 427,
+    "vitamin_a_mcg": 270,
+    "notes": "USDA cantaloupe raw, 1 cup cubes (~160 g) \u2248 54 kcal. Whole melon not a single serving."
+  }
+}

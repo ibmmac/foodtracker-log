@@ -1,6 +1,6 @@
 # Food catalog
 
-**121 products** · machine index: [index.json](index.json)
+**132 products** · machine index: [index.json](index.json)
 
 | Product | Brand | Barcode | kcal/serving | Photo |
 |---------|-------|---------|--------------|-------|
@@ -12,7 +12,9 @@
 | [Smartfood Gluten Free, No Artificial Colors White Cheddar Popcorn Bag, 9.75 oz](items/028400314138/) | Smartfood / PepsiCo | 028400314138 | 160 | yes |
 | [Doritos Cool Ranch Flavored Tortilla Chips, Party Size, 14.5 oz Bag](items/028400517775/) | Doritos / PepsiCo | 028400517775 | 536 | yes |
 | [Hershey's Milk Chocolate Candy Bars, 1.55 oz (6 Count)](items/034000290055/) | Hershey's | 034000290055 | 210 | yes |
+| [Kellogg's Cocoa Krispies Chocolatey Flavor Breakfast Cereal, Low Fat, Family Size, 19 oz](items/038000281792/) | Kellogg's | 038000281792 | 150 | — |
 | [Dole Fruit Bowls Snacks](items/038900772208/) | Dole | 038900772208 | 70 | yes |
+| [(4 pack) Progresso Traditional Chicken Noodle Canned Soup, 19 oz](items/041196010886/) | Progresso / General Mills | 041196010886 | 100 | — |
 | [Maruchan Ramen Noodle Soup, Chicken Flavor Instant Noodles, 3 oz, pack of 12](items/041789002311/) | Maruchan | 041789002311 | 190 | yes |
 | [Welch's 100% Grape Juice, Concord Grape, 64 fl oz Bottle](items/041800207503/) | Welch's | 041800207503 | 160 | yes |
 | [NEWTONS Soft Baked Real Fruit Fig Bars, Fig Cookies, 10 oz](items/044000046545/) | Newtons / Mondelez | 044000046545 | 148 | yes |
@@ -37,6 +39,7 @@
 | [Great Value Colby Jack Deli Style Sliced Cheese, 8 oz, 12 Slices](items/078742127491/) | Great Value / Walmart | 078742127491 | 70 | yes |
 | [Great Value Organic Tomato Ketchup, 20 oz](items/078742136424/) | Great Value / Walmart | 078742136424 | 15 | yes |
 | [(3 pack) Great Value Organic Marinara Pasta Sauce, 24 oz](items/078742141404/) | Great Value / Walmart | 078742141404 | 49 | yes |
+| [Great Value Distilled White Vinegar, 64 fl oz](items/078742228662/) | Great Value / Walmart | 078742228662 | 0 | — |
 | [Great Value Hamburger Dill Chip Pickles, 32 fl oz](items/078742232973/) | Great Value / Walmart | 078742232973 | 5 | yes |
 | [Great Value Sardines in Water](items/078742237855/) | Great Value / Walmart | 078742237855 | 100 | yes |
 | [Great Value Purified Drinking Water, 16.9 fl oz Bottles, 40 Count Pack](items/078742279091/) | Great Value / Walmart | 078742279091 | 0 | yes |
@@ -50,6 +53,7 @@
 | [poppi Orange Prebiotic Soda Mini Can, 7.5 fl oz Can, 6 Pack Cans](items/810063711511/) | poppi | 810063711511 | 20 | yes |
 | [Primal Kitchen Ranch Dressing & Marinade 8 fl](items/863699000146/) | Primal Kitchen | 863699000146 | 120 | yes |
 | [Honey Bunches of Oats Honey Roasted Breakfast Cereal, 28 oz Box](items/884912249272/) | Honey Bunches of Oats / Post | 884912249272 | 160 | yes |
+| [Cocoa PEBBLES Chocolate Gluten Free Breakfast Cereal, 27.5 oz Box](items/884912356185/) | Cocoa PEBBLES / Post | 884912356185 | 140 | — |
 | [Nathan's Famous Skinless Beef Hot Dogs, 12 oz](items/888313914999/) | Nathan's Famous | 888313914999 | 130 | yes |
 | [Wellsley Farms Homestyle Potato Salad](items/888670012864/) | Wellsley Farms / BJ's Wholesale Club | 888670012864 | 190 | yes |
 | [Wellsley Farms Aegean Greek Pasta](items/888670012901/) | Wellsley Farms / BJ's Wholesale Club | 888670012901 | 390 | yes |
@@ -70,14 +74,17 @@
 | [Fasted breakfast](items/id-fasted-breakfast/) | — | — | 0 | — |
 | [FESTIVE Ground Turkey, Frozen, 1 lb Roll](items/id-festive-ground-turkey-frozen-1-lb-roll/) | Festive | — | 200 | — |
 | [French toast with real maple syrup](items/id-french-toast-maple/) | — | — | 200 | — |
+| [Fresh Cantaloupe, Each](items/id-fresh-cantaloupe-each/) | — | — | 54 | — |
 | [Fresh Cucumber, Each](items/id-fresh-cucumber-each/) | Fresh | — | 45 | — |
 | [Fresh Gala Apples, 3 lb Bag](items/id-fresh-gala-apples-3-lb-bag/) | Fresh | — | 95 | — |
 | [Fresh Hass Avocados, Each](items/id-fresh-hass-avocados-each/) | Fresh | — | 227 | — |
+| [Fresh Lime, Each](items/id-fresh-lime-each/) | — | — | 20 | — |
 | [Fresh Mandarin Oranges, 5 lb Bag](items/id-fresh-mandarin-oranges/) | Fresh | — | 35 | — |
 | [Fresh Mandarin Oranges, 3 lb Bag - Naturally Ripened Citrus Fruit](items/id-fresh-mandarin-oranges-3-lb-bag-naturally-ripened/) | Fresh | — | 35 | — |
 | [Fresh Mini Cucumbers, 16 oz](items/id-fresh-mini-cucumbers/) | Mucci Farms | — | 8 | — |
 | [Fresh Organic Mini Cucumbers, 16 oz](items/id-fresh-organic-mini-cucumbers-16-oz/) | Fresh | — | 8 | — |
 | [Fresh Produce, Baby Peeled Carrots, 1lb Bag](items/id-fresh-produce-baby-peeled-carrots-1lb-bag/) | Fresh | — | 30 | — |
+| [Fresh Seedless Watermelon, Each](items/id-fresh-seedless-watermelon-each/) | — | — | 46 | — |
 | [Fresh USDA Organic Strawberries, 1 lb Container](items/id-fresh-usda-organic-strawberries-1-lb-container/) | Fresh | — | 46 | — |
 | [Fresh Whole Portabella Mushroom Caps, 6 oz](items/id-fresh-whole-portabella-mushroom-caps-6-oz/) | Fresh | — | 18 | — |
 | [Fresh Whole White Mushrooms, 16 oz](items/id-fresh-whole-white-mushrooms/) | Monterey | — | 15 | — |
@@ -87,14 +94,18 @@
 | [Great Value 100% Pure Beef Burgers, 85% Lean/15% Fat, 3 lbs, 12 Count (Frozen)](items/id-great-value-100-pure-beef-burgers-85-lean-15-fat-3/) | Great Value / Walmart | — | 280 | — |
 | [Great Value Canned Pineapple Chunks in Pineapple Juice, 20 oz](items/id-great-value-canned-pineapple-chunks-in-pineapple-j/) | Great Value / Walmart | — | 70 | — |
 | [Great Value Dry Roasted and Unsalted Peanuts, 16 oz, Jar](items/id-great-value-dry-roasted-and-unsalted-peanuts-16-oz/) | Great Value / Walmart | — | 170 | — |
+| [Great Value Earl Grey Black Tea Bags, 2.54 oz, 40 Count](items/id-great-value-earl-grey-black-tea-bags-40-count/) | Great Value / Walmart | — | 0 | — |
 | [Great Value Extra Sharp Whole White Cheddar Cheese Block, 8 oz](items/id-great-value-extra-sharp-whole-white-cheddar-cheese/) | Great Value / Walmart | — | 110 | — |
 | [Great Value Fat-Free Turkey Breast, 16 oz Bag, Sliced](items/id-great-value-fat-free-turkey-breast-16-oz-bag-slice/) | Great Value / Walmart | — | 50 | — |
 | [Great Value Honey Ham Lunchmeat Plastic Tub, 9 oz](items/id-great-value-honey-ham-lunchmeat-plastic-tub-9-oz/) | Great Value / Walmart | — | 60 | — |
 | [Great Value Hot Dog Buns, White, 11 oz, 8 Count](items/id-great-value-hot-dog-buns-white-11-oz-8-count/) | Great Value / Walmart | — | 110 | — |
 | [Great Value Large Pitted Black Olives, 6 oz](items/id-great-value-large-pitted-black-olives-6-oz/) | Great Value / Walmart | — | 25 | — |
+| [Great Value Lemon & Ginger Tea Bags, 40 Count](items/id-great-value-lemon-ginger-tea-bags-40-count/) | Great Value / Walmart | — | 0 | — |
 | [Great Value Organic Lentils, 15 oz Can](items/id-great-value-organic-lentils-15-oz-can/) | Great Value / Walmart | — | 110 | — |
 | [(3 pack) Great Value Organic Roasted Garlic Pasta Sauce, 24 oz](items/id-great-value-organic-roasted-garlic-pasta-sauce-24/) | Great Value / Walmart | — | 50 | — |
 | [Great Value Organic Yellow Mustard, 8 oz](items/id-great-value-organic-yellow-mustard-8-oz/) | Great Value / Walmart | — | 0 | — |
+| [Great Value Pomegranate Blueberry Herbal Tea, 1.41 oz, 20 Count](items/id-great-value-pomegranate-blueberry-herbal-tea-20-count/) | Great Value / Walmart | — | 0 | — |
+| [Great Value Sun-Dried Raisins Canister, 20 oz (1lb 4oz) 567g](items/id-great-value-sun-dried-raisins-canister-20-oz/) | Great Value / Walmart | — | 130 | — |
 | [Great Value Swiss Deli Style Sliced Cheese, 8 oz Package 12 Slices](items/id-great-value-swiss-deli-style-sliced-cheese-8-oz-pa/) | Great Value / Walmart | — | 70 | — |
 | [Great Value Turkey Pepperoni Slices, 5 oz](items/id-great-value-turkey-pepperoni-slices-5-oz/) | Great Value / Walmart | — | 70 | — |
 | [Great Value Unsweetened Applesauce, 50 oz](items/id-great-value-unsweetened-applesauce-50oz/) | Great Value / Walmart | — | 50 | — |
