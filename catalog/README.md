@@ -1,6 +1,6 @@
 # Food catalog
 
-**132 products** · machine index: [index.json](index.json)
+**134 products** · machine index: [index.json](index.json)
 
 | Product | Brand | Barcode | kcal/serving | Photo |
 |---------|-------|---------|--------------|-------|
@@ -122,11 +122,13 @@
 | [Mini mango all-fruit bar](items/id-mini-mango-fruit-bar/) | — | — | 50 | — |
 | [Movie theater drink (large)](items/id-movie-drink-large/) | — | — | 350 | — |
 | [Movie theater popcorn (large)](items/id-movie-popcorn-large/) | — | — | 1000 | — |
+| [Orange (medium)](items/id-orange-medium/) | — | — | 62 | — |
 | [Organic blue corn tortilla chips](items/id-organic-blue-corn-chips/) | — | — | 140 | — |
 | [Organic Marketside Fresh Baby Peeled Carrots, 1 lb Bag](items/id-organic-marketside-fresh-baby-peeled-carrots-1-lb/) | Marketside / Walmart | — | 30 | — |
 | [Parmalat Whole Milk, 32 fl oz (Shelf-Stable)](items/id-parmalat-whole-milk-32-fl-oz/) | Parmalat | — | 150 | — |
 | [Pear (medium)](items/id-pear-medium/) | — | — | 101 | — |
 | [Pizza slice (supreme / veggie + meat)](items/id-pizza-slice-supreme/) | — | — | 350 | yes |
+| [Sauerkraut](items/id-sauerkraut/) | — | — | 5 | — |
 | [Skipped breakfast](items/id-skipped-breakfast/) | — | — | 0 | — |
 | [Skipped lunch](items/id-skipped-lunch/) | — | — | 0 | — |
 | [Smoked almonds](items/id-smoked-almonds/) | — | — | 170 | — |

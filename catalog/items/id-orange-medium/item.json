@@ -1,0 +1,20 @@
+{
+  "catalog_id": "id-orange-medium",
+  "id": "orange-medium",
+  "name": "Orange (medium)",
+  "brand": null,
+  "barcode": null,
+  "barcode_status": "no_photo",
+  "serving_size": "1 medium orange (~131 g)",
+  "nutrition_per_serving": {
+    "calories": 62,
+    "protein_g": 1.2,
+    "total_carbohydrate_g": 15.4,
+    "total_fat_g": 0.2,
+    "dietary_fiber_g": 3.1,
+    "notes": "USDA raw orange, medium (~131 g); variety unknown"
+  },
+  "photo": null,
+  "photo_credit": null,
+  "notes": "USDA raw orange, medium (~131 g); variety unknown"
+}

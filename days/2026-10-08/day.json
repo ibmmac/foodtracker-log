@@ -42,15 +42,187 @@
       "notes": "Estimate: coffee + ~2 oz milk, no sugar (same item as 2026-09-19). Reported by Mitch at ~12:47; breakfast time approximate.",
       "time": "09:00",
       "timestamp": "2026-10-08T09:00:00-04:00"
+    },
+    {
+      "catalog_id": "id-fresh-cantaloupe-each",
+      "catalog_path": "catalog/items/id-fresh-cantaloupe-each/",
+      "name": "Fresh Cantaloupe",
+      "amount_eaten": "1 cup cubed (~160 g)",
+      "servings_eaten": 1,
+      "meal": "breakfast",
+      "location": "other",
+      "location_note": "Joe's house",
+      "logged": {
+        "calories": 54,
+        "protein_g": 1.3,
+        "carbs_g": 13,
+        "fat_g": 0.3
+      },
+      "source": "usda_estimate",
+      "notes": "1 serving cantaloupe, assumed 1 cup cubed (~160 g). Added later by Mitch (~12:51); breakfast time approximate.",
+      "time": "09:00",
+      "timestamp": "2026-10-08T09:00:00-04:00"
+    },
+    {
+      "catalog_id": "id-hard-boiled-egg-large",
+      "catalog_path": "catalog/items/id-hard-boiled-egg-large/",
+      "name": "Hard-boiled egg (large)",
+      "amount_eaten": "4 large eggs",
+      "servings_eaten": 4,
+      "meal": "lunch",
+      "location": "home",
+      "logged": {
+        "calories": 312,
+        "protein_g": 25.2,
+        "carbs_g": 2.4,
+        "fat_g": 21.2
+      },
+      "source": "usda_estimate",
+      "notes": "4 hard-boiled large eggs, ~78 kcal each. Reported by Mitch at ~12:49; lunch time approximate.",
+      "time": "12:15",
+      "timestamp": "2026-10-08T12:15:00-04:00"
+    },
+    {
+      "catalog_id": "id-fresh-produce-baby-peeled-carrots-1lb-bag",
+      "catalog_path": "catalog/items/id-fresh-produce-baby-peeled-carrots-1lb-bag/",
+      "name": "Fresh Produce Baby Peeled Carrots",
+      "amount_eaten": "1/2 lb (227 g)",
+      "servings_eaten": 2.67,
+      "meal": "lunch",
+      "location": "home",
+      "logged": {
+        "calories": 80,
+        "protein_g": 1.6,
+        "carbs_g": 18.7,
+        "fat_g": 0.3
+      },
+      "source": "usda_estimate",
+      "notes": "Half a pound of raw carrots; matched to the 1 lb baby carrot bag bought 2026-10-01 (30 kcal per 85 g, scaled to 227 g). Reported by Mitch at ~12:49; lunch time approximate.",
+      "time": "12:15",
+      "timestamp": "2026-10-08T12:15:00-04:00"
+    },
+    {
+      "catalog_id": "id-orange-medium",
+      "catalog_path": "catalog/items/id-orange-medium/",
+      "name": "Orange (medium)",
+      "amount_eaten": "1 medium orange",
+      "servings_eaten": 1,
+      "meal": "lunch",
+      "location": "home",
+      "logged": {
+        "calories": 62,
+        "protein_g": 1.2,
+        "carbs_g": 15.4,
+        "fat_g": 0.2
+      },
+      "source": "usda_estimate",
+      "notes": "USDA medium orange. If it was one of the mandarins from the 2026-10-01 order, it would be ~35 kcal. Reported by Mitch at ~12:49; lunch time approximate.",
+      "time": "12:15",
+      "timestamp": "2026-10-08T12:15:00-04:00"
+    },
+    {
+      "catalog_id": "id-fresh-cucumber-each",
+      "catalog_path": "catalog/items/id-fresh-cucumber-each/",
+      "name": "Fresh Cucumber",
+      "amount_eaten": "2 medium cucumbers (~300 g each)",
+      "servings_eaten": 2,
+      "meal": "lunch",
+      "location": "home",
+      "logged": {
+        "calories": 90,
+        "protein_g": 4.0,
+        "carbs_g": 21.8,
+        "fat_g": 0.6
+      },
+      "source": "usda_estimate",
+      "notes": "Reported as 2 \"cukes\"; assumed whole medium cucumbers (~45 kcal each). If they were mini cucumbers (bought 2026-10-01), ~16 kcal total. Reported by Mitch at ~12:49; lunch time approximate.",
+      "time": "12:15",
+      "timestamp": "2026-10-08T12:15:00-04:00"
+    },
+    {
+      "catalog_id": "888670053638",
+      "catalog_path": "catalog/items/888670053638/",
+      "name": "Wellsley Farms Gala Apples",
+      "amount_eaten": "1 small apple (~149 g)",
+      "servings_eaten": 0.82,
+      "meal": "lunch",
+      "location": "home",
+      "logged": {
+        "calories": 77,
+        "protein_g": 0.4,
+        "carbs_g": 20.6,
+        "fat_g": 0.2
+      },
+      "source": "usda_estimate",
+      "notes": "Small apple, USDA ~77 kcal (149 g), logged as 0.82 of the medium Gala serving; variety assumed Gala. Reported by Mitch at ~12:49; lunch time approximate.",
+      "time": "12:15",
+      "timestamp": "2026-10-08T12:15:00-04:00"
+    },
+    {
+      "catalog_id": "id-great-value-earl-grey-black-tea-bags-40-count",
+      "catalog_path": "catalog/items/id-great-value-earl-grey-black-tea-bags-40-count/",
+      "name": "Great Value Earl Grey Black Tea",
+      "amount_eaten": "1 cup, plain",
+      "servings_eaten": 1,
+      "meal": "lunch",
+      "location": "home",
+      "logged": {
+        "calories": 0,
+        "protein_g": 0,
+        "carbs_g": 0,
+        "fat_g": 0
+      },
+      "source": "label",
+      "notes": "Plain Earl Grey, no milk or sugar; matched to Great Value Earl Grey tea bags bought 2026-10-01 (0 kcal per bag brewed; USDA brewed black tea ~2 kcal). Reported by Mitch at ~12:49; lunch time approximate.",
+      "time": "12:15",
+      "timestamp": "2026-10-08T12:15:00-04:00"
+    },
+    {
+      "catalog_id": "id-sauerkraut",
+      "catalog_path": "catalog/items/id-sauerkraut/",
+      "name": "Sauerkraut",
+      "amount_eaten": "1 serving (2 tbsp, ~30 g)",
+      "servings_eaten": 1,
+      "meal": "lunch",
+      "location": "home",
+      "logged": {
+        "calories": 5,
+        "protein_g": 0.3,
+        "carbs_g": 1.3,
+        "fat_g": 0
+      },
+      "source": "usda_estimate",
+      "notes": "Serving size assumed 2 tbsp (~30 g); brand unknown. Reported by Mitch at ~12:49; lunch time approximate.",
+      "time": "12:15",
+      "timestamp": "2026-10-08T12:15:00-04:00"
+    },
+    {
+      "catalog_id": "044500341157",
+      "catalog_path": "catalog/items/044500341157/",
+      "name": "Hillshire Farm Turkey Smoked Sausage Rope",
+      "amount_eaten": "1/2 rope (~6.5 oz, ~184 g)",
+      "servings_eaten": 3.3,
+      "meal": "lunch",
+      "location": "home",
+      "logged": {
+        "calories": 330,
+        "protein_g": 26.4,
+        "carbs_g": 9.9,
+        "fat_g": 19.8
+      },
+      "source": "label",
+      "notes": "Half a turkey sausage; matched to Hillshire Farm Turkey Smoked Sausage Rope (13 oz single rope, bought Jul-Aug 2026). Label 100 kcal per 56 g; half rope ~184 g = 3.3 servings. If he meant a smaller piece, 1 serving (56 g) = 100 kcal. Reported by Mitch at ~12:49; lunch time approximate.",
+      "time": "12:15",
+      "timestamp": "2026-10-08T12:15:00-04:00"
     }
   ],
   "totals": {
-    "calories": 357,
-    "protein_g": 27.2,
-    "carbs_g": 5.4,
-    "fat_g": 23.7,
-    "remaining_kcal": 1143,
-    "percent_goal_remaining": 76.2,
-    "percent_goal_used": 23.8
+    "calories": 1367,
+    "protein_g": 87.6,
+    "carbs_g": 108.5,
+    "fat_g": 66.3,
+    "remaining_kcal": 133,
+    "percent_goal_remaining": 8.9,
+    "percent_goal_used": 91.1
   }
 }

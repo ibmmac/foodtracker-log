@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-02",
-  "count": 132,
+  "updated": "2026-10-08",
+  "count": 134,
   "products": [
     {
       "catalog_id": "013562000043",
@@ -1065,6 +1065,15 @@
       "path": "items/id-movie-popcorn-large/"
     },
     {
+      "catalog_id": "id-orange-medium",
+      "name": "Orange (medium)",
+      "brand": null,
+      "barcode": null,
+      "kcal_per_serving": 62,
+      "photo": null,
+      "path": "items/id-orange-medium/"
+    },
+    {
       "catalog_id": "id-organic-blue-corn-chips",
       "name": "Organic blue corn tortilla chips",
       "brand": null,
@@ -1108,6 +1117,15 @@
       "kcal_per_serving": 350,
       "photo": "product.jpg",
       "path": "items/id-pizza-slice-supreme/"
+    },
+    {
+      "catalog_id": "id-sauerkraut",
+      "name": "Sauerkraut",
+      "brand": null,
+      "barcode": null,
+      "kcal_per_serving": 5,
+      "photo": null,
+      "path": "items/id-sauerkraut/"
     },
     {
       "catalog_id": "id-skipped-breakfast",
