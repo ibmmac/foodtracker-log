@@ -121,21 +121,21 @@
       "timestamp": "2026-10-08T12:15:00-04:00"
     },
     {
-      "catalog_id": "id-fresh-cucumber-each",
-      "catalog_path": "catalog/items/id-fresh-cucumber-each/",
-      "name": "Fresh Cucumber",
-      "amount_eaten": "2 medium cucumbers (~300 g each)",
+      "catalog_id": "id-fresh-mini-cucumbers",
+      "catalog_path": "catalog/items/id-fresh-mini-cucumbers/",
+      "name": "Fresh Mini Cucumbers",
+      "amount_eaten": "2 mini cucumbers (~50 g each)",
       "servings_eaten": 2,
       "meal": "lunch",
       "location": "home",
       "logged": {
-        "calories": 90,
-        "protein_g": 4.0,
-        "carbs_g": 21.8,
-        "fat_g": 0.6
+        "calories": 16,
+        "protein_g": 0.6,
+        "carbs_g": 3.6,
+        "fat_g": 0.2
       },
       "source": "usda_estimate",
-      "notes": "Reported as 2 \"cukes\"; assumed whole medium cucumbers (~45 kcal each). If they were mini cucumbers (bought 2026-10-01), ~16 kcal total. Reported by Mitch at ~12:49; lunch time approximate.",
+      "notes": "Reported as 2 \"cukes\"; Mitch confirmed they were mini cucumbers (Fresh Mini Cucumbers 16 oz, bought 2026-10-01). ~8 kcal each (USDA, ~50 g). Reported by Mitch at ~12:49; lunch time approximate.",
       "time": "12:15",
       "timestamp": "2026-10-08T12:15:00-04:00"
     },
@@ -211,18 +211,18 @@
         "fat_g": 19.8
       },
       "source": "label",
-      "notes": "Half a turkey sausage; matched to Hillshire Farm Turkey Smoked Sausage Rope (13 oz single rope, bought Jul-Aug 2026). Label 100 kcal per 56 g; half rope ~184 g = 3.3 servings. If he meant a smaller piece, 1 serving (56 g) = 100 kcal. Reported by Mitch at ~12:49; lunch time approximate.",
+      "notes": "Half a turkey sausage: Mitch confirmed it was half the Hillshire Farm Turkey Smoked Sausage Rope (13 oz single rope). Label 100 kcal per 56 g; half rope ~184 g = 3.3 servings. Reported by Mitch at ~12:49; lunch time approximate.",
       "time": "12:15",
       "timestamp": "2026-10-08T12:15:00-04:00"
     }
   ],
   "totals": {
-    "calories": 1367,
-    "protein_g": 87.6,
-    "carbs_g": 108.5,
-    "fat_g": 66.3,
-    "remaining_kcal": 133,
-    "percent_goal_remaining": 8.9,
-    "percent_goal_used": 91.1
+    "calories": 1293,
+    "protein_g": 84.2,
+    "carbs_g": 90.3,
+    "fat_g": 65.9,
+    "remaining_kcal": 207,
+    "percent_goal_remaining": 13.8,
+    "percent_goal_used": 86.2
   }
 }
