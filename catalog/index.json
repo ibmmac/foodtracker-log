@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-08",
-  "count": 134,
+  "updated": "2026-10-09",
+  "count": 135,
   "products": [
     {
       "catalog_id": "013562000043",
@@ -487,6 +487,15 @@
       "kcal_per_serving": 95,
       "photo": "product.jpg",
       "path": "items/888670053638/"
+    },
+    {
+      "catalog_id": "id-almonds",
+      "name": "Almonds (plain)",
+      "brand": null,
+      "barcode": null,
+      "kcal_per_serving": 164,
+      "photo": null,
+      "path": "items/id-almonds/"
     },
     {
       "catalog_id": "id-baked-white-fish-herb-butter",

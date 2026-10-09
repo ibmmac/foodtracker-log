@@ -1,0 +1,20 @@
+{
+  "catalog_id": "id-almonds",
+  "id": "almonds",
+  "name": "Almonds (plain)",
+  "brand": null,
+  "barcode": null,
+  "barcode_status": "no_photo",
+  "serving_size": "1 oz (28 g, ~23 almonds)",
+  "nutrition_per_serving": {
+    "calories": 164,
+    "protein_g": 6,
+    "total_carbohydrate_g": 6,
+    "total_fat_g": 14,
+    "dietary_fiber_g": 3.5,
+    "notes": "USDA raw almonds, 1 oz (~23 nuts); brand unknown"
+  },
+  "photo": null,
+  "photo_credit": null,
+  "notes": "USDA raw almonds, 1 oz (~23 nuts); brand unknown"
+}

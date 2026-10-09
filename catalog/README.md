@@ -1,6 +1,6 @@
 # Food catalog
 
-**134 products** · machine index: [index.json](index.json)
+**135 products** · machine index: [index.json](index.json)
 
 | Product | Brand | Barcode | kcal/serving | Photo |
 |---------|-------|---------|--------------|-------|
@@ -58,6 +58,7 @@
 | [Wellsley Farms Homestyle Potato Salad](items/888670012864/) | Wellsley Farms / BJ's Wholesale Club | 888670012864 | 190 | yes |
 | [Wellsley Farms Aegean Greek Pasta](items/888670012901/) | Wellsley Farms / BJ's Wholesale Club | 888670012901 | 390 | yes |
 | [Wellsley Farms Gala Apples](items/888670053638/) | Wellsley Farms / BJ's Wholesale Club | 888670053638 | 95 | yes |
+| [Almonds (plain)](items/id-almonds/) | — | — | 164 | — |
 | [Baked white fish with herb butter](items/id-baked-white-fish-herb-butter/) | — | — | 420 | yes |
 | [Honey Bunches of Oats cereal](items/id-bunches-of-oats/) | Post | 884912288424 | 160 | — |
 | [Cannoli](items/id-cannoli/) | — | — | 280 | yes |

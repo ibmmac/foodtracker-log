@@ -1,0 +1,55 @@
+{
+  "date": "2026-10-09",
+  "timezone": "America/New_York",
+  "goal_kcal": 1500,
+  "entries": [
+    {
+      "catalog_id": "id-coffee-with-milk",
+      "catalog_path": "catalog/items/id-coffee-with-milk/",
+      "name": "Coffee with milk (no sugar)",
+      "amount_eaten": "1 cup",
+      "servings_eaten": 1,
+      "meal": "breakfast",
+      "location": "other",
+      "location_note": "Joe's house",
+      "logged": {
+        "calories": 45,
+        "protein_g": 2,
+        "carbs_g": 3,
+        "fat_g": 2.5
+      },
+      "source": "estimate",
+      "notes": "Estimate: coffee + ~2 oz milk, no sugar. Reported by Mitch at ~12:40; breakfast time approximate.",
+      "time": "09:00",
+      "timestamp": "2026-10-09T09:00:00-04:00"
+    },
+    {
+      "catalog_id": "id-almonds",
+      "catalog_path": "catalog/items/id-almonds/",
+      "name": "Almonds (plain)",
+      "amount_eaten": "1 handful (~1 oz, ~23 almonds)",
+      "servings_eaten": 1,
+      "meal": "lunch",
+      "location": "work",
+      "logged": {
+        "calories": 164,
+        "protein_g": 6,
+        "carbs_g": 6,
+        "fat_g": 14
+      },
+      "source": "usda_estimate",
+      "notes": "Handful of plain almonds; handful size assumed ~1 oz (~23 almonds). Reported by Mitch at ~12:40; lunch time approximate.",
+      "time": "12:00",
+      "timestamp": "2026-10-09T12:00:00-04:00"
+    }
+  ],
+  "totals": {
+    "calories": 209,
+    "protein_g": 8,
+    "carbs_g": 9,
+    "fat_g": 16.5,
+    "remaining_kcal": 1291,
+    "percent_goal_remaining": 86.1,
+    "percent_goal_used": 13.9
+  }
+}
