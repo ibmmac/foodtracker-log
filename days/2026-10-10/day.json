@@ -118,15 +118,34 @@
       "notes": "Plain Earl Grey, no milk or sugar; Great Value Earl Grey tea bags (0 kcal per bag brewed). Reported by Mitch at ~15:40; lunch time approximate.",
       "time": "13:00",
       "timestamp": "2026-10-10T13:00:00-04:00"
+    },
+    {
+      "catalog_id": "id-grapes",
+      "catalog_path": "catalog/items/id-grapes/",
+      "name": "Grapes (red or green, seedless)",
+      "amount_eaten": "1 small bunch (~1 cup)",
+      "servings_eaten": 1,
+      "meal": "lunch",
+      "location": "home",
+      "logged": {
+        "calories": 104,
+        "protein_g": 1.1,
+        "carbs_g": 27.3,
+        "fat_g": 0.2
+      },
+      "source": "usda_estimate",
+      "notes": "Small bunch of grapes; assumed ~1 cup (~151 g). Reported by Mitch at ~15:40; lunch time approximate.",
+      "time": "13:00",
+      "timestamp": "2026-10-10T13:00:00-04:00"
     }
   ],
   "totals": {
-    "calories": 647,
-    "protein_g": 59.2,
-    "carbs_g": 27.3,
-    "fat_g": 32.0,
-    "remaining_kcal": 853,
-    "percent_goal_remaining": 56.9,
-    "percent_goal_used": 43.1
+    "calories": 751,
+    "protein_g": 60.3,
+    "carbs_g": 54.6,
+    "fat_g": 32.2,
+    "remaining_kcal": 749,
+    "percent_goal_remaining": 49.9,
+    "percent_goal_used": 50.1
   }
 }
