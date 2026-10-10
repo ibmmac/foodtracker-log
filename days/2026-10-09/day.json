@@ -41,15 +41,72 @@
       "notes": "Handful of plain almonds; handful size assumed ~1 oz (~23 almonds). Reported by Mitch at ~12:40; lunch time approximate.",
       "time": "12:00",
       "timestamp": "2026-10-09T12:00:00-04:00"
+    },
+    {
+      "catalog_id": "013764027220",
+      "catalog_path": "catalog/items/013764027220/",
+      "name": "Dave's Killer Bread White Bread Done Right",
+      "amount_eaten": "4 slices (2 sandwiches)",
+      "servings_eaten": 4,
+      "meal": "lunch",
+      "location": "work",
+      "logged": {
+        "calories": 440,
+        "protein_g": 16,
+        "carbs_g": 80,
+        "fat_g": 8
+      },
+      "source": "label",
+      "notes": "Label: 110 kcal per slice (40 g). Bread assumed: the only sandwich bread in purchases (bought 2026-08-08). Part of 2 peanut butter & jelly sandwiches (each 2 slices bread + 2 tbsp PB + 1 tbsp jelly). Reported by Mitch at ~22:24; lunch time approximate.",
+      "time": "12:00",
+      "timestamp": "2026-10-09T12:00:00-04:00"
+    },
+    {
+      "catalog_id": "071018105490",
+      "catalog_path": "catalog/items/071018105490/",
+      "name": "Teddie All Natural Smooth Peanut Butter",
+      "amount_eaten": "4 tbsp (2 sandwiches)",
+      "servings_eaten": 2,
+      "meal": "lunch",
+      "location": "work",
+      "logged": {
+        "calories": 380,
+        "protein_g": 16,
+        "carbs_g": 14,
+        "fat_g": 32
+      },
+      "source": "label",
+      "notes": "Label: 190 kcal per 2 tbsp (32 g). Only peanut butter in purchases (bought 2026-08-26). Part of 2 peanut butter & jelly sandwiches (each 2 slices bread + 2 tbsp PB + 1 tbsp jelly). Reported by Mitch at ~22:24; lunch time approximate.",
+      "time": "12:00",
+      "timestamp": "2026-10-09T12:00:00-04:00"
+    },
+    {
+      "catalog_id": "088702015607",
+      "catalog_path": "catalog/items/088702015607/",
+      "name": "Bonne Maman Strawberry Preserves",
+      "amount_eaten": "2 tbsp (2 sandwiches)",
+      "servings_eaten": 2,
+      "meal": "lunch",
+      "location": "work",
+      "logged": {
+        "calories": 94,
+        "protein_g": 0.2,
+        "carbs_g": 23.6,
+        "fat_g": 0
+      },
+      "source": "label",
+      "notes": "Label: 47 kcal per 1 tbsp. Jelly flavor assumed strawberry (Mitch also bought Bonne Maman Wild Blueberry, 50 kcal/tbsp). Part of 2 peanut butter & jelly sandwiches (each 2 slices bread + 2 tbsp PB + 1 tbsp jelly). Reported by Mitch at ~22:24; lunch time approximate.",
+      "time": "12:00",
+      "timestamp": "2026-10-09T12:00:00-04:00"
     }
   ],
   "totals": {
-    "calories": 209,
-    "protein_g": 8,
-    "carbs_g": 9,
-    "fat_g": 16.5,
-    "remaining_kcal": 1291,
-    "percent_goal_remaining": 86.1,
-    "percent_goal_used": 13.9
+    "calories": 1123,
+    "protein_g": 40.2,
+    "carbs_g": 126.6,
+    "fat_g": 56.5,
+    "remaining_kcal": 377,
+    "percent_goal_remaining": 25.1,
+    "percent_goal_used": 74.9
   }
 }
