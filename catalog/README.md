@@ -1,6 +1,6 @@
 # Food catalog
 
-**138 products** · machine index: [index.json](index.json)
+**140 products** · machine index: [index.json](index.json)
 
 | Product | Brand | Barcode | kcal/serving | Photo |
 |---------|-------|---------|--------------|-------|
@@ -61,6 +61,7 @@
 | [Almonds (plain)](items/id-almonds/) | — | — | 164 | — |
 | [Baked white fish with herb butter](items/id-baked-white-fish-herb-butter/) | — | — | 420 | yes |
 | [Honey Bunches of Oats cereal](items/id-bunches-of-oats/) | Post | 884912288424 | 160 | — |
+| [Canned salmon](items/id-canned-salmon/) | — | — | 200 | — |
 | [Cannoli](items/id-cannoli/) | — | — | 280 | yes |
 | [Carrot cake slice (dessert)](items/id-carrot-cake-slice/) | — | — | 680 | yes |
 | [Cashews](items/id-cashews/) | — | — | 160 | — |
@@ -123,6 +124,7 @@
 | [Mini mango all-fruit bar](items/id-mini-mango-fruit-bar/) | — | — | 50 | — |
 | [Movie theater drink (large)](items/id-movie-drink-large/) | — | — | 350 | — |
 | [Movie theater popcorn (large)](items/id-movie-popcorn-large/) | — | — | 1000 | — |
+| [Onion (raw)](items/id-onion-raw/) | — | — | 28 | — |
 | [Orange (medium)](items/id-orange-medium/) | — | — | 62 | — |
 | [Organic blue corn tortilla chips](items/id-organic-blue-corn-chips/) | — | — | 140 | — |
 | [Organic Marketside Fresh Baby Peeled Carrots, 1 lb Bag](items/id-organic-marketside-fresh-baby-peeled-carrots-1-lb/) | Marketside / Walmart | — | 30 | — |

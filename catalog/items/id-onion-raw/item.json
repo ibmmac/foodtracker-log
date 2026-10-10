@@ -1,0 +1,19 @@
+{
+  "catalog_id": "id-onion-raw",
+  "id": "onion-raw",
+  "name": "Onion (raw)",
+  "brand": null,
+  "barcode": null,
+  "barcode_status": "no_photo",
+  "serving_size": "1 small onion (~70 g)",
+  "nutrition_per_serving": {
+    "calories": 28,
+    "protein_g": 0.8,
+    "total_carbohydrate_g": 6.5,
+    "total_fat_g": 0.1,
+    "notes": "USDA raw onion ~40 kcal/100 g; small onion ~70 g"
+  },
+  "photo": null,
+  "photo_credit": null,
+  "notes": "USDA raw onion ~40 kcal/100 g; small onion ~70 g"
+}

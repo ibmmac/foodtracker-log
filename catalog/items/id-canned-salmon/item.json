@@ -1,0 +1,19 @@
+{
+  "catalog_id": "id-canned-salmon",
+  "id": "canned-salmon",
+  "name": "Canned salmon",
+  "brand": null,
+  "barcode": null,
+  "barcode_status": "no_photo",
+  "serving_size": "1 can (5 oz, drained)",
+  "nutrition_per_serving": {
+    "calories": 200,
+    "protein_g": 30,
+    "total_carbohydrate_g": 0,
+    "total_fat_g": 8,
+    "notes": "Estimate for a 5 oz can of salmon, drained; brand and can size unknown (a 14.75 oz can would be ~585 kcal)"
+  },
+  "photo": null,
+  "photo_credit": null,
+  "notes": "Estimate for a 5 oz can of salmon, drained; brand and can size unknown (a 14.75 oz can would be ~585 kcal)"
+}

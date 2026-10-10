@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-09",
-  "count": 138,
+  "updated": "2026-10-10",
+  "count": 140,
   "products": [
     {
       "catalog_id": "013562000043",
@@ -514,6 +514,15 @@
       "kcal_per_serving": 160,
       "photo": null,
       "path": "items/id-bunches-of-oats/"
+    },
+    {
+      "catalog_id": "id-canned-salmon",
+      "name": "Canned salmon",
+      "brand": null,
+      "barcode": null,
+      "kcal_per_serving": 200,
+      "photo": null,
+      "path": "items/id-canned-salmon/"
     },
     {
       "catalog_id": "id-cannoli",
@@ -1072,6 +1081,15 @@
       "kcal_per_serving": 1000,
       "photo": null,
       "path": "items/id-movie-popcorn-large/"
+    },
+    {
+      "catalog_id": "id-onion-raw",
+      "name": "Onion (raw)",
+      "brand": null,
+      "barcode": null,
+      "kcal_per_serving": 28,
+      "photo": null,
+      "path": "items/id-onion-raw/"
     },
     {
       "catalog_id": "id-orange-medium",
