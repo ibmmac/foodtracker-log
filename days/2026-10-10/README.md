@@ -17,3 +17,4 @@
 | [Canned salmon](../../catalog/items/id-canned-salmon/) | 1 can (assumed 5 oz) | home | lunch | 200 | 30 | 0 | 8 |
 | [Onion (raw)](../../catalog/items/id-onion-raw/) | 1 small onion (~70 g) | home | lunch | 28 | 0.8 | 6.5 | 0.1 |
 | [Orange (medium)](../../catalog/items/id-orange-medium/) | 1 medium orange | home | lunch | 62 | 1.2 | 15.4 | 0.2 |
+| [Great Value Earl Grey Black Tea](../../catalog/items/id-great-value-earl-grey-black-tea-bags-40-count/) | 1 cup, plain | home | lunch | 0 | 0 | 0 | 0 |

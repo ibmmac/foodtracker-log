@@ -99,6 +99,25 @@
       "notes": "USDA medium orange. Reported by Mitch at ~15:38; lunch time approximate.",
       "time": "13:00",
       "timestamp": "2026-10-10T13:00:00-04:00"
+    },
+    {
+      "catalog_id": "id-great-value-earl-grey-black-tea-bags-40-count",
+      "catalog_path": "catalog/items/id-great-value-earl-grey-black-tea-bags-40-count/",
+      "name": "Great Value Earl Grey Black Tea",
+      "amount_eaten": "1 cup, plain",
+      "servings_eaten": 1,
+      "meal": "lunch",
+      "location": "home",
+      "logged": {
+        "calories": 0,
+        "protein_g": 0,
+        "carbs_g": 0,
+        "fat_g": 0
+      },
+      "source": "label",
+      "notes": "Plain Earl Grey, no milk or sugar; Great Value Earl Grey tea bags (0 kcal per bag brewed). Reported by Mitch at ~15:40; lunch time approximate.",
+      "time": "13:00",
+      "timestamp": "2026-10-10T13:00:00-04:00"
     }
   ],
   "totals": {
