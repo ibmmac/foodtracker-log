@@ -1,0 +1,19 @@
+{
+  "catalog_id": "id-small-chicken-salad",
+  "id": "small-chicken-salad",
+  "name": "Small salad with chicken and cheese (no dressing)",
+  "brand": null,
+  "barcode": null,
+  "barcode_status": "no_photo",
+  "serving_size": "1 small salad",
+  "nutrition_per_serving": {
+    "calories": 225,
+    "protein_g": 25.5,
+    "total_carbohydrate_g": 4.5,
+    "total_fat_g": 11.2,
+    "notes": "Estimate: ~2 oz cooked chicken (~95 kcal) + ~1 oz cheese (~110 kcal) + lettuce and tomato (~20 kcal); no dressing"
+  },
+  "photo": null,
+  "photo_credit": null,
+  "notes": "Estimate: ~2 oz cooked chicken (~95 kcal) + ~1 oz cheese (~110 kcal) + lettuce and tomato (~20 kcal); no dressing"
+}

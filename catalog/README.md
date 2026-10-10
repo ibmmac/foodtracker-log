@@ -1,6 +1,6 @@
 # Food catalog
 
-**135 products** · machine index: [index.json](index.json)
+**138 products** · machine index: [index.json](index.json)
 
 | Product | Brand | Barcode | kcal/serving | Photo |
 |---------|-------|---------|--------------|-------|
@@ -129,9 +129,12 @@
 | [Parmalat Whole Milk, 32 fl oz (Shelf-Stable)](items/id-parmalat-whole-milk-32-fl-oz/) | Parmalat | — | 150 | — |
 | [Pear (medium)](items/id-pear-medium/) | — | — | 101 | — |
 | [Pizza slice (supreme / veggie + meat)](items/id-pizza-slice-supreme/) | — | — | 350 | yes |
+| [Salmon fillet (cooked)](items/id-salmon-fillet-cooked/) | — | — | 350 | — |
 | [Sauerkraut](items/id-sauerkraut/) | — | — | 5 | — |
+| [Sauteed onions](items/id-sauteed-onions/) | — | — | 70 | — |
 | [Skipped breakfast](items/id-skipped-breakfast/) | — | — | 0 | — |
 | [Skipped lunch](items/id-skipped-lunch/) | — | — | 0 | — |
+| [Small salad with chicken and cheese (no dressing)](items/id-small-chicken-salad/) | — | — | 225 | — |
 | [Smoked almonds](items/id-smoked-almonds/) | — | — | 170 | — |
 | [Snickers, M&M's & Twix Fun Size Chocolate Candy Variety Pack, Sharing Size - 8.85 oz Bag](items/id-snickers-m-m-s-twix-fun-size-chocolate-candy-varie/) | Mars | — | 80 | — |
 | [SweeTARTS Variety Party Mix, Individually Wrapped Assorted Candy, 28.6 Ounce (75 Count)](items/id-sweetarts-variety-party-mix-individually-wrapped-a/) | SweeTARTS / Ferrara | — | 15 | — |

@@ -1,0 +1,19 @@
+{
+  "catalog_id": "id-sauteed-onions",
+  "id": "sauteed-onions",
+  "name": "Sauteed onions",
+  "brand": null,
+  "barcode": null,
+  "barcode_status": "no_photo",
+  "serving_size": "1/2 cup cooked, with a little oil",
+  "nutrition_per_serving": {
+    "calories": 70,
+    "protein_g": 0.7,
+    "total_carbohydrate_g": 6,
+    "total_fat_g": 4.7,
+    "notes": "Estimate: ~1/2 cup onions cooked in ~1 tsp oil"
+  },
+  "photo": null,
+  "photo_credit": null,
+  "notes": "Estimate: ~1/2 cup onions cooked in ~1 tsp oil"
+}

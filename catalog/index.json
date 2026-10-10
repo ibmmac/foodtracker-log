@@ -1,6 +1,6 @@
 {
   "updated": "2026-10-09",
-  "count": 135,
+  "count": 138,
   "products": [
     {
       "catalog_id": "013562000043",
@@ -1128,6 +1128,15 @@
       "path": "items/id-pizza-slice-supreme/"
     },
     {
+      "catalog_id": "id-salmon-fillet-cooked",
+      "name": "Salmon fillet (cooked)",
+      "brand": null,
+      "barcode": null,
+      "kcal_per_serving": 350,
+      "photo": null,
+      "path": "items/id-salmon-fillet-cooked/"
+    },
+    {
       "catalog_id": "id-sauerkraut",
       "name": "Sauerkraut",
       "brand": null,
@@ -1135,6 +1144,15 @@
       "kcal_per_serving": 5,
       "photo": null,
       "path": "items/id-sauerkraut/"
+    },
+    {
+      "catalog_id": "id-sauteed-onions",
+      "name": "Sauteed onions",
+      "brand": null,
+      "barcode": null,
+      "kcal_per_serving": 70,
+      "photo": null,
+      "path": "items/id-sauteed-onions/"
     },
     {
       "catalog_id": "id-skipped-breakfast",
@@ -1153,6 +1171,15 @@
       "kcal_per_serving": 0,
       "photo": null,
       "path": "items/id-skipped-lunch/"
+    },
+    {
+      "catalog_id": "id-small-chicken-salad",
+      "name": "Small salad with chicken and cheese (no dressing)",
+      "brand": null,
+      "barcode": null,
+      "kcal_per_serving": 225,
+      "photo": null,
+      "path": "items/id-small-chicken-salad/"
     },
     {
       "catalog_id": "id-smoked-almonds",

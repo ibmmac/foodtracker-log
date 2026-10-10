@@ -98,15 +98,95 @@
       "notes": "Label: 47 kcal per 1 tbsp. Jelly flavor assumed strawberry (Mitch also bought Bonne Maman Wild Blueberry, 50 kcal/tbsp). Part of 2 peanut butter & jelly sandwiches (each 2 slices bread + 2 tbsp PB + 1 tbsp jelly). Reported by Mitch at ~22:24; lunch time approximate.",
       "time": "12:00",
       "timestamp": "2026-10-09T12:00:00-04:00"
+    },
+    {
+      "catalog_id": "id-salmon-fillet-cooked",
+      "catalog_path": "catalog/items/id-salmon-fillet-cooked/",
+      "name": "Salmon fillet (cooked)",
+      "amount_eaten": "~6 oz cooked fillet",
+      "servings_eaten": 1,
+      "meal": "dinner",
+      "location": "other",
+      "location_note": "Parents' house",
+      "logged": {
+        "calories": 350,
+        "protein_g": 34,
+        "carbs_g": 0,
+        "fat_g": 22
+      },
+      "source": "estimate",
+      "notes": "Salmon with onions; portion (~6 oz) and preparation assumed. Reported by Mitch at ~22:25; dinner time approximate.",
+      "time": "18:30",
+      "timestamp": "2026-10-09T18:30:00-04:00"
+    },
+    {
+      "catalog_id": "id-sauteed-onions",
+      "catalog_path": "catalog/items/id-sauteed-onions/",
+      "name": "Sauteed onions",
+      "amount_eaten": "~1/2 cup",
+      "servings_eaten": 1,
+      "meal": "dinner",
+      "location": "other",
+      "location_note": "Parents' house",
+      "logged": {
+        "calories": 70,
+        "protein_g": 0.7,
+        "carbs_g": 6,
+        "fat_g": 4.7
+      },
+      "source": "estimate",
+      "notes": "Onions served with the salmon; amount and oil assumed. Reported by Mitch at ~22:25; dinner time approximate.",
+      "time": "18:30",
+      "timestamp": "2026-10-09T18:30:00-04:00"
+    },
+    {
+      "catalog_id": "id-small-chicken-salad",
+      "catalog_path": "catalog/items/id-small-chicken-salad/",
+      "name": "Small salad with chicken and cheese (no dressing)",
+      "amount_eaten": "1 small salad",
+      "servings_eaten": 1,
+      "meal": "dinner",
+      "location": "other",
+      "location_note": "Parents' house",
+      "logged": {
+        "calories": 225,
+        "protein_g": 25.5,
+        "carbs_g": 4.5,
+        "fat_g": 11.2
+      },
+      "source": "estimate",
+      "notes": "Lettuce, tomato, chicken, cheese; ~2 oz chicken + ~1 oz cheese assumed. No dressing mentioned, assumed none. Reported by Mitch at ~22:25; dinner time approximate.",
+      "time": "18:30",
+      "timestamp": "2026-10-09T18:30:00-04:00"
+    },
+    {
+      "catalog_id": "id-cannoli",
+      "catalog_path": "catalog/items/id-cannoli/",
+      "name": "Cannoli (small)",
+      "amount_eaten": "1 small cannoli",
+      "servings_eaten": 0.54,
+      "meal": "dinner",
+      "location": "other",
+      "location_note": "Parents' house",
+      "logged": {
+        "calories": 150,
+        "protein_g": 2.7,
+        "carbs_g": 16.1,
+        "fat_g": 8.0
+      },
+      "source": "estimate",
+      "notes": "Small/mini cannoli, ~150 kcal (0.54 of the medium cannoli item logged 2026-09-18). Reported by Mitch at ~22:25; dinner time approximate.",
+      "time": "18:30",
+      "timestamp": "2026-10-09T18:30:00-04:00"
     }
   ],
   "totals": {
-    "calories": 1123,
-    "protein_g": 40.2,
-    "carbs_g": 126.6,
-    "fat_g": 56.5,
-    "remaining_kcal": 377,
-    "percent_goal_remaining": 25.1,
-    "percent_goal_used": 74.9
+    "calories": 1918,
+    "protein_g": 103.1,
+    "carbs_g": 153.2,
+    "fat_g": 102.4,
+    "remaining_kcal": -418,
+    "percent_goal_remaining": -27.9,
+    "percent_goal_used": 127.9
   }
 }

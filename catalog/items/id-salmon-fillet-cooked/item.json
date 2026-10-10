@@ -1,0 +1,19 @@
+{
+  "catalog_id": "id-salmon-fillet-cooked",
+  "id": "salmon-fillet-cooked",
+  "name": "Salmon fillet (cooked)",
+  "brand": null,
+  "barcode": null,
+  "barcode_status": "no_photo",
+  "serving_size": "1 fillet, ~6 oz cooked (170 g)",
+  "nutrition_per_serving": {
+    "calories": 350,
+    "protein_g": 34,
+    "total_carbohydrate_g": 0,
+    "total_fat_g": 22,
+    "notes": "Estimate for ~6 oz cooked salmon fillet; preparation unknown"
+  },
+  "photo": null,
+  "photo_credit": null,
+  "notes": "Estimate for ~6 oz cooked salmon fillet; preparation unknown"
+}
