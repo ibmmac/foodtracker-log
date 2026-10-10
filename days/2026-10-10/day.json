@@ -1,0 +1,56 @@
+{
+  "date": "2026-10-10",
+  "timezone": "America/New_York",
+  "goal_kcal": 1500,
+  "entries": [
+    {
+      "catalog_id": "id-hard-boiled-egg-large",
+      "catalog_path": "catalog/items/id-hard-boiled-egg-large/",
+      "name": "Hard-boiled egg (large)",
+      "amount_eaten": "4 large eggs",
+      "servings_eaten": 4,
+      "meal": "breakfast",
+      "location": "other",
+      "location_note": "Joe's house",
+      "logged": {
+        "calories": 312,
+        "protein_g": 25.2,
+        "carbs_g": 2.4,
+        "fat_g": 21.2
+      },
+      "source": "usda_estimate",
+      "notes": "4 large eggs, ~78 kcal each. Cooking method not reported; assumed plain (boiled/no added fat). If fried in butter, add ~30-50 kcal. Reported by Mitch at ~10:27; breakfast time approximate.",
+      "time": "09:00",
+      "timestamp": "2026-10-10T09:00:00-04:00"
+    },
+    {
+      "catalog_id": "id-coffee-with-milk",
+      "catalog_path": "catalog/items/id-coffee-with-milk/",
+      "name": "Coffee with milk (no sugar)",
+      "amount_eaten": "1 cup",
+      "servings_eaten": 1,
+      "meal": "breakfast",
+      "location": "other",
+      "location_note": "Joe's house",
+      "logged": {
+        "calories": 45,
+        "protein_g": 2,
+        "carbs_g": 3,
+        "fat_g": 2.5
+      },
+      "source": "estimate",
+      "notes": "Estimate: coffee + ~2 oz milk, no sugar. Reported by Mitch at ~10:27; breakfast time approximate.",
+      "time": "09:00",
+      "timestamp": "2026-10-10T09:00:00-04:00"
+    }
+  ],
+  "totals": {
+    "calories": 357,
+    "protein_g": 27.2,
+    "carbs_g": 5.4,
+    "fat_g": 23.7,
+    "remaining_kcal": 1143,
+    "percent_goal_remaining": 76.2,
+    "percent_goal_used": 23.8
+  }
+}
