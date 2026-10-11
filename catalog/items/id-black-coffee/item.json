@@ -1,0 +1,19 @@
+{
+  "catalog_id": "id-black-coffee",
+  "id": "black-coffee",
+  "name": "Black coffee (no milk, no sugar)",
+  "brand": null,
+  "barcode": null,
+  "barcode_status": "no_photo",
+  "serving_size": "1 cup (8 fl oz) brewed",
+  "nutrition_per_serving": {
+    "calories": 2,
+    "protein_g": 0.3,
+    "total_carbohydrate_g": 0,
+    "total_fat_g": 0,
+    "notes": "Brewed black coffee, 1 cup (8 fl oz), no milk or sugar (USDA ~2 kcal)"
+  },
+  "photo": null,
+  "photo_credit": null,
+  "notes": "Brewed black coffee, 1 cup (8 fl oz), no milk or sugar (USDA ~2 kcal)"
+}

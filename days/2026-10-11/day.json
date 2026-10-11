@@ -1,0 +1,36 @@
+{
+  "date": "2026-10-11",
+  "timezone": "America/New_York",
+  "goal_kcal": 1500,
+  "entries": [
+    {
+      "catalog_id": "id-black-coffee",
+      "catalog_path": "catalog/items/id-black-coffee/",
+      "name": "Black coffee (no milk, no sugar)",
+      "amount_eaten": "1 cup",
+      "servings_eaten": 1,
+      "meal": "breakfast",
+      "location": "other",
+      "location_note": "Joe's house",
+      "logged": {
+        "calories": 2,
+        "protein_g": 0.3,
+        "carbs_g": 0,
+        "fat_g": 0
+      },
+      "source": "usda_estimate",
+      "notes": "Black coffee, no milk, no sugar. Reported by Mitch at ~19:03; breakfast time approximate.",
+      "time": "09:00",
+      "timestamp": "2026-10-11T09:00:00-04:00"
+    }
+  ],
+  "totals": {
+    "calories": 2,
+    "protein_g": 0.3,
+    "carbs_g": 0,
+    "fat_g": 0,
+    "remaining_kcal": 1498,
+    "percent_goal_remaining": 99.9,
+    "percent_goal_used": 0.1
+  }
+}

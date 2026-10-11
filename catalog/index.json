@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-10",
-  "count": 141,
+  "updated": "2026-10-11",
+  "count": 142,
   "products": [
     {
       "catalog_id": "013562000043",
@@ -505,6 +505,15 @@
       "kcal_per_serving": 420,
       "photo": "product.jpg",
       "path": "items/id-baked-white-fish-herb-butter/"
+    },
+    {
+      "catalog_id": "id-black-coffee",
+      "name": "Black coffee (no milk, no sugar)",
+      "brand": null,
+      "barcode": null,
+      "kcal_per_serving": 2,
+      "photo": null,
+      "path": "items/id-black-coffee/"
     },
     {
       "catalog_id": "id-bunches-of-oats",
