@@ -4,9 +4,9 @@
 
 **Daily goal:** 1500 kcal
 
-**Daily total:** 1291 kcal · Protein 105.3g · Carbs 54.6g · Fat 71.2g
+**Daily total:** 1446 kcal · Protein 108.6g · Carbs 74.6g · Fat 78.0g
 
-**Left:** 209 kcal (**13.9%** of goal remaining) · 86.1% used
+**Left:** 54 kcal (**3.6%** of goal remaining) · 96.4% used
 
 ## Foods logged
 
@@ -20,3 +20,5 @@
 | [Great Value Earl Grey Black Tea](../../catalog/items/id-great-value-earl-grey-black-tea-bags-40-count/) | 1 cup, plain | home | lunch | 0 | 0 | 0 | 0 |
 | [Grapes (red or green, seedless)](../../catalog/items/id-grapes/) | 1 small bunch (~1 cup) | home | lunch | 104 | 1.1 | 27.3 | 0.2 |
 | [Small beef patty (80/20, plain)](../../catalog/items/id-small-beef-patty/) | 3 small patties (~3 oz raw each), no bun | other | dinner | 540 | 45 | 0 | 39 |
+| [Green beans side](../../catalog/items/id-green-beans-side/) | 1 serving (~1/2 cup), no butter | other | dinner | 25 | 1 | 5 | 0 |
+| [Cherry ice cream](../../catalog/items/id-cherry-ice-cream-scoop/) | 1 small scoop (~3/4 standard) | other | snack | 130 | 2.3 | 15 | 6.8 |
