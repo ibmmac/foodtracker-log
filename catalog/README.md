@@ -1,6 +1,6 @@
 # Food catalog
 
-**142 products** · machine index: [index.json](index.json)
+**145 products** · machine index: [index.json](index.json)
 
 | Product | Brand | Barcode | kcal/serving | Photo |
 |---------|-------|---------|--------------|-------|
@@ -133,6 +133,9 @@
 | [Pear (medium)](items/id-pear-medium/) | — | — | 101 | — |
 | [Pizza slice (supreme / veggie + meat)](items/id-pizza-slice-supreme/) | — | — | 350 | yes |
 | [Salmon fillet (cooked)](items/id-salmon-fillet-cooked/) | — | — | 350 | — |
+| [Sam's Club Café all-beef hot dog, no bun, with onions & sauerkraut](items/id-sams-club-hot-dog-no-bun/) | Sam's Club Café | — | 335 | — |
+| [Sam's Club Café Pizza Pretzel](items/id-sams-club-pizza-pretzel/) | Sam's Club Café | — | 440 | — |
+| [Sam's Club Café Vanilla Frozen Yogurt](items/id-sams-club-vanilla-frozen-yogurt/) | Sam's Club Café | — | 330 | — |
 | [Sauerkraut](items/id-sauerkraut/) | — | — | 5 | — |
 | [Sauteed onions](items/id-sauteed-onions/) | — | — | 70 | — |
 | [Skipped breakfast](items/id-skipped-breakfast/) | — | — | 0 | — |

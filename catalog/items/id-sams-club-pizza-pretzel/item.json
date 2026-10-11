@@ -1,0 +1,24 @@
+{
+  "catalog_id": "id-sams-club-pizza-pretzel",
+  "id": "sams-club-pizza-pretzel",
+  "name": "Sam's Club Caf\u00e9 Pizza Pretzel",
+  "brand": "Sam's Club Caf\u00e9",
+  "barcode": null,
+  "barcode_status": "no_photo",
+  "serving_size": "1/2 pretzel (164 g)",
+  "nutrition_per_serving": {
+    "calories": 440,
+    "protein_g": 19,
+    "total_carbohydrate_g": 55,
+    "total_fat_g": 16,
+    "saturated_fat_g": 9,
+    "sodium_mg": 750,
+    "dietary_fiber_g": 3,
+    "total_sugars_g": 8,
+    "notes": "Official Sam's Club Caf\u00e9 figures per 1/2 pretzel (164 g); a whole pizza pretzel is 2 servings (~880 kcal)."
+  },
+  "photo": null,
+  "photo_credit": null,
+  "nutrition_source": "Sam's Club Caf\u00e9 published nutrition via Nutrimetry (https://www.nutrimetry.com/restaurants/sams-club-cafe, checked 2026-10-11); official PDF https://scene7.samsclub.com/is/content/samsclub/sc-cafe-nutrition-ingredients",
+  "notes": "Official Sam's Club Caf\u00e9 figures per 1/2 pretzel (164 g); a whole pizza pretzel is 2 servings (~880 kcal)."
+}

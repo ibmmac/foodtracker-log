@@ -22,15 +22,75 @@
       "notes": "Black coffee, no milk, no sugar. Reported by Mitch at ~19:03; breakfast time approximate.",
       "time": "09:00",
       "timestamp": "2026-10-11T09:00:00-04:00"
+    },
+    {
+      "catalog_id": "id-sams-club-pizza-pretzel",
+      "catalog_path": "catalog/items/id-sams-club-pizza-pretzel/",
+      "name": "Sam's Club Caf\u00e9 Pizza Pretzel",
+      "amount_eaten": "1 whole pizza pretzel (2 \u00d7 1/2-pretzel servings)",
+      "servings_eaten": 2,
+      "meal": "lunch",
+      "location": "other",
+      "location_note": "Sam's Club",
+      "logged": {
+        "calories": 880,
+        "protein_g": 38,
+        "carbs_g": 110,
+        "fat_g": 32
+      },
+      "source": "restaurant_published",
+      "notes": "Official: 440 kcal per 1/2 pretzel (164 g); whole pretzel assumed eaten (2 servings). If he ate half, 440 kcal. Reported by Mitch at ~19:04; lunch time approximate.",
+      "time": "13:00",
+      "timestamp": "2026-10-11T13:00:00-04:00"
+    },
+    {
+      "catalog_id": "id-sams-club-hot-dog-no-bun",
+      "catalog_path": "catalog/items/id-sams-club-hot-dog-no-bun/",
+      "name": "Sam's Club Caf\u00e9 all-beef hot dog, no bun, with onions & sauerkraut",
+      "amount_eaten": "1 frank, no bun, with onions & sauerkraut",
+      "servings_eaten": 1,
+      "meal": "lunch",
+      "location": "other",
+      "location_note": "Sam's Club",
+      "logged": {
+        "calories": 335,
+        "protein_g": 14.5,
+        "carbs_g": 7,
+        "fat_g": 27
+      },
+      "source": "estimate",
+      "notes": "Frank only (official 500-kcal Hot Dog with Bun minus ~180-kcal bun estimate) + ~15 kcal onions and sauerkraut. Reported by Mitch at ~19:04; lunch time approximate.",
+      "time": "13:00",
+      "timestamp": "2026-10-11T13:00:00-04:00"
+    },
+    {
+      "catalog_id": "id-sams-club-vanilla-frozen-yogurt",
+      "catalog_path": "catalog/items/id-sams-club-vanilla-frozen-yogurt/",
+      "name": "Sam's Club Caf\u00e9 Vanilla Frozen Yogurt",
+      "amount_eaten": "1 standard cup",
+      "servings_eaten": 1,
+      "meal": "lunch",
+      "location": "other",
+      "location_note": "Sam's Club",
+      "logged": {
+        "calories": 330,
+        "protein_g": 10,
+        "carbs_g": 63,
+        "fat_g": 5
+      },
+      "source": "restaurant_published",
+      "notes": "Official: 330 kcal per container. Reported by Mitch at ~19:04; lunch time approximate.",
+      "time": "13:00",
+      "timestamp": "2026-10-11T13:00:00-04:00"
     }
   ],
   "totals": {
-    "calories": 2,
-    "protein_g": 0.3,
-    "carbs_g": 0,
-    "fat_g": 0,
-    "remaining_kcal": 1498,
-    "percent_goal_remaining": 99.9,
-    "percent_goal_used": 0.1
+    "calories": 1547,
+    "protein_g": 62.8,
+    "carbs_g": 180,
+    "fat_g": 64,
+    "remaining_kcal": -47,
+    "percent_goal_remaining": -3.1,
+    "percent_goal_used": 103.1
   }
 }

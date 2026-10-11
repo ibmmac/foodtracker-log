@@ -1,0 +1,20 @@
+{
+  "catalog_id": "id-sams-club-hot-dog-no-bun",
+  "id": "sams-club-hot-dog-no-bun",
+  "name": "Sam's Club Caf\u00e9 all-beef hot dog, no bun, with onions & sauerkraut",
+  "brand": "Sam's Club Caf\u00e9",
+  "barcode": null,
+  "barcode_status": "no_photo",
+  "serving_size": "1 frank (~1/4 lb) + onions & sauerkraut",
+  "nutrition_per_serving": {
+    "calories": 335,
+    "protein_g": 14.5,
+    "total_carbohydrate_g": 7,
+    "total_fat_g": 27,
+    "notes": "Estimate: official Hot Dog with Bun is 500 kcal (20 g P, 37 g C, 30 g F); bun estimated ~180 kcal (6 g P, 33 g C, 3 g F), so frank ~320 kcal; plus ~15 kcal onions & sauerkraut."
+  },
+  "photo": null,
+  "photo_credit": null,
+  "nutrition_source": "Sam's Club Caf\u00e9 published nutrition via Nutrimetry (https://www.nutrimetry.com/restaurants/sams-club-cafe, checked 2026-10-11); official PDF https://scene7.samsclub.com/is/content/samsclub/sc-cafe-nutrition-ingredients",
+  "notes": "Estimate: official Hot Dog with Bun is 500 kcal (20 g P, 37 g C, 30 g F); bun estimated ~180 kcal (6 g P, 33 g C, 3 g F), so frank ~320 kcal; plus ~15 kcal onions & sauerkraut."
+}

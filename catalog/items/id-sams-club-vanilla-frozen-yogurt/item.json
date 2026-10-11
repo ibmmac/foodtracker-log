@@ -1,0 +1,23 @@
+{
+  "catalog_id": "id-sams-club-vanilla-frozen-yogurt",
+  "id": "sams-club-vanilla-frozen-yogurt",
+  "name": "Sam's Club Caf\u00e9 Vanilla Frozen Yogurt",
+  "brand": "Sam's Club Caf\u00e9",
+  "barcode": null,
+  "barcode_status": "no_photo",
+  "serving_size": "1 container (261 g)",
+  "nutrition_per_serving": {
+    "calories": 330,
+    "protein_g": 10,
+    "total_carbohydrate_g": 63,
+    "total_fat_g": 5,
+    "saturated_fat_g": 3,
+    "sodium_mg": 230,
+    "total_sugars_g": 53,
+    "notes": "Official Sam's Club Caf\u00e9 figures, 1 container (261 g)."
+  },
+  "photo": null,
+  "photo_credit": null,
+  "nutrition_source": "Sam's Club Caf\u00e9 published nutrition via Nutrimetry (https://www.nutrimetry.com/restaurants/sams-club-cafe, checked 2026-10-11); official PDF https://scene7.samsclub.com/is/content/samsclub/sc-cafe-nutrition-ingredients",
+  "notes": "Official Sam's Club Caf\u00e9 figures, 1 container (261 g)."
+}

@@ -1,6 +1,6 @@
 {
   "updated": "2026-10-11",
-  "count": 142,
+  "count": 145,
   "products": [
     {
       "catalog_id": "013562000043",
@@ -1162,6 +1162,33 @@
       "kcal_per_serving": 350,
       "photo": null,
       "path": "items/id-salmon-fillet-cooked/"
+    },
+    {
+      "catalog_id": "id-sams-club-hot-dog-no-bun",
+      "name": "Sam's Club Caf\u00e9 all-beef hot dog, no bun, with onions & sauerkraut",
+      "brand": "Sam's Club Caf\u00e9",
+      "barcode": null,
+      "kcal_per_serving": 335,
+      "photo": null,
+      "path": "items/id-sams-club-hot-dog-no-bun/"
+    },
+    {
+      "catalog_id": "id-sams-club-pizza-pretzel",
+      "name": "Sam's Club Caf\u00e9 Pizza Pretzel",
+      "brand": "Sam's Club Caf\u00e9",
+      "barcode": null,
+      "kcal_per_serving": 440,
+      "photo": null,
+      "path": "items/id-sams-club-pizza-pretzel/"
+    },
+    {
+      "catalog_id": "id-sams-club-vanilla-frozen-yogurt",
+      "name": "Sam's Club Caf\u00e9 Vanilla Frozen Yogurt",
+      "brand": "Sam's Club Caf\u00e9",
+      "barcode": null,
+      "kcal_per_serving": 330,
+      "photo": null,
+      "path": "items/id-sams-club-vanilla-frozen-yogurt/"
     },
     {
       "catalog_id": "id-sauerkraut",
