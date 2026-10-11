@@ -1,6 +1,6 @@
 # Food catalog
 
-**140 products** · machine index: [index.json](index.json)
+**141 products** · machine index: [index.json](index.json)
 
 | Product | Brand | Barcode | kcal/serving | Photo |
 |---------|-------|---------|--------------|-------|
@@ -136,6 +136,7 @@
 | [Sauteed onions](items/id-sauteed-onions/) | — | — | 70 | — |
 | [Skipped breakfast](items/id-skipped-breakfast/) | — | — | 0 | — |
 | [Skipped lunch](items/id-skipped-lunch/) | — | — | 0 | — |
+| [Small beef patty (80/20, plain)](items/id-small-beef-patty/) | — | — | 180 | — |
 | [Small salad with chicken and cheese (no dressing)](items/id-small-chicken-salad/) | — | — | 225 | — |
 | [Smoked almonds](items/id-smoked-almonds/) | — | — | 170 | — |
 | [Snickers, M&M's & Twix Fun Size Chocolate Candy Variety Pack, Sharing Size - 8.85 oz Bag](items/id-snickers-m-m-s-twix-fun-size-chocolate-candy-varie/) | Mars | — | 80 | — |

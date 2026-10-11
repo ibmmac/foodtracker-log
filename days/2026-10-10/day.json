@@ -137,15 +137,35 @@
       "notes": "Small bunch of grapes; assumed ~1 cup (~151 g). Reported by Mitch at ~15:40; lunch time approximate.",
       "time": "13:00",
       "timestamp": "2026-10-10T13:00:00-04:00"
+    },
+    {
+      "catalog_id": "id-small-beef-patty",
+      "catalog_path": "catalog/items/id-small-beef-patty/",
+      "name": "Small beef patty (80/20, plain)",
+      "amount_eaten": "3 small patties (~3 oz raw each), no bun",
+      "servings_eaten": 3,
+      "meal": "dinner",
+      "location": "other",
+      "location_note": "Parents' house",
+      "logged": {
+        "calories": 540,
+        "protein_g": 45,
+        "carbs_g": 0,
+        "fat_g": 39
+      },
+      "source": "estimate",
+      "notes": "3 plain burgers, no cheese or toppings. Mitch confirmed they were smaller than 1/4 lb and had no bun; exact size (~3 oz raw, 80/20, ~180 kcal each) assumed. Reported by Mitch at ~20:58 (voice); dinner time approximate.",
+      "time": "18:30",
+      "timestamp": "2026-10-10T18:30:00-04:00"
     }
   ],
   "totals": {
-    "calories": 751,
-    "protein_g": 60.3,
+    "calories": 1291,
+    "protein_g": 105.3,
     "carbs_g": 54.6,
-    "fat_g": 32.2,
-    "remaining_kcal": 749,
-    "percent_goal_remaining": 49.9,
-    "percent_goal_used": 50.1
+    "fat_g": 71.2,
+    "remaining_kcal": 209,
+    "percent_goal_remaining": 13.9,
+    "percent_goal_used": 86.1
   }
 }

@@ -1,0 +1,19 @@
+{
+  "catalog_id": "id-small-beef-patty",
+  "id": "small-beef-patty",
+  "name": "Small beef patty (80/20, plain)",
+  "brand": null,
+  "barcode": null,
+  "barcode_status": "no_photo",
+  "serving_size": "1 patty, ~3 oz raw (~2.25 oz cooked)",
+  "nutrition_per_serving": {
+    "calories": 180,
+    "protein_g": 15,
+    "total_carbohydrate_g": 0,
+    "total_fat_g": 13,
+    "notes": "Estimate for a small 80/20 beef patty, ~3 oz raw (~2.25 oz cooked), plain, no bun"
+  },
+  "photo": null,
+  "photo_credit": null,
+  "notes": "Estimate for a small 80/20 beef patty, ~3 oz raw (~2.25 oz cooked), plain, no bun"
+}

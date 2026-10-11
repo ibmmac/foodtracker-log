@@ -1,6 +1,6 @@
 {
   "updated": "2026-10-10",
-  "count": 140,
+  "count": 141,
   "products": [
     {
       "catalog_id": "013562000043",
@@ -1189,6 +1189,15 @@
       "kcal_per_serving": 0,
       "photo": null,
       "path": "items/id-skipped-lunch/"
+    },
+    {
+      "catalog_id": "id-small-beef-patty",
+      "name": "Small beef patty (80/20, plain)",
+      "brand": null,
+      "barcode": null,
+      "kcal_per_serving": 180,
+      "photo": null,
+      "path": "items/id-small-beef-patty/"
     },
     {
       "catalog_id": "id-small-chicken-salad",
