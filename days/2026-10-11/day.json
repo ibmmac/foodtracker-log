@@ -82,6 +82,26 @@
       "notes": "Official: 330 kcal per container. Reported by Mitch at ~19:04; lunch time approximate.",
       "time": "13:00",
       "timestamp": "2026-10-11T13:00:00-04:00"
+    },
+    {
+      "catalog_id": "id-water",
+      "catalog_path": "catalog/items/id-water/",
+      "name": "Water",
+      "amount_eaten": "1 drink",
+      "servings_eaten": 1,
+      "meal": "lunch",
+      "location": "other",
+      "location_note": "Sam's Club",
+      "logged": {
+        "calories": 0,
+        "protein_g": 0,
+        "carbs_g": 0,
+        "fat_g": 0
+      },
+      "source": "user",
+      "notes": "Water as the drink with lunch. Reported by Mitch at ~19:42; lunch time approximate.",
+      "time": "13:00",
+      "timestamp": "2026-10-11T13:00:00-04:00"
     }
   ],
   "totals": {

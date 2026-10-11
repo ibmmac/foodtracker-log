@@ -1,6 +1,6 @@
 {
   "updated": "2026-10-11",
-  "count": 145,
+  "count": 146,
   "products": [
     {
       "catalog_id": "013562000043",
@@ -1288,6 +1288,15 @@
       "kcal_per_serving": 110,
       "photo": null,
       "path": "items/id-teriyaki-beef-stick/"
+    },
+    {
+      "catalog_id": "id-water",
+      "name": "Water",
+      "brand": null,
+      "barcode": null,
+      "kcal_per_serving": 0,
+      "photo": null,
+      "path": "items/id-water/"
     },
     {
       "catalog_id": "id-wellsley-farms-cheese",

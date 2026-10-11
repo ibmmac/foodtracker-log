@@ -1,0 +1,19 @@
+{
+  "catalog_id": "id-water",
+  "id": "water",
+  "name": "Water",
+  "brand": null,
+  "barcode": null,
+  "barcode_status": "no_photo",
+  "serving_size": "1 cup / glass",
+  "nutrition_per_serving": {
+    "calories": 0,
+    "protein_g": 0,
+    "total_carbohydrate_g": 0,
+    "total_fat_g": 0,
+    "notes": "Plain water; 0 kcal"
+  },
+  "photo": null,
+  "photo_credit": null,
+  "notes": "Plain water; 0 kcal"
+}

@@ -1,6 +1,6 @@
 # Food catalog
 
-**145 products** · machine index: [index.json](index.json)
+**146 products** · machine index: [index.json](index.json)
 
 | Product | Brand | Barcode | kcal/serving | Photo |
 |---------|-------|---------|--------------|-------|
@@ -147,5 +147,6 @@
 | [SweeTARTS Variety Party Mix, Individually Wrapped Assorted Candy, 28.6 Ounce (75 Count)](items/id-sweetarts-variety-party-mix-individually-wrapped-a/) | SweeTARTS / Ferrara | — | 15 | — |
 | [Tartar sauce](items/id-tartar-sauce/) | — | — | 150 | yes |
 | [Teriyaki beef stick](items/id-teriyaki-beef-stick/) | Unknown (estimated as Jack Link's Teriyaki style) | — | 110 | — |
+| [Water](items/id-water/) | — | — | 0 | — |
 | [Wellsley Farms cheese (type unknown)](items/id-wellsley-farms-cheese/) | Wellsley Farms / BJ's Wholesale Club | — | 110 | — |
 | [Whole-grain crackers](items/id-whole-grain-crackers/) | — | — | 120 | — |
