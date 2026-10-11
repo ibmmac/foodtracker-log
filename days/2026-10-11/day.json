@@ -102,15 +102,53 @@
       "notes": "Water as the drink with lunch. Reported by Mitch at ~19:42; lunch time approximate.",
       "time": "13:00",
       "timestamp": "2026-10-11T13:00:00-04:00"
+    },
+    {
+      "catalog_id": "id-lean-steak",
+      "catalog_path": "catalog/items/id-lean-steak/",
+      "name": "Lean steak (sirloin, cooked)",
+      "amount_eaten": "1 serving (~4 oz cooked)",
+      "servings_eaten": 1,
+      "meal": "dinner",
+      "location": "home",
+      "logged": {
+        "calories": 210,
+        "protein_g": 32,
+        "carbs_g": 0,
+        "fat_g": 8
+      },
+      "source": "estimate",
+      "notes": "Lean steak; cut assumed sirloin, ~4 oz cooked. No steak found in catalog or purchases. Reported by Mitch at ~19:43; dinner time approximate.",
+      "time": "18:30",
+      "timestamp": "2026-10-11T18:30:00-04:00"
+    },
+    {
+      "catalog_id": "id-cashews",
+      "catalog_path": "catalog/items/id-cashews/",
+      "name": "Cashews",
+      "amount_eaten": "1 serving (1 oz)",
+      "servings_eaten": 1,
+      "meal": "dinner",
+      "location": "home",
+      "logged": {
+        "calories": 160,
+        "protein_g": 5,
+        "carbs_g": 9,
+        "fat_g": 13
+      },
+      "source": "estimate",
+      "notes": "Assumed 1 oz serving. Reported by Mitch at ~19:43; dinner time approximate.",
+      "time": "18:30",
+      "timestamp": "2026-10-11T18:30:00-04:00"
     }
   ],
   "totals": {
-    "calories": 1547,
-    "protein_g": 62.8,
-    "carbs_g": 180,
-    "fat_g": 64,
-    "remaining_kcal": -47,
-    "percent_goal_remaining": -3.1,
-    "percent_goal_used": 103.1
+    "calories": 1917,
+    "protein_g": 99.8,
+    "carbs_g": 189,
+    "fat_g": 85,
+    "remaining_kcal": -417,
+    "percent_goal_remaining": -27.8,
+    "percent_goal_used": 127.8
   }
 }

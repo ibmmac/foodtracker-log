@@ -1,6 +1,6 @@
 # Food catalog
 
-**146 products** · machine index: [index.json](index.json)
+**147 products** · machine index: [index.json](index.json)
 
 | Product | Brand | Barcode | kcal/serving | Photo |
 |---------|-------|---------|--------------|-------|
@@ -118,6 +118,7 @@
 | [Hard-boiled egg (large)](items/id-hard-boiled-egg-large/) | — | — | 78 | — |
 | [JENNIE-O Turkey Hot Dogs, *40% Less Fat (8 Turkey Franks), Refrigerated, 16 oz Plastic Package](items/id-jennie-o-turkey-hot-dogs-40-less-fat-refrigerated/) | Jennie-O | — | 110 | — |
 | [Kellogg's Breakfast Cereal, Kids Cereal, Family Breakfast, Variety Pack, 8.56oz Tray (8 Boxes)](items/id-kellogg-s-breakfast-cereal-kids-cereal-family-brea/) | Kellogg's | — | 110 | — |
+| [Lean steak (sirloin, cooked)](items/id-lean-steak/) | — | — | 210 | — |
 | [Liquid I.V.® Orange Vanilla Dream Hydration Multiplier® Powdered Electrolyte Drink Mix, 6 Count Packets](items/id-liquid-i-v-orange-vanilla-dream-hydration-multipli/) | Liquid I.V. | — | 45 | — |
 | [Marketside Fresh Organic Bananas, Bunch](items/id-marketside-fresh-organic-bananas-bunch/) | Marketside / Walmart | — | 105 | — |
 | [McIntosh apple](items/id-mcintosh-apple/) | — | — | 95 | — |

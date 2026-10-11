@@ -1,0 +1,19 @@
+{
+  "catalog_id": "id-lean-steak",
+  "id": "lean-steak",
+  "name": "Lean steak (sirloin, cooked)",
+  "brand": null,
+  "barcode": null,
+  "barcode_status": "no_photo",
+  "serving_size": "4 oz cooked (113 g)",
+  "nutrition_per_serving": {
+    "calories": 210,
+    "protein_g": 32,
+    "total_carbohydrate_g": 0,
+    "total_fat_g": 8,
+    "notes": "Estimate: ~4 oz cooked lean beef sirloin steak, trimmed (USDA-style ~210 kcal)"
+  },
+  "photo": null,
+  "photo_credit": null,
+  "notes": "Estimate: ~4 oz cooked lean beef sirloin steak, trimmed (USDA-style ~210 kcal)"
+}

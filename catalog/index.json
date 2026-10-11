@@ -1,6 +1,6 @@
 {
   "updated": "2026-10-11",
-  "count": 146,
+  "count": 147,
   "products": [
     {
       "catalog_id": "013562000043",
@@ -1027,6 +1027,15 @@
       "kcal_per_serving": 110,
       "photo": null,
       "path": "items/id-kellogg-s-breakfast-cereal-kids-cereal-family-brea/"
+    },
+    {
+      "catalog_id": "id-lean-steak",
+      "name": "Lean steak (sirloin, cooked)",
+      "brand": null,
+      "barcode": null,
+      "kcal_per_serving": 210,
+      "photo": null,
+      "path": "items/id-lean-steak/"
     },
     {
       "catalog_id": "id-liquid-i-v-orange-vanilla-dream-hydration-multipli",
