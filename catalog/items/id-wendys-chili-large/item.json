@@ -1,0 +1,20 @@
+{
+  "catalog_id": "id-wendys-chili-large",
+  "id": "wendys-chili-large",
+  "name": "Wendy's Chili, Large (no crackers)",
+  "brand": "Wendy's",
+  "barcode": null,
+  "barcode_status": "no_photo",
+  "serving_size": "1 large chili, no saltines",
+  "nutrition_per_serving": {
+    "calories": 320,
+    "protein_g": 24,
+    "total_carbohydrate_g": 20,
+    "total_fat_g": 16,
+    "notes": "Official large chili 370 kcal (25 g P, 29 g C, 17 g F) includes crackers; minus one saltine packet (50 kcal, 1 g P, 9 g C, 1 g F) assumed = ~320 kcal."
+  },
+  "photo": null,
+  "photo_credit": null,
+  "nutrition_source": "Wendy's published nutrition (wendys.com chili blog: small 280 / large 370 incl. crackers; part-by-part record via wenmenu.com/chili, checked 2026-09-25: chili 230 + saltine packet 50 for small; light sour cream 30)",
+  "notes": "Official large chili 370 kcal (25 g P, 29 g C, 17 g F) includes crackers; minus one saltine packet (50 kcal, 1 g P, 9 g C, 1 g F) assumed = ~320 kcal."
+}

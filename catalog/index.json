@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-11",
-  "count": 147,
+  "updated": "2026-10-14",
+  "count": 150,
   "products": [
     {
       "catalog_id": "013562000043",
@@ -1315,6 +1315,33 @@
       "kcal_per_serving": 110,
       "photo": null,
       "path": "items/id-wellsley-farms-cheese/"
+    },
+    {
+      "catalog_id": "id-wendys-chili-large",
+      "name": "Wendy's Chili, Large (no crackers)",
+      "brand": "Wendy's",
+      "barcode": null,
+      "kcal_per_serving": 320,
+      "photo": null,
+      "path": "items/id-wendys-chili-large/"
+    },
+    {
+      "catalog_id": "id-wendys-chili-small",
+      "name": "Wendy's Chili, Small (no crackers)",
+      "brand": "Wendy's",
+      "barcode": null,
+      "kcal_per_serving": 230,
+      "photo": null,
+      "path": "items/id-wendys-chili-small/"
+    },
+    {
+      "catalog_id": "id-wendys-sour-cream",
+      "name": "Wendy's Light Sour Cream (side)",
+      "brand": "Wendy's",
+      "barcode": null,
+      "kcal_per_serving": 30,
+      "photo": null,
+      "path": "items/id-wendys-sour-cream/"
     },
     {
       "catalog_id": "id-whole-grain-crackers",

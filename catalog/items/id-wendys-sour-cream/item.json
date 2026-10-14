@@ -1,0 +1,20 @@
+{
+  "catalog_id": "id-wendys-sour-cream",
+  "id": "wendys-sour-cream",
+  "name": "Wendy's Light Sour Cream (side)",
+  "brand": "Wendy's",
+  "barcode": null,
+  "barcode_status": "no_photo",
+  "serving_size": "1 side packet",
+  "nutrition_per_serving": {
+    "calories": 30,
+    "protein_g": 1,
+    "total_carbohydrate_g": 4,
+    "total_fat_g": 1,
+    "notes": "Official Wendy's light sour cream side: 30 kcal, 1 g protein, 1 g fat; carbs estimated."
+  },
+  "photo": null,
+  "photo_credit": null,
+  "nutrition_source": "Wendy's published nutrition (wendys.com chili blog: small 280 / large 370 incl. crackers; part-by-part record via wenmenu.com/chili, checked 2026-09-25: chili 230 + saltine packet 50 for small; light sour cream 30)",
+  "notes": "Official Wendy's light sour cream side: 30 kcal, 1 g protein, 1 g fat; carbs estimated."
+}

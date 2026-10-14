@@ -1,6 +1,6 @@
 # Food catalog
 
-**147 products** · machine index: [index.json](index.json)
+**150 products** · machine index: [index.json](index.json)
 
 | Product | Brand | Barcode | kcal/serving | Photo |
 |---------|-------|---------|--------------|-------|
@@ -150,4 +150,7 @@
 | [Teriyaki beef stick](items/id-teriyaki-beef-stick/) | Unknown (estimated as Jack Link's Teriyaki style) | — | 110 | — |
 | [Water](items/id-water/) | — | — | 0 | — |
 | [Wellsley Farms cheese (type unknown)](items/id-wellsley-farms-cheese/) | Wellsley Farms / BJ's Wholesale Club | — | 110 | — |
+| [Wendy's Chili, Large (no crackers)](items/id-wendys-chili-large/) | Wendy's | — | 320 | — |
+| [Wendy's Chili, Small (no crackers)](items/id-wendys-chili-small/) | Wendy's | — | 230 | — |
+| [Wendy's Light Sour Cream (side)](items/id-wendys-sour-cream/) | Wendy's | — | 30 | — |
 | [Whole-grain crackers](items/id-whole-grain-crackers/) | — | — | 120 | — |
