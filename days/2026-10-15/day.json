@@ -61,15 +61,34 @@
       "notes": "Meat lasagna with ricotta and browned cheese/breadcrumb topping; portion size estimated from Mitch's photo. Reported by Mitch at ~11:56; lunch time approximate.",
       "time": "11:45",
       "timestamp": "2026-10-15T11:45:00-04:00"
+    },
+    {
+      "catalog_id": "888670012864",
+      "catalog_path": "catalog/items/888670012864/",
+      "name": "Wellsley Farms Homestyle Potato Salad",
+      "amount_eaten": "1 serving (2/3 cup, 140 g)",
+      "servings_eaten": 1,
+      "meal": "lunch",
+      "location": "home",
+      "logged": {
+        "calories": 190,
+        "protein_g": 2,
+        "carbs_g": 22,
+        "fat_g": 10
+      },
+      "source": "label",
+      "notes": "1 label serving (2/3 cup). Reported by Mitch at ~12:08; lunch time approximate.",
+      "time": "11:45",
+      "timestamp": "2026-10-15T11:45:00-04:00"
     }
   ],
   "totals": {
-    "calories": 807,
-    "protein_g": 52.2,
-    "carbs_g": 40.4,
-    "fat_g": 45.7,
-    "remaining_kcal": 693,
-    "percent_goal_remaining": 46.2,
-    "percent_goal_used": 53.8
+    "calories": 997,
+    "protein_g": 54.2,
+    "carbs_g": 62.4,
+    "fat_g": 55.7,
+    "remaining_kcal": 503,
+    "percent_goal_remaining": 33.5,
+    "percent_goal_used": 66.5
   }
 }
