@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-14",
-  "count": 154,
+  "updated": "2026-10-15",
+  "count": 155,
   "products": [
     {
       "catalog_id": "013562000043",
@@ -1099,6 +1099,15 @@
       "kcal_per_serving": 95,
       "photo": null,
       "path": "items/id-mcintosh-apple/"
+    },
+    {
+      "catalog_id": "id-meat-lasagna-slice",
+      "name": "Meat lasagna slice (homemade-style)",
+      "brand": null,
+      "barcode": null,
+      "kcal_per_serving": 450,
+      "photo": null,
+      "path": "items/id-meat-lasagna-slice/"
     },
     {
       "catalog_id": "id-mini-choc-chip-cookies",

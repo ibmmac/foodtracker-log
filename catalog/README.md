@@ -1,6 +1,6 @@
 # Food catalog
 
-**154 products** · machine index: [index.json](index.json)
+**155 products** · machine index: [index.json](index.json)
 
 | Product | Brand | Barcode | kcal/serving | Photo |
 |---------|-------|---------|--------------|-------|
@@ -126,6 +126,7 @@
 | [Liquid I.V.® Orange Vanilla Dream Hydration Multiplier® Powdered Electrolyte Drink Mix, 6 Count Packets](items/id-liquid-i-v-orange-vanilla-dream-hydration-multipli/) | Liquid I.V. | — | 45 | — |
 | [Marketside Fresh Organic Bananas, Bunch](items/id-marketside-fresh-organic-bananas-bunch/) | Marketside / Walmart | — | 105 | — |
 | [McIntosh apple](items/id-mcintosh-apple/) | — | — | 95 | — |
+| [Meat lasagna slice (homemade-style)](items/id-meat-lasagna-slice/) | — | — | 450 | — |
 | [Mini chocolate chip cookies](items/id-mini-choc-chip-cookies/) | — | — | 50 | — |
 | [Mini mango all-fruit bar](items/id-mini-mango-fruit-bar/) | — | — | 50 | — |
 | [Movie theater drink (large)](items/id-movie-drink-large/) | — | — | 350 | — |

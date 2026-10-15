@@ -1,0 +1,75 @@
+{
+  "date": "2026-10-15",
+  "timezone": "America/New_York",
+  "goal_kcal": 1500,
+  "entries": [
+    {
+      "catalog_id": "id-hard-boiled-egg-large",
+      "catalog_path": "catalog/items/id-hard-boiled-egg-large/",
+      "name": "Hard-boiled egg (large)",
+      "amount_eaten": "4 large eggs",
+      "servings_eaten": 4,
+      "meal": "breakfast",
+      "location": "other",
+      "logged": {
+        "calories": 312,
+        "protein_g": 25.2,
+        "carbs_g": 2.4,
+        "fat_g": 21.2
+      },
+      "source": "usda_estimate",
+      "notes": "4 large eggs, ~78 kcal each. Cooking method not reported; assumed plain (boiled/no added fat). If fried in butter, add ~30-50 kcal. Reported by Mitch at ~11:55; breakfast time approximate.",
+      "time": "09:00",
+      "timestamp": "2026-10-15T09:00:00-04:00",
+      "location_note": "Joe's house"
+    },
+    {
+      "catalog_id": "id-coffee-with-milk",
+      "catalog_path": "catalog/items/id-coffee-with-milk/",
+      "name": "Coffee with milk (no sugar)",
+      "amount_eaten": "1 cup",
+      "servings_eaten": 1,
+      "meal": "breakfast",
+      "location": "other",
+      "logged": {
+        "calories": 45,
+        "protein_g": 2,
+        "carbs_g": 3,
+        "fat_g": 2.5
+      },
+      "source": "estimate",
+      "notes": "Estimate: coffee + ~2 oz milk, no sugar. Reported by Mitch at ~11:55; breakfast time approximate.",
+      "time": "09:00",
+      "timestamp": "2026-10-15T09:00:00-04:00",
+      "location_note": "Joe's house"
+    },
+    {
+      "catalog_id": "id-meat-lasagna-slice",
+      "catalog_path": "catalog/items/id-meat-lasagna-slice/",
+      "name": "Meat lasagna slice (homemade-style)",
+      "amount_eaten": "1 piece (~3x5 in)",
+      "servings_eaten": 1,
+      "meal": "lunch",
+      "location": "home",
+      "logged": {
+        "calories": 450,
+        "protein_g": 25,
+        "carbs_g": 35,
+        "fat_g": 22
+      },
+      "source": "visual_estimate",
+      "notes": "Meat lasagna with ricotta and browned cheese/breadcrumb topping; portion size estimated from Mitch's photo. Reported by Mitch at ~11:56; lunch time approximate.",
+      "time": "11:45",
+      "timestamp": "2026-10-15T11:45:00-04:00"
+    }
+  ],
+  "totals": {
+    "calories": 807,
+    "protein_g": 52.2,
+    "carbs_g": 40.4,
+    "fat_g": 45.7,
+    "remaining_kcal": 693,
+    "percent_goal_remaining": 46.2,
+    "percent_goal_used": 53.8
+  }
+}

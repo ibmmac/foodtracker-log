@@ -1,0 +1,19 @@
+{
+  "catalog_id": "id-meat-lasagna-slice",
+  "id": "meat-lasagna-slice",
+  "name": "Meat lasagna slice (homemade-style)",
+  "brand": null,
+  "barcode": null,
+  "barcode_status": "no_photo",
+  "serving_size": "1 slice (~3x5 in)",
+  "nutrition_per_serving": {
+    "calories": 450,
+    "protein_g": 25,
+    "total_carbohydrate_g": 35,
+    "total_fat_g": 22,
+    "notes": "Estimate for 1 slice (~3x5 in) homemade-style meat lasagna with meat sauce, ricotta, browned cheese and breadcrumb/parmesan topping; portion estimated from meal photo"
+  },
+  "photo": null,
+  "photo_credit": null,
+  "notes": "Estimate for 1 slice (~3x5 in) homemade-style meat lasagna with meat sauce, ricotta, browned cheese and breadcrumb/parmesan topping; portion estimated from meal photo. Mitch sent a meal photo (2026-10-15) but the image file was not accessible to save."
+}
