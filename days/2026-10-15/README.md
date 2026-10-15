@@ -4,9 +4,9 @@
 
 **Daily goal:** 1500 kcal
 
-**Daily total:** 997 kcal · Protein 54.2g · Carbs 62.4g · Fat 55.7g
+**Daily total:** 1157 kcal · Protein 59.2g · Carbs 71.4g · Fat 68.7g
 
-**Left:** 503 kcal (**33.5%** of goal remaining) · 66.5% used
+**Left:** 343 kcal (**22.9%** of goal remaining) · 77.1% used
 
 ## Foods logged
 
@@ -16,3 +16,4 @@
 | [Coffee with milk (no sugar)](../../catalog/items/id-coffee-with-milk/) | 1 cup | other | breakfast | 45 | 2 | 3 | 2.5 |
 | [Meat lasagna slice (homemade-style)](../../catalog/items/id-meat-lasagna-slice/) | 1 piece (~3x5 in) | home | lunch | 450 | 25 | 35 | 22 |
 | [Wellsley Farms Homestyle Potato Salad](../../catalog/items/888670012864/) | 1 serving (2/3 cup, 140 g) | home | lunch | 190 | 2 | 22 | 10 |
+| [Cashews](../../catalog/items/id-cashews/) | 1 serving (1 oz) | home | lunch | 160 | 5 | 9 | 13 |

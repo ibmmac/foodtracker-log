@@ -80,15 +80,34 @@
       "notes": "1 label serving (2/3 cup). Reported by Mitch at ~12:08; lunch time approximate.",
       "time": "11:45",
       "timestamp": "2026-10-15T11:45:00-04:00"
+    },
+    {
+      "catalog_id": "id-cashews",
+      "catalog_path": "catalog/items/id-cashews/",
+      "name": "Cashews",
+      "amount_eaten": "1 serving (1 oz)",
+      "servings_eaten": 1,
+      "meal": "lunch",
+      "location": "home",
+      "logged": {
+        "calories": 160,
+        "protein_g": 5,
+        "carbs_g": 9,
+        "fat_g": 13
+      },
+      "source": "estimate",
+      "notes": "Assumed 1 oz serving. Reported by Mitch at ~12:09; lunch time approximate.",
+      "time": "11:45",
+      "timestamp": "2026-10-15T11:45:00-04:00"
     }
   ],
   "totals": {
-    "calories": 997,
-    "protein_g": 54.2,
-    "carbs_g": 62.4,
-    "fat_g": 55.7,
-    "remaining_kcal": 503,
-    "percent_goal_remaining": 33.5,
-    "percent_goal_used": 66.5
+    "calories": 1157,
+    "protein_g": 59.2,
+    "carbs_g": 71.4,
+    "fat_g": 68.7,
+    "remaining_kcal": 343,
+    "percent_goal_remaining": 22.9,
+    "percent_goal_used": 77.1
   }
 }
