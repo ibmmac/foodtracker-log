@@ -1,6 +1,6 @@
 {
   "updated": "2026-10-14",
-  "count": 150,
+  "count": 154,
   "products": [
     {
       "catalog_id": "013562000043",
@@ -505,6 +505,42 @@
       "kcal_per_serving": 420,
       "photo": "product.jpg",
       "path": "items/id-baked-white-fish-herb-butter/"
+    },
+    {
+      "catalog_id": "id-bk-french-fries-large",
+      "name": "Burger King French Fries, Large",
+      "brand": "Burger King",
+      "barcode": null,
+      "kcal_per_serving": 440,
+      "photo": null,
+      "path": "items/id-bk-french-fries-large/"
+    },
+    {
+      "catalog_id": "id-bk-ketchup-packet",
+      "name": "Burger King Ketchup Packet",
+      "brand": "Burger King",
+      "barcode": null,
+      "kcal_per_serving": 10,
+      "photo": null,
+      "path": "items/id-bk-ketchup-packet/"
+    },
+    {
+      "catalog_id": "id-bk-soft-serve-cup",
+      "name": "Burger King Soft Serve Cup (vanilla)",
+      "brand": "Burger King",
+      "barcode": null,
+      "kcal_per_serving": 180,
+      "photo": null,
+      "path": "items/id-bk-soft-serve-cup/"
+    },
+    {
+      "catalog_id": "id-bk-whopper",
+      "name": "Burger King Whopper Sandwich (no cheese)",
+      "brand": "Burger King",
+      "barcode": null,
+      "kcal_per_serving": 670,
+      "photo": null,
+      "path": "items/id-bk-whopper/"
     },
     {
       "catalog_id": "id-black-coffee",

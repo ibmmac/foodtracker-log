@@ -81,15 +81,95 @@
       "notes": "Wendy's light sour cream side, 30 kcal. Reported by Mitch at ~16:14.",
       "time": "13:00",
       "timestamp": "2026-10-14T13:00:00-04:00"
+    },
+    {
+      "catalog_id": "id-bk-whopper",
+      "catalog_path": "catalog/items/id-bk-whopper/",
+      "name": "Burger King Whopper Sandwich (no cheese)",
+      "amount_eaten": "1 Whopper, no cheese",
+      "servings_eaten": 1,
+      "meal": "dinner",
+      "location": "other",
+      "location_note": "Burger King",
+      "logged": {
+        "calories": 670,
+        "protein_g": 31,
+        "carbs_g": 54,
+        "fat_g": 39
+      },
+      "source": "restaurant_published",
+      "notes": "Standard Whopper, no cheese (official 670 kcal). Reported by Mitch at ~23:16; dinner time approximate; location assumed Burger King.",
+      "time": "19:00",
+      "timestamp": "2026-10-14T19:00:00-04:00"
+    },
+    {
+      "catalog_id": "id-bk-french-fries-large",
+      "catalog_path": "catalog/items/id-bk-french-fries-large/",
+      "name": "Burger King French Fries, Large",
+      "amount_eaten": "1 large",
+      "servings_eaten": 1,
+      "meal": "dinner",
+      "location": "other",
+      "location_note": "Burger King",
+      "logged": {
+        "calories": 440,
+        "protein_g": 5,
+        "carbs_g": 64,
+        "fat_g": 19
+      },
+      "source": "restaurant_published",
+      "notes": "Large fries (official 440 kcal). Reported by Mitch at ~23:16; dinner time approximate; location assumed Burger King.",
+      "time": "19:00",
+      "timestamp": "2026-10-14T19:00:00-04:00"
+    },
+    {
+      "catalog_id": "id-bk-ketchup-packet",
+      "catalog_path": "catalog/items/id-bk-ketchup-packet/",
+      "name": "Burger King Ketchup Packet",
+      "amount_eaten": "2 packets (assumed)",
+      "servings_eaten": 2,
+      "meal": "dinner",
+      "location": "other",
+      "location_note": "Burger King",
+      "logged": {
+        "calories": 20,
+        "protein_g": 0,
+        "carbs_g": 6,
+        "fat_g": 0
+      },
+      "source": "restaurant_published",
+      "notes": "Ketchup amount assumed: 2 packets at 10 kcal each. Reported by Mitch at ~23:16; dinner time approximate; location assumed Burger King.",
+      "time": "19:00",
+      "timestamp": "2026-10-14T19:00:00-04:00"
+    },
+    {
+      "catalog_id": "id-bk-soft-serve-cup",
+      "catalog_path": "catalog/items/id-bk-soft-serve-cup/",
+      "name": "Burger King Soft Serve Cup (vanilla)",
+      "amount_eaten": "1 cup",
+      "servings_eaten": 1,
+      "meal": "dinner",
+      "location": "other",
+      "location_note": "Burger King",
+      "logged": {
+        "calories": 180,
+        "protein_g": 4,
+        "carbs_g": 28,
+        "fat_g": 5
+      },
+      "source": "restaurant_published",
+      "notes": "Vanilla soft serve cup (official 180 kcal). Reported by Mitch at ~23:16; dinner time approximate; location assumed Burger King.",
+      "time": "19:00",
+      "timestamp": "2026-10-14T19:00:00-04:00"
     }
   ],
   "totals": {
-    "calories": 900,
-    "protein_g": 67,
-    "carbs_g": 58,
-    "fat_g": 44,
-    "remaining_kcal": 600,
-    "percent_goal_remaining": 40.0,
-    "percent_goal_used": 60.0
+    "calories": 2210,
+    "protein_g": 107,
+    "carbs_g": 210,
+    "fat_g": 107,
+    "remaining_kcal": -710,
+    "percent_goal_remaining": -47.3,
+    "percent_goal_used": 147.3
   }
 }

@@ -1,0 +1,22 @@
+{
+  "catalog_id": "id-bk-ketchup-packet",
+  "id": "bk-ketchup-packet",
+  "name": "Burger King Ketchup Packet",
+  "brand": "Burger King",
+  "barcode": null,
+  "barcode_status": "no_photo",
+  "serving_size": "1 packet",
+  "nutrition_per_serving": {
+    "calories": 10,
+    "protein_g": 0,
+    "total_carbohydrate_g": 3,
+    "total_fat_g": 0,
+    "sodium_mg": 125,
+    "total_sugars_g": 2,
+    "notes": "Official BK PDF: ketchup packet 10 kcal."
+  },
+  "photo": null,
+  "photo_credit": null,
+  "nutrition_source": "Burger King official US nutrition PDF (November 2022), https://bk-use1-prod.sites.rbictg.com/nutrition/nutrition.pdf (bk.com/pdfs/nutrition.pdf not fetchable); checked 2026-10-14",
+  "notes": "Official BK PDF: ketchup packet 10 kcal."
+}

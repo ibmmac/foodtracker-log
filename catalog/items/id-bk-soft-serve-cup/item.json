@@ -1,0 +1,23 @@
+{
+  "catalog_id": "id-bk-soft-serve-cup",
+  "id": "bk-soft-serve-cup",
+  "name": "Burger King Soft Serve Cup (vanilla)",
+  "brand": "Burger King",
+  "barcode": null,
+  "barcode_status": "no_photo",
+  "serving_size": "1 cup",
+  "nutrition_per_serving": {
+    "calories": 180,
+    "protein_g": 4,
+    "total_carbohydrate_g": 28,
+    "total_fat_g": 5,
+    "saturated_fat_g": 3.5,
+    "sodium_mg": 150,
+    "total_sugars_g": 22,
+    "notes": "Official BK PDF: soft serve cup 180 kcal."
+  },
+  "photo": null,
+  "photo_credit": null,
+  "nutrition_source": "Burger King official US nutrition PDF (November 2022), https://bk-use1-prod.sites.rbictg.com/nutrition/nutrition.pdf (bk.com/pdfs/nutrition.pdf not fetchable); checked 2026-10-14",
+  "notes": "Official BK PDF: soft serve cup 180 kcal."
+}

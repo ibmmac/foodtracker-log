@@ -1,0 +1,23 @@
+{
+  "catalog_id": "id-bk-french-fries-large",
+  "id": "bk-french-fries-large",
+  "name": "Burger King French Fries, Large",
+  "brand": "Burger King",
+  "barcode": null,
+  "barcode_status": "no_photo",
+  "serving_size": "1 large order",
+  "nutrition_per_serving": {
+    "calories": 440,
+    "protein_g": 5,
+    "total_carbohydrate_g": 64,
+    "total_fat_g": 19,
+    "saturated_fat_g": 3,
+    "sodium_mg": 320,
+    "dietary_fiber_g": 5,
+    "notes": "Official BK PDF: large fries 440 kcal."
+  },
+  "photo": null,
+  "photo_credit": null,
+  "nutrition_source": "Burger King official US nutrition PDF (November 2022), https://bk-use1-prod.sites.rbictg.com/nutrition/nutrition.pdf (bk.com/pdfs/nutrition.pdf not fetchable); checked 2026-10-14",
+  "notes": "Official BK PDF: large fries 440 kcal."
+}
