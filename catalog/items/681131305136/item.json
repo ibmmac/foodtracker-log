@@ -1,0 +1,36 @@
+{
+  "catalog_id": "681131305136",
+  "id": "marketside-avocado-ranch-chopped-salad-kit",
+  "name": "Marketside Avocado Ranch Chopped Salad Kit, 12.3 oz Bag (Fresh)",
+  "brand": "Marketside / Walmart",
+  "barcode": "681131305136",
+  "barcode_format": "UPC-A",
+  "barcode_status": null,
+  "serving_size": "1.5 cups (100 g)",
+  "servings_per_container": null,
+  "nutrition_per_serving": {
+    "calories": 130,
+    "total_fat_g": 10,
+    "saturated_fat_g": 2,
+    "total_carbohydrate_g": 9,
+    "dietary_fiber_g": 2,
+    "total_sugars_g": 3,
+    "protein_g": 3,
+    "sodium_mg": 190
+  },
+  "nutrition_source_url": "https://world.openfoodfacts.org/product/0681131305136",
+  "photo": null,
+  "walmart_item_id": "431610884",
+  "walmart_url": "https://www.walmart.com/ip/Marketside-Avocado-Ranch-Chopped-Salad-Kit-12-3-oz-Bag-Fresh/431610884",
+  "product_url": "https://www.walmart.com/ip/Marketside-Avocado-Ranch-Chopped-Salad-Kit-12-3-oz-Bag-Fresh/431610884",
+  "purchase_refs": [
+    {
+      "orderId": "2000156-15586273",
+      "date": "2026-10-15",
+      "walmartItemId": "431610884",
+      "status": "delivered (shopped as ordered)",
+      "messageId": "1a1411e40fd7baf0"
+    }
+  ],
+  "source_notes": "Added from Walmart order 2000156-15586273 (2026-10-15). Walmart product_id 431610884 from public walmart.com listing matching email image slug. UPC from Open Food Facts record 0681131305136 (Marketside Avocado Ranch Chopped Salad Kit 12.3 oz). servings_per_container not verified; left null."
+}

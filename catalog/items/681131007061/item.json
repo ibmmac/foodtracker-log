@@ -1,0 +1,42 @@
+{
+  "catalog_id": "681131007061",
+  "id": "marketside-southwest-chopped-salad-kit",
+  "name": "Marketside Southwest Chopped Salad Kit, 13.51 oz Bag (Fresh)",
+  "brand": "Marketside / Walmart",
+  "barcode": "681131007061",
+  "barcode_format": "UPC-A",
+  "barcode_status": null,
+  "serving_size": "3.5 oz (100 g)",
+  "servings_per_container": null,
+  "nutrition_per_serving": {
+    "calories": 140,
+    "total_fat_g": 11,
+    "saturated_fat_g": 2,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 10,
+    "sodium_mg": 350,
+    "total_carbohydrate_g": 10,
+    "dietary_fiber_g": 2,
+    "total_sugars_g": 4,
+    "added_sugars_g": 1,
+    "protein_g": 3,
+    "calcium_mg": 70,
+    "iron_mg": 0.8,
+    "potassium_mg": 230
+  },
+  "nutrition_source_url": "https://tools.myfooddata.com/nutrition-facts/2092216/wt1/",
+  "photo": null,
+  "walmart_item_id": "343402197",
+  "walmart_url": "https://www.walmart.com/ip/Marketside-Southwest-Chopped-Salad-Kit-13-51-oz-Bag-Fresh/343402197",
+  "product_url": "https://www.walmart.com/ip/Marketside-Southwest-Chopped-Salad-Kit-13-51-oz-Bag-Fresh/343402197",
+  "purchase_refs": [
+    {
+      "orderId": "2000156-15586273",
+      "date": "2026-10-15",
+      "walmartItemId": "343402197",
+      "status": "delivered (shopped as ordered)",
+      "messageId": "1a1411e40fd7baf0"
+    }
+  ],
+  "source_notes": "Added from Walmart order 2000156-15586273 (2026-10-15). Walmart product_id 343402197 from public walmart.com listing matching email image slug. UPC 681131007061 from USDA Branded Foods record 2092216 (via drgoodeats/myfooddata); that record lists 10.3 oz net salad, Walmart lists 13.51 oz incl. dressing. Open Food Facts shows 150 kcal/100 g for the same UPC; USDA value (140) used. servings_per_container not verified; left null."
+}

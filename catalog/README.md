@@ -1,6 +1,6 @@
 # Food catalog
 
-**157 products** · machine index: [index.json](index.json)
+**159 products** · machine index: [index.json](index.json)
 
 | Product | Brand | Barcode | kcal/serving | Photo |
 |---------|-------|---------|--------------|-------|
@@ -48,6 +48,8 @@
 | [Great Value Low-Moisture Part-Skim Mozzarella Finely Shredded Cheese, 8 oz Bag](items/078742374253/) | Great Value / Walmart | 078742374253 | 80 | yes |
 | [Bonne Maman Strawberry Preserves 13 oz](items/088702015607/) | Bonne Maman | 088702015607 | 47 | yes |
 | [Bonne Maman Wild Blueberry Preserves, 13.0 OZ](items/088702015669/) | Bonne Maman | 088702015669 | 50 | yes |
+| [Marketside Southwest Chopped Salad Kit, 13.51 oz Bag (Fresh)](items/681131007061/) | Marketside / Walmart | 681131007061 | 140 | — |
+| [Marketside Avocado Ranch Chopped Salad Kit, 12.3 oz Bag (Fresh)](items/681131305136/) | Marketside / Walmart | 681131305136 | 130 | — |
 | [Marketside Classic Iceberg Salad, 12 oz Bag (Fresh)](items/681131328944/) | Marketside / Walmart | 681131328944 | 15 | yes |
 | [Marketside Premium Romaine Salad Blend, 9 oz Bag (Fresh)](items/681131387538/) | Marketside / Walmart | 681131387538 | 15 | yes |
 | [poppi Orange Prebiotic Soda Mini Can, 7.5 fl oz Can, 6 Pack Cans](items/810063711511/) | poppi | 810063711511 | 20 | yes |

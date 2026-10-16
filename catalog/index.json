@@ -1,6 +1,6 @@
 {
   "updated": "2026-10-16",
-  "count": 157,
+  "count": 159,
   "products": [
     {
       "catalog_id": "013562000043",
@@ -397,6 +397,24 @@
       "kcal_per_serving": 50,
       "photo": "product.jpg",
       "path": "items/088702015669/"
+    },
+    {
+      "catalog_id": "681131007061",
+      "name": "Marketside Southwest Chopped Salad Kit, 13.51 oz Bag (Fresh)",
+      "brand": "Marketside / Walmart",
+      "barcode": "681131007061",
+      "kcal_per_serving": 140,
+      "photo": null,
+      "path": "items/681131007061/"
+    },
+    {
+      "catalog_id": "681131305136",
+      "name": "Marketside Avocado Ranch Chopped Salad Kit, 12.3 oz Bag (Fresh)",
+      "brand": "Marketside / Walmart",
+      "barcode": "681131305136",
+      "kcal_per_serving": 130,
+      "photo": null,
+      "path": "items/681131305136/"
     },
     {
       "catalog_id": "681131328944",

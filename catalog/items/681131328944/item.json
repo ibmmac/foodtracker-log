@@ -22,6 +22,13 @@
   "source_notes": "Refund subject on order 2000148-27879059 ($2.44). UPC not in email. Walmart product_id 13893729 synced from orders; UPC 681131328944.",
   "purchase_refs": [
     {
+      "orderId": "2000156-15586273",
+      "date": "2026-10-15",
+      "walmartItemId": "13893729",
+      "status": "delivered (shopped as ordered)",
+      "messageId": "1a1411e40fd7baf0"
+    },
+    {
       "orderId": "2000148-27879059",
       "date": "2026-07-06",
       "messageId": "19f38f5804c618a5",
@@ -38,5 +45,6 @@
     "url": "https://world.openfoodfacts.org/product/681131328944",
     "image_url": "https://images.openfoodfacts.org/images/products/068/113/132/8944/front_en.26.400.jpg",
     "license": "Open Food Facts contributor image; used for personal food log reference"
-  }
+  },
+  "servings_per_container": 4
 }
