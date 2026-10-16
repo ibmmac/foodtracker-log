@@ -1,0 +1,56 @@
+{
+  "date": "2026-10-16",
+  "timezone": "America/New_York",
+  "goal_kcal": 1500,
+  "entries": [
+    {
+      "catalog_id": "id-hard-boiled-egg-large",
+      "catalog_path": "catalog/items/id-hard-boiled-egg-large/",
+      "name": "Hard-boiled egg (large)",
+      "amount_eaten": "4 large eggs",
+      "servings_eaten": 4,
+      "meal": "breakfast",
+      "location": "other",
+      "location_note": "Joe's house",
+      "logged": {
+        "calories": 312,
+        "protein_g": 25.2,
+        "carbs_g": 2.4,
+        "fat_g": 21.2
+      },
+      "source": "usda_estimate",
+      "notes": "4 large eggs, ~78 kcal each. Reported by Mitch at ~12:58; breakfast time approximate.",
+      "time": "08:00",
+      "timestamp": "2026-10-16T08:00:00-04:00"
+    },
+    {
+      "catalog_id": "id-black-coffee",
+      "catalog_path": "catalog/items/id-black-coffee/",
+      "name": "Black coffee (no milk, no sugar)",
+      "amount_eaten": "1 cup",
+      "servings_eaten": 1,
+      "meal": "breakfast",
+      "location": "other",
+      "location_note": "Joe's house",
+      "logged": {
+        "calories": 2,
+        "protein_g": 0.3,
+        "carbs_g": 0,
+        "fat_g": 0
+      },
+      "source": "usda_estimate",
+      "notes": "Black coffee, no milk, no sugar. Reported by Mitch at ~12:58; breakfast time approximate.",
+      "time": "08:00",
+      "timestamp": "2026-10-16T08:00:00-04:00"
+    }
+  ],
+  "totals": {
+    "calories": 314,
+    "protein_g": 25.5,
+    "carbs_g": 2.4,
+    "fat_g": 21.2,
+    "remaining_kcal": 1186,
+    "percent_goal_remaining": 79.1,
+    "percent_goal_used": 20.9
+  }
+}
