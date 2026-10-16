@@ -120,15 +120,35 @@
       "time": "18:30",
       "timestamp": "2026-10-15T18:30:00-04:00",
       "logged_late": true
+    },
+    {
+      "catalog_id": "id-rotisserie-chicken",
+      "catalog_path": "catalog/items/id-rotisserie-chicken/",
+      "name": "Rotisserie chicken",
+      "amount_eaten": "1 serving (~3 oz)",
+      "servings_eaten": 1,
+      "meal": "snack",
+      "location": "home",
+      "logged": {
+        "calories": 170,
+        "protein_g": 24,
+        "carbs_g": 0,
+        "fat_g": 8
+      },
+      "source": "estimate",
+      "notes": "1 serving rotisserie chicken, assumed ~3 oz; no rotisserie chicken in catalog or purchases. Time assumed. Reported by Mitch the next morning (2026-10-16 ~08:29).",
+      "time": "21:00",
+      "timestamp": "2026-10-15T21:00:00-04:00",
+      "logged_late": true
     }
   ],
   "totals": {
-    "calories": 2057,
-    "protein_g": 98.2,
+    "calories": 2227,
+    "protein_g": 122.2,
     "carbs_g": 173.4,
-    "fat_g": 104.7,
-    "remaining_kcal": -557,
-    "percent_goal_remaining": -37.1,
-    "percent_goal_used": 137.1
+    "fat_g": 112.7,
+    "remaining_kcal": -727,
+    "percent_goal_remaining": -48.5,
+    "percent_goal_used": 148.5
   }
 }

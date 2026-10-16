@@ -1,0 +1,19 @@
+{
+  "catalog_id": "id-rotisserie-chicken",
+  "id": "rotisserie-chicken",
+  "name": "Rotisserie chicken",
+  "brand": null,
+  "barcode": null,
+  "barcode_status": "no_photo",
+  "serving_size": "3 oz (85 g) meat",
+  "nutrition_per_serving": {
+    "calories": 170,
+    "protein_g": 24,
+    "total_carbohydrate_g": 0,
+    "total_fat_g": 8,
+    "notes": "Estimate: ~3 oz rotisserie chicken meat (mixed, skin partly on), ~170 kcal; brand/source unknown"
+  },
+  "photo": null,
+  "photo_credit": null,
+  "notes": "Estimate: ~3 oz rotisserie chicken meat (mixed, skin partly on), ~170 kcal; brand/source unknown"
+}

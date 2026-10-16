@@ -4,9 +4,9 @@
 
 **Daily goal:** 1500 kcal
 
-**Daily total:** 2057 kcal · Protein 98.2g · Carbs 173.4g · Fat 104.7g
+**Daily total:** 2227 kcal · Protein 122.2g · Carbs 173.4g · Fat 112.7g
 
-**Left:** -557 kcal (**-37.1%** of goal remaining) · 137.1% used
+**Left:** -727 kcal (**-48.5%** of goal remaining) · 148.5% used
 
 ## Foods logged
 
@@ -18,3 +18,4 @@
 | [Wellsley Farms Homestyle Potato Salad](../../catalog/items/888670012864/) | 1 serving (2/3 cup, 140 g) | home | lunch | 190 | 2 | 22 | 10 |
 | [Cashews](../../catalog/items/id-cashews/) | 1 serving (1 oz) | home | lunch | 160 | 5 | 9 | 13 |
 | [Pepperoni & black olive pizza slice](../../catalog/items/id-pepperoni-black-olive-pizza-slice/) | 3 slices | other | dinner | 900 | 39 | 102 | 36 |
+| [Rotisserie chicken](../../catalog/items/id-rotisserie-chicken/) | 1 serving (~3 oz) | home | snack | 170 | 24 | 0 | 8 |

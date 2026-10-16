@@ -1,6 +1,6 @@
 {
   "updated": "2026-10-16",
-  "count": 156,
+  "count": 157,
   "products": [
     {
       "catalog_id": "013562000043",
@@ -1216,6 +1216,15 @@
       "kcal_per_serving": 350,
       "photo": "product.jpg",
       "path": "items/id-pizza-slice-supreme/"
+    },
+    {
+      "catalog_id": "id-rotisserie-chicken",
+      "name": "Rotisserie chicken",
+      "brand": null,
+      "barcode": null,
+      "kcal_per_serving": 170,
+      "photo": null,
+      "path": "items/id-rotisserie-chicken/"
     },
     {
       "catalog_id": "id-salmon-fillet-cooked",

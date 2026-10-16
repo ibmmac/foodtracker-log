@@ -1,6 +1,6 @@
 # Food catalog
 
-**156 products** · machine index: [index.json](index.json)
+**157 products** · machine index: [index.json](index.json)
 
 | Product | Brand | Barcode | kcal/serving | Photo |
 |---------|-------|---------|--------------|-------|
@@ -139,6 +139,7 @@
 | [Pear (medium)](items/id-pear-medium/) | — | — | 101 | — |
 | [Pepperoni & black olive pizza slice](items/id-pepperoni-black-olive-pizza-slice/) | — | — | 300 | — |
 | [Pizza slice (supreme / veggie + meat)](items/id-pizza-slice-supreme/) | — | — | 350 | yes |
+| [Rotisserie chicken](items/id-rotisserie-chicken/) | — | — | 170 | — |
 | [Salmon fillet (cooked)](items/id-salmon-fillet-cooked/) | — | — | 350 | — |
 | [Sam's Club Café all-beef hot dog, no bun, with onions & sauerkraut](items/id-sams-club-hot-dog-no-bun/) | Sam's Club Café | — | 335 | — |
 | [Sam's Club Café Pizza Pretzel](items/id-sams-club-pizza-pretzel/) | Sam's Club Café | — | 440 | — |
