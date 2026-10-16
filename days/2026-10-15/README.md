@@ -4,9 +4,9 @@
 
 **Daily goal:** 1500 kcal
 
-**Daily total:** 1157 kcal · Protein 59.2g · Carbs 71.4g · Fat 68.7g
+**Daily total:** 2057 kcal · Protein 98.2g · Carbs 173.4g · Fat 104.7g
 
-**Left:** 343 kcal (**22.9%** of goal remaining) · 77.1% used
+**Left:** -557 kcal (**-37.1%** of goal remaining) · 137.1% used
 
 ## Foods logged
 
@@ -17,3 +17,4 @@
 | [Meat lasagna slice (homemade-style)](../../catalog/items/id-meat-lasagna-slice/) | 1 piece (~3x5 in) | home | lunch | 450 | 25 | 35 | 22 |
 | [Wellsley Farms Homestyle Potato Salad](../../catalog/items/888670012864/) | 1 serving (2/3 cup, 140 g) | home | lunch | 190 | 2 | 22 | 10 |
 | [Cashews](../../catalog/items/id-cashews/) | 1 serving (1 oz) | home | lunch | 160 | 5 | 9 | 13 |
+| [Pepperoni & black olive pizza slice](../../catalog/items/id-pepperoni-black-olive-pizza-slice/) | 3 slices | other | dinner | 900 | 39 | 102 | 36 |

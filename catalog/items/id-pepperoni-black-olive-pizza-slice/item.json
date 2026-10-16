@@ -1,0 +1,19 @@
+{
+  "catalog_id": "id-pepperoni-black-olive-pizza-slice",
+  "id": "pepperoni-black-olive-pizza-slice",
+  "name": "Pepperoni & black olive pizza slice",
+  "brand": null,
+  "barcode": null,
+  "barcode_status": "no_photo",
+  "serving_size": "1 slice (regular 14-inch pie, 1/8)",
+  "nutrition_per_serving": {
+    "calories": 300,
+    "protein_g": 13,
+    "total_carbohydrate_g": 34,
+    "total_fat_g": 12,
+    "notes": "Estimate for 1 regular 14-inch pizza slice with pepperoni and black olives (~300 kcal)"
+  },
+  "photo": null,
+  "photo_credit": null,
+  "notes": "Estimate for 1 regular 14-inch pizza slice with pepperoni and black olives (~300 kcal)"
+}

@@ -1,6 +1,6 @@
 # Food catalog
 
-**155 products** · machine index: [index.json](index.json)
+**156 products** · machine index: [index.json](index.json)
 
 | Product | Brand | Barcode | kcal/serving | Photo |
 |---------|-------|---------|--------------|-------|
@@ -137,6 +137,7 @@
 | [Organic Marketside Fresh Baby Peeled Carrots, 1 lb Bag](items/id-organic-marketside-fresh-baby-peeled-carrots-1-lb/) | Marketside / Walmart | — | 30 | — |
 | [Parmalat Whole Milk, 32 fl oz (Shelf-Stable)](items/id-parmalat-whole-milk-32-fl-oz/) | Parmalat | — | 150 | — |
 | [Pear (medium)](items/id-pear-medium/) | — | — | 101 | — |
+| [Pepperoni & black olive pizza slice](items/id-pepperoni-black-olive-pizza-slice/) | — | — | 300 | — |
 | [Pizza slice (supreme / veggie + meat)](items/id-pizza-slice-supreme/) | — | — | 350 | yes |
 | [Salmon fillet (cooked)](items/id-salmon-fillet-cooked/) | — | — | 350 | — |
 | [Sam's Club Café all-beef hot dog, no bun, with onions & sauerkraut](items/id-sams-club-hot-dog-no-bun/) | Sam's Club Café | — | 335 | — |

@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-15",
-  "count": 155,
+  "updated": "2026-10-16",
+  "count": 156,
   "products": [
     {
       "catalog_id": "013562000043",
@@ -1198,6 +1198,15 @@
       "kcal_per_serving": 101,
       "photo": null,
       "path": "items/id-pear-medium/"
+    },
+    {
+      "catalog_id": "id-pepperoni-black-olive-pizza-slice",
+      "name": "Pepperoni & black olive pizza slice",
+      "brand": null,
+      "barcode": null,
+      "kcal_per_serving": 300,
+      "photo": null,
+      "path": "items/id-pepperoni-black-olive-pizza-slice/"
     },
     {
       "catalog_id": "id-pizza-slice-supreme",

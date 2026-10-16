@@ -99,15 +99,36 @@
       "notes": "Assumed 1 oz serving. Reported by Mitch at ~12:09; lunch time approximate.",
       "time": "11:45",
       "timestamp": "2026-10-15T11:45:00-04:00"
+    },
+    {
+      "catalog_id": "id-pepperoni-black-olive-pizza-slice",
+      "catalog_path": "catalog/items/id-pepperoni-black-olive-pizza-slice/",
+      "name": "Pepperoni & black olive pizza slice",
+      "amount_eaten": "3 slices",
+      "servings_eaten": 3,
+      "meal": "dinner",
+      "location": "other",
+      "location_note": "Joe's house",
+      "logged": {
+        "calories": 900,
+        "protein_g": 39,
+        "carbs_g": 102,
+        "fat_g": 36
+      },
+      "source": "estimate",
+      "notes": "3 slices pepperoni and black olive pizza; slice size assumed regular 14-inch (~300 kcal each) and dinner time assumed. Reported by Mitch the next morning (2026-10-16 ~08:28).",
+      "time": "18:30",
+      "timestamp": "2026-10-15T18:30:00-04:00",
+      "logged_late": true
     }
   ],
   "totals": {
-    "calories": 1157,
-    "protein_g": 59.2,
-    "carbs_g": 71.4,
-    "fat_g": 68.7,
-    "remaining_kcal": 343,
-    "percent_goal_remaining": 22.9,
-    "percent_goal_used": 77.1
+    "calories": 2057,
+    "protein_g": 98.2,
+    "carbs_g": 173.4,
+    "fat_g": 104.7,
+    "remaining_kcal": -557,
+    "percent_goal_remaining": -37.1,
+    "percent_goal_used": 137.1
   }
 }
