@@ -1,6 +1,6 @@
 {
   "updated": "2026-10-17",
-  "count": 162,
+  "count": 163,
   "products": [
     {
       "catalog_id": "013562000043",
@@ -1153,6 +1153,15 @@
       "kcal_per_serving": 450,
       "photo": null,
       "path": "items/id-meat-lasagna-slice/"
+    },
+    {
+      "catalog_id": "id-mini-cannoli",
+      "name": "Mini cannoli",
+      "brand": null,
+      "barcode": null,
+      "kcal_per_serving": 100,
+      "photo": null,
+      "path": "items/id-mini-cannoli/"
     },
     {
       "catalog_id": "id-mini-choc-chip-cookies",

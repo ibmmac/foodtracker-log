@@ -1,0 +1,19 @@
+{
+  "catalog_id": "id-mini-cannoli",
+  "id": "mini-cannoli",
+  "name": "Mini cannoli",
+  "brand": null,
+  "barcode": null,
+  "barcode_status": "no_photo",
+  "serving_size": "1 mini cannoli",
+  "nutrition_per_serving": {
+    "calories": 100,
+    "protein_g": 2,
+    "total_carbohydrate_g": 11,
+    "total_fat_g": 5.5,
+    "notes": "Generic mini cannoli (~1.5-2 in), fried shell with sweet ricotta filling, ~100 kcal each (estimate)"
+  },
+  "photo": null,
+  "photo_credit": null,
+  "notes": "Generic mini cannoli (~1.5-2 in), fried shell with sweet ricotta filling, ~100 kcal each (estimate)"
+}

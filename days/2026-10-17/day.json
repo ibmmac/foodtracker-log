@@ -1,0 +1,73 @@
+{
+  "date": "2026-10-17",
+  "timezone": "America/New_York",
+  "goal_kcal": 1500,
+  "entries": [
+    {
+      "catalog_id": "044500341157",
+      "catalog_path": "catalog/items/044500341157/",
+      "name": "Hillshire Farm Turkey Smoked Sausage Rope",
+      "amount_eaten": "1/2 rope (~6.5 oz, ~184 g)",
+      "servings_eaten": 3.3,
+      "meal": "breakfast",
+      "location": "home",
+      "logged": {
+        "calories": 330,
+        "protein_g": 26.4,
+        "carbs_g": 9.9,
+        "fat_g": 19.8
+      },
+      "source": "label",
+      "notes": "Other half of the 13 oz rope (first half logged 2026-10-08). Label 100 kcal per 56 g; half rope ~184 g = 3.3 servings. Reported by Mitch on 2026-10-17 ~11:23; breakfast time approximate.",
+      "time": "10:30",
+      "timestamp": "2026-10-17T10:30:00-04:00"
+    },
+    {
+      "catalog_id": "681131305136",
+      "catalog_path": "catalog/items/681131305136/",
+      "name": "Marketside Avocado Ranch Chopped Salad Kit",
+      "amount_eaten": "whole bag (12.3 oz, ~349 g)",
+      "servings_eaten": 3.5,
+      "meal": "breakfast",
+      "location": "home",
+      "logged": {
+        "calories": 455,
+        "protein_g": 10.5,
+        "carbs_g": 31.5,
+        "fat_g": 35
+      },
+      "source": "label",
+      "notes": "Whole bag incl. dressing. Label 130 kcal per 100 g serving; 12.3 oz bag ~349 g = ~3.5 servings (servings per bag not stated in catalog; derived from net weight). Reported by Mitch on 2026-10-17 ~11:23; breakfast time approximate.",
+      "time": "10:30",
+      "timestamp": "2026-10-17T10:30:00-04:00"
+    },
+    {
+      "catalog_id": "id-mini-cannoli",
+      "catalog_path": "catalog/items/id-mini-cannoli/",
+      "name": "Mini cannoli",
+      "amount_eaten": "2 mini cannoli",
+      "servings_eaten": 2,
+      "meal": "breakfast",
+      "location": "home",
+      "logged": {
+        "calories": 200,
+        "protein_g": 4,
+        "carbs_g": 22,
+        "fat_g": 11
+      },
+      "source": "user_estimate",
+      "notes": "2 mini cannoli at ~100 kcal each. Reported by Mitch on 2026-10-17 ~11:23; breakfast time approximate.",
+      "time": "10:30",
+      "timestamp": "2026-10-17T10:30:00-04:00"
+    }
+  ],
+  "totals": {
+    "calories": 985,
+    "protein_g": 40.9,
+    "carbs_g": 63.4,
+    "fat_g": 65.8,
+    "remaining_kcal": 515,
+    "percent_goal_remaining": 34.3,
+    "percent_goal_used": 65.7
+  }
+}
