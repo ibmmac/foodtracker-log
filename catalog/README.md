@@ -1,6 +1,6 @@
 # Food catalog
 
-**159 products** · machine index: [index.json](index.json)
+**162 products** · machine index: [index.json](index.json)
 
 | Product | Brand | Barcode | kcal/serving | Photo |
 |---------|-------|---------|--------------|-------|
@@ -72,13 +72,16 @@
 | [Cannoli](items/id-cannoli/) | — | — | 280 | yes |
 | [Carrot cake slice (dessert)](items/id-carrot-cake-slice/) | — | — | 680 | yes |
 | [Cashews](items/id-cashews/) | — | — | 160 | — |
+| [Cheese slice (American/cheddar-style)](items/id-cheese-slice-american-cheddar/) | — | — | 70 | — |
 | [Cherry ice cream](items/id-cherry-ice-cream-scoop/) | — | — | 170 | — |
 | [Chicken soft taco (lettuce & tomato)](items/id-chicken-soft-taco-lettuce-tomato/) | — | — | 170 | — |
+| [Chili with cheese (half bowl)](items/id-chili-with-cheese-half-bowl/) | — | — | 250 | — |
 | [Chobani Low-Fat Vanilla Greek Yogurt Mixed Berry On The Bottom, Hero Batch 5.3oz 4PK](items/id-chobani-low-fat-vanilla-greek-yogurt-mixed-berry-o/) | Chobani | — | 140 | — |
 | [Chobani Non-Fat Greek Yogurt Key Lime, 4-Pack Cups](items/id-chobani-nonfat-greek-key-lime/) | Chobani | — | 120 | — |
 | [Coffee with cream (no sugar)](items/id-coffee-with-cream/) | — | — | 42 | — |
 | [Coffee with milk (no sugar)](items/id-coffee-with-milk/) | — | — | 45 | — |
 | [Creamy coleslaw side](items/id-creamy-coleslaw-side/) | — | — | 110 | yes |
+| [Deli turkey slice](items/id-deli-turkey-slice/) | — | — | 30 | — |
 | [Egg and cheese omelet](items/id-egg-cheese-omelet/) | — | — | 350 | — |
 | [Fasted breakfast](items/id-fasted-breakfast/) | — | — | 0 | — |
 | [FESTIVE Ground Turkey, Frozen, 1 lb Roll](items/id-festive-ground-turkey-frozen-1-lb-roll/) | Festive | — | 200 | — |

@@ -1,0 +1,19 @@
+{
+  "catalog_id": "id-deli-turkey-slice",
+  "id": "deli-turkey-slice",
+  "name": "Deli turkey slice",
+  "brand": null,
+  "barcode": null,
+  "barcode_status": "no_photo",
+  "serving_size": "1 slice (~28 g)",
+  "nutrition_per_serving": {
+    "calories": 30,
+    "protein_g": 5,
+    "total_carbohydrate_g": 1,
+    "total_fat_g": 0.5,
+    "notes": "Generic sliced deli turkey breast, ~30 kcal per slice (estimate)"
+  },
+  "photo": null,
+  "photo_credit": null,
+  "notes": "Generic sliced deli turkey breast, ~30 kcal per slice (estimate)"
+}

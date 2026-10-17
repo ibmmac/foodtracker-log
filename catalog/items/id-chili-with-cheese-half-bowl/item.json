@@ -1,0 +1,19 @@
+{
+  "catalog_id": "id-chili-with-cheese-half-bowl",
+  "id": "chili-with-cheese-half-bowl",
+  "name": "Chili with cheese (half bowl)",
+  "brand": null,
+  "barcode": null,
+  "barcode_status": "no_photo",
+  "serving_size": "1/2 bowl (~1 cup chili with shredded cheese)",
+  "nutrition_per_serving": {
+    "calories": 250,
+    "protein_g": 15,
+    "total_carbohydrate_g": 18,
+    "total_fat_g": 13,
+    "notes": "Homemade-style beef chili topped with shredded cheese, half bowl ~250 kcal (estimate)"
+  },
+  "photo": null,
+  "photo_credit": null,
+  "notes": "Homemade-style beef chili topped with shredded cheese, half bowl ~250 kcal (estimate)"
+}

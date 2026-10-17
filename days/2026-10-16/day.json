@@ -42,15 +42,98 @@
       "notes": "Black coffee, no milk, no sugar. Reported by Mitch at ~12:58; breakfast time approximate.",
       "time": "08:00",
       "timestamp": "2026-10-16T08:00:00-04:00"
+    },
+    {
+      "catalog_id": "id-skipped-lunch",
+      "catalog_path": "catalog/items/id-skipped-lunch/",
+      "name": "Skipped lunch",
+      "amount_eaten": "skipped meal",
+      "meal": "lunch",
+      "location": "nowhere",
+      "location_note": "Meal skipped",
+      "logged": {
+        "calories": 0,
+        "protein_g": 0,
+        "carbs_g": 0,
+        "fat_g": 0
+      },
+      "source": "user",
+      "notes": "Mitch skipped lunch. Reported by Mitch on 2026-10-17 ~09:15.",
+      "time": "12:00",
+      "timestamp": "2026-10-16T12:00:00-04:00",
+      "logged_late": true
+    },
+    {
+      "catalog_id": "id-cheese-slice-american-cheddar",
+      "catalog_path": "catalog/items/id-cheese-slice-american-cheddar/",
+      "name": "Cheese slice (American/cheddar-style)",
+      "amount_eaten": "8 slices",
+      "servings_eaten": 8,
+      "meal": "dinner",
+      "location": "other",
+      "location_note": "Parents' house",
+      "logged": {
+        "calories": 560,
+        "protein_g": 32,
+        "carbs_g": 4,
+        "fat_g": 44
+      },
+      "source": "user_estimate",
+      "notes": "8 slices at ~70 kcal each. Reported by Mitch on 2026-10-17 ~09:15; dinner time approximate.",
+      "time": "18:30",
+      "timestamp": "2026-10-16T18:30:00-04:00",
+      "logged_late": true
+    },
+    {
+      "catalog_id": "id-deli-turkey-slice",
+      "catalog_path": "catalog/items/id-deli-turkey-slice/",
+      "name": "Deli turkey slice",
+      "amount_eaten": "2 slices",
+      "servings_eaten": 2,
+      "meal": "dinner",
+      "location": "other",
+      "location_note": "Parents' house",
+      "logged": {
+        "calories": 60,
+        "protein_g": 10,
+        "carbs_g": 2,
+        "fat_g": 1
+      },
+      "source": "user_estimate",
+      "notes": "2 slices at ~30 kcal each. Reported by Mitch on 2026-10-17 ~09:15; dinner time approximate.",
+      "time": "18:30",
+      "timestamp": "2026-10-16T18:30:00-04:00",
+      "logged_late": true
+    },
+    {
+      "catalog_id": "id-chili-with-cheese-half-bowl",
+      "catalog_path": "catalog/items/id-chili-with-cheese-half-bowl/",
+      "name": "Chili with cheese (half bowl)",
+      "amount_eaten": "1/2 bowl",
+      "servings_eaten": 1,
+      "meal": "dinner",
+      "location": "other",
+      "location_note": "Parents' house",
+      "logged": {
+        "calories": 250,
+        "protein_g": 15,
+        "carbs_g": 18,
+        "fat_g": 13
+      },
+      "source": "user_estimate",
+      "notes": "Half bowl of chili with cheese, ~250 kcal. Reported by Mitch on 2026-10-17 ~09:15; dinner time approximate.",
+      "time": "18:30",
+      "timestamp": "2026-10-16T18:30:00-04:00",
+      "logged_late": true
     }
   ],
   "totals": {
-    "calories": 314,
-    "protein_g": 25.5,
-    "carbs_g": 2.4,
-    "fat_g": 21.2,
-    "remaining_kcal": 1186,
-    "percent_goal_remaining": 79.1,
-    "percent_goal_used": 20.9
+    "calories": 1184,
+    "protein_g": 82.5,
+    "carbs_g": 26.4,
+    "fat_g": 79.2,
+    "remaining_kcal": 316,
+    "percent_goal_remaining": 21.1,
+    "percent_goal_used": 78.9
   }
 }

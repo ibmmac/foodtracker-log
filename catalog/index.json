@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-16",
-  "count": 159,
+  "updated": "2026-10-17",
+  "count": 162,
   "products": [
     {
       "catalog_id": "013562000043",
@@ -615,6 +615,15 @@
       "path": "items/id-cashews/"
     },
     {
+      "catalog_id": "id-cheese-slice-american-cheddar",
+      "name": "Cheese slice (American/cheddar-style)",
+      "brand": null,
+      "barcode": null,
+      "kcal_per_serving": 70,
+      "photo": null,
+      "path": "items/id-cheese-slice-american-cheddar/"
+    },
+    {
       "catalog_id": "id-cherry-ice-cream-scoop",
       "name": "Cherry ice cream",
       "brand": null,
@@ -631,6 +640,15 @@
       "kcal_per_serving": 170,
       "photo": null,
       "path": "items/id-chicken-soft-taco-lettuce-tomato/"
+    },
+    {
+      "catalog_id": "id-chili-with-cheese-half-bowl",
+      "name": "Chili with cheese (half bowl)",
+      "brand": null,
+      "barcode": null,
+      "kcal_per_serving": 250,
+      "photo": null,
+      "path": "items/id-chili-with-cheese-half-bowl/"
     },
     {
       "catalog_id": "id-chobani-low-fat-vanilla-greek-yogurt-mixed-berry-o",
@@ -676,6 +694,15 @@
       "kcal_per_serving": 110,
       "photo": "product.jpg",
       "path": "items/id-creamy-coleslaw-side/"
+    },
+    {
+      "catalog_id": "id-deli-turkey-slice",
+      "name": "Deli turkey slice",
+      "brand": null,
+      "barcode": null,
+      "kcal_per_serving": 30,
+      "photo": null,
+      "path": "items/id-deli-turkey-slice/"
     },
     {
       "catalog_id": "id-egg-cheese-omelet",
