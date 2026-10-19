@@ -1,0 +1,49 @@
+{
+  "catalog_id": "078742000947",
+  "id": "great-value-organic-coconut-flour-36-oz",
+  "name": "Great Value Organic Coconut Flour, 36 oz",
+  "brand": "Great Value Organic / Walmart",
+  "barcode": "078742000947",
+  "barcode_format": "UPC-A",
+  "barcode_status": null,
+  "walmart_item_id": "225301474",
+  "walmart_url": "https://www.walmart.com/ip/Great-Value-Organic-Coconut-Flour-36-oz/225301474",
+  "product_url": "https://www.walmart.com/ip/Great-Value-Organic-Coconut-Flour-36-oz/225301474",
+  "serving_size": "2 tbsp (15 g)",
+  "servings_per_container": 68,
+  "net_weight": "36 oz (2 lb 4 oz) 1.02 kg",
+  "nutrition_per_serving": {
+    "calories": 60,
+    "total_fat_g": 2,
+    "saturated_fat_g": 1.5,
+    "sodium_mg": 10,
+    "total_carbohydrate_g": 9,
+    "dietary_fiber_g": 5,
+    "total_sugars_g": 3,
+    "protein_g": 3,
+    "iron_mg": 1.8,
+    "notes": "Open Food Facts 0078742000947 per-serving (2 tbsp, 15 g) label values: 60 kcal. servings_per_container computed as 1020 g / 15 g = 68 (not read from the label)."
+  },
+  "ingredients": "Organic coconut flour",
+  "allergens": "Coconut",
+  "photo": "catalog/items/078742000947/product.jpg",
+  "photo_credit": {
+    "source": "Walmart product image (as shown in order email)",
+    "retailer": "Walmart",
+    "url": "https://www.walmart.com/ip/Great-Value-Organic-Coconut-Flour-36-oz/225301474",
+    "image_url": "https://i5.walmartimages.com/seo/Great-Value-Organic-Coconut-Flour-36-oz_57912a03-e1d7-463c-8d30-fe07362ba17e.7ba80470cb2ebffa99cb45a91f0c568f.jpeg",
+    "license": "Retailer product image; used for personal food log reference"
+  },
+  "source_notes": "Walmart product_id 225301474 (walmart.com listing via web search); UPC 078742000947 from Open Food Facts (EAN-13 0078742000947). Purchased in Walmart order 2000155-71042101.",
+  "purchase_refs": [
+    {
+      "orderId": "2000155-71042101",
+      "date": "2026-10-18",
+      "delivered": "2026-10-19T08:34:00-04:00",
+      "messageId": "1a150415b850c2ee",
+      "walmartItemId": "225301474",
+      "quantity": 1,
+      "line_price": 7.32
+    }
+  ]
+}

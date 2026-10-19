@@ -1,6 +1,6 @@
 # Food catalog
 
-**163 products** · machine index: [index.json](index.json)
+**164 products** · machine index: [index.json](index.json)
 
 | Product | Brand | Barcode | kcal/serving | Photo |
 |---------|-------|---------|--------------|-------|
@@ -30,6 +30,7 @@
 | [Galbani Reduced Fat Cheese Sticks](items/074030656209/) | Galbani / Lactalis American Group | 074030656209 | 60 | yes |
 | [Breyers Mint Chocolate Chip Ice Cream Gluten-Free Kosher Dairy Milk, 1.5 Quart](items/077567254245/) | Breyers / Unilever | 077567254245 | 247 | yes |
 | [Canada Dry Caffeine Free Ginger Ale Soda Pop, 16.9 fl oz, 6 Pack Bottles](items/078000001174/) | Canada Dry / Keurig Dr Pepper | 078000001174 | 180 | yes |
+| [Great Value Organic Coconut Flour, 36 oz](items/078742000947/) | Great Value Organic / Walmart | 078742000947 | 60 | yes |
 | [Great Value Low-Moisture Part-Skim Deli Style Sliced Mozzarella Cheese, 8 oz Package, 12 Slices](items/078742065915/) | Great Value / Walmart | 078742065915 | 50 | yes |
 | [Great Value Honey Graham Crackers, 14.4 oz, 3 Count](items/078742072531/) | Great Value / Walmart | 078742072531 | 130 | yes |
 | [Great Value Mild Cheddar Deli Style Sliced Cheese, 8 oz Package, 12 Slices](items/078742085296/) | Great Value / Walmart | 078742085296 | 80 | yes |

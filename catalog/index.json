@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-17",
-  "count": 163,
+  "updated": "2026-10-19",
+  "count": 164,
   "products": [
     {
       "catalog_id": "013562000043",
@@ -235,6 +235,15 @@
       "kcal_per_serving": 180,
       "photo": "product.jpg",
       "path": "items/078000001174/"
+    },
+    {
+      "catalog_id": "078742000947",
+      "name": "Great Value Organic Coconut Flour, 36 oz",
+      "brand": "Great Value Organic / Walmart",
+      "barcode": "078742000947",
+      "kcal_per_serving": 60,
+      "photo": "product.jpg",
+      "path": "items/078742000947/"
     },
     {
       "catalog_id": "078742065915",
