@@ -1,6 +1,6 @@
 # Food catalog
 
-**164 products** · machine index: [index.json](index.json)
+**165 products** · machine index: [index.json](index.json)
 
 | Product | Brand | Barcode | kcal/serving | Photo |
 |---------|-------|---------|--------------|-------|
@@ -154,6 +154,7 @@
 | [Sauerkraut](items/id-sauerkraut/) | — | — | 5 | — |
 | [Sauteed onions](items/id-sauteed-onions/) | — | — | 70 | — |
 | [Skipped breakfast](items/id-skipped-breakfast/) | — | — | 0 | — |
+| [Skipped dinner](items/id-skipped-dinner/) | — | — | 0 | — |
 | [Skipped lunch](items/id-skipped-lunch/) | — | — | 0 | — |
 | [Small beef patty (80/20, plain)](items/id-small-beef-patty/) | — | — | 180 | — |
 | [Small salad with chicken and cheese (no dressing)](items/id-small-chicken-salad/) | — | — | 225 | — |

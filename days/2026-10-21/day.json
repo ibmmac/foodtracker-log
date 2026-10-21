@@ -1,0 +1,35 @@
+{
+  "date": "2026-10-21",
+  "timezone": "America/New_York",
+  "goal_kcal": 1500,
+  "entries": [
+    {
+      "catalog_id": "id-skipped-breakfast",
+      "catalog_path": "catalog/items/id-skipped-breakfast/",
+      "name": "Skipped breakfast",
+      "amount_eaten": "skipped meal",
+      "meal": "breakfast",
+      "location": "nowhere",
+      "location_note": "Meal skipped",
+      "logged": {
+        "calories": 0,
+        "protein_g": 0,
+        "carbs_g": 0,
+        "fat_g": 0
+      },
+      "source": "user",
+      "notes": "Fasting since Sunday night (reported 2026-10-21 ~10:04)",
+      "time": "08:00",
+      "timestamp": "2026-10-21T08:00:00-04:00"
+    }
+  ],
+  "totals": {
+    "calories": 0,
+    "protein_g": 0,
+    "carbs_g": 0,
+    "fat_g": 0,
+    "remaining_kcal": 1500,
+    "percent_goal_remaining": 100.0,
+    "percent_goal_used": 0.0
+  }
+}

@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-19",
-  "count": 164,
+  "updated": "2026-10-21",
+  "count": 165,
   "products": [
     {
       "catalog_id": "013562000043",
@@ -1351,6 +1351,15 @@
       "kcal_per_serving": 0,
       "photo": null,
       "path": "items/id-skipped-breakfast/"
+    },
+    {
+      "catalog_id": "id-skipped-dinner",
+      "name": "Skipped dinner",
+      "brand": null,
+      "barcode": null,
+      "kcal_per_serving": 0,
+      "photo": null,
+      "path": "items/id-skipped-dinner/"
     },
     {
       "catalog_id": "id-skipped-lunch",
