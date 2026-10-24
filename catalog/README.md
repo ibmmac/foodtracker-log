@@ -1,6 +1,6 @@
 # Food catalog
 
-**165 products** · machine index: [index.json](index.json)
+**167 products** · machine index: [index.json](index.json)
 
 | Product | Brand | Barcode | kcal/serving | Photo |
 |---------|-------|---------|--------------|-------|
@@ -68,6 +68,7 @@
 | [Burger King Soft Serve Cup (vanilla)](items/id-bk-soft-serve-cup/) | Burger King | — | 180 | — |
 | [Burger King Whopper Sandwich (no cheese)](items/id-bk-whopper/) | Burger King | — | 670 | — |
 | [Black coffee (no milk, no sugar)](items/id-black-coffee/) | — | — | 2 | — |
+| [Broiled fish (restaurant)](items/id-broiled-fish/) | — | — | 250 | — |
 | [Honey Bunches of Oats cereal](items/id-bunches-of-oats/) | Post | 884912288424 | 160 | — |
 | [Canned salmon](items/id-canned-salmon/) | — | — | 200 | — |
 | [Cannoli](items/id-cannoli/) | — | — | 280 | yes |
@@ -81,6 +82,7 @@
 | [Chobani Non-Fat Greek Yogurt Key Lime, 4-Pack Cups](items/id-chobani-nonfat-greek-key-lime/) | Chobani | — | 120 | — |
 | [Coffee with cream (no sugar)](items/id-coffee-with-cream/) | — | — | 42 | — |
 | [Coffee with milk (no sugar)](items/id-coffee-with-milk/) | — | — | 45 | — |
+| [Cottage cheese (1/2 cup side)](items/id-cottage-cheese-half-cup/) | — | — | 110 | — |
 | [Creamy coleslaw side](items/id-creamy-coleslaw-side/) | — | — | 110 | yes |
 | [Deli turkey slice](items/id-deli-turkey-slice/) | — | — | 30 | — |
 | [Egg and cheese omelet](items/id-egg-cheese-omelet/) | — | — | 350 | — |

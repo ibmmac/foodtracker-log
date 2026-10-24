@@ -1,0 +1,19 @@
+{
+  "catalog_id": "id-cottage-cheese-half-cup",
+  "id": "cottage-cheese-half-cup",
+  "name": "Cottage cheese (1/2 cup side)",
+  "brand": null,
+  "barcode": null,
+  "barcode_status": "no_photo",
+  "serving_size": "1/2 cup (~113 g)",
+  "nutrition_per_serving": {
+    "calories": 110,
+    "protein_g": 12.5,
+    "total_carbohydrate_g": 4.5,
+    "total_fat_g": 4.8,
+    "notes": "Regular (4%) cottage cheese, 1/2 cup ~110 kcal (USDA estimate)"
+  },
+  "photo": null,
+  "photo_credit": null,
+  "notes": "Regular (4%) cottage cheese, 1/2 cup ~110 kcal (USDA estimate)"
+}
