@@ -84,15 +84,36 @@
       "time": "18:30",
       "timestamp": "2026-10-23T18:30:00-04:00",
       "logged_late": true
+    },
+    {
+      "catalog_id": "id-vanilla-chip-ice-cream-small-bowl",
+      "catalog_path": "catalog/items/id-vanilla-chip-ice-cream-small-bowl/",
+      "name": "Vanilla chip ice cream (small bowl)",
+      "amount_eaten": "small bowl (~1 cup)",
+      "servings_eaten": 1,
+      "meal": "snack",
+      "location": "other",
+      "location_note": "Parents' house",
+      "logged": {
+        "calories": 300,
+        "protein_g": 5,
+        "carbs_g": 32,
+        "fat_g": 17
+      },
+      "source": "user_estimate",
+      "notes": "Small bowl of vanilla chip ice cream at parents' house. Reported by Mitch on 2026-10-24 ~10:48; time approximate.",
+      "time": "20:30",
+      "timestamp": "2026-10-23T20:30:00-04:00",
+      "logged_late": true
     }
   ],
   "totals": {
-    "calories": 360,
-    "protein_g": 52.5,
-    "carbs_g": 4.5,
-    "fat_g": 13.8,
-    "remaining_kcal": 1140,
-    "percent_goal_remaining": 76.0,
-    "percent_goal_used": 24.0
+    "calories": 660,
+    "protein_g": 57.5,
+    "carbs_g": 36.5,
+    "fat_g": 30.8,
+    "remaining_kcal": 840,
+    "percent_goal_remaining": 56.0,
+    "percent_goal_used": 44.0
   }
 }

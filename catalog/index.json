@@ -1,6 +1,6 @@
 {
   "updated": "2026-10-24",
-  "count": 167,
+  "count": 168,
   "products": [
     {
       "catalog_id": "013562000043",
@@ -1450,6 +1450,15 @@
       "kcal_per_serving": 110,
       "photo": null,
       "path": "items/id-teriyaki-beef-stick/"
+    },
+    {
+      "catalog_id": "id-vanilla-chip-ice-cream-small-bowl",
+      "name": "Vanilla chip ice cream (small bowl)",
+      "brand": null,
+      "barcode": null,
+      "kcal_per_serving": 300,
+      "photo": null,
+      "path": "items/id-vanilla-chip-ice-cream-small-bowl/"
     },
     {
       "catalog_id": "id-water",

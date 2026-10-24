@@ -1,0 +1,19 @@
+{
+  "catalog_id": "id-vanilla-chip-ice-cream-small-bowl",
+  "id": "vanilla-chip-ice-cream-small-bowl",
+  "name": "Vanilla chip ice cream (small bowl)",
+  "brand": null,
+  "barcode": null,
+  "barcode_status": "no_photo",
+  "serving_size": "small bowl (~1 cup)",
+  "nutrition_per_serving": {
+    "calories": 300,
+    "protein_g": 5,
+    "total_carbohydrate_g": 32,
+    "total_fat_g": 17,
+    "notes": "Vanilla chip ice cream, small bowl ~1 cup, ~300 kcal (estimate)"
+  },
+  "photo": null,
+  "photo_credit": null,
+  "notes": "Vanilla chip ice cream, small bowl ~1 cup, ~300 kcal (estimate)"
+}
