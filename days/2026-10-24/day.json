@@ -1,0 +1,73 @@
+{
+  "date": "2026-10-24",
+  "timezone": "America/New_York",
+  "goal_kcal": 1500,
+  "entries": [
+    {
+      "catalog_id": "id-sardines-olive-oil-can",
+      "catalog_path": "catalog/items/id-sardines-olive-oil-can/",
+      "name": "Sardines in olive oil (can)",
+      "amount_eaten": "2 cans",
+      "servings_eaten": 2,
+      "meal": "breakfast",
+      "location": "home",
+      "logged": {
+        "calories": 380,
+        "protein_g": 44,
+        "carbs_g": 0,
+        "fat_g": 22
+      },
+      "source": "user_estimate",
+      "notes": "2 cans at ~190 kcal each. Reported by Mitch on 2026-10-24 ~10:51; breakfast time approximate.",
+      "time": "10:00",
+      "timestamp": "2026-10-24T10:00:00-04:00"
+    },
+    {
+      "catalog_id": "id-duck-egg",
+      "catalog_path": "catalog/items/id-duck-egg/",
+      "name": "Duck egg",
+      "amount_eaten": "2 eggs",
+      "servings_eaten": 2,
+      "meal": "breakfast",
+      "location": "home",
+      "logged": {
+        "calories": 260,
+        "protein_g": 18,
+        "carbs_g": 2,
+        "fat_g": 19.2
+      },
+      "source": "usda_estimate",
+      "notes": "2 duck eggs at ~130 kcal each. Reported by Mitch on 2026-10-24 ~10:51; breakfast time approximate.",
+      "time": "10:00",
+      "timestamp": "2026-10-24T10:00:00-04:00"
+    },
+    {
+      "catalog_id": "id-cheese-slice-american-cheddar",
+      "catalog_path": "catalog/items/id-cheese-slice-american-cheddar/",
+      "name": "Cheese slice (American/cheddar-style)",
+      "amount_eaten": "4 slices",
+      "servings_eaten": 4,
+      "meal": "breakfast",
+      "location": "home",
+      "logged": {
+        "calories": 280,
+        "protein_g": 16,
+        "carbs_g": 2,
+        "fat_g": 22
+      },
+      "source": "user_estimate",
+      "notes": "4 slices at ~70 kcal each. Reported by Mitch on 2026-10-24 ~10:51; breakfast time approximate.",
+      "time": "10:00",
+      "timestamp": "2026-10-24T10:00:00-04:00"
+    }
+  ],
+  "totals": {
+    "calories": 920,
+    "protein_g": 78.0,
+    "carbs_g": 4.0,
+    "fat_g": 63.2,
+    "remaining_kcal": 580,
+    "percent_goal_remaining": 38.7,
+    "percent_goal_used": 61.3
+  }
+}

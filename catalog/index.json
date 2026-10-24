@@ -1,6 +1,6 @@
 {
   "updated": "2026-10-24",
-  "count": 168,
+  "count": 170,
   "products": [
     {
       "catalog_id": "013562000043",
@@ -732,6 +732,15 @@
       "path": "items/id-deli-turkey-slice/"
     },
     {
+      "catalog_id": "id-duck-egg",
+      "name": "Duck egg",
+      "brand": null,
+      "barcode": null,
+      "kcal_per_serving": 130,
+      "photo": null,
+      "path": "items/id-duck-egg/"
+    },
+    {
       "catalog_id": "id-egg-cheese-omelet",
       "name": "Egg and cheese omelet",
       "brand": null,
@@ -1342,6 +1351,15 @@
       "kcal_per_serving": 330,
       "photo": null,
       "path": "items/id-sams-club-vanilla-frozen-yogurt/"
+    },
+    {
+      "catalog_id": "id-sardines-olive-oil-can",
+      "name": "Sardines in olive oil (can)",
+      "brand": null,
+      "barcode": null,
+      "kcal_per_serving": 190,
+      "photo": null,
+      "path": "items/id-sardines-olive-oil-can/"
     },
     {
       "catalog_id": "id-sauerkraut",

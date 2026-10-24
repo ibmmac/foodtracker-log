@@ -1,6 +1,6 @@
 # Food catalog
 
-**168 products** · machine index: [index.json](index.json)
+**170 products** · machine index: [index.json](index.json)
 
 | Product | Brand | Barcode | kcal/serving | Photo |
 |---------|-------|---------|--------------|-------|
@@ -85,6 +85,7 @@
 | [Cottage cheese (1/2 cup side)](items/id-cottage-cheese-half-cup/) | — | — | 110 | — |
 | [Creamy coleslaw side](items/id-creamy-coleslaw-side/) | — | — | 110 | yes |
 | [Deli turkey slice](items/id-deli-turkey-slice/) | — | — | 30 | — |
+| [Duck egg](items/id-duck-egg/) | — | — | 130 | — |
 | [Egg and cheese omelet](items/id-egg-cheese-omelet/) | — | — | 350 | — |
 | [Fasted breakfast](items/id-fasted-breakfast/) | — | — | 0 | — |
 | [FESTIVE Ground Turkey, Frozen, 1 lb Roll](items/id-festive-ground-turkey-frozen-1-lb-roll/) | Festive | — | 200 | — |
@@ -153,6 +154,7 @@
 | [Sam's Club Café all-beef hot dog, no bun, with onions & sauerkraut](items/id-sams-club-hot-dog-no-bun/) | Sam's Club Café | — | 335 | — |
 | [Sam's Club Café Pizza Pretzel](items/id-sams-club-pizza-pretzel/) | Sam's Club Café | — | 440 | — |
 | [Sam's Club Café Vanilla Frozen Yogurt](items/id-sams-club-vanilla-frozen-yogurt/) | Sam's Club Café | — | 330 | — |
+| [Sardines in olive oil (can)](items/id-sardines-olive-oil-can/) | — | — | 190 | — |
 | [Sauerkraut](items/id-sauerkraut/) | — | — | 5 | — |
 | [Sauteed onions](items/id-sauteed-onions/) | — | — | 70 | — |
 | [Skipped breakfast](items/id-skipped-breakfast/) | — | — | 0 | — |

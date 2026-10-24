@@ -1,0 +1,19 @@
+{
+  "catalog_id": "id-sardines-olive-oil-can",
+  "id": "sardines-olive-oil-can",
+  "name": "Sardines in olive oil (can)",
+  "brand": null,
+  "barcode": null,
+  "barcode_status": "no_photo",
+  "serving_size": "1 can (~3.75 oz)",
+  "nutrition_per_serving": {
+    "calories": 190,
+    "protein_g": 22,
+    "total_carbohydrate_g": 0,
+    "total_fat_g": 11,
+    "notes": "Canned sardines in olive oil, ~190 kcal per can (generic estimate; brand unknown)"
+  },
+  "photo": null,
+  "photo_credit": null,
+  "notes": "Canned sardines in olive oil, ~190 kcal per can (generic estimate; brand unknown)"
+}
