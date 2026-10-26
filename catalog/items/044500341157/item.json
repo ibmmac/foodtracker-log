@@ -22,6 +22,12 @@
   "source_notes": "Order 2000153-13578770 email alt clarifies Turkey Smoked Sausage Rope (not deli turkey slices). UPC not in email. Walmart product_id 24217249 synced from orders; UPC 044500341157.",
   "purchase_refs": [
     {
+      "orderId": "2000153-01381880",
+      "date": "2026-10-23",
+      "messageId": "1a16bd620f7c6c21",
+      "walmartItemId": "24217249"
+    },
+    {
       "orderId": "2000153-13578770",
       "date": "2026-08-08",
       "messageId": "19fe32a97bbb65fb",

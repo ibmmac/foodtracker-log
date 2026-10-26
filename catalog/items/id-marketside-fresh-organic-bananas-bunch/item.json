@@ -8,6 +8,12 @@
   "product_url": "https://www.walmart.com/ip/Marketside-Fresh-Organic-Bananas-Bunch/51259338",
   "purchase_refs": [
     {
+      "orderId": "2000153-01381880",
+      "date": "2026-10-23",
+      "messageId": "1a16bd620f7c6c21",
+      "walmartItemId": "51259338"
+    },
+    {
       "orderId": "2000152-85156802",
       "date": "2026-08-30",
       "walmartItemId": "51259338"
