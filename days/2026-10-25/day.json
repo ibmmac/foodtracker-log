@@ -1,0 +1,36 @@
+{
+  "date": "2026-10-25",
+  "timezone": "America/New_York",
+  "goal_kcal": 1500,
+  "entries": [
+    {
+      "catalog_id": "id-skipped-dinner",
+      "catalog_path": "catalog/items/id-skipped-dinner/",
+      "name": "Skipped dinner",
+      "amount_eaten": "skipped meal",
+      "meal": "dinner",
+      "location": "nowhere",
+      "location_note": "Meal skipped",
+      "logged": {
+        "calories": 0,
+        "protein_g": 0,
+        "carbs_g": 0,
+        "fat_g": 0
+      },
+      "source": "user",
+      "notes": "Fasting since 3 PM Oct 25 (reported 2026-10-26 ~10:06)",
+      "time": "18:00",
+      "timestamp": "2026-10-25T18:00:00-04:00",
+      "logged_late": true
+    }
+  ],
+  "totals": {
+    "calories": 0,
+    "protein_g": 0.0,
+    "carbs_g": 0.0,
+    "fat_g": 0.0,
+    "remaining_kcal": 1500,
+    "percent_goal_remaining": 100.0,
+    "percent_goal_used": 0.0
+  }
+}
