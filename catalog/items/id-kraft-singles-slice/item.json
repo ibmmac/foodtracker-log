@@ -1,0 +1,20 @@
+{
+  "catalog_id": "id-kraft-singles-slice",
+  "id": "kraft-singles-slice",
+  "name": "Kraft Singles American cheese slice",
+  "brand": "Kraft",
+  "barcode": null,
+  "barcode_status": "no_photo",
+  "serving_size": "1 slice (21 g)",
+  "nutrition_per_serving": {
+    "calories": 60,
+    "protein_g": 4,
+    "total_carbohydrate_g": 2,
+    "total_fat_g": 4,
+    "notes": "Kraft Singles American, 16-slice pack label: 60 kcal, 4 g fat, 2 g carbs, 4 g protein per slice. Exact package at parents' house not seen; barcode unknown (Kraft has several Singles UPCs, some 50 kcal/slice)."
+  },
+  "photo": null,
+  "photo_credit": null,
+  "notes": "Kraft Singles American, 16-slice pack label: 60 kcal, 4 g fat, 2 g carbs, 4 g protein per slice. Exact package at parents' house not seen; barcode unknown (Kraft has several Singles UPCs, some 50 kcal/slice).",
+  "nutrition_source": "Kraft Singles American 16 ct retailer label (randalls.com / martinsfoods.com), 2026-10-29"
+}

@@ -1,0 +1,20 @@
+{
+  "catalog_id": "id-tyson-chicken-nuggets",
+  "id": "tyson-chicken-nuggets",
+  "name": "Tyson Fully Cooked Chicken Nuggets",
+  "brand": "Tyson",
+  "barcode": null,
+  "barcode_status": "no_photo",
+  "serving_size": "5 pieces (90 g)",
+  "nutrition_per_serving": {
+    "calories": 270,
+    "protein_g": 14,
+    "total_carbohydrate_g": 15,
+    "total_fat_g": 17,
+    "notes": "Tyson Fully Cooked Chicken Nuggets label: 5 pieces (90 g) = 270 kcal, 14 g protein, 15 g carbs, 17 g fat (USDA Branded record for UPC 023700032560). Package at parents' house not verified, so barcode not assigned."
+  },
+  "photo": null,
+  "photo_credit": null,
+  "notes": "Tyson Fully Cooked Chicken Nuggets label: 5 pieces (90 g) = 270 kcal, 14 g protein, 15 g carbs, 17 g fat (USDA Branded record for UPC 023700032560). Package at parents' house not verified, so barcode not assigned.",
+  "nutrition_source": "USDA Branded Foods via tools.myfooddata.com/nutrition-facts/2617903 (UPC 023700032560)"
+}

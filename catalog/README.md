@@ -1,6 +1,6 @@
 # Food catalog
 
-**170 products** · machine index: [index.json](index.json)
+**173 products** · machine index: [index.json](index.json)
 
 | Product | Brand | Barcode | kcal/serving | Photo |
 |---------|-------|---------|--------------|-------|
@@ -131,8 +131,10 @@
 | [Hard-boiled egg (large)](items/id-hard-boiled-egg-large/) | — | — | 78 | — |
 | [JENNIE-O Turkey Hot Dogs, *40% Less Fat (8 Turkey Franks), Refrigerated, 16 oz Plastic Package](items/id-jennie-o-turkey-hot-dogs-40-less-fat-refrigerated/) | Jennie-O | — | 110 | — |
 | [Kellogg's Breakfast Cereal, Kids Cereal, Family Breakfast, Variety Pack, 8.56oz Tray (8 Boxes)](items/id-kellogg-s-breakfast-cereal-kids-cereal-family-brea/) | Kellogg's | — | 110 | — |
+| [Kraft Singles American cheese slice](items/id-kraft-singles-slice/) | Kraft | — | 60 | — |
 | [Lean steak (sirloin, cooked)](items/id-lean-steak/) | — | — | 210 | — |
 | [Liquid I.V.® Orange Vanilla Dream Hydration Multiplier® Powdered Electrolyte Drink Mix, 6 Count Packets](items/id-liquid-i-v-orange-vanilla-dream-hydration-multipli/) | Liquid I.V. | — | 45 | — |
+| [Marinara / tomato sauce (1 cup)](items/id-marinara-sauce-cup/) | — | — | 140 | — |
 | [Marketside Fresh Organic Bananas, Bunch](items/id-marketside-fresh-organic-bananas-bunch/) | Marketside / Walmart | — | 105 | — |
 | [McIntosh apple](items/id-mcintosh-apple/) | — | — | 95 | — |
 | [Meat lasagna slice (homemade-style)](items/id-meat-lasagna-slice/) | — | — | 450 | — |
@@ -167,6 +169,7 @@
 | [SweeTARTS Variety Party Mix, Individually Wrapped Assorted Candy, 28.6 Ounce (75 Count)](items/id-sweetarts-variety-party-mix-individually-wrapped-a/) | SweeTARTS / Ferrara | — | 15 | — |
 | [Tartar sauce](items/id-tartar-sauce/) | — | — | 150 | yes |
 | [Teriyaki beef stick](items/id-teriyaki-beef-stick/) | Unknown (estimated as Jack Link's Teriyaki style) | — | 110 | — |
+| [Tyson Fully Cooked Chicken Nuggets](items/id-tyson-chicken-nuggets/) | Tyson | — | 270 | — |
 | [Vanilla chip ice cream (small bowl)](items/id-vanilla-chip-ice-cream-small-bowl/) | — | — | 300 | — |
 | [Water](items/id-water/) | — | — | 0 | — |
 | [Wellsley Farms cheese (type unknown)](items/id-wellsley-farms-cheese/) | Wellsley Farms / BJ's Wholesale Club | — | 110 | — |

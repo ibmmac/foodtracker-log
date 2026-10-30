@@ -42,15 +42,95 @@
       "time": "12:00",
       "timestamp": "2026-10-29T12:00:00-04:00",
       "logged_late": true
+    },
+    {
+      "catalog_id": "id-small-beef-patty",
+      "catalog_path": "catalog/items/id-small-beef-patty/",
+      "name": "Small beef patty (80/20, plain)",
+      "amount_eaten": "3 patties",
+      "servings_eaten": 3,
+      "meal": "dinner",
+      "location": "other",
+      "location_note": "Parents' house",
+      "logged": {
+        "calories": 540,
+        "protein_g": 45,
+        "carbs_g": 0,
+        "fat_g": 39
+      },
+      "source": "user_estimate",
+      "notes": "3 plain beef burgers, no bun, ~180 kcal each. Dinner broke the fast. Reported by Mitch on 2026-10-29 ~21:46.",
+      "time": "19:00",
+      "timestamp": "2026-10-29T19:00:00-04:00"
+    },
+    {
+      "catalog_id": "id-kraft-singles-slice",
+      "catalog_path": "catalog/items/id-kraft-singles-slice/",
+      "name": "Kraft Singles American cheese slice",
+      "amount_eaten": "5 slices",
+      "servings_eaten": 5,
+      "meal": "dinner",
+      "location": "other",
+      "location_note": "Parents' house",
+      "logged": {
+        "calories": 300,
+        "protein_g": 20,
+        "carbs_g": 10,
+        "fat_g": 20
+      },
+      "source": "label",
+      "notes": "5 Kraft Singles at 60 kcal each (16-ct label). Dinner broke the fast. Reported by Mitch on 2026-10-29 ~21:46.",
+      "time": "19:00",
+      "timestamp": "2026-10-29T19:00:00-04:00"
+    },
+    {
+      "catalog_id": "id-tyson-chicken-nuggets",
+      "catalog_path": "catalog/items/id-tyson-chicken-nuggets/",
+      "name": "Tyson Fully Cooked Chicken Nuggets",
+      "amount_eaten": "7 nuggets",
+      "servings_eaten": 1.4,
+      "meal": "dinner",
+      "location": "other",
+      "location_note": "Parents' house",
+      "logged": {
+        "calories": 378,
+        "protein_g": 19.6,
+        "carbs_g": 21,
+        "fat_g": 23.8
+      },
+      "source": "label",
+      "notes": "7 nuggets = 1.4 servings (label 5 pieces = 270 kcal). Dinner broke the fast. Reported by Mitch on 2026-10-29 ~21:46.",
+      "time": "19:00",
+      "timestamp": "2026-10-29T19:00:00-04:00"
+    },
+    {
+      "catalog_id": "id-marinara-sauce-cup",
+      "catalog_path": "catalog/items/id-marinara-sauce-cup/",
+      "name": "Marinara / tomato sauce (1 cup)",
+      "amount_eaten": "1 cup",
+      "servings_eaten": 1,
+      "meal": "dinner",
+      "location": "other",
+      "location_note": "Parents' house",
+      "logged": {
+        "calories": 140,
+        "protein_g": 4,
+        "carbs_g": 20,
+        "fat_g": 5
+      },
+      "source": "user_estimate",
+      "notes": "1 cup tomato/marinara sauce, ~140 kcal. Dinner broke the fast. Reported by Mitch on 2026-10-29 ~21:46.",
+      "time": "19:00",
+      "timestamp": "2026-10-29T19:00:00-04:00"
     }
   ],
   "totals": {
-    "calories": 0,
-    "protein_g": 0.0,
-    "carbs_g": 0.0,
-    "fat_g": 0.0,
-    "remaining_kcal": 1500,
-    "percent_goal_remaining": 100.0,
-    "percent_goal_used": 0.0
+    "calories": 1358,
+    "protein_g": 88.6,
+    "carbs_g": 51.0,
+    "fat_g": 87.8,
+    "remaining_kcal": 142,
+    "percent_goal_remaining": 9.5,
+    "percent_goal_used": 90.5
   }
 }

@@ -1,0 +1,19 @@
+{
+  "catalog_id": "id-marinara-sauce-cup",
+  "id": "marinara-sauce-cup",
+  "name": "Marinara / tomato sauce (1 cup)",
+  "brand": null,
+  "barcode": null,
+  "barcode_status": "no_photo",
+  "serving_size": "1 cup (~250 g)",
+  "nutrition_per_serving": {
+    "calories": 140,
+    "protein_g": 4,
+    "total_carbohydrate_g": 20,
+    "total_fat_g": 5,
+    "notes": "Generic jarred marinara/tomato pasta sauce, 1 cup ~140 kcal (estimate; brand unknown, eaten at parents' house)"
+  },
+  "photo": null,
+  "photo_credit": null,
+  "notes": "Generic jarred marinara/tomato pasta sauce, 1 cup ~140 kcal (estimate; brand unknown, eaten at parents' house)"
+}

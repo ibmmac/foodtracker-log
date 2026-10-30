@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-26",
-  "count": 170,
+  "updated": "2026-10-29",
+  "count": 173,
   "products": [
     {
       "catalog_id": "013562000043",
@@ -1146,6 +1146,15 @@
       "path": "items/id-kellogg-s-breakfast-cereal-kids-cereal-family-brea/"
     },
     {
+      "catalog_id": "id-kraft-singles-slice",
+      "name": "Kraft Singles American cheese slice",
+      "brand": "Kraft",
+      "barcode": null,
+      "kcal_per_serving": 60,
+      "photo": null,
+      "path": "items/id-kraft-singles-slice/"
+    },
+    {
       "catalog_id": "id-lean-steak",
       "name": "Lean steak (sirloin, cooked)",
       "brand": null,
@@ -1162,6 +1171,15 @@
       "kcal_per_serving": 45,
       "photo": null,
       "path": "items/id-liquid-i-v-orange-vanilla-dream-hydration-multipli/"
+    },
+    {
+      "catalog_id": "id-marinara-sauce-cup",
+      "name": "Marinara / tomato sauce (1 cup)",
+      "brand": null,
+      "barcode": null,
+      "kcal_per_serving": 140,
+      "photo": null,
+      "path": "items/id-marinara-sauce-cup/"
     },
     {
       "catalog_id": "id-marketside-fresh-organic-bananas-bunch",
@@ -1468,6 +1486,15 @@
       "kcal_per_serving": 110,
       "photo": null,
       "path": "items/id-teriyaki-beef-stick/"
+    },
+    {
+      "catalog_id": "id-tyson-chicken-nuggets",
+      "name": "Tyson Fully Cooked Chicken Nuggets",
+      "brand": "Tyson",
+      "barcode": null,
+      "kcal_per_serving": 270,
+      "photo": null,
+      "path": "items/id-tyson-chicken-nuggets/"
     },
     {
       "catalog_id": "id-vanilla-chip-ice-cream-small-bowl",
