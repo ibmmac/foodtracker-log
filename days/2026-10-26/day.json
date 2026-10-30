@@ -21,6 +21,46 @@
       "notes": "Fasting since 3 PM Oct 25 (reported 2026-10-26 ~10:06)",
       "time": "08:00",
       "timestamp": "2026-10-26T08:00:00-04:00"
+    },
+    {
+      "catalog_id": "id-skipped-lunch",
+      "catalog_path": "catalog/items/id-skipped-lunch/",
+      "name": "Skipped lunch",
+      "amount_eaten": "skipped meal",
+      "meal": "lunch",
+      "location": "nowhere",
+      "location_note": "Meal skipped",
+      "logged": {
+        "calories": 0,
+        "protein_g": 0,
+        "carbs_g": 0,
+        "fat_g": 0
+      },
+      "source": "user",
+      "notes": "Fasting 3 PM Oct 25 - 7 PM Oct 29 (reported 2026-10-29 ~21:03)",
+      "time": "12:00",
+      "timestamp": "2026-10-26T12:00:00-04:00",
+      "logged_late": true
+    },
+    {
+      "catalog_id": "id-skipped-dinner",
+      "catalog_path": "catalog/items/id-skipped-dinner/",
+      "name": "Skipped dinner",
+      "amount_eaten": "skipped meal",
+      "meal": "dinner",
+      "location": "nowhere",
+      "location_note": "Meal skipped",
+      "logged": {
+        "calories": 0,
+        "protein_g": 0,
+        "carbs_g": 0,
+        "fat_g": 0
+      },
+      "source": "user",
+      "notes": "Fasting 3 PM Oct 25 - 7 PM Oct 29 (reported 2026-10-29 ~21:03)",
+      "time": "18:00",
+      "timestamp": "2026-10-26T18:00:00-04:00",
+      "logged_late": true
     }
   ],
   "totals": {
