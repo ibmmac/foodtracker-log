@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-29",
-  "count": 173,
+  "updated": "2026-10-30",
+  "count": 175,
   "products": [
     {
       "catalog_id": "013562000043",
@@ -1326,6 +1326,15 @@
       "path": "items/id-pizza-slice-supreme/"
     },
     {
+      "catalog_id": "id-reeses-peanut-butter-cup",
+      "name": "Reese's Milk Chocolate Peanut Butter Cup (standard single cup)",
+      "brand": "Reese's / Hershey",
+      "barcode": null,
+      "kcal_per_serving": 105,
+      "photo": null,
+      "path": "items/id-reeses-peanut-butter-cup/"
+    },
+    {
       "catalog_id": "id-rotisserie-chicken",
       "name": "Rotisserie chicken",
       "brand": null,
@@ -1486,6 +1495,15 @@
       "kcal_per_serving": 110,
       "photo": null,
       "path": "items/id-teriyaki-beef-stick/"
+    },
+    {
+      "catalog_id": "id-twix-king-size",
+      "name": "Twix Caramel King Size (Share Size) 3.02 oz",
+      "brand": "Twix / Mars",
+      "barcode": null,
+      "kcal_per_serving": 440,
+      "photo": null,
+      "path": "items/id-twix-king-size/"
     },
     {
       "catalog_id": "id-tyson-chicken-nuggets",

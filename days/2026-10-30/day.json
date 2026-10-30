@@ -1,0 +1,73 @@
+{
+  "date": "2026-10-30",
+  "timezone": "America/New_York",
+  "goal_kcal": 1500,
+  "entries": [
+    {
+      "catalog_id": "id-skipped-breakfast",
+      "catalog_path": "catalog/items/id-skipped-breakfast/",
+      "name": "Skipped breakfast",
+      "amount_eaten": "skipped meal",
+      "meal": "breakfast",
+      "location": "nowhere",
+      "location_note": "Meal skipped",
+      "logged": {
+        "calories": 0,
+        "protein_g": 0,
+        "carbs_g": 0,
+        "fat_g": 0
+      },
+      "source": "user",
+      "notes": "Skipped breakfast. Reported by Mitch on 2026-10-30 ~14:58.",
+      "time": "08:00",
+      "timestamp": "2026-10-30T08:00:00-04:00"
+    },
+    {
+      "catalog_id": "id-reeses-peanut-butter-cup",
+      "catalog_path": "catalog/items/id-reeses-peanut-butter-cup/",
+      "name": "Reese's Milk Chocolate Peanut Butter Cup (standard single cup)",
+      "amount_eaten": "6 cups",
+      "servings_eaten": 6,
+      "meal": "lunch",
+      "location": "work",
+      "logged": {
+        "calories": 630,
+        "protein_g": 12,
+        "carbs_g": 72,
+        "fat_g": 36
+      },
+      "source": "label",
+      "notes": "6 standard cups at 105 kcal each (label 210 per 2-cup pack). Lunch time approximate. Reported by Mitch on 2026-10-30 ~14:58.",
+      "time": "13:00",
+      "timestamp": "2026-10-30T13:00:00-04:00"
+    },
+    {
+      "catalog_id": "id-twix-king-size",
+      "catalog_path": "catalog/items/id-twix-king-size/",
+      "name": "Twix Caramel King Size (Share Size) 3.02 oz",
+      "amount_eaten": "1 king-size pack (4 bars)",
+      "servings_eaten": 1,
+      "meal": "lunch",
+      "location": "work",
+      "logged": {
+        "calories": 440,
+        "protein_g": 4,
+        "carbs_g": 60,
+        "fat_g": 20
+      },
+      "source": "label",
+      "notes": "Whole king-size pack. Lunch time approximate. Reported by Mitch on 2026-10-30 ~14:58.",
+      "time": "13:00",
+      "timestamp": "2026-10-30T13:00:00-04:00"
+    }
+  ],
+  "totals": {
+    "calories": 1070,
+    "protein_g": 16.0,
+    "carbs_g": 132.0,
+    "fat_g": 56.0,
+    "remaining_kcal": 430,
+    "percent_goal_remaining": 28.7,
+    "percent_goal_used": 71.3
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "catalog_id": "id-twix-king-size",
+  "id": "twix-king-size",
+  "name": "Twix Caramel King Size (Share Size) 3.02 oz",
+  "brand": "Twix / Mars",
+  "barcode": null,
+  "barcode_status": "no_photo",
+  "serving_size": "1 package (3.02 oz, 4 bars)",
+  "nutrition_per_serving": {
+    "calories": 440,
+    "protein_g": 4,
+    "total_carbohydrate_g": 60,
+    "total_fat_g": 20,
+    "notes": "Label: 4 servings of 1 bar (22 g) at 110 kcal, 5 g fat, 15 g carbs, 1 g protein; whole 3.02 oz package = 440 kcal, 20 g fat, 60 g carbs, 4 g protein."
+  },
+  "nutrition_source": "Hannaford / Kroger Twix King Size 3.02 oz nutrition label listings, 2026-10-30",
+  "photo": null,
+  "photo_credit": null,
+  "notes": "Label: 4 servings of 1 bar (22 g) at 110 kcal, 5 g fat, 15 g carbs, 1 g protein; whole 3.02 oz package = 440 kcal, 20 g fat, 60 g carbs, 4 g protein."
+}

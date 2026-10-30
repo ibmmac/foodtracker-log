@@ -1,0 +1,20 @@
+{
+  "catalog_id": "id-reeses-peanut-butter-cup",
+  "id": "reeses-peanut-butter-cup",
+  "name": "Reese's Milk Chocolate Peanut Butter Cup (standard single cup)",
+  "brand": "Reese's / Hershey",
+  "barcode": null,
+  "barcode_status": "no_photo",
+  "serving_size": "1 cup (21 g; half of 1.5 oz 2-cup pack)",
+  "nutrition_per_serving": {
+    "calories": 105,
+    "protein_g": 2,
+    "total_carbohydrate_g": 12,
+    "total_fat_g": 6,
+    "notes": "Official label for 1.5 oz 2-cup pack (42 g): 210 kcal, 12 g fat, 24 g carbs, 4 g protein; per cup = half. Package UPC 034000004409 (not scanned)."
+  },
+  "nutrition_source": "hersheyland.com Reese's Milk Chocolate Peanut Butter Cups 1.5 oz nutrition, 2026-10-30",
+  "photo": null,
+  "photo_credit": null,
+  "notes": "Official label for 1.5 oz 2-cup pack (42 g): 210 kcal, 12 g fat, 24 g carbs, 4 g protein; per cup = half. Package UPC 034000004409 (not scanned)."
+}

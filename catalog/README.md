@@ -1,6 +1,6 @@
 # Food catalog
 
-**173 products** · machine index: [index.json](index.json)
+**175 products** · machine index: [index.json](index.json)
 
 | Product | Brand | Barcode | kcal/serving | Photo |
 |---------|-------|---------|--------------|-------|
@@ -151,6 +151,7 @@
 | [Pear (medium)](items/id-pear-medium/) | — | — | 101 | — |
 | [Pepperoni & black olive pizza slice](items/id-pepperoni-black-olive-pizza-slice/) | — | — | 300 | — |
 | [Pizza slice (supreme / veggie + meat)](items/id-pizza-slice-supreme/) | — | — | 350 | yes |
+| [Reese's Milk Chocolate Peanut Butter Cup (standard single cup)](items/id-reeses-peanut-butter-cup/) | Reese's / Hershey | — | 105 | — |
 | [Rotisserie chicken](items/id-rotisserie-chicken/) | — | — | 170 | — |
 | [Salmon fillet (cooked)](items/id-salmon-fillet-cooked/) | — | — | 350 | — |
 | [Sam's Club Café all-beef hot dog, no bun, with onions & sauerkraut](items/id-sams-club-hot-dog-no-bun/) | Sam's Club Café | — | 335 | — |
@@ -169,6 +170,7 @@
 | [SweeTARTS Variety Party Mix, Individually Wrapped Assorted Candy, 28.6 Ounce (75 Count)](items/id-sweetarts-variety-party-mix-individually-wrapped-a/) | SweeTARTS / Ferrara | — | 15 | — |
 | [Tartar sauce](items/id-tartar-sauce/) | — | — | 150 | yes |
 | [Teriyaki beef stick](items/id-teriyaki-beef-stick/) | Unknown (estimated as Jack Link's Teriyaki style) | — | 110 | — |
+| [Twix Caramel King Size (Share Size) 3.02 oz](items/id-twix-king-size/) | Twix / Mars | — | 440 | — |
 | [Tyson Fully Cooked Chicken Nuggets](items/id-tyson-chicken-nuggets/) | Tyson | — | 270 | — |
 | [Vanilla chip ice cream (small bowl)](items/id-vanilla-chip-ice-cream-small-bowl/) | — | — | 300 | — |
 | [Water](items/id-water/) | — | — | 0 | — |
