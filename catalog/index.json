@@ -1,6 +1,6 @@
 {
   "updated": "2026-11-03",
-  "count": 176,
+  "count": 177,
   "products": [
     {
       "catalog_id": "013562000043",
@@ -532,6 +532,15 @@
       "kcal_per_serving": 164,
       "photo": null,
       "path": "items/id-almonds/"
+    },
+    {
+      "catalog_id": "id-apple-small",
+      "name": "Apple (small)",
+      "brand": null,
+      "barcode": null,
+      "kcal_per_serving": 77,
+      "photo": null,
+      "path": "items/id-apple-small/"
     },
     {
       "catalog_id": "id-baked-white-fish-herb-butter",

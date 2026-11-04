@@ -1,0 +1,19 @@
+{
+  "catalog_id": "id-apple-small",
+  "id": "apple-small",
+  "name": "Apple (small)",
+  "brand": null,
+  "barcode": null,
+  "barcode_status": "no_photo",
+  "serving_size": "1 small apple (~149 g)",
+  "nutrition_per_serving": {
+    "calories": 77,
+    "protein_g": 0.4,
+    "total_carbohydrate_g": 20.6,
+    "total_fat_g": 0.3,
+    "notes": "USDA small raw apple with skin (~149 g, 2.75 in dia): ~77 kcal; variety unknown"
+  },
+  "photo": null,
+  "photo_credit": null,
+  "notes": "USDA small raw apple with skin (~149 g, 2.75 in dia): ~77 kcal; variety unknown"
+}

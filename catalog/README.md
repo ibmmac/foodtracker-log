@@ -1,6 +1,6 @@
 # Food catalog
 
-**176 products** · machine index: [index.json](index.json)
+**177 products** · machine index: [index.json](index.json)
 
 | Product | Brand | Barcode | kcal/serving | Photo |
 |---------|-------|---------|--------------|-------|
@@ -63,6 +63,7 @@
 | [Wellsley Farms Aegean Greek Pasta](items/888670012901/) | Wellsley Farms / BJ's Wholesale Club | 888670012901 | 390 | yes |
 | [Wellsley Farms Gala Apples](items/888670053638/) | Wellsley Farms / BJ's Wholesale Club | 888670053638 | 95 | yes |
 | [Almonds (plain)](items/id-almonds/) | — | — | 164 | — |
+| [Apple (small)](items/id-apple-small/) | — | — | 77 | — |
 | [Baked white fish with herb butter](items/id-baked-white-fish-herb-butter/) | — | — | 420 | yes |
 | [Burger King French Fries, Large](items/id-bk-french-fries-large/) | Burger King | — | 440 | — |
 | [Burger King Ketchup Packet](items/id-bk-ketchup-packet/) | Burger King | — | 10 | — |

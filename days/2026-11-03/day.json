@@ -59,15 +59,110 @@
       "notes": "Meal that broke the fast (Mitch calls it breakfast). Label 130 kcal per link (85 g); ate all 4 links. Reported by Mitch on 2026-11-03 ~19:16 EST.",
       "time": "19:00",
       "timestamp": "2026-11-03T19:00:00-05:00"
+    },
+    {
+      "catalog_id": "id-apple-small",
+      "catalog_path": "catalog/items/id-apple-small/",
+      "name": "Apple (small)",
+      "amount_eaten": "1 small apple",
+      "servings_eaten": 1,
+      "meal": "dinner",
+      "location": "home",
+      "logged": {
+        "calories": 77,
+        "protein_g": 0.4,
+        "carbs_g": 20.6,
+        "fat_g": 0.3
+      },
+      "source": "usda_estimate",
+      "notes": "1 small apple ~77 kcal. Part of the meal that broke the fast. Reported by Mitch on 2026-11-03 ~19:17 EST.",
+      "time": "19:00",
+      "timestamp": "2026-11-03T19:00:00-05:00"
+    },
+    {
+      "catalog_id": "id-kraft-singles-slice",
+      "catalog_path": "catalog/items/id-kraft-singles-slice/",
+      "name": "Kraft Singles American cheese slice",
+      "amount_eaten": "4 slices",
+      "servings_eaten": 4,
+      "meal": "dinner",
+      "location": "home",
+      "logged": {
+        "calories": 240,
+        "protein_g": 16,
+        "carbs_g": 8,
+        "fat_g": 16
+      },
+      "source": "label",
+      "notes": "4 Kraft Singles at 60 kcal each. Part of the meal that broke the fast. Reported by Mitch on 2026-11-03 ~19:17 EST.",
+      "time": "19:00",
+      "timestamp": "2026-11-03T19:00:00-05:00"
+    },
+    {
+      "catalog_id": "id-cashews",
+      "catalog_path": "catalog/items/id-cashews/",
+      "name": "Cashews",
+      "amount_eaten": "1 serving (~1 oz)",
+      "servings_eaten": 1,
+      "meal": "dinner",
+      "location": "home",
+      "logged": {
+        "calories": 160,
+        "protein_g": 5,
+        "carbs_g": 9,
+        "fat_g": 13
+      },
+      "source": "user_estimate",
+      "notes": "1 serving cashews. Part of the meal that broke the fast. Reported by Mitch on 2026-11-03 ~19:17 EST.",
+      "time": "19:00",
+      "timestamp": "2026-11-03T19:00:00-05:00"
+    },
+    {
+      "catalog_id": "id-marinara-sauce-cup",
+      "catalog_path": "catalog/items/id-marinara-sauce-cup/",
+      "name": "Marinara / tomato sauce (1 cup)",
+      "amount_eaten": "1/2 cup",
+      "servings_eaten": 0.5,
+      "meal": "dinner",
+      "location": "home",
+      "logged": {
+        "calories": 70,
+        "protein_g": 2,
+        "carbs_g": 10,
+        "fat_g": 2.5
+      },
+      "source": "user_estimate",
+      "notes": "1 serving (1/2 cup) marinara = 0.5 of the 1-cup item. Part of the meal that broke the fast. Reported by Mitch on 2026-11-03 ~19:17 EST.",
+      "time": "19:00",
+      "timestamp": "2026-11-03T19:00:00-05:00"
+    },
+    {
+      "catalog_id": "id-small-beef-patty",
+      "catalog_path": "catalog/items/id-small-beef-patty/",
+      "name": "Small beef patty (80/20, plain)",
+      "amount_eaten": "2 patties",
+      "servings_eaten": 2,
+      "meal": "dinner",
+      "location": "home",
+      "logged": {
+        "calories": 360,
+        "protein_g": 30,
+        "carbs_g": 0,
+        "fat_g": 26
+      },
+      "source": "user_estimate",
+      "notes": "2 plain burgers, no bun, ~180 kcal each. Part of the meal that broke the fast. Reported by Mitch on 2026-11-03 ~19:17 EST.",
+      "time": "19:00",
+      "timestamp": "2026-11-03T19:00:00-05:00"
     }
   ],
   "totals": {
-    "calories": 520,
-    "protein_g": 48.0,
-    "carbs_g": 12.0,
-    "fat_g": 28.0,
-    "remaining_kcal": 980,
-    "percent_goal_remaining": 65.3,
-    "percent_goal_used": 34.7
+    "calories": 1427,
+    "protein_g": 101.4,
+    "carbs_g": 59.6,
+    "fat_g": 85.8,
+    "remaining_kcal": 73,
+    "percent_goal_remaining": 4.9,
+    "percent_goal_used": 95.1
   }
 }
