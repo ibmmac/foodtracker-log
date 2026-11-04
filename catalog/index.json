@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-30",
-  "count": 175,
+  "updated": "2026-11-03",
+  "count": 176,
   "products": [
     {
       "catalog_id": "013562000043",
@@ -28,6 +28,15 @@
       "kcal_per_serving": 50,
       "photo": "product.jpg",
       "path": "items/014800001846/"
+    },
+    {
+      "catalog_id": "015900067732",
+      "name": "The Sausage Project Classic Roasted Chicken Sausage, 12 oz (4 links)",
+      "brand": "The Sausage Project (SUA Quality Products / Bar-S)",
+      "barcode": "015900067732",
+      "kcal_per_serving": 130,
+      "photo": "product.jpg",
+      "path": "items/015900067732/"
     },
     {
       "catalog_id": "016000151284",

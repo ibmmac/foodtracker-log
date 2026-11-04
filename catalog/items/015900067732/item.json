@@ -1,0 +1,36 @@
+{
+  "catalog_id": "015900067732",
+  "id": "sausage-project-classic-roasted-chicken-sausage",
+  "name": "The Sausage Project Classic Roasted Chicken Sausage, 12 oz (4 links)",
+  "brand": "The Sausage Project (SUA Quality Products / Bar-S)",
+  "barcode": "015900067732",
+  "barcode_format": "UPC-A",
+  "barcode_status": null,
+  "serving_size": "1 link (85g)",
+  "servings_per_container": 4,
+  "net_weight": "12 oz (340 g)",
+  "ingredients": "Chicken, water, contains 2% or less of the following: sea salt, sugar, celery powder, cherry powder, potato starch, vinegar, black pepper, natural flavorings. Stuffed in a natural pork casing.",
+  "nutrition_per_serving": {
+    "calories": 130,
+    "total_fat_g": 7,
+    "saturated_fat_g": 1.5,
+    "trans_fat_g": 0,
+    "cholesterol_mg": 55,
+    "sodium_mg": 850,
+    "total_carbohydrate_g": 3,
+    "dietary_fiber_g": 0,
+    "total_sugars_g": 1,
+    "protein_g": 12
+  },
+  "nutrition_source": "Package label (Mitch's photo of the box, 2026-11-03)",
+  "photo": "catalog/items/015900067732/product.jpg",
+  "photo_credit": {
+    "source": "Open Food Facts product image",
+    "retailer": "Open Food Facts",
+    "url": "https://world.openfoodfacts.org/product/0015900067732",
+    "image_url": "https://images.openfoodfacts.org/images/products/001/590/006/7732/front_en.7.400.jpg",
+    "license": "Open Food Facts contributor image; used for personal food log reference"
+  },
+  "product_url": "https://thesausageproject.com/products/chicken-sausages/classic-roasted-chicken-sausage/",
+  "source_notes": "UPC 015900067732 from directionsforme.org (00015900067732), Amazon B0FNDV39KN and Open Food Facts; check digit verified. Distributed by SUA Quality Products, LLC, Phoenix AZ. Nutrition from user's label photo (user photo not used as product image)."
+}

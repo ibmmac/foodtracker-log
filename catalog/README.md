@@ -1,12 +1,13 @@
 # Food catalog
 
-**175 products** · machine index: [index.json](index.json)
+**176 products** · machine index: [index.json](index.json)
 
 | Product | Brand | Barcode | kcal/serving | Photo |
 |---------|-------|---------|--------------|-------|
 | [Annie's Shells & White Cheddar Macaroni & Cheese Made with Organic Pasta](items/013562000043/) | Annie's / General Mills | 013562000043 | 260 | yes |
 | [Dave's Killer Bread White Bread Done Right Organic Bread Loaf, Organic White Bread, 24 oz, Shelf-Stable (24 ounce)](items/013764027220/) | Dave's Killer Bread | 013764027220 | 110 | yes |
 | [Mott's No Sugar Added Applesauce, 46 Ounce, Jar](items/014800001846/) | Mott's | 014800001846 | 50 | yes |
+| [The Sausage Project Classic Roasted Chicken Sausage, 12 oz (4 links)](items/015900067732/) | The Sausage Project (SUA Quality Products / Bar-S) | 015900067732 | 130 | yes |
 | [Cocoa Puffs Chocolatey Breakfast Cereal Made with Whole Grain, 10.4 oz](items/016000151284/) | Cocoa Puffs / General Mills | 016000151284 | 140 | yes |
 | [Chex Mix Traditional Original Recipe Snack Mix, Family Size, 13.5 oz](items/016000207011/) | Chex / General Mills | 016000207011 | 140 | yes |
 | [Smartfood Gluten Free, No Artificial Colors White Cheddar Popcorn Bag, 9.75 oz](items/028400314138/) | Smartfood / PepsiCo | 028400314138 | 160 | yes |

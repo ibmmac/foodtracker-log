@@ -40,15 +40,34 @@
       "notes": "Fasting 4 PM Nov 1 - 7 PM Nov 3 (reported 2026-11-03 ~19:15 EST)",
       "time": "12:00",
       "timestamp": "2026-11-03T12:00:00-05:00"
+    },
+    {
+      "catalog_id": "015900067732",
+      "catalog_path": "catalog/items/015900067732/",
+      "name": "The Sausage Project Classic Roasted Chicken Sausage",
+      "amount_eaten": "4 links (whole 12 oz pack, 340 g)",
+      "servings_eaten": 4,
+      "meal": "dinner",
+      "location": "home",
+      "logged": {
+        "calories": 520,
+        "protein_g": 48,
+        "carbs_g": 12,
+        "fat_g": 28
+      },
+      "source": "label",
+      "notes": "Meal that broke the fast (Mitch calls it breakfast). Label 130 kcal per link (85 g); ate all 4 links. Reported by Mitch on 2026-11-03 ~19:16 EST.",
+      "time": "19:00",
+      "timestamp": "2026-11-03T19:00:00-05:00"
     }
   ],
   "totals": {
-    "calories": 0,
-    "protein_g": 0.0,
-    "carbs_g": 0.0,
-    "fat_g": 0.0,
-    "remaining_kcal": 1500,
-    "percent_goal_remaining": 100.0,
-    "percent_goal_used": 0.0
+    "calories": 520,
+    "protein_g": 48.0,
+    "carbs_g": 12.0,
+    "fat_g": 28.0,
+    "remaining_kcal": 980,
+    "percent_goal_remaining": 65.3,
+    "percent_goal_used": 34.7
   }
 }
