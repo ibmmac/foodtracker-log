@@ -4,9 +4,9 @@
 
 **Daily goal:** 1500 kcal
 
-**Daily total:** 1427 kcal · Protein 101.4g · Carbs 59.6g · Fat 85.8g
+**Daily total:** 1497 kcal · Protein 102.4g · Carbs 75.6g · Fat 85.8g
 
-**Left:** 73 kcal (**4.9%** of goal remaining) · 95.1% used
+**Left:** 3 kcal (**0.2%** of goal remaining) · 99.8% used
 
 ## Foods logged
 
@@ -20,3 +20,4 @@
 | [Cashews](../../catalog/items/id-cashews/) | 1 serving (~1 oz) | home | dinner | 160 | 5 | 9 | 13 |
 | [Marinara / tomato sauce (1 cup)](../../catalog/items/id-marinara-sauce-cup/) | 1/2 cup | home | dinner | 70 | 2 | 10 | 2.5 |
 | [Small beef patty (80/20, plain)](../../catalog/items/id-small-beef-patty/) | 2 patties | home | dinner | 360 | 30 | 0 | 26 |
+| [Dole Fruit Bowls Snacks](../../catalog/items/038900772208/) | 1 cup (4 oz, 113 g) | home | dinner | 70 | 1 | 16 | 0 |

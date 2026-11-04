@@ -154,15 +154,34 @@
       "notes": "2 plain burgers, no bun, ~180 kcal each. Part of the meal that broke the fast. Reported by Mitch on 2026-11-03 ~19:17 EST.",
       "time": "19:00",
       "timestamp": "2026-11-03T19:00:00-05:00"
+    },
+    {
+      "catalog_id": "038900772208",
+      "catalog_path": "catalog/items/038900772208/",
+      "name": "Dole Fruit Bowls Snacks",
+      "amount_eaten": "1 cup (4 oz, 113 g)",
+      "servings_eaten": 1,
+      "meal": "dinner",
+      "location": "home",
+      "logged": {
+        "calories": 70,
+        "protein_g": 1,
+        "carbs_g": 16,
+        "fat_g": 0
+      },
+      "source": "label",
+      "notes": "1 cherry fruit cup: Dole Fruit Bowls Cherry Mixed Fruit in 100% Juice (catalog item, label 70 kcal per 4 oz cup). Part of the meal that broke the fast. Reported by Mitch on 2026-11-03 ~19:18 EST.",
+      "time": "19:00",
+      "timestamp": "2026-11-03T19:00:00-05:00"
     }
   ],
   "totals": {
-    "calories": 1427,
-    "protein_g": 101.4,
-    "carbs_g": 59.6,
+    "calories": 1497,
+    "protein_g": 102.4,
+    "carbs_g": 75.6,
     "fat_g": 85.8,
-    "remaining_kcal": 73,
-    "percent_goal_remaining": 4.9,
-    "percent_goal_used": 95.1
+    "remaining_kcal": 3,
+    "percent_goal_remaining": 0.2,
+    "percent_goal_used": 99.8
   }
 }
