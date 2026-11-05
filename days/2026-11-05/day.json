@@ -145,13 +145,14 @@
       "meal": "lunch",
       "location": "home",
       "logged": {
-        "calories": 200,
+        "calories": 240,
         "protein_g": 20,
         "carbs_g": 0,
         "fat_g": 16
       },
-      "source": "label",
-      "notes": "4 mozzarella slices. Brand not stated. Used Great Value deli-style sliced mozzarella (catalog 50 kcal per 19 g slice), the sliced mozzarella already purchased, not Sargento mozzarella (60 kcal/slice) and not American cheese. Late lunch at home after the fast; time approximate (15:15). Reported by Mitch on 2026-11-05.",
+      "source": "user",
+      "user_reported_kcal_per_slice": 60,
+      "notes": "4 mozzarella slices at 60 kcal each = 240 kcal. User-reported per-slice calories (Mitch: 'the cheese slices where 60 and 70 cal'), mozzarella then provolone. Brand unconfirmed. Entry override only: catalog 078742065915 label stays 50 kcal/slice and was not changed. Not American cheese. Late lunch at home after the fast; time approximate (15:15). Reported by Mitch on 2026-11-05.",
       "time": "15:15",
       "timestamp": "2026-11-05T15:15:00-05:00"
     },
@@ -169,19 +170,20 @@
         "carbs_g": 0,
         "fat_g": 20
       },
-      "source": "label",
-      "notes": "4 provolone slices. Matched to Great Value deli-style sliced non-smoked provolone (catalog 70 kcal per 19 g slice), the provolone slice already in the catalog. Not American cheese. Late lunch at home after the fast; time approximate (15:15). Reported by Mitch on 2026-11-05.",
+      "source": "user",
+      "user_reported_kcal_per_slice": 70,
+      "notes": "4 provolone slices at 70 kcal each = 280 kcal. User-reported per-slice calories (Mitch: 'the cheese slices where 60 and 70 cal'), mozzarella then provolone. Brand unconfirmed. Entry value only: catalog 078742117706 label stays 70 kcal/slice and was not changed. Not American cheese. Late lunch at home after the fast; time approximate (15:15). Reported by Mitch on 2026-11-05.",
       "time": "15:15",
       "timestamp": "2026-11-05T15:15:00-05:00"
     }
   ],
   "totals": {
-    "calories": 1652,
+    "calories": 1692,
     "protein_g": 111.3,
     "carbs_g": 93,
     "fat_g": 96.1,
-    "remaining_kcal": -152,
-    "percent_goal_remaining": -10.1,
-    "percent_goal_used": 110.1
+    "remaining_kcal": -192,
+    "percent_goal_remaining": -12.8,
+    "percent_goal_used": 112.8
   }
 }

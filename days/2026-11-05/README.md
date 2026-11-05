@@ -4,9 +4,9 @@
 
 **Daily goal:** 1500 kcal
 
-**Daily total:** 1652 kcal · Protein 111.3g · Carbs 93g · Fat 96.1g
+**Daily total:** 1692 kcal · Protein 111.3g · Carbs 93g · Fat 96.1g
 
-**Left:** -152 kcal (**-10.1%** of goal remaining) · 110.1% used
+**Left:** -192 kcal (**-12.8%** of goal remaining) · 112.8% used
 
 ## Foods logged
 
@@ -19,5 +19,5 @@
 | [Kozy Shack Tapioca Pudding, Gluten Free Dessert, 22 oz Tub](../../catalog/items/073491530004/) | 1 serving (1/2 cup, 130 g) | home | lunch | 130 | 4 | 25 | 2 |
 | [Apple (small)](../../catalog/items/id-apple-small/) | 1 small apple | home | lunch | 77 | 0.4 | 20.6 | 0.3 |
 | [Deli turkey slice](../../catalog/items/id-deli-turkey-slice/) | 6 slices | home | lunch | 180 | 30 | 6 | 3 |
-| [Great Value Low-Moisture Part-Skim Deli Style Sliced Mozzarella Cheese, 8 oz Package, 12 Slices](../../catalog/items/078742065915/) | 4 slices | home | lunch | 200 | 20 | 0 | 16 |
+| [Great Value Low-Moisture Part-Skim Deli Style Sliced Mozzarella Cheese, 8 oz Package, 12 Slices](../../catalog/items/078742065915/) | 4 slices | home | lunch | 240 | 20 | 0 | 16 |
 | [Great Value Deli Style Sliced Non-Smoked Provolone Cheese, 8 oz (12 slices)](../../catalog/items/078742117706/) | 4 slices | home | lunch | 280 | 20 | 0 | 20 |
