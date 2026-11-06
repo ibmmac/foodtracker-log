@@ -42,15 +42,72 @@
       "notes": "Black coffee, no milk, no sugar. Catalog serving 2 kcal per cup. Reported by Mitch on 2026-11-06; breakfast time approximate.",
       "time": "08:00",
       "timestamp": "2026-11-06T08:00:00-05:00"
+    },
+    {
+      "catalog_id": "040000422068",
+      "catalog_path": "catalog/items/040000422068/",
+      "name": "Milky Way Milk Chocolate Single Candy Bar, 1.84 oz",
+      "amount_eaten": "1 bar (1.84 oz, 52.2 g)",
+      "servings_eaten": 1,
+      "meal": "lunch",
+      "location": "work",
+      "logged": {
+        "calories": 240,
+        "protein_g": 2,
+        "carbs_g": 37,
+        "fat_g": 9
+      },
+      "source": "label",
+      "notes": "1 Milky Way milk chocolate single, NET WT 1.84 OZ (52.2 g), UPC 040000422068, 240 kcal. Brand page: fat 9 g, carbs 37 g, protein 2 g. Lunch at work. Reported by Mitch on 2026-11-06; time about 12:08.",
+      "time": "12:08",
+      "timestamp": "2026-11-06T12:08:00-05:00"
+    },
+    {
+      "catalog_id": "id-reeses-peanut-butter-cup",
+      "catalog_path": "catalog/items/id-reeses-peanut-butter-cup/",
+      "name": "Reese's Milk Chocolate Peanut Butter Cup (standard single cup)",
+      "amount_eaten": "1 cup",
+      "servings_eaten": 1,
+      "meal": "lunch",
+      "location": "work",
+      "logged": {
+        "calories": 105,
+        "protein_g": 2,
+        "carbs_g": 12,
+        "fat_g": 6
+      },
+      "source": "label",
+      "notes": "1 cup only, not a 2-pack. Reused id-reeses-peanut-butter-cup at 105 kcal. Assumes the regular 1.5 oz 2-cup pack (official whole pack 210 kcal); one cup is half. Mitch: '1 reses cup'. Lunch at work. Reported by Mitch on 2026-11-06; time about 12:08.",
+      "time": "12:08",
+      "timestamp": "2026-11-06T12:08:00-05:00"
+    },
+    {
+      "catalog_id": "id-nestle-crunch-fun-size",
+      "catalog_path": "catalog/items/id-nestle-crunch-fun-size/",
+      "name": "Nestlé Crunch Fun Size",
+      "amount_eaten": "1 bar",
+      "servings_eaten": 0.5,
+      "meal": "lunch",
+      "location": "work",
+      "logged": {
+        "calories": 65,
+        "protein_g": 0.5,
+        "carbs_g": 8.5,
+        "fat_g": 3.5
+      },
+      "source": "label",
+      "notes": "1 fun-size bar, not the 1.55 oz bar (230 kcal). Brand nutrition panel serving is 2 bars (26 g) = 130 kcal, fat 7 g, carbs 17 g, sugars 15 g, protein 1 g, so one bar is half: 65 kcal. Mitch called it a mini crunch bar. Lunch at work. Reported by Mitch on 2026-11-06; time about 12:08.",
+      "time": "12:08",
+      "timestamp": "2026-11-06T12:08:00-05:00"
     }
   ],
   "totals": {
-    "calories": 314,
-    "protein_g": 25.5,
-    "carbs_g": 2.4,
-    "fat_g": 21.2,
-    "remaining_kcal": 1186,
-    "percent_goal_remaining": 79.1,
-    "percent_goal_used": 20.9
+    "calories": 724,
+    "protein_g": 30,
+    "carbs_g": 59.9,
+    "fat_g": 39.7,
+    "remaining_kcal": 776,
+    "percent_goal_remaining": 51.7,
+    "percent_goal_used": 48.3
   }
 }

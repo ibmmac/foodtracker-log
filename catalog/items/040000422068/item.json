@@ -1,0 +1,33 @@
+{
+  "catalog_id": "040000422068",
+  "id": "milky-way-milk-chocolate-single-1-84-oz",
+  "name": "Milky Way Milk Chocolate Single Candy Bar, 1.84 oz",
+  "brand": "Milky Way / Mars",
+  "barcode": "040000422068",
+  "barcode_format": "UPC-A",
+  "barcode_status": null,
+  "serving_size": "1 bar (1.84 oz, 52.2 g)",
+  "nutrition_per_serving": {
+    "calories": 240,
+    "total_fat_g": 9,
+    "saturated_fat_g": 6,
+    "cholesterol_mg": 5,
+    "sodium_mg": 75,
+    "total_carbohydrate_g": 37,
+    "total_sugars_g": 32,
+    "added_sugars_g": 29,
+    "protein_g": 2,
+    "notes": "Dietary fiber <1 g on the brand page; not stored as a whole number. Official single bar, NET WT 1.84 OZ (52.2 g)."
+  },
+  "nutrition_source": "https://www.milkywaybar.com/products/chocolate/milky-way-milk-chocolate-single-candy-bar-184-oz-bars",
+  "photo": "catalog/items/040000422068/product.jpg",
+  "photo_credit": {
+    "source": "Open Food Facts product image",
+    "retailer": "Open Food Facts",
+    "url": "https://world.openfoodfacts.org/product/040000422068",
+    "image_url": "https://images.openfoodfacts.org/images/products/004/000/042/2068/front_en.20.full.jpg",
+    "license": "Open Food Facts contributor image; used for personal food log reference",
+    "note": "Front of the 1.84 oz Milky Way bar for UPC 040000422068 (NET WT 1.84 OZ visible)."
+  },
+  "source_notes": "UPC 040000422068. Nutrition from the Milky Way brand page for the 1.84 oz single bar (240 kcal). Wrapper photo is the Open Food Facts image for that UPC, not a user phone photo."
+}

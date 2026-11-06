@@ -1,6 +1,6 @@
 # Food catalog
 
-**177 products** · machine index: [index.json](index.json)
+**179 products** · machine index: [index.json](index.json)
 
 | Product | Brand | Barcode | kcal/serving | Photo |
 |---------|-------|---------|--------------|-------|
@@ -15,6 +15,7 @@
 | [Hershey's Milk Chocolate Candy Bars, 1.55 oz (6 Count)](items/034000290055/) | Hershey's | 034000290055 | 210 | yes |
 | [Kellogg's Cocoa Krispies Chocolatey Flavor Breakfast Cereal, Low Fat, Family Size, 19 oz](items/038000281792/) | Kellogg's | 038000281792 | 150 | — |
 | [Dole Fruit Bowls Snacks](items/038900772208/) | Dole | 038900772208 | 70 | yes |
+| [Milky Way Milk Chocolate Single Candy Bar, 1.84 oz](items/040000422068/) | Milky Way / Mars | 040000422068 | 240 | yes |
 | [(4 pack) Progresso Traditional Chicken Noodle Canned Soup, 19 oz](items/041196010886/) | Progresso / General Mills | 041196010886 | 100 | — |
 | [Maruchan Ramen Noodle Soup, Chicken Flavor Instant Noodles, 3 oz, pack of 12](items/041789002311/) | Maruchan | 041789002311 | 190 | yes |
 | [Welch's 100% Grape Juice, Concord Grape, 64 fl oz Bottle](items/041800207503/) | Welch's | 041800207503 | 160 | yes |
@@ -145,6 +146,7 @@
 | [Mini mango all-fruit bar](items/id-mini-mango-fruit-bar/) | — | — | 50 | — |
 | [Movie theater drink (large)](items/id-movie-drink-large/) | — | — | 350 | — |
 | [Movie theater popcorn (large)](items/id-movie-popcorn-large/) | — | — | 1000 | — |
+| [Nestlé Crunch Fun Size](items/id-nestle-crunch-fun-size/) | Nestlé | — | 130 | yes |
 | [Onion (raw)](items/id-onion-raw/) | — | — | 28 | — |
 | [Orange (medium)](items/id-orange-medium/) | — | — | 62 | — |
 | [Organic blue corn tortilla chips](items/id-organic-blue-corn-chips/) | — | — | 140 | — |

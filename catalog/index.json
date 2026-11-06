@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-03",
-  "count": 177,
+  "updated": "2026-11-06",
+  "count": 179,
   "products": [
     {
       "catalog_id": "013562000043",
@@ -100,6 +100,15 @@
       "kcal_per_serving": 70,
       "photo": "product.jpg",
       "path": "items/038900772208/"
+    },
+    {
+      "catalog_id": "040000422068",
+      "name": "Milky Way Milk Chocolate Single Candy Bar, 1.84 oz",
+      "brand": "Milky Way / Mars",
+      "barcode": "040000422068",
+      "kcal_per_serving": 240,
+      "photo": "product.jpg",
+      "path": "items/040000422068/"
     },
     {
       "catalog_id": "041196010886",
@@ -1270,6 +1279,15 @@
       "kcal_per_serving": 1000,
       "photo": null,
       "path": "items/id-movie-popcorn-large/"
+    },
+    {
+      "catalog_id": "id-nestle-crunch-fun-size",
+      "name": "Nestlé Crunch Fun Size",
+      "brand": "Nestlé",
+      "barcode": null,
+      "kcal_per_serving": 130,
+      "photo": "product.jpg",
+      "path": "items/id-nestle-crunch-fun-size/"
     },
     {
       "catalog_id": "id-onion-raw",
