@@ -1,0 +1,46 @@
+{
+  "catalog_id": "049200904862",
+  "id": "domino-premium-pure-cane-dark-brown-sugar-2lb-zipper-pak",
+  "name": "Domino Premium Pure Cane Dark Brown Sugar, 2 lb Zipper-pak",
+  "brand": "Domino",
+  "barcode": "049200904862",
+  "barcode_format": "UPC-A",
+  "barcode_status": null,
+  "walmart_item_id": "1789232718",
+  "walmart_url": "https://www.walmart.com/ip/1789232718",
+  "product_url": "https://www.walmart.com/ip/Domino-Premium-Pure-Cane-Dark-Brown-Sugar-2lb-Zipper-pak/1789232718",
+  "serving_size": "1 tsp (4 g)",
+  "servings_per_container": 227,
+  "net_weight": "2 lb (32 oz) 907 g",
+  "nutrition_per_serving": {
+    "calories": 15,
+    "total_fat_g": 0,
+    "sodium_mg": 0,
+    "total_carbohydrate_g": 4,
+    "total_sugars_g": 4,
+    "added_sugars_g": 4,
+    "protein_g": 0,
+    "notes": "Domino dark brown sugar label / USDA cane brown sugar: 15 kcal per tsp (4 g). servings_per_container = 907 g / 4 g \u2248 227."
+  },
+  "ingredients": "Brown sugar (sugar, molasses)",
+  "photo": "catalog/items/049200904862/product.jpg",
+  "photo_credit": {
+    "source": "Walmart product image (as shown in order email)",
+    "retailer": "Walmart",
+    "url": "https://www.walmart.com/ip/1789232718",
+    "image_url": "https://i5.walmartimages.com/seo/Domino-Premium-Pure-Cane-Dark-Brown-Sugar-2-lb-Zipper-pak_8d0f22a9-7595-418b-a99a-8c23161a48bb.a81c7414c3cd77012242f64f6709cfaa.jpeg",
+    "license": "Retailer product image; used for personal food log reference"
+  },
+  "source_notes": "Walmart product_id 1789232718 (AisleGopher/BrickSeek for Zipper-pak); UPC 049200904862 (Amazon/Kroger/AisleGopher). Purchased in Walmart order 2000156-57073173.",
+  "purchase_refs": [
+    {
+      "orderId": "2000156-57073173",
+      "date": "2026-11-05",
+      "delivered": "2026-11-05T14:54:00-05:00",
+      "messageId": "1a1acce1a8795e56",
+      "walmartItemId": "1789232718",
+      "quantity": 1,
+      "line_price": null
+    }
+  ]
+}

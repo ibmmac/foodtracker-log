@@ -1,0 +1,48 @@
+{
+  "catalog_id": "078742017914",
+  "id": "great-value-100-pure-pumpkin-15-oz",
+  "name": "Great Value 100% Pure Pumpkin, 15 oz",
+  "brand": "Great Value / Walmart",
+  "barcode": "078742017914",
+  "barcode_format": "UPC-A",
+  "barcode_status": null,
+  "walmart_item_id": "24538777",
+  "walmart_url": "https://www.walmart.com/ip/Great-Value-100-Pure-Pumpkin-15-oz/24538777",
+  "product_url": "https://www.walmart.com/ip/Great-Value-100-Pure-Pumpkin-15-oz/24538777",
+  "serving_size": "1/2 cup (120 g)",
+  "servings_per_container": 3.5,
+  "net_weight": "15 oz (425 g)",
+  "nutrition_per_serving": {
+    "calories": 45,
+    "total_fat_g": 0.5,
+    "saturated_fat_g": 0,
+    "sodium_mg": 0,
+    "total_carbohydrate_g": 10,
+    "dietary_fiber_g": 3,
+    "total_sugars_g": 4,
+    "added_sugars_g": 0,
+    "protein_g": 1,
+    "notes": "Typical Great Value 100% pure pumpkin label per 1/2 cup (120 g): ~45 kcal. Single ingredient: pumpkin."
+  },
+  "ingredients": "Pumpkin",
+  "photo": "catalog/items/078742017914/product.jpg",
+  "photo_credit": {
+    "source": "Walmart product image (as shown in order email)",
+    "retailer": "Walmart",
+    "url": "https://www.walmart.com/ip/Great-Value-100-Pure-Pumpkin-15-oz/24538777",
+    "image_url": "https://i5.walmartimages.com/seo/Great-Value-100-Pure-Pumpkin-15-oz_fcc229e5-fadd-412f-9140-da250f7eec3d.58fc7e3eafad62591a44c688c00200b9.png",
+    "license": "Retailer product image; used for personal food log reference"
+  },
+  "source_notes": "Walmart product_id 24538777 (walmart.com listing); UPC 078742017914 (Open Food Facts / product listing). Qty 2 purchased in Walmart order 2000156-57073173.",
+  "purchase_refs": [
+    {
+      "orderId": "2000156-57073173",
+      "date": "2026-11-05",
+      "delivered": "2026-11-05T14:54:00-05:00",
+      "messageId": "1a1acce1a8795e56",
+      "walmartItemId": "24538777",
+      "quantity": 2,
+      "line_price": null
+    }
+  ]
+}
