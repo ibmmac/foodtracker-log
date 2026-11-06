@@ -1,0 +1,46 @@
+{
+  "catalog_id": "078742228037",
+  "id": "great-value-pure-granulated-sugar-4-lb",
+  "name": "Great Value Pure Granulated Sugar, 4 lb",
+  "brand": "Great Value / Walmart",
+  "barcode": "078742228037",
+  "barcode_format": "UPC-A",
+  "barcode_status": null,
+  "walmart_item_id": "10315162",
+  "walmart_url": "https://www.walmart.com/ip/Great-Value-Pure-Granulated-Sugar-4-lb/10315162",
+  "product_url": "https://www.walmart.com/ip/Great-Value-Pure-Granulated-Sugar-4-lb/10315162",
+  "serving_size": "1 tsp (4 g)",
+  "servings_per_container": 453,
+  "net_weight": "4 lb (64 oz) 1.81 kg",
+  "nutrition_per_serving": {
+    "calories": 15,
+    "total_fat_g": 0,
+    "sodium_mg": 0,
+    "total_carbohydrate_g": 4,
+    "total_sugars_g": 4,
+    "added_sugars_g": 4,
+    "protein_g": 0,
+    "notes": "Open Food Facts 0078742228037 / typical white granulated sugar label: 15 kcal per tsp (4 g). servings_per_container = 1814 g / 4 g \u2248 453."
+  },
+  "ingredients": "Sugar",
+  "photo": "catalog/items/078742228037/product.jpg",
+  "photo_credit": {
+    "source": "Walmart product image (as shown in order email)",
+    "retailer": "Walmart",
+    "url": "https://www.walmart.com/ip/Great-Value-Pure-Granulated-Sugar-4-lb/10315162",
+    "image_url": "https://i5.walmartimages.com/seo/Great-Value-Pure-Granulated-Sugar-4-lb_0697b95e-eb68-4da1-afce-499793e190ac.267330310c7c523c5f187e59f93d3cd4.jpeg",
+    "license": "Retailer product image; used for personal food log reference"
+  },
+  "source_notes": "Walmart product_id 10315162 (walmart.com listing); UPC 078742228037 (upcitemdb / Open Food Facts). Purchased in Walmart order 2000156-57073173.",
+  "purchase_refs": [
+    {
+      "orderId": "2000156-57073173",
+      "date": "2026-11-05",
+      "delivered": "2026-11-05T14:54:00-05:00",
+      "messageId": "1a1acce1a8795e56",
+      "walmartItemId": "10315162",
+      "quantity": 1,
+      "line_price": null
+    }
+  ]
+}

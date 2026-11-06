@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-03",
-  "count": 177,
+  "updated": "2026-11-05",
+  "count": 180,
   "products": [
     {
       "catalog_id": "013562000043",
@@ -165,6 +165,15 @@
       "path": "items/046100001257/"
     },
     {
+      "catalog_id": "049200904862",
+      "name": "Domino Premium Pure Cane Dark Brown Sugar, 2 lb Zipper-pak",
+      "brand": "Domino",
+      "barcode": "049200904862",
+      "kcal_per_serving": 15,
+      "photo": "product.jpg",
+      "path": "items/049200904862/"
+    },
+    {
       "catalog_id": "050400740457",
       "name": "Ball Park Sesame Seed Burger Buns, 8 Count, White Hamburger Buns, 16 oz Bag",
       "brand": "Ball Park / Tyson",
@@ -255,6 +264,15 @@
       "path": "items/078742000947/"
     },
     {
+      "catalog_id": "078742017914",
+      "name": "Great Value 100% Pure Pumpkin, 15 oz",
+      "brand": "Great Value / Walmart",
+      "barcode": "078742017914",
+      "kcal_per_serving": 45,
+      "photo": "product.jpg",
+      "path": "items/078742017914/"
+    },
+    {
       "catalog_id": "078742065915",
       "name": "Great Value Low-Moisture Part-Skim Deli Style Sliced Mozzarella Cheese, 8 oz Package, 12 Slices",
       "brand": "Great Value / Walmart",
@@ -334,6 +352,15 @@
       "kcal_per_serving": 49,
       "photo": "product.jpg",
       "path": "items/078742141404/"
+    },
+    {
+      "catalog_id": "078742228037",
+      "name": "Great Value Pure Granulated Sugar, 4 lb",
+      "brand": "Great Value / Walmart",
+      "barcode": "078742228037",
+      "kcal_per_serving": 15,
+      "photo": "product.jpg",
+      "path": "items/078742228037/"
     },
     {
       "catalog_id": "078742228662",

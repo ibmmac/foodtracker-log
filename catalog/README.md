@@ -1,6 +1,6 @@
 # Food catalog
 
-**177 products** · machine index: [index.json](index.json)
+**180 products** · machine index: [index.json](index.json)
 
 | Product | Brand | Barcode | kcal/serving | Photo |
 |---------|-------|---------|--------------|-------|
@@ -22,6 +22,7 @@
 | [Hillshire Farm Turkey Smoked Sausage Rope, 13 oz (Refrigerated)](items/044500341157/) | Hillshire Farm | 044500341157 | 100 | yes |
 | [Easy Eggs Peeled Hard Cooked Eggs](items/046025202462/) | Easy Eggs / Michael Foods | 046025202462 | 60 | yes |
 | [Sargento® Mozzarella Sliced Cheese, 11 Slices](items/046100001257/) | Sargento | 046100001257 | 60 | yes |
+| [Domino Premium Pure Cane Dark Brown Sugar, 2 lb Zipper-pak](items/049200904862/) | Domino | 049200904862 | 15 | yes |
 | [Ball Park Sesame Seed Burger Buns, 8 Count, White Hamburger Buns, 16 oz Bag](items/050400740457/) | Ball Park / Tyson | 050400740457 | 160 | yes |
 | [Gatorade Thirst Quencher Electrolyte Sports Drink, Frost Glacier Cherry, 12 fl oz, 12 Count Bottles](items/052000103120/) | Gatorade / PepsiCo | 052000103120 | 80 | yes |
 | [Teddie All Natural Smooth Peanut Butter, 36 oz](items/071018105490/) | Teddie | 071018105490 | 190 | yes |
@@ -32,6 +33,7 @@
 | [Breyers Mint Chocolate Chip Ice Cream Gluten-Free Kosher Dairy Milk, 1.5 Quart](items/077567254245/) | Breyers / Unilever | 077567254245 | 247 | yes |
 | [Canada Dry Caffeine Free Ginger Ale Soda Pop, 16.9 fl oz, 6 Pack Bottles](items/078000001174/) | Canada Dry / Keurig Dr Pepper | 078000001174 | 180 | yes |
 | [Great Value Organic Coconut Flour, 36 oz](items/078742000947/) | Great Value Organic / Walmart | 078742000947 | 60 | yes |
+| [Great Value 100% Pure Pumpkin, 15 oz](items/078742017914/) | Great Value / Walmart | 078742017914 | 45 | yes |
 | [Great Value Low-Moisture Part-Skim Deli Style Sliced Mozzarella Cheese, 8 oz Package, 12 Slices](items/078742065915/) | Great Value / Walmart | 078742065915 | 50 | yes |
 | [Great Value Honey Graham Crackers, 14.4 oz, 3 Count](items/078742072531/) | Great Value / Walmart | 078742072531 | 130 | yes |
 | [Great Value Mild Cheddar Deli Style Sliced Cheese, 8 oz Package, 12 Slices](items/078742085296/) | Great Value / Walmart | 078742085296 | 80 | yes |
@@ -41,6 +43,7 @@
 | [Great Value Colby Jack Deli Style Sliced Cheese, 8 oz, 12 Slices](items/078742127491/) | Great Value / Walmart | 078742127491 | 70 | yes |
 | [Great Value Organic Tomato Ketchup, 20 oz](items/078742136424/) | Great Value / Walmart | 078742136424 | 15 | yes |
 | [(3 pack) Great Value Organic Marinara Pasta Sauce, 24 oz](items/078742141404/) | Great Value / Walmart | 078742141404 | 49 | yes |
+| [Great Value Pure Granulated Sugar, 4 lb](items/078742228037/) | Great Value / Walmart | 078742228037 | 15 | yes |
 | [Great Value Distilled White Vinegar, 64 fl oz](items/078742228662/) | Great Value / Walmart | 078742228662 | 0 | — |
 | [Great Value Hamburger Dill Chip Pickles, 32 fl oz](items/078742232973/) | Great Value / Walmart | 078742232973 | 5 | yes |
 | [Great Value Sardines in Water](items/078742237855/) | Great Value / Walmart | 078742237855 | 100 | yes |
