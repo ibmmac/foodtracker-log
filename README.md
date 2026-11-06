@@ -8,4 +8,4 @@ Private daily food diary.
 
 ## Latest day
 
-See [days/2026-11-05/](days/2026-11-05/).
+See [days/2026-11-06/](days/2026-11-06/).
