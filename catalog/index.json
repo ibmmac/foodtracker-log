@@ -1,6 +1,6 @@
 {
   "updated": "2026-11-06",
-  "count": 182,
+  "count": 184,
   "products": [
     {
       "catalog_id": "013562000043",
@@ -1209,6 +1209,15 @@
       "path": "items/id-kraft-singles-slice/"
     },
     {
+      "catalog_id": "id-large-garden-salad",
+      "name": "Large garden salad (no dressing)",
+      "brand": null,
+      "barcode": null,
+      "kcal_per_serving": 50,
+      "photo": null,
+      "path": "items/id-large-garden-salad/"
+    },
+    {
       "catalog_id": "id-lean-steak",
       "name": "Lean steak (sirloin, cooked)",
       "brand": null,
@@ -1387,6 +1396,15 @@
       "kcal_per_serving": 350,
       "photo": "product.jpg",
       "path": "items/id-pizza-slice-supreme/"
+    },
+    {
+      "catalog_id": "id-ranch-dressing",
+      "name": "Ranch dressing",
+      "brand": null,
+      "barcode": null,
+      "kcal_per_serving": 125,
+      "photo": null,
+      "path": "items/id-ranch-dressing/"
     },
     {
       "catalog_id": "id-reeses-peanut-butter-cup",
