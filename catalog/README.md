@@ -1,6 +1,6 @@
 # Food catalog
 
-**180 products** · machine index: [index.json](index.json)
+**184 products** · machine index: [index.json](index.json)
 
 | Product | Brand | Barcode | kcal/serving | Photo |
 |---------|-------|---------|--------------|-------|
@@ -15,6 +15,7 @@
 | [Hershey's Milk Chocolate Candy Bars, 1.55 oz (6 Count)](items/034000290055/) | Hershey's | 034000290055 | 210 | yes |
 | [Kellogg's Cocoa Krispies Chocolatey Flavor Breakfast Cereal, Low Fat, Family Size, 19 oz](items/038000281792/) | Kellogg's | 038000281792 | 150 | — |
 | [Dole Fruit Bowls Snacks](items/038900772208/) | Dole | 038900772208 | 70 | yes |
+| [Milky Way Milk Chocolate Single Candy Bar, 1.84 oz](items/040000422068/) | Milky Way / Mars | 040000422068 | 240 | yes |
 | [(4 pack) Progresso Traditional Chicken Noodle Canned Soup, 19 oz](items/041196010886/) | Progresso / General Mills | 041196010886 | 100 | — |
 | [Maruchan Ramen Noodle Soup, Chicken Flavor Instant Noodles, 3 oz, pack of 12](items/041789002311/) | Maruchan | 041789002311 | 190 | yes |
 | [Welch's 100% Grape Juice, Concord Grape, 64 fl oz Bottle](items/041800207503/) | Welch's | 041800207503 | 160 | yes |
@@ -137,6 +138,7 @@
 | [JENNIE-O Turkey Hot Dogs, *40% Less Fat (8 Turkey Franks), Refrigerated, 16 oz Plastic Package](items/id-jennie-o-turkey-hot-dogs-40-less-fat-refrigerated/) | Jennie-O | — | 110 | — |
 | [Kellogg's Breakfast Cereal, Kids Cereal, Family Breakfast, Variety Pack, 8.56oz Tray (8 Boxes)](items/id-kellogg-s-breakfast-cereal-kids-cereal-family-brea/) | Kellogg's | — | 110 | — |
 | [Kraft Singles American cheese slice](items/id-kraft-singles-slice/) | Kraft | — | 60 | — |
+| [Large garden salad (no dressing)](items/id-large-garden-salad/) | — | — | 50 | — |
 | [Lean steak (sirloin, cooked)](items/id-lean-steak/) | — | — | 210 | — |
 | [Liquid I.V.® Orange Vanilla Dream Hydration Multiplier® Powdered Electrolyte Drink Mix, 6 Count Packets](items/id-liquid-i-v-orange-vanilla-dream-hydration-multipli/) | Liquid I.V. | — | 45 | — |
 | [Marinara / tomato sauce (1 cup)](items/id-marinara-sauce-cup/) | — | — | 140 | — |
@@ -148,6 +150,7 @@
 | [Mini mango all-fruit bar](items/id-mini-mango-fruit-bar/) | — | — | 50 | — |
 | [Movie theater drink (large)](items/id-movie-drink-large/) | — | — | 350 | — |
 | [Movie theater popcorn (large)](items/id-movie-popcorn-large/) | — | — | 1000 | — |
+| [Nestlé Crunch Fun Size](items/id-nestle-crunch-fun-size/) | Nestlé | — | 130 | yes |
 | [Onion (raw)](items/id-onion-raw/) | — | — | 28 | — |
 | [Orange (medium)](items/id-orange-medium/) | — | — | 62 | — |
 | [Organic blue corn tortilla chips](items/id-organic-blue-corn-chips/) | — | — | 140 | — |
@@ -156,6 +159,7 @@
 | [Pear (medium)](items/id-pear-medium/) | — | — | 101 | — |
 | [Pepperoni & black olive pizza slice](items/id-pepperoni-black-olive-pizza-slice/) | — | — | 300 | — |
 | [Pizza slice (supreme / veggie + meat)](items/id-pizza-slice-supreme/) | — | — | 350 | yes |
+| [Ranch dressing](items/id-ranch-dressing/) | — | — | 125 | — |
 | [Reese's Milk Chocolate Peanut Butter Cup (standard single cup)](items/id-reeses-peanut-butter-cup/) | Reese's / Hershey | — | 105 | — |
 | [Rotisserie chicken](items/id-rotisserie-chicken/) | — | — | 170 | — |
 | [Salmon fillet (cooked)](items/id-salmon-fillet-cooked/) | — | — | 350 | — |

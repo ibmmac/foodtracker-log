@@ -1,0 +1,193 @@
+{
+  "date": "2026-11-06",
+  "timezone": "America/New_York",
+  "goal_kcal": 1500,
+  "entries": [
+    {
+      "catalog_id": "id-hard-boiled-egg-large",
+      "catalog_path": "catalog/items/id-hard-boiled-egg-large/",
+      "name": "Hard-boiled egg (large)",
+      "amount_eaten": "4 large eggs",
+      "servings_eaten": 4,
+      "meal": "breakfast",
+      "location": "other",
+      "location_note": "Joe's house",
+      "logged": {
+        "calories": 312,
+        "protein_g": 25.2,
+        "carbs_g": 2.4,
+        "fat_g": 21.2
+      },
+      "source": "usda_estimate",
+      "notes": "4 large eggs at the catalog serving, 78 kcal each = 312. Cooking method not reported; logged as hard-boiled / plain, same as prior breakfasts at Joe's house. Reported by Mitch on 2026-11-06; breakfast time approximate.",
+      "time": "08:00",
+      "timestamp": "2026-11-06T08:00:00-05:00"
+    },
+    {
+      "catalog_id": "id-black-coffee",
+      "catalog_path": "catalog/items/id-black-coffee/",
+      "name": "Black coffee (no milk, no sugar)",
+      "amount_eaten": "1 cup",
+      "servings_eaten": 1,
+      "meal": "breakfast",
+      "location": "other",
+      "location_note": "Joe's house",
+      "logged": {
+        "calories": 2,
+        "protein_g": 0.3,
+        "carbs_g": 0,
+        "fat_g": 0
+      },
+      "source": "usda_estimate",
+      "notes": "Black coffee, no milk, no sugar. Catalog serving 2 kcal per cup. Reported by Mitch on 2026-11-06; breakfast time approximate.",
+      "time": "08:00",
+      "timestamp": "2026-11-06T08:00:00-05:00"
+    },
+    {
+      "catalog_id": "040000422068",
+      "catalog_path": "catalog/items/040000422068/",
+      "name": "Milky Way Milk Chocolate Single Candy Bar, 1.84 oz",
+      "amount_eaten": "1 bar (1.84 oz, 52.2 g)",
+      "servings_eaten": 1,
+      "meal": "lunch",
+      "location": "work",
+      "logged": {
+        "calories": 240,
+        "protein_g": 2,
+        "carbs_g": 37,
+        "fat_g": 9
+      },
+      "source": "label",
+      "notes": "1 Milky Way milk chocolate single, NET WT 1.84 OZ (52.2 g), UPC 040000422068, 240 kcal. Brand page: fat 9 g, carbs 37 g, protein 2 g. Lunch at work. Reported by Mitch on 2026-11-06; time about 12:08.",
+      "time": "12:08",
+      "timestamp": "2026-11-06T12:08:00-05:00"
+    },
+    {
+      "catalog_id": "id-reeses-peanut-butter-cup",
+      "catalog_path": "catalog/items/id-reeses-peanut-butter-cup/",
+      "name": "Reese's Milk Chocolate Peanut Butter Cup (standard single cup)",
+      "amount_eaten": "1 cup",
+      "servings_eaten": 1,
+      "meal": "lunch",
+      "location": "work",
+      "logged": {
+        "calories": 105,
+        "protein_g": 2,
+        "carbs_g": 12,
+        "fat_g": 6
+      },
+      "source": "label",
+      "notes": "1 cup only, not a 2-pack. Reused id-reeses-peanut-butter-cup at 105 kcal. Assumes the regular 1.5 oz 2-cup pack (official whole pack 210 kcal); one cup is half. Mitch: '1 reses cup'. Lunch at work. Reported by Mitch on 2026-11-06; time about 12:08.",
+      "time": "12:08",
+      "timestamp": "2026-11-06T12:08:00-05:00"
+    },
+    {
+      "catalog_id": "id-nestle-crunch-fun-size",
+      "catalog_path": "catalog/items/id-nestle-crunch-fun-size/",
+      "name": "Nestlé Crunch Fun Size",
+      "amount_eaten": "1 bar",
+      "servings_eaten": 0.5,
+      "meal": "lunch",
+      "location": "work",
+      "logged": {
+        "calories": 65,
+        "protein_g": 0.5,
+        "carbs_g": 8.5,
+        "fat_g": 3.5
+      },
+      "source": "label",
+      "notes": "1 fun-size bar, not the 1.55 oz bar (230 kcal). Brand nutrition panel serving is 2 bars (26 g) = 130 kcal, fat 7 g, carbs 17 g, sugars 15 g, protein 1 g, so one bar is half: 65 kcal. Mitch called it a mini crunch bar. Lunch at work. Reported by Mitch on 2026-11-06; time about 12:08.",
+      "time": "12:08",
+      "timestamp": "2026-11-06T12:08:00-05:00"
+    },
+    {
+      "catalog_id": "id-pepperoni-black-olive-pizza-slice",
+      "catalog_path": "catalog/items/id-pepperoni-black-olive-pizza-slice/",
+      "name": "Pepperoni & black olive pizza slice",
+      "amount_eaten": "2 slices",
+      "servings_eaten": 2,
+      "meal": "dinner",
+      "location": "other",
+      "location_note": "Pizza Hut",
+      "logged": {
+        "calories": 600,
+        "protein_g": 26,
+        "carbs_g": 68,
+        "fat_g": 24
+      },
+      "source": "estimate",
+      "notes": "2 slices at the catalog estimate of 300 kcal each. Pepperoni, black olive, and mushroom; mushrooms treated as negligible. Pizza Hut; slice size and crust unknown, not a verified Pizza Hut label. Dinner time approximate (~19:00). Reported by Mitch on 2026-11-06.",
+      "time": "19:00",
+      "timestamp": "2026-11-06T19:00:00-05:00"
+    },
+    {
+      "catalog_id": "id-large-garden-salad",
+      "catalog_path": "catalog/items/id-large-garden-salad/",
+      "name": "Large garden salad (no dressing)",
+      "amount_eaten": "1 large salad",
+      "servings_eaten": 1,
+      "meal": "dinner",
+      "location": "other",
+      "location_note": "Pizza Hut",
+      "logged": {
+        "calories": 50,
+        "protein_g": 2,
+        "carbs_g": 10,
+        "fat_g": 0.5
+      },
+      "source": "estimate",
+      "notes": "Estimate, about 50 kcal for a large garden salad without dressing. Dressing logged separately. Pizza Hut. Dinner time approximate (~19:00). Reported by Mitch on 2026-11-06.",
+      "time": "19:00",
+      "timestamp": "2026-11-06T19:00:00-05:00"
+    },
+    {
+      "catalog_id": "id-ranch-dressing",
+      "catalog_path": "catalog/items/id-ranch-dressing/",
+      "name": "Ranch dressing",
+      "amount_eaten": "4 tbsp",
+      "servings_eaten": 2,
+      "meal": "dinner",
+      "location": "other",
+      "location_note": "Pizza Hut",
+      "logged": {
+        "calories": 250,
+        "protein_g": 2,
+        "carbs_g": 2,
+        "fat_g": 26
+      },
+      "source": "estimate",
+      "notes": "Estimate, about 4 tbsp at ~125 kcal per 2 tbsp = 250 kcal. Generic ranch, not a branded bottle. Salad plus dressing about 300 kcal. Pizza Hut. Dinner time approximate (~19:00). Reported by Mitch on 2026-11-06.",
+      "time": "19:00",
+      "timestamp": "2026-11-06T19:00:00-05:00"
+    },
+    {
+      "catalog_id": "id-water",
+      "catalog_path": "catalog/items/id-water/",
+      "name": "Water",
+      "amount_eaten": "1 glass",
+      "servings_eaten": 1,
+      "meal": "dinner",
+      "location": "other",
+      "location_note": "Pizza Hut",
+      "logged": {
+        "calories": 0,
+        "protein_g": 0,
+        "carbs_g": 0,
+        "fat_g": 0
+      },
+      "source": "user",
+      "notes": "Water with dinner. Pizza Hut. Dinner time approximate (~19:00). Reported by Mitch on 2026-11-06.",
+      "time": "19:00",
+      "timestamp": "2026-11-06T19:00:00-05:00"
+    }
+  ],
+  "totals": {
+    "calories": 1624,
+    "protein_g": 60,
+    "carbs_g": 139.9,
+    "fat_g": 90.2,
+    "remaining_kcal": -124,
+    "percent_goal_remaining": -8.3,
+    "percent_goal_used": 108.3
+  }
+}

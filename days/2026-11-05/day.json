@@ -1,0 +1,189 @@
+{
+  "date": "2026-11-05",
+  "timezone": "America/New_York",
+  "goal_kcal": 1500,
+  "entries": [
+    {
+      "catalog_id": "id-skipped-breakfast",
+      "catalog_path": "catalog/items/id-skipped-breakfast/",
+      "name": "Skipped breakfast",
+      "amount_eaten": "skipped meal",
+      "meal": "breakfast",
+      "location": "nowhere",
+      "location_note": "Meal skipped",
+      "logged": {
+        "calories": 0,
+        "protein_g": 0,
+        "carbs_g": 0,
+        "fat_g": 0
+      },
+      "source": "user",
+      "notes": "Fasted until 3:15pm today. Fasting ended 2026-11-05T15:15:00-05:00 America/New_York (EST). Reported by Mitch on 2026-11-05.",
+      "time": "08:00",
+      "timestamp": "2026-11-05T08:00:00-05:00"
+    },
+    {
+      "catalog_id": "id-skipped-lunch",
+      "catalog_path": "catalog/items/id-skipped-lunch/",
+      "name": "Skipped lunch",
+      "amount_eaten": "skipped meal",
+      "meal": "lunch",
+      "location": "nowhere",
+      "location_note": "Meal skipped",
+      "logged": {
+        "calories": 0,
+        "protein_g": 0,
+        "carbs_g": 0,
+        "fat_g": 0
+      },
+      "source": "user",
+      "notes": "Fasted through normal lunch until 3:15pm today. Fasting ended 2026-11-05T15:15:00-05:00 America/New_York (EST). This 0 kcal skip is the missed midday meal, separate from the food eaten at home when the fast ended. Reported by Mitch on 2026-11-05.",
+      "time": "12:00",
+      "timestamp": "2026-11-05T12:00:00-05:00"
+    },
+    {
+      "catalog_id": "681131305136",
+      "catalog_path": "catalog/items/681131305136/",
+      "name": "Marketside Avocado Ranch Chopped Salad Kit",
+      "amount_eaten": "whole bag (12.3 oz, ~349 g)",
+      "servings_eaten": 3.5,
+      "meal": "lunch",
+      "location": "home",
+      "logged": {
+        "calories": 455,
+        "protein_g": 10.5,
+        "carbs_g": 31.5,
+        "fat_g": 35
+      },
+      "source": "label",
+      "notes": "Whole bag incl. dressing. Same established whole-bag log as 2026-10-17: 455 kcal (label 130 kcal per 100 g; 12.3 oz ~349 g = ~3.5 servings). Late lunch at home after the fast; time approximate (15:15). Reported by Mitch on 2026-11-05.",
+      "time": "15:15",
+      "timestamp": "2026-11-05T15:15:00-05:00"
+    },
+    {
+      "catalog_id": "044500341157",
+      "catalog_path": "catalog/items/044500341157/",
+      "name": "Hillshire Farm Turkey Smoked Sausage Rope",
+      "amount_eaten": "1/2 rope (~6.5 oz, ~184 g)",
+      "servings_eaten": 3.3,
+      "meal": "lunch",
+      "location": "home",
+      "logged": {
+        "calories": 330,
+        "protein_g": 26.4,
+        "carbs_g": 9.9,
+        "fat_g": 19.8
+      },
+      "source": "label",
+      "notes": "Half rope. Mitch said polish turkey sausage; logged as the established Hillshire Farm turkey smoked sausage rope half (330 kcal; label 100 kcal per 56 g; ~184 g = 3.3 servings), same as 2026-10-08 and 2026-10-17. Late lunch at home after the fast; time approximate (15:15). Reported by Mitch on 2026-11-05.",
+      "time": "15:15",
+      "timestamp": "2026-11-05T15:15:00-05:00"
+    },
+    {
+      "catalog_id": "073491530004",
+      "catalog_path": "catalog/items/073491530004/",
+      "name": "Kozy Shack Tapioca Pudding, Gluten Free Dessert, 22 oz Tub",
+      "amount_eaten": "1 serving (1/2 cup, 130 g)",
+      "servings_eaten": 1,
+      "meal": "lunch",
+      "location": "home",
+      "logged": {
+        "calories": 130,
+        "protein_g": 4,
+        "carbs_g": 25,
+        "fat_g": 2
+      },
+      "source": "label",
+      "notes": "One serving matched to the Kozy Shack tapioca already in the catalog: 1/2 cup (130 g) = 130 kcal. Late lunch at home after the fast; time approximate (15:15). Reported by Mitch on 2026-11-05.",
+      "time": "15:15",
+      "timestamp": "2026-11-05T15:15:00-05:00"
+    },
+    {
+      "catalog_id": "id-apple-small",
+      "catalog_path": "catalog/items/id-apple-small/",
+      "name": "Apple (small)",
+      "amount_eaten": "1 small apple",
+      "servings_eaten": 1,
+      "meal": "lunch",
+      "location": "home",
+      "logged": {
+        "calories": 77,
+        "protein_g": 0.4,
+        "carbs_g": 20.6,
+        "fat_g": 0.3
+      },
+      "source": "usda_estimate",
+      "notes": "Size and variety not stated. Assumed the existing small-apple estimate (USDA raw apple with skin, ~149 g / 2.75 in): 77 kcal. A medium apple in the catalog is 95 kcal and was not used. Late lunch at home after the fast; time approximate (15:15). Reported by Mitch on 2026-11-05.",
+      "time": "15:15",
+      "timestamp": "2026-11-05T15:15:00-05:00"
+    },
+    {
+      "catalog_id": "id-deli-turkey-slice",
+      "catalog_path": "catalog/items/id-deli-turkey-slice/",
+      "name": "Deli turkey slice",
+      "amount_eaten": "6 slices",
+      "servings_eaten": 6,
+      "meal": "lunch",
+      "location": "home",
+      "logged": {
+        "calories": 180,
+        "protein_g": 30,
+        "carbs_g": 6,
+        "fat_g": 3
+      },
+      "source": "user_estimate",
+      "notes": "6 slices at 30 kcal each (catalog estimate, ~28 g per slice). Late lunch at home after the fast; time approximate (15:15). Reported by Mitch on 2026-11-05.",
+      "time": "15:15",
+      "timestamp": "2026-11-05T15:15:00-05:00"
+    },
+    {
+      "catalog_id": "078742065915",
+      "catalog_path": "catalog/items/078742065915/",
+      "name": "Great Value Low-Moisture Part-Skim Deli Style Sliced Mozzarella Cheese, 8 oz Package, 12 Slices",
+      "amount_eaten": "4 slices",
+      "servings_eaten": 4,
+      "meal": "lunch",
+      "location": "home",
+      "logged": {
+        "calories": 240,
+        "protein_g": 20,
+        "carbs_g": 0,
+        "fat_g": 16
+      },
+      "source": "user",
+      "user_reported_kcal_per_slice": 60,
+      "notes": "4 mozzarella slices at 60 kcal each = 240 kcal. User-reported per-slice calories (Mitch: 'the cheese slices where 60 and 70 cal'), mozzarella then provolone. Brand unconfirmed. Entry override only: catalog 078742065915 label stays 50 kcal/slice and was not changed. Not American cheese. Late lunch at home after the fast; time approximate (15:15). Reported by Mitch on 2026-11-05.",
+      "time": "15:15",
+      "timestamp": "2026-11-05T15:15:00-05:00"
+    },
+    {
+      "catalog_id": "078742117706",
+      "catalog_path": "catalog/items/078742117706/",
+      "name": "Great Value Deli Style Sliced Non-Smoked Provolone Cheese, 8 oz (12 slices)",
+      "amount_eaten": "4 slices",
+      "servings_eaten": 4,
+      "meal": "lunch",
+      "location": "home",
+      "logged": {
+        "calories": 280,
+        "protein_g": 20,
+        "carbs_g": 0,
+        "fat_g": 20
+      },
+      "source": "user",
+      "user_reported_kcal_per_slice": 70,
+      "notes": "4 provolone slices at 70 kcal each = 280 kcal. User-reported per-slice calories (Mitch: 'the cheese slices where 60 and 70 cal'), mozzarella then provolone. Brand unconfirmed. Entry value only: catalog 078742117706 label stays 70 kcal/slice and was not changed. Not American cheese. Late lunch at home after the fast; time approximate (15:15). Reported by Mitch on 2026-11-05.",
+      "time": "15:15",
+      "timestamp": "2026-11-05T15:15:00-05:00"
+    }
+  ],
+  "totals": {
+    "calories": 1692,
+    "protein_g": 111.3,
+    "carbs_g": 93,
+    "fat_g": 96.1,
+    "remaining_kcal": -192,
+    "percent_goal_remaining": -12.8,
+    "percent_goal_used": 112.8
+  }
+}

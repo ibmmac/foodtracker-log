@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-05",
-  "count": 180,
+  "updated": "2026-11-06",
+  "count": 184,
   "products": [
     {
       "catalog_id": "013562000043",
@@ -100,6 +100,15 @@
       "kcal_per_serving": 70,
       "photo": "product.jpg",
       "path": "items/038900772208/"
+    },
+    {
+      "catalog_id": "040000422068",
+      "name": "Milky Way Milk Chocolate Single Candy Bar, 1.84 oz",
+      "brand": "Milky Way / Mars",
+      "barcode": "040000422068",
+      "kcal_per_serving": 240,
+      "photo": "product.jpg",
+      "path": "items/040000422068/"
     },
     {
       "catalog_id": "041196010886",
@@ -1200,6 +1209,15 @@
       "path": "items/id-kraft-singles-slice/"
     },
     {
+      "catalog_id": "id-large-garden-salad",
+      "name": "Large garden salad (no dressing)",
+      "brand": null,
+      "barcode": null,
+      "kcal_per_serving": 50,
+      "photo": null,
+      "path": "items/id-large-garden-salad/"
+    },
+    {
       "catalog_id": "id-lean-steak",
       "name": "Lean steak (sirloin, cooked)",
       "brand": null,
@@ -1299,6 +1317,15 @@
       "path": "items/id-movie-popcorn-large/"
     },
     {
+      "catalog_id": "id-nestle-crunch-fun-size",
+      "name": "Nestlé Crunch Fun Size",
+      "brand": "Nestlé",
+      "barcode": null,
+      "kcal_per_serving": 130,
+      "photo": "product.jpg",
+      "path": "items/id-nestle-crunch-fun-size/"
+    },
+    {
       "catalog_id": "id-onion-raw",
       "name": "Onion (raw)",
       "brand": null,
@@ -1369,6 +1396,15 @@
       "kcal_per_serving": 350,
       "photo": "product.jpg",
       "path": "items/id-pizza-slice-supreme/"
+    },
+    {
+      "catalog_id": "id-ranch-dressing",
+      "name": "Ranch dressing",
+      "brand": null,
+      "barcode": null,
+      "kcal_per_serving": 125,
+      "photo": null,
+      "path": "items/id-ranch-dressing/"
     },
     {
       "catalog_id": "id-reeses-peanut-butter-cup",

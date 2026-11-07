@@ -1,0 +1,31 @@
+{
+  "catalog_id": "id-nestle-crunch-fun-size",
+  "id": "nestle-crunch-fun-size",
+  "name": "Nestlé Crunch Fun Size",
+  "brand": "Nestlé",
+  "barcode": null,
+  "barcode_status": "no_barcode",
+  "serving_size": "2 bars (26 g)",
+  "nutrition_per_serving": {
+    "calories": 130,
+    "total_fat_g": 7,
+    "saturated_fat_g": 4.5,
+    "trans_fat_g": 0,
+    "sodium_mg": 40,
+    "total_carbohydrate_g": 17,
+    "total_sugars_g": 15,
+    "added_sugars_g": 14,
+    "protein_g": 1,
+    "notes": "Official fun-size serving is 2 bars (26 g) = 130 kcal. One bar is half of that. Fiber <1 g and cholesterol <5 mg per 2-bar serving; those are not stored as invented numbers. Not the 1.55 oz bar (230 kcal) and not a 10 g miniature."
+  },
+  "nutrition_source": "https://www.crunchbar.com/products/crunch-fun-size",
+  "photo": "catalog/items/id-nestle-crunch-fun-size/product.jpg",
+  "photo_credit": {
+    "source": "Nestlé Crunch brand product image",
+    "retailer": "crunchbar.com",
+    "url": "https://www.crunchbar.com/products/crunch-fun-size",
+    "image_url": "https://ferrero-kube-stack-prod-static.s3.eu-west-1.amazonaws.com/crunchbar-com/s3fs-public/styles/banner_image_1400px_wide/public/image/2019-10/crunch_productiamge_funsize.png",
+    "license": "Brand product listing image; used for personal food log reference"
+  },
+  "source_notes": "No single-bar UPC confirmed. Full-size UPC 028000131708 is a different bar (about 1.55 oz, 230 kcal) and was not used. Nutrition panel on the fun-size page: serving size 2 bars (26 g), 130 kcal, fat 7 g, saturated fat 4.5 g, total carbohydrate 17 g, sugars 15 g, added sugars 14 g, protein 1 g, sodium 40 mg."
+}
