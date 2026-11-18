@@ -41,15 +41,6 @@
       "orderId": "2000154-02677512",
       "date": "2026-10-01",
       "walmartItemId": "10451903"
-    },
-    {
-      "orderId": "2000158-03781001",
-      "date": "2026-11-17",
-      "delivered": "2026-11-17T21:17:00-05:00",
-      "messageId": "1a1ec396a88d57ec",
-      "walmartItemId": "10451903",
-      "quantity": 1,
-      "line_price": null
     }
   ],
   "product_url": "https://www.walmart.com/ip/Fresh-Whole-White-Mushrooms-16-oz/10451903"

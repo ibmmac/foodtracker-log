@@ -11,15 +11,6 @@
       "orderId": "2000152-85156802",
       "date": "2026-08-30",
       "walmartItemId": "10323108"
-    },
-    {
-      "orderId": "2000158-03781001",
-      "date": "2026-11-17",
-      "delivered": "2026-11-17T21:17:00-05:00",
-      "messageId": "1a1ec396a88d57ec",
-      "walmartItemId": "10323108",
-      "quantity": 1,
-      "line_price": null
     }
   ],
   "barcode": "073491530004",
